@@ -4,11 +4,11 @@ import argparse
 
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser()
+    parser = argparse.ArgumentParser(description="A program that prepares a bash script for downloading comments from a range of SupraDarky's videos.")
     parser.add_argument('-s', '--start', type=int, default=1,
-        help="The video number to start archival at (inclusive). Defaults to 1.")
+        help="The id (possibly also video) number to start archival at (inclusive). Defaults to 1.")
     parser.add_argument('-f', '--finish', type=int, default=None,
-        help="The video number to end at (exclusive). Defaults to None (goes through last video).")
+        help="The id (possibly also video) number to end at (exclusive). Defaults to None (goes through last video).")
     args = parser.parse_args()
 
     if args.finish is not None:
@@ -26,4 +26,4 @@ if __name__ == '__main__':
         for offset_index, vid_id in enumerate(video_ids[args.start:args.finish]):
             index = offset_index + args.start
             index = "????"  #Until we get the YT ids ordered
-            archival_script.write(f"downloader.py --youtubeid {vid_id} --output Best_VGM_{index}_with_vid_id_{vid_id}.json\n")
+            archival_script.write(f"downloader.py --youtubeid {vid_id} --output SD_Best_VGM_{index}_with_vid_id_{vid_id}.json\n")
