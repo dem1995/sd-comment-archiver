@@ -26,4 +26,5 @@ if __name__ == '__main__':
         for offset_index, vid_id in enumerate(video_ids[args.start:args.finish]):
             id_index = offset_index + args.start
             #vid_index = "????"  #Until we get the YT ids ordered
-            archival_script.write(f"python downloader.py --youtubeid=\"{vid_id}\" --output SD_Best_VGM_{id_index:04d}_with_vid_id_{vid_id}.json\n")
+            archival_script.write(f'echo "Archiving SD Best VGM {id_index}\'s comments (YouTube id {vid_id}...)"\n')
+            archival_script.write(f"python downloader.py --youtubeid=\"{vid_id}\" --output=\"SD_Best_VGM_{id_index:04d}_comments_(YT_ID_{vid_id}).json\"\n")
