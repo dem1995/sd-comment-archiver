@@ -25,5 +25,5 @@ if __name__ == '__main__':
         archival_script.write("#!/bin/bash\n")
         for offset_index, vid_id in enumerate(video_ids[args.start:args.finish]):
             id_index = offset_index + args.start
-            vid_index = "????"  #Until we get the YT ids ordered
-            archival_script.write(f"python downloader.py --youtubeid=\"{vid_id}\" --output SD_Best_VGM_{vid_index}_id_index_{id_index}_with_vid_id_{vid_id}.json\n")
+            #vid_index = "????"  #Until we get the YT ids ordered
+            archival_script.write(f"python downloader.py --youtubeid=\"{vid_id}\" --output SD_Best_VGM_{id_index:04d}_with_vid_id_{vid_id}.json\n")
