@@ -18,13 +18,16 @@ if __name__ == '__main__':
     print(f"Collecting comments from video {args.start} up through (including) {ending_note}.")
 
     with open('video-ids.txt', ) as video_ids:
-        video_ids = json.load(video_ids)
+        video_ids = video_ids.readlines()
         video_ids_considered = video_ids[args.start:args.finish]
     
     with open(f"archival_script_{args.start}_through_{ending_note}.sh", 'w') as archival_script:
         archival_script.write("#!/bin/bash\n")
-        for offset_index, vid_id in enumerate(video_ids[args.start:args.finish]):
+        for offset_index, vid_string in enumerate(video_ids[args.start:args.finish]):
+            yt_id = vid_string[0:10]
+            title = vid_string[14:-1]
+            #print(f"ID:{yt_id}, Title:{title}")
             id_index = offset_index + args.start
             #vid_index = "????"  #Until we get the YT ids ordered
-            archival_script.write(f'echo "Archiving SD Best VGM {id_index}\'s comments (YouTube id {vid_id}...)"\n')
-            archival_script.write(f"python downloader.py --youtubeid=\"{vid_id}\" --output=\"SD_Best_VGM_{id_index:04d}_comments_(YT_ID_{vid_id}).json\"\n")
+            archival_script.write(f'echo "Archiving SD video {id_index}, {title}\'s comments (YouTube id {yt_id}...)"\n')
+            archival_script.write(f"python downloader.py --youtubeid=\"{yt_id}\" --output=\"SD{id_index:04d} {title}'s comments (YT ID {yt_id}).json\"\n")

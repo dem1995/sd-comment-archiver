@@ -1,2268 +1,4937 @@
 #!/bin/bash
-python downloader.py --youtubeid="P8oefrmJrWk" --output SD_Best_VGM_0001_with_vid_id_P8oefrmJrWk.json
-python downloader.py --youtubeid="Y5HHYuQi7cQ" --output SD_Best_VGM_0002_with_vid_id_Y5HHYuQi7cQ.json
-python downloader.py --youtubeid="GBYsdw4Vwx8" --output SD_Best_VGM_0003_with_vid_id_GBYsdw4Vwx8.json
-python downloader.py --youtubeid="iSP-_hNQyYs" --output SD_Best_VGM_0004_with_vid_id_iSP-_hNQyYs.json
-python downloader.py --youtubeid="AvlfNZ685B8" --output SD_Best_VGM_0005_with_vid_id_AvlfNZ685B8.json
-python downloader.py --youtubeid="AGWVzDhDHMc" --output SD_Best_VGM_0006_with_vid_id_AGWVzDhDHMc.json
-python downloader.py --youtubeid="DlcwDU0i6Mw" --output SD_Best_VGM_0007_with_vid_id_DlcwDU0i6Mw.json
-python downloader.py --youtubeid="jChHVPyd4-Y" --output SD_Best_VGM_0008_with_vid_id_jChHVPyd4-Y.json
-python downloader.py --youtubeid="e9xHOWHjYKc" --output SD_Best_VGM_0009_with_vid_id_e9xHOWHjYKc.json
-python downloader.py --youtubeid="kDssUvBiHFk" --output SD_Best_VGM_0010_with_vid_id_kDssUvBiHFk.json
-python downloader.py --youtubeid="lBEvtA4Uuwk" --output SD_Best_VGM_0011_with_vid_id_lBEvtA4Uuwk.json
-python downloader.py --youtubeid="bW3KNnZ2ZiA" --output SD_Best_VGM_0012_with_vid_id_bW3KNnZ2ZiA.json
-python downloader.py --youtubeid="Je3YoGKPC_o" --output SD_Best_VGM_0013_with_vid_id_Je3YoGKPC_o.json
-python downloader.py --youtubeid="9FZ-12a3dTI" --output SD_Best_VGM_0014_with_vid_id_9FZ-12a3dTI.json
-python downloader.py --youtubeid="bdNrjSswl78" --output SD_Best_VGM_0015_with_vid_id_bdNrjSswl78.json
-python downloader.py --youtubeid="-LId8l6Rc6Y" --output SD_Best_VGM_0016_with_vid_id_-LId8l6Rc6Y.json
-python downloader.py --youtubeid="yz1yrVcpWjA" --output SD_Best_VGM_0017_with_vid_id_yz1yrVcpWjA.json
-python downloader.py --youtubeid="-BmGDtP2t7M" --output SD_Best_VGM_0018_with_vid_id_-BmGDtP2t7M.json
-python downloader.py --youtubeid="xdQDETzViic" --output SD_Best_VGM_0019_with_vid_id_xdQDETzViic.json
-python downloader.py --youtubeid="f1QLfSOUiHU" --output SD_Best_VGM_0020_with_vid_id_f1QLfSOUiHU.json
-python downloader.py --youtubeid="m4uR39jNeGE" --output SD_Best_VGM_0021_with_vid_id_m4uR39jNeGE.json
-python downloader.py --youtubeid="Cm9HjyPkQbg" --output SD_Best_VGM_0022_with_vid_id_Cm9HjyPkQbg.json
-python downloader.py --youtubeid="aumWblPK58M" --output SD_Best_VGM_0023_with_vid_id_aumWblPK58M.json
-python downloader.py --youtubeid="YKe8k8P2FNw" --output SD_Best_VGM_0024_with_vid_id_YKe8k8P2FNw.json
-python downloader.py --youtubeid="hrxseupEweU" --output SD_Best_VGM_0025_with_vid_id_hrxseupEweU.json
-python downloader.py --youtubeid="W7RPY-oiDAQ" --output SD_Best_VGM_0026_with_vid_id_W7RPY-oiDAQ.json
-python downloader.py --youtubeid="JV8qMsWKTvk" --output SD_Best_VGM_0027_with_vid_id_JV8qMsWKTvk.json
-python downloader.py --youtubeid="cqkYQt8dnxU" --output SD_Best_VGM_0028_with_vid_id_cqkYQt8dnxU.json
-python downloader.py --youtubeid="tdsnX2Z0a3g" --output SD_Best_VGM_0029_with_vid_id_tdsnX2Z0a3g.json
-python downloader.py --youtubeid="H1B52TSCl_A" --output SD_Best_VGM_0030_with_vid_id_H1B52TSCl_A.json
-python downloader.py --youtubeid="ROKcr2OTgws" --output SD_Best_VGM_0031_with_vid_id_ROKcr2OTgws.json
-python downloader.py --youtubeid="rt0hrHroPz8" --output SD_Best_VGM_0032_with_vid_id_rt0hrHroPz8.json
-python downloader.py --youtubeid="oFbVhFlqt3k" --output SD_Best_VGM_0033_with_vid_id_oFbVhFlqt3k.json
-python downloader.py --youtubeid="J_cTMwAZil0" --output SD_Best_VGM_0034_with_vid_id_J_cTMwAZil0.json
-python downloader.py --youtubeid="AVvhihA9gRc" --output SD_Best_VGM_0035_with_vid_id_AVvhihA9gRc.json
-python downloader.py --youtubeid="G_80PQ543rM" --output SD_Best_VGM_0036_with_vid_id_G_80PQ543rM.json
-python downloader.py --youtubeid="Bkmn35Okxfw" --output SD_Best_VGM_0037_with_vid_id_Bkmn35Okxfw.json
-python downloader.py --youtubeid="Cp0UTM-IzjM" --output SD_Best_VGM_0038_with_vid_id_Cp0UTM-IzjM.json
-python downloader.py --youtubeid="62HoIMZ8xAE" --output SD_Best_VGM_0039_with_vid_id_62HoIMZ8xAE.json
-python downloader.py --youtubeid="xj0AV3Y-gFU" --output SD_Best_VGM_0040_with_vid_id_xj0AV3Y-gFU.json
-python downloader.py --youtubeid="cETUoqcjICE" --output SD_Best_VGM_0041_with_vid_id_cETUoqcjICE.json
-python downloader.py --youtubeid="aU0WdpQRzd4" --output SD_Best_VGM_0042_with_vid_id_aU0WdpQRzd4.json
-python downloader.py --youtubeid="tKMWMS7O50g" --output SD_Best_VGM_0043_with_vid_id_tKMWMS7O50g.json
-python downloader.py --youtubeid="FqrNEjtl2FI" --output SD_Best_VGM_0044_with_vid_id_FqrNEjtl2FI.json
-python downloader.py --youtubeid="2NfhrT3gQdY" --output SD_Best_VGM_0045_with_vid_id_2NfhrT3gQdY.json
-python downloader.py --youtubeid="GKFwm2NSJdc" --output SD_Best_VGM_0046_with_vid_id_GKFwm2NSJdc.json
-python downloader.py --youtubeid="HneWfB9jsHk" --output SD_Best_VGM_0047_with_vid_id_HneWfB9jsHk.json
-python downloader.py --youtubeid="JE1hhd0E-_I" --output SD_Best_VGM_0048_with_vid_id_JE1hhd0E-_I.json
-python downloader.py --youtubeid="s-6L1lM_x7k" --output SD_Best_VGM_0049_with_vid_id_s-6L1lM_x7k.json
-python downloader.py --youtubeid="2BNMm9irLTw" --output SD_Best_VGM_0050_with_vid_id_2BNMm9irLTw.json
-python downloader.py --youtubeid="FgQaK7TGjX4" --output SD_Best_VGM_0051_with_vid_id_FgQaK7TGjX4.json
-python downloader.py --youtubeid="an3P8otlD2A" --output SD_Best_VGM_0052_with_vid_id_an3P8otlD2A.json
-python downloader.py --youtubeid="pucNWokmRr0" --output SD_Best_VGM_0053_with_vid_id_pucNWokmRr0.json
-python downloader.py --youtubeid="xTRmnisEJ7Y" --output SD_Best_VGM_0054_with_vid_id_xTRmnisEJ7Y.json
-python downloader.py --youtubeid="DLqos66n3Qo" --output SD_Best_VGM_0055_with_vid_id_DLqos66n3Qo.json
-python downloader.py --youtubeid="EQjT6103nLg" --output SD_Best_VGM_0056_with_vid_id_EQjT6103nLg.json
-python downloader.py --youtubeid="bNzYIEY-CcM" --output SD_Best_VGM_0057_with_vid_id_bNzYIEY-CcM.json
-python downloader.py --youtubeid="Gibt8OLA__M" --output SD_Best_VGM_0058_with_vid_id_Gibt8OLA__M.json
-python downloader.py --youtubeid="xhzySCD19Ss" --output SD_Best_VGM_0059_with_vid_id_xhzySCD19Ss.json
-python downloader.py --youtubeid="z-QISdXXN_E" --output SD_Best_VGM_0060_with_vid_id_z-QISdXXN_E.json
-python downloader.py --youtubeid="vaJvNNWO_OQ" --output SD_Best_VGM_0061_with_vid_id_vaJvNNWO_OQ.json
-python downloader.py --youtubeid="5OLxWTdtOkU" --output SD_Best_VGM_0062_with_vid_id_5OLxWTdtOkU.json
-python downloader.py --youtubeid="mkTkAkcj6mQ" --output SD_Best_VGM_0063_with_vid_id_mkTkAkcj6mQ.json
-python downloader.py --youtubeid="0RKF6gqCXiM" --output SD_Best_VGM_0064_with_vid_id_0RKF6gqCXiM.json
-python downloader.py --youtubeid="QR5xn8fA76Y" --output SD_Best_VGM_0065_with_vid_id_QR5xn8fA76Y.json
-python downloader.py --youtubeid="J67nkzoJ_2M" --output SD_Best_VGM_0066_with_vid_id_J67nkzoJ_2M.json
-python downloader.py --youtubeid="irGCdR0rTM4" --output SD_Best_VGM_0067_with_vid_id_irGCdR0rTM4.json
-python downloader.py --youtubeid="Mg236zrHA40" --output SD_Best_VGM_0068_with_vid_id_Mg236zrHA40.json
-python downloader.py --youtubeid="eOx1HJJ-Y8M" --output SD_Best_VGM_0069_with_vid_id_eOx1HJJ-Y8M.json
-python downloader.py --youtubeid="cbiEH5DMx78" --output SD_Best_VGM_0070_with_vid_id_cbiEH5DMx78.json
-python downloader.py --youtubeid="grQkblTqSMs" --output SD_Best_VGM_0071_with_vid_id_grQkblTqSMs.json
-python downloader.py --youtubeid="vfqMK4BuN64" --output SD_Best_VGM_0072_with_vid_id_vfqMK4BuN64.json
-python downloader.py --youtubeid="473L99I88n8" --output SD_Best_VGM_0073_with_vid_id_473L99I88n8.json
-python downloader.py --youtubeid="fg1PDaOnU2Q" --output SD_Best_VGM_0074_with_vid_id_fg1PDaOnU2Q.json
-python downloader.py --youtubeid="vp6NjZ0cGiI" --output SD_Best_VGM_0075_with_vid_id_vp6NjZ0cGiI.json
-python downloader.py --youtubeid="uixqfTElRuI" --output SD_Best_VGM_0076_with_vid_id_uixqfTElRuI.json
-python downloader.py --youtubeid="8tffqG3zRLQ" --output SD_Best_VGM_0077_with_vid_id_8tffqG3zRLQ.json
-python downloader.py --youtubeid="1BcHKsDr5CM" --output SD_Best_VGM_0078_with_vid_id_1BcHKsDr5CM.json
-python downloader.py --youtubeid="N1lp6YLpT_o" --output SD_Best_VGM_0079_with_vid_id_N1lp6YLpT_o.json
-python downloader.py --youtubeid="4i-qGSwyu5M" --output SD_Best_VGM_0080_with_vid_id_4i-qGSwyu5M.json
-python downloader.py --youtubeid="pwIy1Oto4Qc" --output SD_Best_VGM_0081_with_vid_id_pwIy1Oto4Qc.json
-python downloader.py --youtubeid="ty4CBnWeEKE" --output SD_Best_VGM_0082_with_vid_id_ty4CBnWeEKE.json
-python downloader.py --youtubeid="5bTAdrq6leQ" --output SD_Best_VGM_0083_with_vid_id_5bTAdrq6leQ.json
-python downloader.py --youtubeid="ZAyRic3ZW0Y" --output SD_Best_VGM_0084_with_vid_id_ZAyRic3ZW0Y.json
-python downloader.py --youtubeid="gWZ2cqFr0Vo" --output SD_Best_VGM_0085_with_vid_id_gWZ2cqFr0Vo.json
-python downloader.py --youtubeid="2MzcVSPUJw0" --output SD_Best_VGM_0086_with_vid_id_2MzcVSPUJw0.json
-python downloader.py --youtubeid="MPvQoxXUQok" --output SD_Best_VGM_0087_with_vid_id_MPvQoxXUQok.json
-python downloader.py --youtubeid="afsUV7q6Hqc" --output SD_Best_VGM_0088_with_vid_id_afsUV7q6Hqc.json
-python downloader.py --youtubeid="84NsPpkY4l0" --output SD_Best_VGM_0089_with_vid_id_84NsPpkY4l0.json
-python downloader.py --youtubeid="sA_8Y30Lk2Q" --output SD_Best_VGM_0090_with_vid_id_sA_8Y30Lk2Q.json
-python downloader.py --youtubeid="FYSt4qX85oA" --output SD_Best_VGM_0091_with_vid_id_FYSt4qX85oA.json
-python downloader.py --youtubeid="guff_k4b6cI" --output SD_Best_VGM_0092_with_vid_id_guff_k4b6cI.json
-python downloader.py --youtubeid="hT8FhGDS5qE" --output SD_Best_VGM_0093_with_vid_id_hT8FhGDS5qE.json
-python downloader.py --youtubeid="nRw54IXvpE8" --output SD_Best_VGM_0094_with_vid_id_nRw54IXvpE8.json
-python downloader.py --youtubeid="tlY88rlNnEE" --output SD_Best_VGM_0095_with_vid_id_tlY88rlNnEE.json
-python downloader.py --youtubeid="QaE0HHN4c30" --output SD_Best_VGM_0096_with_vid_id_QaE0HHN4c30.json
-python downloader.py --youtubeid="8Fl6WlJ-Pms" --output SD_Best_VGM_0097_with_vid_id_8Fl6WlJ-Pms.json
-python downloader.py --youtubeid="NjG2ZjPqzzE" --output SD_Best_VGM_0098_with_vid_id_NjG2ZjPqzzE.json
-python downloader.py --youtubeid="eFR7iBDJYpI" --output SD_Best_VGM_0099_with_vid_id_eFR7iBDJYpI.json
-python downloader.py --youtubeid="NjmUCbNk65o" --output SD_Best_VGM_0100_with_vid_id_NjmUCbNk65o.json
-python downloader.py --youtubeid="koHO9vN6t4I" --output SD_Best_VGM_0101_with_vid_id_koHO9vN6t4I.json
-python downloader.py --youtubeid="Ag-O4VfJx6U" --output SD_Best_VGM_0102_with_vid_id_Ag-O4VfJx6U.json
-python downloader.py --youtubeid="4uJBIxKB01E" --output SD_Best_VGM_0103_with_vid_id_4uJBIxKB01E.json
-python downloader.py --youtubeid="TJH9E2x87EY" --output SD_Best_VGM_0104_with_vid_id_TJH9E2x87EY.json
-python downloader.py --youtubeid="8MRHV_Cf41E" --output SD_Best_VGM_0105_with_vid_id_8MRHV_Cf41E.json
-python downloader.py --youtubeid="RypdLW4G1Ng" --output SD_Best_VGM_0106_with_vid_id_RypdLW4G1Ng.json
-python downloader.py --youtubeid="8RtLhXibDfA" --output SD_Best_VGM_0107_with_vid_id_8RtLhXibDfA.json
-python downloader.py --youtubeid="TioQJoZ8Cco" --output SD_Best_VGM_0108_with_vid_id_TioQJoZ8Cco.json
-python downloader.py --youtubeid="_1rwSdxY7_g" --output SD_Best_VGM_0109_with_vid_id__1rwSdxY7_g.json
-python downloader.py --youtubeid="_wHwJoxw4i4" --output SD_Best_VGM_0110_with_vid_id__wHwJoxw4i4.json
-python downloader.py --youtubeid="o_vtaSXF0WU" --output SD_Best_VGM_0111_with_vid_id_o_vtaSXF0WU.json
-python downloader.py --youtubeid="N-BiX7QXE8k" --output SD_Best_VGM_0112_with_vid_id_N-BiX7QXE8k.json
-python downloader.py --youtubeid="b-rgxR_zIC4" --output SD_Best_VGM_0113_with_vid_id_b-rgxR_zIC4.json
-python downloader.py --youtubeid="0ptVf0dQ18M" --output SD_Best_VGM_0114_with_vid_id_0ptVf0dQ18M.json
-python downloader.py --youtubeid="lmhxytynQOE" --output SD_Best_VGM_0115_with_vid_id_lmhxytynQOE.json
-python downloader.py --youtubeid="6CMTXyExkeI" --output SD_Best_VGM_0116_with_vid_id_6CMTXyExkeI.json
-python downloader.py --youtubeid="uKK631j464M" --output SD_Best_VGM_0117_with_vid_id_uKK631j464M.json
-python downloader.py --youtubeid="pWVxGmFaNFs" --output SD_Best_VGM_0118_with_vid_id_pWVxGmFaNFs.json
-python downloader.py --youtubeid="ag5q7vmDOls" --output SD_Best_VGM_0119_with_vid_id_ag5q7vmDOls.json
-python downloader.py --youtubeid="e7YW5tmlsLo" --output SD_Best_VGM_0120_with_vid_id_e7YW5tmlsLo.json
-python downloader.py --youtubeid="pieNm70nCIQ" --output SD_Best_VGM_0121_with_vid_id_pieNm70nCIQ.json
-python downloader.py --youtubeid="3WVqKTCx7Ug" --output SD_Best_VGM_0122_with_vid_id_3WVqKTCx7Ug.json
-python downloader.py --youtubeid="hELte7HgL2Y" --output SD_Best_VGM_0123_with_vid_id_hELte7HgL2Y.json
-python downloader.py --youtubeid="rEE6yp873B4" --output SD_Best_VGM_0124_with_vid_id_rEE6yp873B4.json
-python downloader.py --youtubeid="9xy9Q-BLp48" --output SD_Best_VGM_0125_with_vid_id_9xy9Q-BLp48.json
-python downloader.py --youtubeid="3ODKKILZiYY" --output SD_Best_VGM_0126_with_vid_id_3ODKKILZiYY.json
-python downloader.py --youtubeid="XW3Buw2tUgI" --output SD_Best_VGM_0127_with_vid_id_XW3Buw2tUgI.json
-python downloader.py --youtubeid="xvvXFCYVmkw" --output SD_Best_VGM_0128_with_vid_id_xvvXFCYVmkw.json
-python downloader.py --youtubeid="gcm3ak-SLqM" --output SD_Best_VGM_0129_with_vid_id_gcm3ak-SLqM.json
-python downloader.py --youtubeid="9u3xNXai8D8" --output SD_Best_VGM_0130_with_vid_id_9u3xNXai8D8.json
-python downloader.py --youtubeid="mwdGO2vfAho" --output SD_Best_VGM_0131_with_vid_id_mwdGO2vfAho.json
-python downloader.py --youtubeid="XH1J5XxZklI" --output SD_Best_VGM_0132_with_vid_id_XH1J5XxZklI.json
-python downloader.py --youtubeid="x4i7xG2IOOE" --output SD_Best_VGM_0133_with_vid_id_x4i7xG2IOOE.json
-python downloader.py --youtubeid="TYjKjjgQPk8" --output SD_Best_VGM_0134_with_vid_id_TYjKjjgQPk8.json
-python downloader.py --youtubeid="6XOEZIZMUl0" --output SD_Best_VGM_0135_with_vid_id_6XOEZIZMUl0.json
-python downloader.py --youtubeid="JA_VeKxyfiU" --output SD_Best_VGM_0136_with_vid_id_JA_VeKxyfiU.json
-python downloader.py --youtubeid="GzBsFGh6zoc" --output SD_Best_VGM_0137_with_vid_id_GzBsFGh6zoc.json
-python downloader.py --youtubeid="LPO5yrMSMEw" --output SD_Best_VGM_0138_with_vid_id_LPO5yrMSMEw.json
-python downloader.py --youtubeid="HO0rvkOPQww" --output SD_Best_VGM_0139_with_vid_id_HO0rvkOPQww.json
-python downloader.py --youtubeid="fYvGx-PEAtg" --output SD_Best_VGM_0140_with_vid_id_fYvGx-PEAtg.json
-python downloader.py --youtubeid="HFKtYCcMWT4" --output SD_Best_VGM_0141_with_vid_id_HFKtYCcMWT4.json
-python downloader.py --youtubeid="sZU8xWDH68w" --output SD_Best_VGM_0142_with_vid_id_sZU8xWDH68w.json
-python downloader.py --youtubeid="kNPz77g5Xyk" --output SD_Best_VGM_0143_with_vid_id_kNPz77g5Xyk.json
-python downloader.py --youtubeid="w4J4ZQP7Nq0" --output SD_Best_VGM_0144_with_vid_id_w4J4ZQP7Nq0.json
-python downloader.py --youtubeid="RO_FVqiEtDY" --output SD_Best_VGM_0145_with_vid_id_RO_FVqiEtDY.json
-python downloader.py --youtubeid="3iygPesmC-U" --output SD_Best_VGM_0146_with_vid_id_3iygPesmC-U.json
-python downloader.py --youtubeid="TS8q1pjWviA" --output SD_Best_VGM_0147_with_vid_id_TS8q1pjWviA.json
-python downloader.py --youtubeid="1xzf_Ey5th8" --output SD_Best_VGM_0148_with_vid_id_1xzf_Ey5th8.json
-python downloader.py --youtubeid="dEVI5_OxUyY" --output SD_Best_VGM_0149_with_vid_id_dEVI5_OxUyY.json
-python downloader.py --youtubeid="rVmt7axswLo" --output SD_Best_VGM_0150_with_vid_id_rVmt7axswLo.json
-python downloader.py --youtubeid="KiGfjOLF_j0" --output SD_Best_VGM_0151_with_vid_id_KiGfjOLF_j0.json
-python downloader.py --youtubeid="W6GNcYfHe1E" --output SD_Best_VGM_0152_with_vid_id_W6GNcYfHe1E.json
-python downloader.py --youtubeid="CRmOTY1lhYs" --output SD_Best_VGM_0153_with_vid_id_CRmOTY1lhYs.json
-python downloader.py --youtubeid="2r1iesThvYg" --output SD_Best_VGM_0154_with_vid_id_2r1iesThvYg.json
-python downloader.py --youtubeid="F8U5nxhxYf0" --output SD_Best_VGM_0155_with_vid_id_F8U5nxhxYf0.json
-python downloader.py --youtubeid="JHrGsxoZumY" --output SD_Best_VGM_0156_with_vid_id_JHrGsxoZumY.json
-python downloader.py --youtubeid="LDvKwSVuUGA" --output SD_Best_VGM_0157_with_vid_id_LDvKwSVuUGA.json
-python downloader.py --youtubeid="tbVLmRfeIQg" --output SD_Best_VGM_0158_with_vid_id_tbVLmRfeIQg.json
-python downloader.py --youtubeid="u4cv8dOFQsc" --output SD_Best_VGM_0159_with_vid_id_u4cv8dOFQsc.json
-python downloader.py --youtubeid="w2HT5XkGaws" --output SD_Best_VGM_0160_with_vid_id_w2HT5XkGaws.json
-python downloader.py --youtubeid="C-QGg9FGzj4" --output SD_Best_VGM_0161_with_vid_id_C-QGg9FGzj4.json
-python downloader.py --youtubeid="6l3nVyGhbpE" --output SD_Best_VGM_0162_with_vid_id_6l3nVyGhbpE.json
-python downloader.py --youtubeid="tkj57nM0OqQ" --output SD_Best_VGM_0163_with_vid_id_tkj57nM0OqQ.json
-python downloader.py --youtubeid="5OZIrAW7aSY" --output SD_Best_VGM_0164_with_vid_id_5OZIrAW7aSY.json
-python downloader.py --youtubeid="0Y1Y3buSm2I" --output SD_Best_VGM_0165_with_vid_id_0Y1Y3buSm2I.json
-python downloader.py --youtubeid="f1EFHMwKdkY" --output SD_Best_VGM_0166_with_vid_id_f1EFHMwKdkY.json
-python downloader.py --youtubeid="TdiRoUoSM-E" --output SD_Best_VGM_0167_with_vid_id_TdiRoUoSM-E.json
-python downloader.py --youtubeid="m6HgGxxjyrU" --output SD_Best_VGM_0168_with_vid_id_m6HgGxxjyrU.json
-python downloader.py --youtubeid="EmD9WnLYR5I" --output SD_Best_VGM_0169_with_vid_id_EmD9WnLYR5I.json
-python downloader.py --youtubeid="QGgK5kQkLUE" --output SD_Best_VGM_0170_with_vid_id_QGgK5kQkLUE.json
-python downloader.py --youtubeid="YFDcu-hy4ak" --output SD_Best_VGM_0171_with_vid_id_YFDcu-hy4ak.json
-python downloader.py --youtubeid="kzUYJAaiEvA" --output SD_Best_VGM_0172_with_vid_id_kzUYJAaiEvA.json
-python downloader.py --youtubeid="L9e6Pye7p5A" --output SD_Best_VGM_0173_with_vid_id_L9e6Pye7p5A.json
-python downloader.py --youtubeid="HCHsMo4BOJ0" --output SD_Best_VGM_0174_with_vid_id_HCHsMo4BOJ0.json
-python downloader.py --youtubeid="9VyMkkI39xc" --output SD_Best_VGM_0175_with_vid_id_9VyMkkI39xc.json
-python downloader.py --youtubeid="B-L4jj9lRmE" --output SD_Best_VGM_0176_with_vid_id_B-L4jj9lRmE.json
-python downloader.py --youtubeid="CHlEPgi4Fro" --output SD_Best_VGM_0177_with_vid_id_CHlEPgi4Fro.json
-python downloader.py --youtubeid="O8jJJXgNLo4" --output SD_Best_VGM_0178_with_vid_id_O8jJJXgNLo4.json
-python downloader.py --youtubeid="6GX_qN7hEEM" --output SD_Best_VGM_0179_with_vid_id_6GX_qN7hEEM.json
-python downloader.py --youtubeid="SKtO8AZLp2I" --output SD_Best_VGM_0180_with_vid_id_SKtO8AZLp2I.json
-python downloader.py --youtubeid="nH7ma8TPnE8" --output SD_Best_VGM_0181_with_vid_id_nH7ma8TPnE8.json
-python downloader.py --youtubeid="Rs2y4Nqku2o" --output SD_Best_VGM_0182_with_vid_id_Rs2y4Nqku2o.json
-python downloader.py --youtubeid="GLPT6H4On4o" --output SD_Best_VGM_0183_with_vid_id_GLPT6H4On4o.json
-python downloader.py --youtubeid="TM3BIOvEJSw" --output SD_Best_VGM_0184_with_vid_id_TM3BIOvEJSw.json
-python downloader.py --youtubeid="ztiSivmoE0c" --output SD_Best_VGM_0185_with_vid_id_ztiSivmoE0c.json
-python downloader.py --youtubeid="bckgyhCo7Lw" --output SD_Best_VGM_0186_with_vid_id_bckgyhCo7Lw.json
-python downloader.py --youtubeid="ifvxBt7tmA8" --output SD_Best_VGM_0187_with_vid_id_ifvxBt7tmA8.json
-python downloader.py --youtubeid="xaKXWFIz5E0" --output SD_Best_VGM_0188_with_vid_id_xaKXWFIz5E0.json
-python downloader.py --youtubeid="VgMHWxN2U_w" --output SD_Best_VGM_0189_with_vid_id_VgMHWxN2U_w.json
-python downloader.py --youtubeid="wKgoegkociY" --output SD_Best_VGM_0190_with_vid_id_wKgoegkociY.json
-python downloader.py --youtubeid="xfzWn5b6MHM" --output SD_Best_VGM_0191_with_vid_id_xfzWn5b6MHM.json
-python downloader.py --youtubeid="DTqp7jUBoA8" --output SD_Best_VGM_0192_with_vid_id_DTqp7jUBoA8.json
-python downloader.py --youtubeid="9heorR5vEvA" --output SD_Best_VGM_0193_with_vid_id_9heorR5vEvA.json
-python downloader.py --youtubeid="lb88VsHVDbw" --output SD_Best_VGM_0194_with_vid_id_lb88VsHVDbw.json
-python downloader.py --youtubeid="H4hryHF3kTw" --output SD_Best_VGM_0195_with_vid_id_H4hryHF3kTw.json
-python downloader.py --youtubeid="a14tqUAswZU" --output SD_Best_VGM_0196_with_vid_id_a14tqUAswZU.json
-python downloader.py --youtubeid="z5oERC4cD8g" --output SD_Best_VGM_0197_with_vid_id_z5oERC4cD8g.json
-python downloader.py --youtubeid="xTxZchmHmBw" --output SD_Best_VGM_0198_with_vid_id_xTxZchmHmBw.json
-python downloader.py --youtubeid="kmkzuPrQHQM" --output SD_Best_VGM_0199_with_vid_id_kmkzuPrQHQM.json
-python downloader.py --youtubeid="VuT5ukjMVFw" --output SD_Best_VGM_0200_with_vid_id_VuT5ukjMVFw.json
-python downloader.py --youtubeid="3cIi2PEagmg" --output SD_Best_VGM_0201_with_vid_id_3cIi2PEagmg.json
-python downloader.py --youtubeid="Mea-D-VFzck" --output SD_Best_VGM_0202_with_vid_id_Mea-D-VFzck.json
-python downloader.py --youtubeid="xtsyXDTAWoo" --output SD_Best_VGM_0203_with_vid_id_xtsyXDTAWoo.json
-python downloader.py --youtubeid="Kr5mloai1B0" --output SD_Best_VGM_0204_with_vid_id_Kr5mloai1B0.json
-python downloader.py --youtubeid="ImdjNeH310w" --output SD_Best_VGM_0205_with_vid_id_ImdjNeH310w.json
-python downloader.py --youtubeid="PKno6qPQEJg" --output SD_Best_VGM_0206_with_vid_id_PKno6qPQEJg.json
-python downloader.py --youtubeid="vEx9gtmDoRI" --output SD_Best_VGM_0207_with_vid_id_vEx9gtmDoRI.json
-python downloader.py --youtubeid="2jbJSftFr20" --output SD_Best_VGM_0208_with_vid_id_2jbJSftFr20.json
-python downloader.py --youtubeid="TXEz-i-oORk" --output SD_Best_VGM_0209_with_vid_id_TXEz-i-oORk.json
-python downloader.py --youtubeid="Nn5K-NNmgTM" --output SD_Best_VGM_0210_with_vid_id_Nn5K-NNmgTM.json
-python downloader.py --youtubeid="msEbmIgnaSI" --output SD_Best_VGM_0211_with_vid_id_msEbmIgnaSI.json
-python downloader.py --youtubeid="a_WurTZJrpE" --output SD_Best_VGM_0212_with_vid_id_a_WurTZJrpE.json
-python downloader.py --youtubeid="Ou0WU5p5XkI" --output SD_Best_VGM_0213_with_vid_id_Ou0WU5p5XkI.json
-python downloader.py --youtubeid="tiwsAs6WVyQ" --output SD_Best_VGM_0214_with_vid_id_tiwsAs6WVyQ.json
-python downloader.py --youtubeid="d8xtkry1wK8" --output SD_Best_VGM_0215_with_vid_id_d8xtkry1wK8.json
-python downloader.py --youtubeid="zqFtW92WUaI" --output SD_Best_VGM_0216_with_vid_id_zqFtW92WUaI.json
-python downloader.py --youtubeid="jlFYSIyAGmA" --output SD_Best_VGM_0217_with_vid_id_jlFYSIyAGmA.json
-python downloader.py --youtubeid="Xnmuncx1F0Q" --output SD_Best_VGM_0218_with_vid_id_Xnmuncx1F0Q.json
-python downloader.py --youtubeid="U3FkappfRsQ" --output SD_Best_VGM_0219_with_vid_id_U3FkappfRsQ.json
-python downloader.py --youtubeid="Car2R06WZcw" --output SD_Best_VGM_0220_with_vid_id_Car2R06WZcw.json
-python downloader.py --youtubeid="rMxIyQqeGZ8" --output SD_Best_VGM_0221_with_vid_id_rMxIyQqeGZ8.json
-python downloader.py --youtubeid="yCLW8IXbFYM" --output SD_Best_VGM_0222_with_vid_id_yCLW8IXbFYM.json
-python downloader.py --youtubeid="oksAhZuJ55I" --output SD_Best_VGM_0223_with_vid_id_oksAhZuJ55I.json
-python downloader.py --youtubeid="CkPqtTcBXTA" --output SD_Best_VGM_0224_with_vid_id_CkPqtTcBXTA.json
-python downloader.py --youtubeid="V1YsfDO8lgY" --output SD_Best_VGM_0225_with_vid_id_V1YsfDO8lgY.json
-python downloader.py --youtubeid="-L45Lm02jIU" --output SD_Best_VGM_0226_with_vid_id_-L45Lm02jIU.json
-python downloader.py --youtubeid="AxVhRs8QC1U" --output SD_Best_VGM_0227_with_vid_id_AxVhRs8QC1U.json
-python downloader.py --youtubeid="96ro-5alCGo" --output SD_Best_VGM_0228_with_vid_id_96ro-5alCGo.json
-python downloader.py --youtubeid="qH8MFPIvFpU" --output SD_Best_VGM_0229_with_vid_id_qH8MFPIvFpU.json
-python downloader.py --youtubeid="oQVscNAg1cQ" --output SD_Best_VGM_0230_with_vid_id_oQVscNAg1cQ.json
-python downloader.py --youtubeid="0F-hJjD3XAs" --output SD_Best_VGM_0231_with_vid_id_0F-hJjD3XAs.json
-python downloader.py --youtubeid="NcjcKZnJqAA" --output SD_Best_VGM_0232_with_vid_id_NcjcKZnJqAA.json
-python downloader.py --youtubeid="oNjnN_p5Clo" --output SD_Best_VGM_0233_with_vid_id_oNjnN_p5Clo.json
-python downloader.py --youtubeid="-VtNcqxyNnA" --output SD_Best_VGM_0234_with_vid_id_-VtNcqxyNnA.json
-python downloader.py --youtubeid="zHej43S_OMI" --output SD_Best_VGM_0235_with_vid_id_zHej43S_OMI.json
-python downloader.py --youtubeid="uSOspFMHVls" --output SD_Best_VGM_0236_with_vid_id_uSOspFMHVls.json
-python downloader.py --youtubeid="BdFLRkDRtP0" --output SD_Best_VGM_0237_with_vid_id_BdFLRkDRtP0.json
-python downloader.py --youtubeid="s0mCsa2q2a4" --output SD_Best_VGM_0238_with_vid_id_s0mCsa2q2a4.json
-python downloader.py --youtubeid="CcKUWCm_yRs" --output SD_Best_VGM_0239_with_vid_id_CcKUWCm_yRs.json
-python downloader.py --youtubeid="-m3VGoy-4Qo" --output SD_Best_VGM_0240_with_vid_id_-m3VGoy-4Qo.json
-python downloader.py --youtubeid="Pc3GfVHluvE" --output SD_Best_VGM_0241_with_vid_id_Pc3GfVHluvE.json
-python downloader.py --youtubeid="iN3Jp55Db_A" --output SD_Best_VGM_0242_with_vid_id_iN3Jp55Db_A.json
-python downloader.py --youtubeid="uV_g76ThygI" --output SD_Best_VGM_0243_with_vid_id_uV_g76ThygI.json
-python downloader.py --youtubeid="bA4PAkrAVpQ" --output SD_Best_VGM_0244_with_vid_id_bA4PAkrAVpQ.json
-python downloader.py --youtubeid="-ltGbYCYr-Q" --output SD_Best_VGM_0245_with_vid_id_-ltGbYCYr-Q.json
-python downloader.py --youtubeid="rFIzW_ET_6Q" --output SD_Best_VGM_0246_with_vid_id_rFIzW_ET_6Q.json
-python downloader.py --youtubeid="j_8sYSOkwAg" --output SD_Best_VGM_0247_with_vid_id_j_8sYSOkwAg.json
-python downloader.py --youtubeid="44u87NnaV4Q" --output SD_Best_VGM_0248_with_vid_id_44u87NnaV4Q.json
-python downloader.py --youtubeid="TlDaPnHXl_o" --output SD_Best_VGM_0249_with_vid_id_TlDaPnHXl_o.json
-python downloader.py --youtubeid="y4DAIZM2sTc" --output SD_Best_VGM_0250_with_vid_id_y4DAIZM2sTc.json
-python downloader.py --youtubeid="lXBFPdRiZMs" --output SD_Best_VGM_0251_with_vid_id_lXBFPdRiZMs.json
-python downloader.py --youtubeid="k4L8cq2vrlk" --output SD_Best_VGM_0252_with_vid_id_k4L8cq2vrlk.json
-python downloader.py --youtubeid="FWSwAKVS-IA" --output SD_Best_VGM_0253_with_vid_id_FWSwAKVS-IA.json
-python downloader.py --youtubeid="yYPNScB1alA" --output SD_Best_VGM_0254_with_vid_id_yYPNScB1alA.json
-python downloader.py --youtubeid="9YoDuIZa8tE" --output SD_Best_VGM_0255_with_vid_id_9YoDuIZa8tE.json
-python downloader.py --youtubeid="y2MP97fwOa8" --output SD_Best_VGM_0256_with_vid_id_y2MP97fwOa8.json
-python downloader.py --youtubeid="PwlvY_SeUQU" --output SD_Best_VGM_0257_with_vid_id_PwlvY_SeUQU.json
-python downloader.py --youtubeid="E5K6la0Fzuw" --output SD_Best_VGM_0258_with_vid_id_E5K6la0Fzuw.json
-python downloader.py --youtubeid="d1UyVXN13SI" --output SD_Best_VGM_0259_with_vid_id_d1UyVXN13SI.json
-python downloader.py --youtubeid="nFsoCfGij0Y" --output SD_Best_VGM_0260_with_vid_id_nFsoCfGij0Y.json
-python downloader.py --youtubeid="7JWi5dyzW2Q" --output SD_Best_VGM_0261_with_vid_id_7JWi5dyzW2Q.json
-python downloader.py --youtubeid="EX5V_PWI3yM" --output SD_Best_VGM_0262_with_vid_id_EX5V_PWI3yM.json
-python downloader.py --youtubeid="6kIE2xVJdTc" --output SD_Best_VGM_0263_with_vid_id_6kIE2xVJdTc.json
-python downloader.py --youtubeid="Ekiz0YMNp7A" --output SD_Best_VGM_0264_with_vid_id_Ekiz0YMNp7A.json
-python downloader.py --youtubeid="DY0L5o9y-YA" --output SD_Best_VGM_0265_with_vid_id_DY0L5o9y-YA.json
-python downloader.py --youtubeid="gQndM8KdTD0" --output SD_Best_VGM_0266_with_vid_id_gQndM8KdTD0.json
-python downloader.py --youtubeid="lfudDzITiw8" --output SD_Best_VGM_0267_with_vid_id_lfudDzITiw8.json
-python downloader.py --youtubeid="VixvyNbhZ6E" --output SD_Best_VGM_0268_with_vid_id_VixvyNbhZ6E.json
-python downloader.py --youtubeid="tk61GaJLsOQ" --output SD_Best_VGM_0269_with_vid_id_tk61GaJLsOQ.json
-python downloader.py --youtubeid="fiPxE3P2Qho" --output SD_Best_VGM_0270_with_vid_id_fiPxE3P2Qho.json
-python downloader.py --youtubeid="FjFx5oO-riE" --output SD_Best_VGM_0271_with_vid_id_FjFx5oO-riE.json
-python downloader.py --youtubeid="5gCAhdDAPHE" --output SD_Best_VGM_0272_with_vid_id_5gCAhdDAPHE.json
-python downloader.py --youtubeid="FnogL42dEL4" --output SD_Best_VGM_0273_with_vid_id_FnogL42dEL4.json
-python downloader.py --youtubeid="TlLIOD2rJMs" --output SD_Best_VGM_0274_with_vid_id_TlLIOD2rJMs.json
-python downloader.py --youtubeid="_OguBY5x-Qo" --output SD_Best_VGM_0275_with_vid_id__OguBY5x-Qo.json
-python downloader.py --youtubeid="HvnAkAQK82E" --output SD_Best_VGM_0276_with_vid_id_HvnAkAQK82E.json
-python downloader.py --youtubeid="zpVIM8de2xw" --output SD_Best_VGM_0277_with_vid_id_zpVIM8de2xw.json
-python downloader.py --youtubeid="KrvdivSD98k" --output SD_Best_VGM_0278_with_vid_id_KrvdivSD98k.json
-python downloader.py --youtubeid="NnZlRu28fcU" --output SD_Best_VGM_0279_with_vid_id_NnZlRu28fcU.json
-python downloader.py --youtubeid="y81PyRX4ENA" --output SD_Best_VGM_0280_with_vid_id_y81PyRX4ENA.json
-python downloader.py --youtubeid="jkWYvENgxwA" --output SD_Best_VGM_0281_with_vid_id_jkWYvENgxwA.json
-python downloader.py --youtubeid="2biS2NM9QeE" --output SD_Best_VGM_0282_with_vid_id_2biS2NM9QeE.json
-python downloader.py --youtubeid="qzhWuriX9Ws" --output SD_Best_VGM_0283_with_vid_id_qzhWuriX9Ws.json
-python downloader.py --youtubeid="iwemkM-vBmc" --output SD_Best_VGM_0284_with_vid_id_iwemkM-vBmc.json
-python downloader.py --youtubeid="ICOotKB_MUc" --output SD_Best_VGM_0285_with_vid_id_ICOotKB_MUc.json
-python downloader.py --youtubeid="ckVmgiTobAw" --output SD_Best_VGM_0286_with_vid_id_ckVmgiTobAw.json
-python downloader.py --youtubeid="m-VXBxd2pmo" --output SD_Best_VGM_0287_with_vid_id_m-VXBxd2pmo.json
-python downloader.py --youtubeid="AKfLOMirwho" --output SD_Best_VGM_0288_with_vid_id_AKfLOMirwho.json
-python downloader.py --youtubeid="PAuFr7PZtGg" --output SD_Best_VGM_0289_with_vid_id_PAuFr7PZtGg.json
-python downloader.py --youtubeid="w_N7__8-9r0" --output SD_Best_VGM_0290_with_vid_id_w_N7__8-9r0.json
-python downloader.py --youtubeid="gAy6qk8rl5I" --output SD_Best_VGM_0291_with_vid_id_gAy6qk8rl5I.json
-python downloader.py --youtubeid="uDwLy1_6nDw" --output SD_Best_VGM_0292_with_vid_id_uDwLy1_6nDw.json
-python downloader.py --youtubeid="GEuRzRW86bI" --output SD_Best_VGM_0293_with_vid_id_GEuRzRW86bI.json
-python downloader.py --youtubeid="Rv7-G28CPFI" --output SD_Best_VGM_0294_with_vid_id_Rv7-G28CPFI.json
-python downloader.py --youtubeid="Ev1MRskhUmA" --output SD_Best_VGM_0295_with_vid_id_Ev1MRskhUmA.json
-python downloader.py --youtubeid="DoQekfFkXvI" --output SD_Best_VGM_0296_with_vid_id_DoQekfFkXvI.json
-python downloader.py --youtubeid="QNd4WYmj9WI" --output SD_Best_VGM_0297_with_vid_id_QNd4WYmj9WI.json
-python downloader.py --youtubeid="WgK4UTP0gfU" --output SD_Best_VGM_0298_with_vid_id_WgK4UTP0gfU.json
-python downloader.py --youtubeid="9saTXWj78tY" --output SD_Best_VGM_0299_with_vid_id_9saTXWj78tY.json
-python downloader.py --youtubeid="77F1lLI5LZw" --output SD_Best_VGM_0300_with_vid_id_77F1lLI5LZw.json
-python downloader.py --youtubeid="HLl-oMBhiPc" --output SD_Best_VGM_0301_with_vid_id_HLl-oMBhiPc.json
-python downloader.py --youtubeid="prRDZPbuDcI" --output SD_Best_VGM_0302_with_vid_id_prRDZPbuDcI.json
-python downloader.py --youtubeid="sMcx87rq0oA" --output SD_Best_VGM_0303_with_vid_id_sMcx87rq0oA.json
-python downloader.py --youtubeid="8iBCg85y0K8" --output SD_Best_VGM_0304_with_vid_id_8iBCg85y0K8.json
-python downloader.py --youtubeid="5IUXyzqrZsw" --output SD_Best_VGM_0305_with_vid_id_5IUXyzqrZsw.json
-python downloader.py --youtubeid="in7TUvirruo" --output SD_Best_VGM_0306_with_vid_id_in7TUvirruo.json
-python downloader.py --youtubeid="I5GznpBjHE4" --output SD_Best_VGM_0307_with_vid_id_I5GznpBjHE4.json
-python downloader.py --youtubeid="5oGK9YN0Ux8" --output SD_Best_VGM_0308_with_vid_id_5oGK9YN0Ux8.json
-python downloader.py --youtubeid="rhbGqHurV5I" --output SD_Best_VGM_0309_with_vid_id_rhbGqHurV5I.json
-python downloader.py --youtubeid="XKI0-dPmwSo" --output SD_Best_VGM_0310_with_vid_id_XKI0-dPmwSo.json
-python downloader.py --youtubeid="jAQGCM-IyOE" --output SD_Best_VGM_0311_with_vid_id_jAQGCM-IyOE.json
-python downloader.py --youtubeid="wFM8K7GLFKk" --output SD_Best_VGM_0312_with_vid_id_wFM8K7GLFKk.json
-python downloader.py --youtubeid="TkEH0e07jg8" --output SD_Best_VGM_0313_with_vid_id_TkEH0e07jg8.json
-python downloader.py --youtubeid="O0rVK4H0-Eo" --output SD_Best_VGM_0314_with_vid_id_O0rVK4H0-Eo.json
-python downloader.py --youtubeid="vfRr0Y0QnHo" --output SD_Best_VGM_0315_with_vid_id_vfRr0Y0QnHo.json
-python downloader.py --youtubeid="LSfbb3WHClE" --output SD_Best_VGM_0316_with_vid_id_LSfbb3WHClE.json
-python downloader.py --youtubeid="fRy6Ly5A5EA" --output SD_Best_VGM_0317_with_vid_id_fRy6Ly5A5EA.json
-python downloader.py --youtubeid="-AesqnudNuw" --output SD_Best_VGM_0318_with_vid_id_-AesqnudNuw.json
-python downloader.py --youtubeid="DZaltYb0hjU" --output SD_Best_VGM_0319_with_vid_id_DZaltYb0hjU.json
-python downloader.py --youtubeid="qtrFSnyvEX0" --output SD_Best_VGM_0320_with_vid_id_qtrFSnyvEX0.json
-python downloader.py --youtubeid="99RVgsDs1W0" --output SD_Best_VGM_0321_with_vid_id_99RVgsDs1W0.json
-python downloader.py --youtubeid="Y5cXKVt3wOE" --output SD_Best_VGM_0322_with_vid_id_Y5cXKVt3wOE.json
-python downloader.py --youtubeid="fH-lLbHbG-A" --output SD_Best_VGM_0323_with_vid_id_fH-lLbHbG-A.json
-python downloader.py --youtubeid="hUpjPQWKDpM" --output SD_Best_VGM_0324_with_vid_id_hUpjPQWKDpM.json
-python downloader.py --youtubeid="ENStkWiosK4" --output SD_Best_VGM_0325_with_vid_id_ENStkWiosK4.json
-python downloader.py --youtubeid="WR_AncWskUk" --output SD_Best_VGM_0326_with_vid_id_WR_AncWskUk.json
-python downloader.py --youtubeid="0rz-SlHMtkE" --output SD_Best_VGM_0327_with_vid_id_0rz-SlHMtkE.json
-python downloader.py --youtubeid="f6QCNRRA1x0" --output SD_Best_VGM_0328_with_vid_id_f6QCNRRA1x0.json
-python downloader.py --youtubeid="_H42_mzLMz0" --output SD_Best_VGM_0329_with_vid_id__H42_mzLMz0.json
-python downloader.py --youtubeid="4MnzJjEuOUs" --output SD_Best_VGM_0330_with_vid_id_4MnzJjEuOUs.json
-python downloader.py --youtubeid="X_PszodM17s" --output SD_Best_VGM_0331_with_vid_id_X_PszodM17s.json
-python downloader.py --youtubeid="-ohvCzPIBvM" --output SD_Best_VGM_0332_with_vid_id_-ohvCzPIBvM.json
-python downloader.py --youtubeid="FKqTtZXIid4" --output SD_Best_VGM_0333_with_vid_id_FKqTtZXIid4.json
-python downloader.py --youtubeid="ELyz549E_f4" --output SD_Best_VGM_0334_with_vid_id_ELyz549E_f4.json
-python downloader.py --youtubeid="zqgfOTBPv3E" --output SD_Best_VGM_0335_with_vid_id_zqgfOTBPv3E.json
-python downloader.py --youtubeid="ilOYzbGwX7M" --output SD_Best_VGM_0336_with_vid_id_ilOYzbGwX7M.json
-python downloader.py --youtubeid="m57kb5d3wZ4" --output SD_Best_VGM_0337_with_vid_id_m57kb5d3wZ4.json
-python downloader.py --youtubeid="HNPqugUrdEM" --output SD_Best_VGM_0338_with_vid_id_HNPqugUrdEM.json
-python downloader.py --youtubeid="BDg0P_L57SU" --output SD_Best_VGM_0339_with_vid_id_BDg0P_L57SU.json
-python downloader.py --youtubeid="9BgCJL71YIY" --output SD_Best_VGM_0340_with_vid_id_9BgCJL71YIY.json
-python downloader.py --youtubeid="LYiwMd5y78E" --output SD_Best_VGM_0341_with_vid_id_LYiwMd5y78E.json
-python downloader.py --youtubeid="yDMN8XKs1z0" --output SD_Best_VGM_0342_with_vid_id_yDMN8XKs1z0.json
-python downloader.py --youtubeid="VHCxLYOFHqU" --output SD_Best_VGM_0343_with_vid_id_VHCxLYOFHqU.json
-python downloader.py --youtubeid="SjEwSzmSNVo" --output SD_Best_VGM_0344_with_vid_id_SjEwSzmSNVo.json
-python downloader.py --youtubeid="MlRGotA3Yzs" --output SD_Best_VGM_0345_with_vid_id_MlRGotA3Yzs.json
-python downloader.py --youtubeid="mvcctOvLAh4" --output SD_Best_VGM_0346_with_vid_id_mvcctOvLAh4.json
-python downloader.py --youtubeid="RKm11Z6Btbg" --output SD_Best_VGM_0347_with_vid_id_RKm11Z6Btbg.json
-python downloader.py --youtubeid="J4EE4hRA9eU" --output SD_Best_VGM_0348_with_vid_id_J4EE4hRA9eU.json
-python downloader.py --youtubeid="_24ZkPUOIeo" --output SD_Best_VGM_0349_with_vid_id__24ZkPUOIeo.json
-python downloader.py --youtubeid="Tj04oRO-0Ws" --output SD_Best_VGM_0350_with_vid_id_Tj04oRO-0Ws.json
-python downloader.py --youtubeid="1riMeMvabu0" --output SD_Best_VGM_0351_with_vid_id_1riMeMvabu0.json
-python downloader.py --youtubeid="_L6scVxzIiI" --output SD_Best_VGM_0352_with_vid_id__L6scVxzIiI.json
-python downloader.py --youtubeid="ej4PiY8AESE" --output SD_Best_VGM_0353_with_vid_id_ej4PiY8AESE.json
-python downloader.py --youtubeid="p6LMIrRG16c" --output SD_Best_VGM_0354_with_vid_id_p6LMIrRG16c.json
-python downloader.py --youtubeid="TidW2D0Mnpo" --output SD_Best_VGM_0355_with_vid_id_TidW2D0Mnpo.json
-python downloader.py --youtubeid="QHStTXLP7II" --output SD_Best_VGM_0356_with_vid_id_QHStTXLP7II.json
-python downloader.py --youtubeid="-PQ9hQLWNCM" --output SD_Best_VGM_0357_with_vid_id_-PQ9hQLWNCM.json
-python downloader.py --youtubeid="Al0XOLM9FPw" --output SD_Best_VGM_0358_with_vid_id_Al0XOLM9FPw.json
-python downloader.py --youtubeid="vZOCpswBNiw" --output SD_Best_VGM_0359_with_vid_id_vZOCpswBNiw.json
-python downloader.py --youtubeid="pTp4d38cPtc" --output SD_Best_VGM_0360_with_vid_id_pTp4d38cPtc.json
-python downloader.py --youtubeid="GKKhBT0A1pE" --output SD_Best_VGM_0361_with_vid_id_GKKhBT0A1pE.json
-python downloader.py --youtubeid="qmvx5zT88ww" --output SD_Best_VGM_0362_with_vid_id_qmvx5zT88ww.json
-python downloader.py --youtubeid="w6exvhdhIE8" --output SD_Best_VGM_0363_with_vid_id_w6exvhdhIE8.json
-python downloader.py --youtubeid="AN-NbukIjKw" --output SD_Best_VGM_0364_with_vid_id_AN-NbukIjKw.json
-python downloader.py --youtubeid="37rVPijCrCA" --output SD_Best_VGM_0365_with_vid_id_37rVPijCrCA.json
-python downloader.py --youtubeid="VMMxNt_-s8E" --output SD_Best_VGM_0366_with_vid_id_VMMxNt_-s8E.json
-python downloader.py --youtubeid="LUjxPj3al5U" --output SD_Best_VGM_0367_with_vid_id_LUjxPj3al5U.json
-python downloader.py --youtubeid="tL3zvui1chQ" --output SD_Best_VGM_0368_with_vid_id_tL3zvui1chQ.json
-python downloader.py --youtubeid="AuluLeMp1aA" --output SD_Best_VGM_0369_with_vid_id_AuluLeMp1aA.json
-python downloader.py --youtubeid="DeqecCzDWhQ" --output SD_Best_VGM_0370_with_vid_id_DeqecCzDWhQ.json
-python downloader.py --youtubeid="Ef5pp7mt1lA" --output SD_Best_VGM_0371_with_vid_id_Ef5pp7mt1lA.json
-python downloader.py --youtubeid="mpt-RXhdZzQ" --output SD_Best_VGM_0372_with_vid_id_mpt-RXhdZzQ.json
-python downloader.py --youtubeid="OZLXcCe7GgA" --output SD_Best_VGM_0373_with_vid_id_OZLXcCe7GgA.json
-python downloader.py --youtubeid="HUzLO2GpPv4" --output SD_Best_VGM_0374_with_vid_id_HUzLO2GpPv4.json
-python downloader.py --youtubeid="NRNHbaF_bvY" --output SD_Best_VGM_0375_with_vid_id_NRNHbaF_bvY.json
-python downloader.py --youtubeid="iohvqM6CGEU" --output SD_Best_VGM_0376_with_vid_id_iohvqM6CGEU.json
-python downloader.py --youtubeid="EeXlQNJnjj0" --output SD_Best_VGM_0377_with_vid_id_EeXlQNJnjj0.json
-python downloader.py --youtubeid="hsPiGiZ2ks4" --output SD_Best_VGM_0378_with_vid_id_hsPiGiZ2ks4.json
-python downloader.py --youtubeid="J1x1Ao6CxyA" --output SD_Best_VGM_0379_with_vid_id_J1x1Ao6CxyA.json
-python downloader.py --youtubeid="fTvPg89TIMI" --output SD_Best_VGM_0380_with_vid_id_fTvPg89TIMI.json
-python downloader.py --youtubeid="_bOxB__fyJI" --output SD_Best_VGM_0381_with_vid_id__bOxB__fyJI.json
-python downloader.py --youtubeid="UnyOHbOV-h0" --output SD_Best_VGM_0382_with_vid_id_UnyOHbOV-h0.json
-python downloader.py --youtubeid="7lHAHFl_3u0" --output SD_Best_VGM_0383_with_vid_id_7lHAHFl_3u0.json
-python downloader.py --youtubeid="F6sjYt6EJVw" --output SD_Best_VGM_0384_with_vid_id_F6sjYt6EJVw.json
-python downloader.py --youtubeid="hyjJl59f_I0" --output SD_Best_VGM_0385_with_vid_id_hyjJl59f_I0.json
-python downloader.py --youtubeid="CADHl-iZ_Kw" --output SD_Best_VGM_0386_with_vid_id_CADHl-iZ_Kw.json
-python downloader.py --youtubeid="4h5FzzXKjLA" --output SD_Best_VGM_0387_with_vid_id_4h5FzzXKjLA.json
-python downloader.py --youtubeid="SDUUpUB1eu8" --output SD_Best_VGM_0388_with_vid_id_SDUUpUB1eu8.json
-python downloader.py --youtubeid="l5VK4kR1YTw" --output SD_Best_VGM_0389_with_vid_id_l5VK4kR1YTw.json
-python downloader.py --youtubeid="ijUwAWUS8ug" --output SD_Best_VGM_0390_with_vid_id_ijUwAWUS8ug.json
-python downloader.py --youtubeid="PwEzeoxbHMQ" --output SD_Best_VGM_0391_with_vid_id_PwEzeoxbHMQ.json
-python downloader.py --youtubeid="odyd0b_WZ9E" --output SD_Best_VGM_0392_with_vid_id_odyd0b_WZ9E.json
-python downloader.py --youtubeid="tgxFLMM9TLw" --output SD_Best_VGM_0393_with_vid_id_tgxFLMM9TLw.json
-python downloader.py --youtubeid="Op2h7kmJw10" --output SD_Best_VGM_0394_with_vid_id_Op2h7kmJw10.json
-python downloader.py --youtubeid="Xa7uyLoh8t4" --output SD_Best_VGM_0395_with_vid_id_Xa7uyLoh8t4.json
-python downloader.py --youtubeid="ujverEHBzt8" --output SD_Best_VGM_0396_with_vid_id_ujverEHBzt8.json
-python downloader.py --youtubeid="s3ja0vTezhs" --output SD_Best_VGM_0397_with_vid_id_s3ja0vTezhs.json
-python downloader.py --youtubeid="aDJ3bdD4TPM" --output SD_Best_VGM_0398_with_vid_id_aDJ3bdD4TPM.json
-python downloader.py --youtubeid="EHRfd2EQ_Do" --output SD_Best_VGM_0399_with_vid_id_EHRfd2EQ_Do.json
-python downloader.py --youtubeid="ZbpEhw42bvQ" --output SD_Best_VGM_0400_with_vid_id_ZbpEhw42bvQ.json
-python downloader.py --youtubeid="IQDiMzoTMH4" --output SD_Best_VGM_0401_with_vid_id_IQDiMzoTMH4.json
-python downloader.py --youtubeid="4J99hnghz4Y" --output SD_Best_VGM_0402_with_vid_id_4J99hnghz4Y.json
-python downloader.py --youtubeid="KnTyM5OmRAM" --output SD_Best_VGM_0403_with_vid_id_KnTyM5OmRAM.json
-python downloader.py --youtubeid="Ie1zB5PHwEw" --output SD_Best_VGM_0404_with_vid_id_Ie1zB5PHwEw.json
-python downloader.py --youtubeid="P3FU2NOzUEU" --output SD_Best_VGM_0405_with_vid_id_P3FU2NOzUEU.json
-python downloader.py --youtubeid="VvMkmsgHWMo" --output SD_Best_VGM_0406_with_vid_id_VvMkmsgHWMo.json
-python downloader.py --youtubeid="rhCzbGrG7DU" --output SD_Best_VGM_0407_with_vid_id_rhCzbGrG7DU.json
-python downloader.py --youtubeid="v0toUGs93No" --output SD_Best_VGM_0408_with_vid_id_v0toUGs93No.json
-python downloader.py --youtubeid="ErlBKXnOHiQ" --output SD_Best_VGM_0409_with_vid_id_ErlBKXnOHiQ.json
-python downloader.py --youtubeid="0H5YoFv09uQ" --output SD_Best_VGM_0410_with_vid_id_0H5YoFv09uQ.json
-python downloader.py --youtubeid="Bk_NDMKfiVE" --output SD_Best_VGM_0411_with_vid_id_Bk_NDMKfiVE.json
-python downloader.py --youtubeid="APW3ZX8FvvE" --output SD_Best_VGM_0412_with_vid_id_APW3ZX8FvvE.json
-python downloader.py --youtubeid="c47-Y-y_dqI" --output SD_Best_VGM_0413_with_vid_id_c47-Y-y_dqI.json
-python downloader.py --youtubeid="tEXf3XFGFrY" --output SD_Best_VGM_0414_with_vid_id_tEXf3XFGFrY.json
-python downloader.py --youtubeid="4JJEaVI3JRs" --output SD_Best_VGM_0415_with_vid_id_4JJEaVI3JRs.json
-python downloader.py --youtubeid="PUZ8r9MJczQ" --output SD_Best_VGM_0416_with_vid_id_PUZ8r9MJczQ.json
-python downloader.py --youtubeid="rltCi97DQ7Y" --output SD_Best_VGM_0417_with_vid_id_rltCi97DQ7Y.json
-python downloader.py --youtubeid="DbQdgOVOjSU" --output SD_Best_VGM_0418_with_vid_id_DbQdgOVOjSU.json
-python downloader.py --youtubeid="yh8dWsIVCD8" --output SD_Best_VGM_0419_with_vid_id_yh8dWsIVCD8.json
-python downloader.py --youtubeid="9GvO7CWsWEg" --output SD_Best_VGM_0420_with_vid_id_9GvO7CWsWEg.json
-python downloader.py --youtubeid="MfsFZsPiw3M" --output SD_Best_VGM_0421_with_vid_id_MfsFZsPiw3M.json
-python downloader.py --youtubeid="aWh7crjCWlM" --output SD_Best_VGM_0422_with_vid_id_aWh7crjCWlM.json
-python downloader.py --youtubeid="0mmvYvsN32Q" --output SD_Best_VGM_0423_with_vid_id_0mmvYvsN32Q.json
-python downloader.py --youtubeid="HXxA7QJTycA" --output SD_Best_VGM_0424_with_vid_id_HXxA7QJTycA.json
-python downloader.py --youtubeid="GyuReqv2Rnc" --output SD_Best_VGM_0425_with_vid_id_GyuReqv2Rnc.json
-python downloader.py --youtubeid="4f6siAA3C9M" --output SD_Best_VGM_0426_with_vid_id_4f6siAA3C9M.json
-python downloader.py --youtubeid="WCGk_7V5IGk" --output SD_Best_VGM_0427_with_vid_id_WCGk_7V5IGk.json
-python downloader.py --youtubeid="ihi7tI8Kaxc" --output SD_Best_VGM_0428_with_vid_id_ihi7tI8Kaxc.json
-python downloader.py --youtubeid="ITQVlvGsSDA" --output SD_Best_VGM_0429_with_vid_id_ITQVlvGsSDA.json
-python downloader.py --youtubeid="SsFYXts6EeE" --output SD_Best_VGM_0430_with_vid_id_SsFYXts6EeE.json
-python downloader.py --youtubeid="CqAXFK8U32U" --output SD_Best_VGM_0431_with_vid_id_CqAXFK8U32U.json
-python downloader.py --youtubeid="j2zAq26hqd8" --output SD_Best_VGM_0432_with_vid_id_j2zAq26hqd8.json
-python downloader.py --youtubeid="CHQ56GSPi2I" --output SD_Best_VGM_0433_with_vid_id_CHQ56GSPi2I.json
-python downloader.py --youtubeid="rLM_wOEsOUk" --output SD_Best_VGM_0434_with_vid_id_rLM_wOEsOUk.json
-python downloader.py --youtubeid="_BdvaCCUsYo" --output SD_Best_VGM_0435_with_vid_id__BdvaCCUsYo.json
-python downloader.py --youtubeid="5niLxq7_yN4" --output SD_Best_VGM_0436_with_vid_id_5niLxq7_yN4.json
-python downloader.py --youtubeid="nJgwF3gw9Xg" --output SD_Best_VGM_0437_with_vid_id_nJgwF3gw9Xg.json
-python downloader.py --youtubeid="FDAMxLKY2EY" --output SD_Best_VGM_0438_with_vid_id_FDAMxLKY2EY.json
-python downloader.py --youtubeid="TSlDUPl7DoA" --output SD_Best_VGM_0439_with_vid_id_TSlDUPl7DoA.json
-python downloader.py --youtubeid="NOomtJrX_MA" --output SD_Best_VGM_0440_with_vid_id_NOomtJrX_MA.json
-python downloader.py --youtubeid="Nd2O6mbhCLU" --output SD_Best_VGM_0441_with_vid_id_Nd2O6mbhCLU.json
-python downloader.py --youtubeid="hb6Ny-4Pb7o" --output SD_Best_VGM_0442_with_vid_id_hb6Ny-4Pb7o.json
-python downloader.py --youtubeid="gW0DiDKWgWc" --output SD_Best_VGM_0443_with_vid_id_gW0DiDKWgWc.json
-python downloader.py --youtubeid="Ia1BEcALLX0" --output SD_Best_VGM_0444_with_vid_id_Ia1BEcALLX0.json
-python downloader.py --youtubeid="b9OZwTLtrl4" --output SD_Best_VGM_0445_with_vid_id_b9OZwTLtrl4.json
-python downloader.py --youtubeid="eyhLabJvb2M" --output SD_Best_VGM_0446_with_vid_id_eyhLabJvb2M.json
-python downloader.py --youtubeid="14gpqf8JP-Y" --output SD_Best_VGM_0447_with_vid_id_14gpqf8JP-Y.json
-python downloader.py --youtubeid="81-SoTxMmiI" --output SD_Best_VGM_0448_with_vid_id_81-SoTxMmiI.json
-python downloader.py --youtubeid="W8Y2EuSrz-k" --output SD_Best_VGM_0449_with_vid_id_W8Y2EuSrz-k.json
-python downloader.py --youtubeid="He7jFaamHHk" --output SD_Best_VGM_0450_with_vid_id_He7jFaamHHk.json
-python downloader.py --youtubeid="m2Vlxyd9Wjw" --output SD_Best_VGM_0451_with_vid_id_m2Vlxyd9Wjw.json
-python downloader.py --youtubeid="cKQZVFIuyko" --output SD_Best_VGM_0452_with_vid_id_cKQZVFIuyko.json
-python downloader.py --youtubeid="b3Ayzzo8eZo" --output SD_Best_VGM_0453_with_vid_id_b3Ayzzo8eZo.json
-python downloader.py --youtubeid="W8-GDfP2xNM" --output SD_Best_VGM_0454_with_vid_id_W8-GDfP2xNM.json
-python downloader.py --youtubeid="6paAqMXurdA" --output SD_Best_VGM_0455_with_vid_id_6paAqMXurdA.json
-python downloader.py --youtubeid="Z167OL2CQJw" --output SD_Best_VGM_0456_with_vid_id_Z167OL2CQJw.json
-python downloader.py --youtubeid="jgtKSnmM5oE" --output SD_Best_VGM_0457_with_vid_id_jgtKSnmM5oE.json
-python downloader.py --youtubeid="eNXv3L_ebrk" --output SD_Best_VGM_0458_with_vid_id_eNXv3L_ebrk.json
-python downloader.py --youtubeid="B_QTkyu2Ssk" --output SD_Best_VGM_0459_with_vid_id_B_QTkyu2Ssk.json
-python downloader.py --youtubeid="00mLin2YU54" --output SD_Best_VGM_0460_with_vid_id_00mLin2YU54.json
-python downloader.py --youtubeid="X68AlSKY0d8" --output SD_Best_VGM_0461_with_vid_id_X68AlSKY0d8.json
-python downloader.py --youtubeid="XhlM0eFM8F4" --output SD_Best_VGM_0462_with_vid_id_XhlM0eFM8F4.json
-python downloader.py --youtubeid="aatRnG3Tkmg" --output SD_Best_VGM_0463_with_vid_id_aatRnG3Tkmg.json
-python downloader.py --youtubeid="2c1e5ASpwjk" --output SD_Best_VGM_0464_with_vid_id_2c1e5ASpwjk.json
-python downloader.py --youtubeid="jL57YsG1JJE" --output SD_Best_VGM_0465_with_vid_id_jL57YsG1JJE.json
-python downloader.py --youtubeid="7Y9ea3Ph7FI" --output SD_Best_VGM_0466_with_vid_id_7Y9ea3Ph7FI.json
-python downloader.py --youtubeid="0E-_TG7vGP0" --output SD_Best_VGM_0467_with_vid_id_0E-_TG7vGP0.json
-python downloader.py --youtubeid="mG9BcQEApoI" --output SD_Best_VGM_0468_with_vid_id_mG9BcQEApoI.json
-python downloader.py --youtubeid="1THa11egbMI" --output SD_Best_VGM_0469_with_vid_id_1THa11egbMI.json
-python downloader.py --youtubeid="GCiOjOMciOI" --output SD_Best_VGM_0470_with_vid_id_GCiOjOMciOI.json
-python downloader.py --youtubeid="QLsVsiWgTMo" --output SD_Best_VGM_0471_with_vid_id_QLsVsiWgTMo.json
-python downloader.py --youtubeid="Nr2McZBfSmc" --output SD_Best_VGM_0472_with_vid_id_Nr2McZBfSmc.json
-python downloader.py --youtubeid="-nOJ6c1umMU" --output SD_Best_VGM_0473_with_vid_id_-nOJ6c1umMU.json
-python downloader.py --youtubeid="RVBoUZgRG68" --output SD_Best_VGM_0474_with_vid_id_RVBoUZgRG68.json
-python downloader.py --youtubeid="TO1kcFmNtTc" --output SD_Best_VGM_0475_with_vid_id_TO1kcFmNtTc.json
-python downloader.py --youtubeid="UC6_FirddSI" --output SD_Best_VGM_0476_with_vid_id_UC6_FirddSI.json
-python downloader.py --youtubeid="0Fff6en_Crc" --output SD_Best_VGM_0477_with_vid_id_0Fff6en_Crc.json
-python downloader.py --youtubeid="q5vG69CXgRs" --output SD_Best_VGM_0478_with_vid_id_q5vG69CXgRs.json
-python downloader.py --youtubeid="tvjGxtbJpMk" --output SD_Best_VGM_0479_with_vid_id_tvjGxtbJpMk.json
-python downloader.py --youtubeid="7X5-xwb6otQ" --output SD_Best_VGM_0480_with_vid_id_7X5-xwb6otQ.json
-python downloader.py --youtubeid="DIyhbwBfOwE" --output SD_Best_VGM_0481_with_vid_id_DIyhbwBfOwE.json
-python downloader.py --youtubeid="1HOQJZiKbew" --output SD_Best_VGM_0482_with_vid_id_1HOQJZiKbew.json
-python downloader.py --youtubeid="OqXhJ_eZaPI" --output SD_Best_VGM_0483_with_vid_id_OqXhJ_eZaPI.json
-python downloader.py --youtubeid="20Or4fIOgBk" --output SD_Best_VGM_0484_with_vid_id_20Or4fIOgBk.json
-python downloader.py --youtubeid="Wj17uoJLIV8" --output SD_Best_VGM_0485_with_vid_id_Wj17uoJLIV8.json
-python downloader.py --youtubeid="POAGsegLMnA" --output SD_Best_VGM_0486_with_vid_id_POAGsegLMnA.json
-python downloader.py --youtubeid="LkRfePyfoj4" --output SD_Best_VGM_0487_with_vid_id_LkRfePyfoj4.json
-python downloader.py --youtubeid="RXZ2gTXDwEc" --output SD_Best_VGM_0488_with_vid_id_RXZ2gTXDwEc.json
-python downloader.py --youtubeid="UoEyt7S10Mo" --output SD_Best_VGM_0489_with_vid_id_UoEyt7S10Mo.json
-python downloader.py --youtubeid="S0TmwLeUuBw" --output SD_Best_VGM_0490_with_vid_id_S0TmwLeUuBw.json
-python downloader.py --youtubeid="dlZyjOv5G80" --output SD_Best_VGM_0491_with_vid_id_dlZyjOv5G80.json
-python downloader.py --youtubeid="v-h3QCB_Pig" --output SD_Best_VGM_0492_with_vid_id_v-h3QCB_Pig.json
-python downloader.py --youtubeid="PzkbuitZEjE" --output SD_Best_VGM_0493_with_vid_id_PzkbuitZEjE.json
-python downloader.py --youtubeid="HyWy1vzcqGE" --output SD_Best_VGM_0494_with_vid_id_HyWy1vzcqGE.json
-python downloader.py --youtubeid="n5L0ZpcDsZw" --output SD_Best_VGM_0495_with_vid_id_n5L0ZpcDsZw.json
-python downloader.py --youtubeid="aqWw9gLgFRA" --output SD_Best_VGM_0496_with_vid_id_aqWw9gLgFRA.json
-python downloader.py --youtubeid="Ef3xB2OP8l8" --output SD_Best_VGM_0497_with_vid_id_Ef3xB2OP8l8.json
-python downloader.py --youtubeid="R2yEBE2ueuQ" --output SD_Best_VGM_0498_with_vid_id_R2yEBE2ueuQ.json
-python downloader.py --youtubeid="uYcqP1TWYOE" --output SD_Best_VGM_0499_with_vid_id_uYcqP1TWYOE.json
-python downloader.py --youtubeid="F41PKROUnhA" --output SD_Best_VGM_0500_with_vid_id_F41PKROUnhA.json
-python downloader.py --youtubeid="xzfhOQampfs" --output SD_Best_VGM_0501_with_vid_id_xzfhOQampfs.json
-python downloader.py --youtubeid="ev9G_jTIA-k" --output SD_Best_VGM_0502_with_vid_id_ev9G_jTIA-k.json
-python downloader.py --youtubeid="umh0xNPh-pY" --output SD_Best_VGM_0503_with_vid_id_umh0xNPh-pY.json
-python downloader.py --youtubeid="2AzKwVALPJU" --output SD_Best_VGM_0504_with_vid_id_2AzKwVALPJU.json
-python downloader.py --youtubeid="UdKzw6lwSuw" --output SD_Best_VGM_0505_with_vid_id_UdKzw6lwSuw.json
-python downloader.py --youtubeid="sRLoAqxsScI" --output SD_Best_VGM_0506_with_vid_id_sRLoAqxsScI.json
-python downloader.py --youtubeid="XztQyuJ4HoQ" --output SD_Best_VGM_0507_with_vid_id_XztQyuJ4HoQ.json
-python downloader.py --youtubeid="YYxvaixwybA" --output SD_Best_VGM_0508_with_vid_id_YYxvaixwybA.json
-python downloader.py --youtubeid="AbRWDpruNu4" --output SD_Best_VGM_0509_with_vid_id_AbRWDpruNu4.json
-python downloader.py --youtubeid="NnvD6RDF-SI" --output SD_Best_VGM_0510_with_vid_id_NnvD6RDF-SI.json
-python downloader.py --youtubeid="bRAT5LgAl5E" --output SD_Best_VGM_0511_with_vid_id_bRAT5LgAl5E.json
-python downloader.py --youtubeid="8OFao351gwU" --output SD_Best_VGM_0512_with_vid_id_8OFao351gwU.json
-python downloader.py --youtubeid="0KDjcSaMgfI" --output SD_Best_VGM_0513_with_vid_id_0KDjcSaMgfI.json
-python downloader.py --youtubeid="ElSUKQOF3d4" --output SD_Best_VGM_0514_with_vid_id_ElSUKQOF3d4.json
-python downloader.py --youtubeid="TXO9vzXnAeg" --output SD_Best_VGM_0515_with_vid_id_TXO9vzXnAeg.json
-python downloader.py --youtubeid="injXmLzRcBI" --output SD_Best_VGM_0516_with_vid_id_injXmLzRcBI.json
-python downloader.py --youtubeid="Z4QunenBEXI" --output SD_Best_VGM_0517_with_vid_id_Z4QunenBEXI.json
-python downloader.py --youtubeid="tQYCO5rHSQ8" --output SD_Best_VGM_0518_with_vid_id_tQYCO5rHSQ8.json
-python downloader.py --youtubeid="PAU7aZ_Pz4c" --output SD_Best_VGM_0519_with_vid_id_PAU7aZ_Pz4c.json
-python downloader.py --youtubeid="Az9XUAcErIQ" --output SD_Best_VGM_0520_with_vid_id_Az9XUAcErIQ.json
-python downloader.py --youtubeid="NFsvEFkZHoE" --output SD_Best_VGM_0521_with_vid_id_NFsvEFkZHoE.json
-python downloader.py --youtubeid="f0muXjuV6cc" --output SD_Best_VGM_0522_with_vid_id_f0muXjuV6cc.json
-python downloader.py --youtubeid="dMSjvBILQRU" --output SD_Best_VGM_0523_with_vid_id_dMSjvBILQRU.json
-python downloader.py --youtubeid="oubq22rV9sE" --output SD_Best_VGM_0524_with_vid_id_oubq22rV9sE.json
-python downloader.py --youtubeid="2WYI83Cx9Ko" --output SD_Best_VGM_0525_with_vid_id_2WYI83Cx9Ko.json
-python downloader.py --youtubeid="t9uUD60LS38" --output SD_Best_VGM_0526_with_vid_id_t9uUD60LS38.json
-python downloader.py --youtubeid="JwSV7nP5wcs" --output SD_Best_VGM_0527_with_vid_id_JwSV7nP5wcs.json
-python downloader.py --youtubeid="cO1UTkT6lf8" --output SD_Best_VGM_0528_with_vid_id_cO1UTkT6lf8.json
-python downloader.py --youtubeid="2O4aNHy2Dcc" --output SD_Best_VGM_0529_with_vid_id_2O4aNHy2Dcc.json
-python downloader.py --youtubeid="Sp7xqhunH88" --output SD_Best_VGM_0530_with_vid_id_Sp7xqhunH88.json
-python downloader.py --youtubeid="IEf1ALD_TCA" --output SD_Best_VGM_0531_with_vid_id_IEf1ALD_TCA.json
-python downloader.py --youtubeid="CNUgwyd2iIA" --output SD_Best_VGM_0532_with_vid_id_CNUgwyd2iIA.json
-python downloader.py --youtubeid="rXlxR7sH3iU" --output SD_Best_VGM_0533_with_vid_id_rXlxR7sH3iU.json
-python downloader.py --youtubeid="pmQu1KRUw7U" --output SD_Best_VGM_0534_with_vid_id_pmQu1KRUw7U.json
-python downloader.py --youtubeid="R5BZKMlqbPI" --output SD_Best_VGM_0535_with_vid_id_R5BZKMlqbPI.json
-python downloader.py --youtubeid="nBWjVglSVGk" --output SD_Best_VGM_0536_with_vid_id_nBWjVglSVGk.json
-python downloader.py --youtubeid="B1e6VdnjLuA" --output SD_Best_VGM_0537_with_vid_id_B1e6VdnjLuA.json
-python downloader.py --youtubeid="XLJxqz83ujw" --output SD_Best_VGM_0538_with_vid_id_XLJxqz83ujw.json
-python downloader.py --youtubeid="cpcx0UQt4Y8" --output SD_Best_VGM_0539_with_vid_id_cpcx0UQt4Y8.json
-python downloader.py --youtubeid="dszJhqoPRf8" --output SD_Best_VGM_0540_with_vid_id_dszJhqoPRf8.json
-python downloader.py --youtubeid="novAJAlNKHk" --output SD_Best_VGM_0541_with_vid_id_novAJAlNKHk.json
-python downloader.py --youtubeid="0U_7HnAvbR8" --output SD_Best_VGM_0542_with_vid_id_0U_7HnAvbR8.json
-python downloader.py --youtubeid="b3l5v-QQF40" --output SD_Best_VGM_0543_with_vid_id_b3l5v-QQF40.json
-python downloader.py --youtubeid="VVlFM_PDBmY" --output SD_Best_VGM_0544_with_vid_id_VVlFM_PDBmY.json
-python downloader.py --youtubeid="6jp9d66QRz0" --output SD_Best_VGM_0545_with_vid_id_6jp9d66QRz0.json
-python downloader.py --youtubeid="4H_0h3n6pMk" --output SD_Best_VGM_0546_with_vid_id_4H_0h3n6pMk.json
-python downloader.py --youtubeid="gY9jq9-1LTk" --output SD_Best_VGM_0547_with_vid_id_gY9jq9-1LTk.json
-python downloader.py --youtubeid="prc_7w9i_0Q" --output SD_Best_VGM_0548_with_vid_id_prc_7w9i_0Q.json
-python downloader.py --youtubeid="A4e_sQEMC8c" --output SD_Best_VGM_0549_with_vid_id_A4e_sQEMC8c.json
-python downloader.py --youtubeid="_Ju6JostT7c" --output SD_Best_VGM_0550_with_vid_id__Ju6JostT7c.json
-python downloader.py --youtubeid="D2nWuGoRU0s" --output SD_Best_VGM_0551_with_vid_id_D2nWuGoRU0s.json
-python downloader.py --youtubeid="7m2yOHjObCM" --output SD_Best_VGM_0552_with_vid_id_7m2yOHjObCM.json
-python downloader.py --youtubeid="F7p1agUovzs" --output SD_Best_VGM_0553_with_vid_id_F7p1agUovzs.json
-python downloader.py --youtubeid="_dsKphN-mEI" --output SD_Best_VGM_0554_with_vid_id__dsKphN-mEI.json
-python downloader.py --youtubeid="oYOdCD4mWsk" --output SD_Best_VGM_0555_with_vid_id_oYOdCD4mWsk.json
-python downloader.py --youtubeid="wgAtWoPfBgQ" --output SD_Best_VGM_0556_with_vid_id_wgAtWoPfBgQ.json
-python downloader.py --youtubeid="67nrJieFVI0" --output SD_Best_VGM_0557_with_vid_id_67nrJieFVI0.json
-python downloader.py --youtubeid="cRyIPt01AVM" --output SD_Best_VGM_0558_with_vid_id_cRyIPt01AVM.json
-python downloader.py --youtubeid="coyl_h4_tjc" --output SD_Best_VGM_0559_with_vid_id_coyl_h4_tjc.json
-python downloader.py --youtubeid="uy2OQ0waaPo" --output SD_Best_VGM_0560_with_vid_id_uy2OQ0waaPo.json
-python downloader.py --youtubeid="AISrz88SJNI" --output SD_Best_VGM_0561_with_vid_id_AISrz88SJNI.json
-python downloader.py --youtubeid="sx6L5b-ACVk" --output SD_Best_VGM_0562_with_vid_id_sx6L5b-ACVk.json
-python downloader.py --youtubeid="UoBLfXPlyPA" --output SD_Best_VGM_0563_with_vid_id_UoBLfXPlyPA.json
-python downloader.py --youtubeid="4axwWk4dfe8" --output SD_Best_VGM_0564_with_vid_id_4axwWk4dfe8.json
-python downloader.py --youtubeid="IVCQ-kau7gs" --output SD_Best_VGM_0565_with_vid_id_IVCQ-kau7gs.json
-python downloader.py --youtubeid="7OHV_ByQIIw" --output SD_Best_VGM_0566_with_vid_id_7OHV_ByQIIw.json
-python downloader.py --youtubeid="_gmeGnmyn34" --output SD_Best_VGM_0567_with_vid_id__gmeGnmyn34.json
-python downloader.py --youtubeid="mSXFiU0mqik" --output SD_Best_VGM_0568_with_vid_id_mSXFiU0mqik.json
-python downloader.py --youtubeid="m9kEp_sNLJo" --output SD_Best_VGM_0569_with_vid_id_m9kEp_sNLJo.json
-python downloader.py --youtubeid="n10VyIRJj58" --output SD_Best_VGM_0570_with_vid_id_n10VyIRJj58.json
-python downloader.py --youtubeid="mzFGgwKMOKw" --output SD_Best_VGM_0571_with_vid_id_mzFGgwKMOKw.json
-python downloader.py --youtubeid="t97-JQtcpRA" --output SD_Best_VGM_0572_with_vid_id_t97-JQtcpRA.json
-python downloader.py --youtubeid="DSOvrM20tMA" --output SD_Best_VGM_0573_with_vid_id_DSOvrM20tMA.json
-python downloader.py --youtubeid="cYV7Ph-qvvI" --output SD_Best_VGM_0574_with_vid_id_cYV7Ph-qvvI.json
-python downloader.py --youtubeid="JgGPRcUgGNk" --output SD_Best_VGM_0575_with_vid_id_JgGPRcUgGNk.json
-python downloader.py --youtubeid="wXSFR4tDIUs" --output SD_Best_VGM_0576_with_vid_id_wXSFR4tDIUs.json
-python downloader.py --youtubeid="sxcTW6DlNqA" --output SD_Best_VGM_0577_with_vid_id_sxcTW6DlNqA.json
-python downloader.py --youtubeid="rcnkZCiwKPs" --output SD_Best_VGM_0578_with_vid_id_rcnkZCiwKPs.json
-python downloader.py --youtubeid="YL5Q4GybKWc" --output SD_Best_VGM_0579_with_vid_id_YL5Q4GybKWc.json
-python downloader.py --youtubeid="RkDusZ10M4c" --output SD_Best_VGM_0580_with_vid_id_RkDusZ10M4c.json
-python downloader.py --youtubeid="DPO2XhA5F3Q" --output SD_Best_VGM_0581_with_vid_id_DPO2XhA5F3Q.json
-python downloader.py --youtubeid="SwVfsXvFbno" --output SD_Best_VGM_0582_with_vid_id_SwVfsXvFbno.json
-python downloader.py --youtubeid="EeGhYL_8wtg" --output SD_Best_VGM_0583_with_vid_id_EeGhYL_8wtg.json
-python downloader.py --youtubeid="2gKlqJXIDVQ" --output SD_Best_VGM_0584_with_vid_id_2gKlqJXIDVQ.json
-python downloader.py --youtubeid="SzksdwLmxmY" --output SD_Best_VGM_0585_with_vid_id_SzksdwLmxmY.json
-python downloader.py --youtubeid="CBm1yaZOrB0" --output SD_Best_VGM_0586_with_vid_id_CBm1yaZOrB0.json
-python downloader.py --youtubeid="szxxAefjpXw" --output SD_Best_VGM_0587_with_vid_id_szxxAefjpXw.json
-python downloader.py --youtubeid="EL_jBUYPi88" --output SD_Best_VGM_0588_with_vid_id_EL_jBUYPi88.json
-python downloader.py --youtubeid="CYjYCaqshjE" --output SD_Best_VGM_0589_with_vid_id_CYjYCaqshjE.json
-python downloader.py --youtubeid="Z41vcQERnQQ" --output SD_Best_VGM_0590_with_vid_id_Z41vcQERnQQ.json
-python downloader.py --youtubeid="FQioui9YeiI" --output SD_Best_VGM_0591_with_vid_id_FQioui9YeiI.json
-python downloader.py --youtubeid="mG1D80dMhKo" --output SD_Best_VGM_0592_with_vid_id_mG1D80dMhKo.json
-python downloader.py --youtubeid="acAAz1MR_ZA" --output SD_Best_VGM_0593_with_vid_id_acAAz1MR_ZA.json
-python downloader.py --youtubeid="lLniW316mUk" --output SD_Best_VGM_0594_with_vid_id_lLniW316mUk.json
-python downloader.py --youtubeid="W_t9udYAsBE" --output SD_Best_VGM_0595_with_vid_id_W_t9udYAsBE.json
-python downloader.py --youtubeid="dWiHtzP-bc4" --output SD_Best_VGM_0596_with_vid_id_dWiHtzP-bc4.json
-python downloader.py --youtubeid="Z49Lxg65UOM" --output SD_Best_VGM_0597_with_vid_id_Z49Lxg65UOM.json
-python downloader.py --youtubeid="1ALDFlUYdcQ" --output SD_Best_VGM_0598_with_vid_id_1ALDFlUYdcQ.json
-python downloader.py --youtubeid="Kk0QDbYvtAQ" --output SD_Best_VGM_0599_with_vid_id_Kk0QDbYvtAQ.json
-python downloader.py --youtubeid="4GTm-jHQm90" --output SD_Best_VGM_0600_with_vid_id_4GTm-jHQm90.json
-python downloader.py --youtubeid="Q27un903ps0" --output SD_Best_VGM_0601_with_vid_id_Q27un903ps0.json
-python downloader.py --youtubeid="NL0AZ-oAraw" --output SD_Best_VGM_0602_with_vid_id_NL0AZ-oAraw.json
-python downloader.py --youtubeid="KX57tzysYQc" --output SD_Best_VGM_0603_with_vid_id_KX57tzysYQc.json
-python downloader.py --youtubeid="0Fbgho32K4A" --output SD_Best_VGM_0604_with_vid_id_0Fbgho32K4A.json
-python downloader.py --youtubeid="YnQ9nrcp_CE" --output SD_Best_VGM_0605_with_vid_id_YnQ9nrcp_CE.json
-python downloader.py --youtubeid="WBawD9gcECk" --output SD_Best_VGM_0606_with_vid_id_WBawD9gcECk.json
-python downloader.py --youtubeid="4Rh6wmLE8FU" --output SD_Best_VGM_0607_with_vid_id_4Rh6wmLE8FU.json
-python downloader.py --youtubeid="wEkfscyZEfE" --output SD_Best_VGM_0608_with_vid_id_wEkfscyZEfE.json
-python downloader.py --youtubeid="CksHdwwG1yw" --output SD_Best_VGM_0609_with_vid_id_CksHdwwG1yw.json
-python downloader.py --youtubeid="ZuM618JZgww" --output SD_Best_VGM_0610_with_vid_id_ZuM618JZgww.json
-python downloader.py --youtubeid="Ft-qnOD77V4" --output SD_Best_VGM_0611_with_vid_id_Ft-qnOD77V4.json
-python downloader.py --youtubeid="476siHQiW0k" --output SD_Best_VGM_0612_with_vid_id_476siHQiW0k.json
-python downloader.py --youtubeid="nj2d8U-CO9E" --output SD_Best_VGM_0613_with_vid_id_nj2d8U-CO9E.json
-python downloader.py --youtubeid="JS8vCLXX5Pg" --output SD_Best_VGM_0614_with_vid_id_JS8vCLXX5Pg.json
-python downloader.py --youtubeid="GC99a8VRsIw" --output SD_Best_VGM_0615_with_vid_id_GC99a8VRsIw.json
-python downloader.py --youtubeid="u6Fa28hef7I" --output SD_Best_VGM_0616_with_vid_id_u6Fa28hef7I.json
-python downloader.py --youtubeid="BfVmj3QGQDw" --output SD_Best_VGM_0617_with_vid_id_BfVmj3QGQDw.json
-python downloader.py --youtubeid="h5iAyksrXgc" --output SD_Best_VGM_0618_with_vid_id_h5iAyksrXgc.json
-python downloader.py --youtubeid="bFk3mS6VVsE" --output SD_Best_VGM_0619_with_vid_id_bFk3mS6VVsE.json
-python downloader.py --youtubeid="a5WtWa8lL7Y" --output SD_Best_VGM_0620_with_vid_id_a5WtWa8lL7Y.json
-python downloader.py --youtubeid="kNgI7N5k5Zo" --output SD_Best_VGM_0621_with_vid_id_kNgI7N5k5Zo.json
-python downloader.py --youtubeid="wBUVdh4mVDc" --output SD_Best_VGM_0622_with_vid_id_wBUVdh4mVDc.json
-python downloader.py --youtubeid="sVnly-OASsI" --output SD_Best_VGM_0623_with_vid_id_sVnly-OASsI.json
-python downloader.py --youtubeid="Qnz_S0QgaLA" --output SD_Best_VGM_0624_with_vid_id_Qnz_S0QgaLA.json
-python downloader.py --youtubeid="dylldXUC20U" --output SD_Best_VGM_0625_with_vid_id_dylldXUC20U.json
-python downloader.py --youtubeid="mngXThXnpwY" --output SD_Best_VGM_0626_with_vid_id_mngXThXnpwY.json
-python downloader.py --youtubeid="gLu7Bh0lTPs" --output SD_Best_VGM_0627_with_vid_id_gLu7Bh0lTPs.json
-python downloader.py --youtubeid="3lhiseKpDDY" --output SD_Best_VGM_0628_with_vid_id_3lhiseKpDDY.json
-python downloader.py --youtubeid="MthR2dXqWHI" --output SD_Best_VGM_0629_with_vid_id_MthR2dXqWHI.json
-python downloader.py --youtubeid="n9QNuhs__8s" --output SD_Best_VGM_0630_with_vid_id_n9QNuhs__8s.json
-python downloader.py --youtubeid="dfykPUgPns8" --output SD_Best_VGM_0631_with_vid_id_dfykPUgPns8.json
-python downloader.py --youtubeid="fexAY_t4N8U" --output SD_Best_VGM_0632_with_vid_id_fexAY_t4N8U.json
-python downloader.py --youtubeid="wE8p0WBW4zo" --output SD_Best_VGM_0633_with_vid_id_wE8p0WBW4zo.json
-python downloader.py --youtubeid="16sK7JwZ9nI" --output SD_Best_VGM_0634_with_vid_id_16sK7JwZ9nI.json
-python downloader.py --youtubeid="VdYkebbduH8" --output SD_Best_VGM_0635_with_vid_id_VdYkebbduH8.json
-python downloader.py --youtubeid="70oTg2go0XU" --output SD_Best_VGM_0636_with_vid_id_70oTg2go0XU.json
-python downloader.py --youtubeid="_ttw1JCEiZE" --output SD_Best_VGM_0637_with_vid_id__ttw1JCEiZE.json
-python downloader.py --youtubeid="VpyUtWCMrb4" --output SD_Best_VGM_0638_with_vid_id_VpyUtWCMrb4.json
-python downloader.py --youtubeid="5pQMJEzNwtM" --output SD_Best_VGM_0639_with_vid_id_5pQMJEzNwtM.json
-python downloader.py --youtubeid="wFJYhWhioPI" --output SD_Best_VGM_0640_with_vid_id_wFJYhWhioPI.json
-python downloader.py --youtubeid="h_suLF-Qy5U" --output SD_Best_VGM_0641_with_vid_id_h_suLF-Qy5U.json
-python downloader.py --youtubeid="heD3Rzhrnaw" --output SD_Best_VGM_0642_with_vid_id_heD3Rzhrnaw.json
-python downloader.py --youtubeid="FCB7Dhm8RuY" --output SD_Best_VGM_0643_with_vid_id_FCB7Dhm8RuY.json
-python downloader.py --youtubeid="LpxUHj-a_UI" --output SD_Best_VGM_0644_with_vid_id_LpxUHj-a_UI.json
-python downloader.py --youtubeid="reOJi31i9JM" --output SD_Best_VGM_0645_with_vid_id_reOJi31i9JM.json
-python downloader.py --youtubeid="6uo5ripzKwc" --output SD_Best_VGM_0646_with_vid_id_6uo5ripzKwc.json
-python downloader.py --youtubeid="13Uk8RB6kzQ" --output SD_Best_VGM_0647_with_vid_id_13Uk8RB6kzQ.json
-python downloader.py --youtubeid="ZJjaiYyES4w" --output SD_Best_VGM_0648_with_vid_id_ZJjaiYyES4w.json
-python downloader.py --youtubeid="745hAPheACw" --output SD_Best_VGM_0649_with_vid_id_745hAPheACw.json
-python downloader.py --youtubeid="E99qxCMb05g" --output SD_Best_VGM_0650_with_vid_id_E99qxCMb05g.json
-python downloader.py --youtubeid="Yx-m8z-cbzo" --output SD_Best_VGM_0651_with_vid_id_Yx-m8z-cbzo.json
-python downloader.py --youtubeid="b0kqwEbkSag" --output SD_Best_VGM_0652_with_vid_id_b0kqwEbkSag.json
-python downloader.py --youtubeid="Ff_r_6N8PII" --output SD_Best_VGM_0653_with_vid_id_Ff_r_6N8PII.json
-python downloader.py --youtubeid="IS-bZp4WW4w" --output SD_Best_VGM_0654_with_vid_id_IS-bZp4WW4w.json
-python downloader.py --youtubeid="loh0SQ_SF2s" --output SD_Best_VGM_0655_with_vid_id_loh0SQ_SF2s.json
-python downloader.py --youtubeid="GWaooxrlseo" --output SD_Best_VGM_0656_with_vid_id_GWaooxrlseo.json
-python downloader.py --youtubeid="s-kTMBeDy40" --output SD_Best_VGM_0657_with_vid_id_s-kTMBeDy40.json
-python downloader.py --youtubeid="LQ0uDk5i_s0" --output SD_Best_VGM_0658_with_vid_id_LQ0uDk5i_s0.json
-python downloader.py --youtubeid="ZgvsIvHJTds" --output SD_Best_VGM_0659_with_vid_id_ZgvsIvHJTds.json
-python downloader.py --youtubeid="kEA-4iS0sco" --output SD_Best_VGM_0660_with_vid_id_kEA-4iS0sco.json
-python downloader.py --youtubeid="cMxOAeESteU" --output SD_Best_VGM_0661_with_vid_id_cMxOAeESteU.json
-python downloader.py --youtubeid="V4tmMcpWm_I" --output SD_Best_VGM_0662_with_vid_id_V4tmMcpWm_I.json
-python downloader.py --youtubeid="U_Ox-uIbalo" --output SD_Best_VGM_0663_with_vid_id_U_Ox-uIbalo.json
-python downloader.py --youtubeid="wuFKdtvNOp0" --output SD_Best_VGM_0664_with_vid_id_wuFKdtvNOp0.json
-python downloader.py --youtubeid="6fA_EQBPB94" --output SD_Best_VGM_0665_with_vid_id_6fA_EQBPB94.json
-python downloader.py --youtubeid="Z9UnlYHogTE" --output SD_Best_VGM_0666_with_vid_id_Z9UnlYHogTE.json
-python downloader.py --youtubeid="6R8jGeVw-9Y" --output SD_Best_VGM_0667_with_vid_id_6R8jGeVw-9Y.json
-python downloader.py --youtubeid="ZW-eiSBpG8E" --output SD_Best_VGM_0668_with_vid_id_ZW-eiSBpG8E.json
-python downloader.py --youtubeid="f2XcqUwycvA" --output SD_Best_VGM_0669_with_vid_id_f2XcqUwycvA.json
-python downloader.py --youtubeid="SrINCHeDeGI" --output SD_Best_VGM_0670_with_vid_id_SrINCHeDeGI.json
-python downloader.py --youtubeid="kyaC_jSV_fw" --output SD_Best_VGM_0671_with_vid_id_kyaC_jSV_fw.json
-python downloader.py --youtubeid="xFUvAJTiSH4" --output SD_Best_VGM_0672_with_vid_id_xFUvAJTiSH4.json
-python downloader.py --youtubeid="Nw7bbb1mNHo" --output SD_Best_VGM_0673_with_vid_id_Nw7bbb1mNHo.json
-python downloader.py --youtubeid="sUc3p5sojmw" --output SD_Best_VGM_0674_with_vid_id_sUc3p5sojmw.json
-python downloader.py --youtubeid="myjd1MnZx5Y" --output SD_Best_VGM_0675_with_vid_id_myjd1MnZx5Y.json
-python downloader.py --youtubeid="XCfYHd-9Szw" --output SD_Best_VGM_0676_with_vid_id_XCfYHd-9Szw.json
-python downloader.py --youtubeid="njoqMF6xebE" --output SD_Best_VGM_0677_with_vid_id_njoqMF6xebE.json
-python downloader.py --youtubeid="pOK5gWEnEPY" --output SD_Best_VGM_0678_with_vid_id_pOK5gWEnEPY.json
-python downloader.py --youtubeid="xKxhEqH7UU0" --output SD_Best_VGM_0679_with_vid_id_xKxhEqH7UU0.json
-python downloader.py --youtubeid="cvpGCTUGi8o" --output SD_Best_VGM_0680_with_vid_id_cvpGCTUGi8o.json
-python downloader.py --youtubeid="s_Z71tcVVVg" --output SD_Best_VGM_0681_with_vid_id_s_Z71tcVVVg.json
-python downloader.py --youtubeid="rhaQM_Vpiko" --output SD_Best_VGM_0682_with_vid_id_rhaQM_Vpiko.json
-python downloader.py --youtubeid="HHun7iYtbFU" --output SD_Best_VGM_0683_with_vid_id_HHun7iYtbFU.json
-python downloader.py --youtubeid="M4FN0sBxFoE" --output SD_Best_VGM_0684_with_vid_id_M4FN0sBxFoE.json
-python downloader.py --youtubeid="QXd1P54rIzQ" --output SD_Best_VGM_0685_with_vid_id_QXd1P54rIzQ.json
-python downloader.py --youtubeid="Jgm24MNQigg" --output SD_Best_VGM_0686_with_vid_id_Jgm24MNQigg.json
-python downloader.py --youtubeid="5WSE5sLUTnk" --output SD_Best_VGM_0687_with_vid_id_5WSE5sLUTnk.json
-python downloader.py --youtubeid="dG4ZCzodq4g" --output SD_Best_VGM_0688_with_vid_id_dG4ZCzodq4g.json
-python downloader.py --youtubeid="Y9a5VahqzOE" --output SD_Best_VGM_0689_with_vid_id_Y9a5VahqzOE.json
-python downloader.py --youtubeid="8gGv1TdQaMI" --output SD_Best_VGM_0690_with_vid_id_8gGv1TdQaMI.json
-python downloader.py --youtubeid="2NGWhKhMojQ" --output SD_Best_VGM_0691_with_vid_id_2NGWhKhMojQ.json
-python downloader.py --youtubeid="iFa5bIrsWb0" --output SD_Best_VGM_0692_with_vid_id_iFa5bIrsWb0.json
-python downloader.py --youtubeid="vgD6IngCtyU" --output SD_Best_VGM_0693_with_vid_id_vgD6IngCtyU.json
-python downloader.py --youtubeid="-czsPXU_Sn0" --output SD_Best_VGM_0694_with_vid_id_-czsPXU_Sn0.json
-python downloader.py --youtubeid="Wqv5wxKDSIo" --output SD_Best_VGM_0695_with_vid_id_Wqv5wxKDSIo.json
-python downloader.py --youtubeid="cmyK3FdTu_Q" --output SD_Best_VGM_0696_with_vid_id_cmyK3FdTu_Q.json
-python downloader.py --youtubeid="554IOtmsavA" --output SD_Best_VGM_0697_with_vid_id_554IOtmsavA.json
-python downloader.py --youtubeid="5Em0e5SdYs0" --output SD_Best_VGM_0698_with_vid_id_5Em0e5SdYs0.json
-python downloader.py --youtubeid="9QVLuksB-d8" --output SD_Best_VGM_0699_with_vid_id_9QVLuksB-d8.json
-python downloader.py --youtubeid="XnHysmcf31o" --output SD_Best_VGM_0700_with_vid_id_XnHysmcf31o.json
-python downloader.py --youtubeid="wPCmweLoa8Q" --output SD_Best_VGM_0701_with_vid_id_wPCmweLoa8Q.json
-python downloader.py --youtubeid="rY3n4qQZTWY" --output SD_Best_VGM_0702_with_vid_id_rY3n4qQZTWY.json
-python downloader.py --youtubeid="xgn1eHG_lr8" --output SD_Best_VGM_0703_with_vid_id_xgn1eHG_lr8.json
-python downloader.py --youtubeid="tnAXbjXucPc" --output SD_Best_VGM_0704_with_vid_id_tnAXbjXucPc.json
-python downloader.py --youtubeid="p-dor7Fj3GM" --output SD_Best_VGM_0705_with_vid_id_p-dor7Fj3GM.json
-python downloader.py --youtubeid="Gt-QIiYkAOU" --output SD_Best_VGM_0706_with_vid_id_Gt-QIiYkAOU.json
-python downloader.py --youtubeid="seaPEjQkn74" --output SD_Best_VGM_0707_with_vid_id_seaPEjQkn74.json
-python downloader.py --youtubeid="XZEuJnSFz9U" --output SD_Best_VGM_0708_with_vid_id_XZEuJnSFz9U.json
-python downloader.py --youtubeid="FR-TFI71s6w" --output SD_Best_VGM_0709_with_vid_id_FR-TFI71s6w.json
-python downloader.py --youtubeid="zCP7hfY8LPo" --output SD_Best_VGM_0710_with_vid_id_zCP7hfY8LPo.json
-python downloader.py --youtubeid="0F0ONH92OoY" --output SD_Best_VGM_0711_with_vid_id_0F0ONH92OoY.json
-python downloader.py --youtubeid="X3rxfNjBGqQ" --output SD_Best_VGM_0712_with_vid_id_X3rxfNjBGqQ.json
-python downloader.py --youtubeid="euk6wHmRBNY" --output SD_Best_VGM_0713_with_vid_id_euk6wHmRBNY.json
-python downloader.py --youtubeid="ixE9HlQv7v8" --output SD_Best_VGM_0714_with_vid_id_ixE9HlQv7v8.json
-python downloader.py --youtubeid="j16ZcZf9Xz8" --output SD_Best_VGM_0715_with_vid_id_j16ZcZf9Xz8.json
-python downloader.py --youtubeid="p48dpXQixgk" --output SD_Best_VGM_0716_with_vid_id_p48dpXQixgk.json
-python downloader.py --youtubeid="pQVuAGSKofs" --output SD_Best_VGM_0717_with_vid_id_pQVuAGSKofs.json
-python downloader.py --youtubeid="JzPKClyQ1rQ" --output SD_Best_VGM_0718_with_vid_id_JzPKClyQ1rQ.json
-python downloader.py --youtubeid="UHAEjRndMwg" --output SD_Best_VGM_0719_with_vid_id_UHAEjRndMwg.json
-python downloader.py --youtubeid="7JIkz4g0dQc" --output SD_Best_VGM_0720_with_vid_id_7JIkz4g0dQc.json
-python downloader.py --youtubeid="QZiTBVot5xE" --output SD_Best_VGM_0721_with_vid_id_QZiTBVot5xE.json
-python downloader.py --youtubeid="14-tduXVhNQ" --output SD_Best_VGM_0722_with_vid_id_14-tduXVhNQ.json
-python downloader.py --youtubeid="qs3lqJnkMX8" --output SD_Best_VGM_0723_with_vid_id_qs3lqJnkMX8.json
-python downloader.py --youtubeid="_Gnu2AttTPI" --output SD_Best_VGM_0724_with_vid_id__Gnu2AttTPI.json
-python downloader.py --youtubeid="N74vegXRMNk" --output SD_Best_VGM_0725_with_vid_id_N74vegXRMNk.json
-python downloader.py --youtubeid="moDNdAfZkww" --output SD_Best_VGM_0726_with_vid_id_moDNdAfZkww.json
-python downloader.py --youtubeid="lPFndohdCuI" --output SD_Best_VGM_0727_with_vid_id_lPFndohdCuI.json
-python downloader.py --youtubeid="gDL6uizljVk" --output SD_Best_VGM_0728_with_vid_id_gDL6uizljVk.json
-python downloader.py --youtubeid="-Q-S4wQOcr8" --output SD_Best_VGM_0729_with_vid_id_-Q-S4wQOcr8.json
-python downloader.py --youtubeid="HijQBbE0WiQ" --output SD_Best_VGM_0730_with_vid_id_HijQBbE0WiQ.json
-python downloader.py --youtubeid="Yh0LHDiWJNk" --output SD_Best_VGM_0731_with_vid_id_Yh0LHDiWJNk.json
-python downloader.py --youtubeid="iDVMfUFs_jo" --output SD_Best_VGM_0732_with_vid_id_iDVMfUFs_jo.json
-python downloader.py --youtubeid="B_ed-ZF9yR0" --output SD_Best_VGM_0733_with_vid_id_B_ed-ZF9yR0.json
-python downloader.py --youtubeid="h2AhfGXAPtk" --output SD_Best_VGM_0734_with_vid_id_h2AhfGXAPtk.json
-python downloader.py --youtubeid="57aCSLmg9hA" --output SD_Best_VGM_0735_with_vid_id_57aCSLmg9hA.json
-python downloader.py --youtubeid="Y8Z8C0kziMw" --output SD_Best_VGM_0736_with_vid_id_Y8Z8C0kziMw.json
-python downloader.py --youtubeid="x9S3GnJ3_WQ" --output SD_Best_VGM_0737_with_vid_id_x9S3GnJ3_WQ.json
-python downloader.py --youtubeid="rz_aiHo3aJg" --output SD_Best_VGM_0738_with_vid_id_rz_aiHo3aJg.json
-python downloader.py --youtubeid="NP3EK1Kr1sQ" --output SD_Best_VGM_0739_with_vid_id_NP3EK1Kr1sQ.json
-python downloader.py --youtubeid="tzi9trLh9PE" --output SD_Best_VGM_0740_with_vid_id_tzi9trLh9PE.json
-python downloader.py --youtubeid="8zY_4-MBuIc" --output SD_Best_VGM_0741_with_vid_id_8zY_4-MBuIc.json
-python downloader.py --youtubeid="BkmbbZZOgKg" --output SD_Best_VGM_0742_with_vid_id_BkmbbZZOgKg.json
-python downloader.py --youtubeid="QuSSx8dmAXQ" --output SD_Best_VGM_0743_with_vid_id_QuSSx8dmAXQ.json
-python downloader.py --youtubeid="UZ9Z0YwFkyk" --output SD_Best_VGM_0744_with_vid_id_UZ9Z0YwFkyk.json
-python downloader.py --youtubeid="x0wxJHbcDYE" --output SD_Best_VGM_0745_with_vid_id_x0wxJHbcDYE.json
-python downloader.py --youtubeid="TBx-8jqiGfA" --output SD_Best_VGM_0746_with_vid_id_TBx-8jqiGfA.json
-python downloader.py --youtubeid="O0fQlDmSSvY" --output SD_Best_VGM_0747_with_vid_id_O0fQlDmSSvY.json
-python downloader.py --youtubeid="4fMd_2XeXLA" --output SD_Best_VGM_0748_with_vid_id_4fMd_2XeXLA.json
-python downloader.py --youtubeid="Se-9zpPonwM" --output SD_Best_VGM_0749_with_vid_id_Se-9zpPonwM.json
-python downloader.py --youtubeid="ye960O2B3Ao" --output SD_Best_VGM_0750_with_vid_id_ye960O2B3Ao.json
-python downloader.py --youtubeid="q8ZKmxmWqhY" --output SD_Best_VGM_0751_with_vid_id_q8ZKmxmWqhY.json
-python downloader.py --youtubeid="8pJ4Q7L9rBs" --output SD_Best_VGM_0752_with_vid_id_8pJ4Q7L9rBs.json
-python downloader.py --youtubeid="gVGhVofDPb4" --output SD_Best_VGM_0753_with_vid_id_gVGhVofDPb4.json
-python downloader.py --youtubeid="7F3KhzpImm4" --output SD_Best_VGM_0754_with_vid_id_7F3KhzpImm4.json
-python downloader.py --youtubeid="FrhLXDBP-2Q" --output SD_Best_VGM_0755_with_vid_id_FrhLXDBP-2Q.json
-python downloader.py --youtubeid="nUiZp8hb42I" --output SD_Best_VGM_0756_with_vid_id_nUiZp8hb42I.json
-python downloader.py --youtubeid="Y_RoEPwYLug" --output SD_Best_VGM_0757_with_vid_id_Y_RoEPwYLug.json
-python downloader.py --youtubeid="1agK890YmvQ" --output SD_Best_VGM_0758_with_vid_id_1agK890YmvQ.json
-python downloader.py --youtubeid="fcJLdQZ4F8o" --output SD_Best_VGM_0759_with_vid_id_fcJLdQZ4F8o.json
-python downloader.py --youtubeid="WYRFMUNIUVw" --output SD_Best_VGM_0760_with_vid_id_WYRFMUNIUVw.json
-python downloader.py --youtubeid="NVRgpAmkmPg" --output SD_Best_VGM_0761_with_vid_id_NVRgpAmkmPg.json
-python downloader.py --youtubeid="LGLW3qgiiB8" --output SD_Best_VGM_0762_with_vid_id_LGLW3qgiiB8.json
-python downloader.py --youtubeid="v02ZFogqSS8" --output SD_Best_VGM_0763_with_vid_id_v02ZFogqSS8.json
-python downloader.py --youtubeid="_j8AXugAZCQ" --output SD_Best_VGM_0764_with_vid_id__j8AXugAZCQ.json
-python downloader.py --youtubeid="BVLMdQfxzo4" --output SD_Best_VGM_0765_with_vid_id_BVLMdQfxzo4.json
-python downloader.py --youtubeid="SNYFdankntY" --output SD_Best_VGM_0766_with_vid_id_SNYFdankntY.json
-python downloader.py --youtubeid="acLncvJ9wHI" --output SD_Best_VGM_0767_with_vid_id_acLncvJ9wHI.json
-python downloader.py --youtubeid="Xpwy4RtRA1M" --output SD_Best_VGM_0768_with_vid_id_Xpwy4RtRA1M.json
-python downloader.py --youtubeid="Xv_VYdKzO3A" --output SD_Best_VGM_0769_with_vid_id_Xv_VYdKzO3A.json
-python downloader.py --youtubeid="ietzDT5lOpQ" --output SD_Best_VGM_0770_with_vid_id_ietzDT5lOpQ.json
-python downloader.py --youtubeid="AWB3tT7e3D8" --output SD_Best_VGM_0771_with_vid_id_AWB3tT7e3D8.json
-python downloader.py --youtubeid="cjrh4YcvptY" --output SD_Best_VGM_0772_with_vid_id_cjrh4YcvptY.json
-python downloader.py --youtubeid="8urO2NlhdiU" --output SD_Best_VGM_0773_with_vid_id_8urO2NlhdiU.json
-python downloader.py --youtubeid="XelC_ns-vro" --output SD_Best_VGM_0774_with_vid_id_XelC_ns-vro.json
-python downloader.py --youtubeid="n5eb_qUg5rY" --output SD_Best_VGM_0775_with_vid_id_n5eb_qUg5rY.json
-python downloader.py --youtubeid="SAWxsyvWcqs" --output SD_Best_VGM_0776_with_vid_id_SAWxsyvWcqs.json
-python downloader.py --youtubeid="V07qVpXUhc0" --output SD_Best_VGM_0777_with_vid_id_V07qVpXUhc0.json
-python downloader.py --youtubeid="XJllrwZzWwc" --output SD_Best_VGM_0778_with_vid_id_XJllrwZzWwc.json
-python downloader.py --youtubeid="j_EH4xCh1_U" --output SD_Best_VGM_0779_with_vid_id_j_EH4xCh1_U.json
-python downloader.py --youtubeid="rLuP2pUwK8M" --output SD_Best_VGM_0780_with_vid_id_rLuP2pUwK8M.json
-python downloader.py --youtubeid="am5TVpGwHdE" --output SD_Best_VGM_0781_with_vid_id_am5TVpGwHdE.json
-python downloader.py --youtubeid="LpO2ar64UGE" --output SD_Best_VGM_0782_with_vid_id_LpO2ar64UGE.json
-python downloader.py --youtubeid="hV3Ktwm356M" --output SD_Best_VGM_0783_with_vid_id_hV3Ktwm356M.json
-python downloader.py --youtubeid="Lj8ouSLvqzU" --output SD_Best_VGM_0784_with_vid_id_Lj8ouSLvqzU.json
-python downloader.py --youtubeid="mr1anFEQV9s" --output SD_Best_VGM_0785_with_vid_id_mr1anFEQV9s.json
-python downloader.py --youtubeid="bviyWo7xpu0" --output SD_Best_VGM_0786_with_vid_id_bviyWo7xpu0.json
-python downloader.py --youtubeid="pbmKt4bb5cs" --output SD_Best_VGM_0787_with_vid_id_pbmKt4bb5cs.json
-python downloader.py --youtubeid="tKmmcOH2xao" --output SD_Best_VGM_0788_with_vid_id_tKmmcOH2xao.json
-python downloader.py --youtubeid="6GWxoOc3TFI" --output SD_Best_VGM_0789_with_vid_id_6GWxoOc3TFI.json
-python downloader.py --youtubeid="3q_o-86lmcg" --output SD_Best_VGM_0790_with_vid_id_3q_o-86lmcg.json
-python downloader.py --youtubeid="4a767iv9VaI" --output SD_Best_VGM_0791_with_vid_id_4a767iv9VaI.json
-python downloader.py --youtubeid="cHfgcOHSTs0" --output SD_Best_VGM_0792_with_vid_id_cHfgcOHSTs0.json
-python downloader.py --youtubeid="6AZLmFaSpR0" --output SD_Best_VGM_0793_with_vid_id_6AZLmFaSpR0.json
-python downloader.py --youtubeid="xuCzPu3tHzg" --output SD_Best_VGM_0794_with_vid_id_xuCzPu3tHzg.json
-python downloader.py --youtubeid="8ZjZXguqmKM" --output SD_Best_VGM_0795_with_vid_id_8ZjZXguqmKM.json
-python downloader.py --youtubeid="y6UhV3E2H6w" --output SD_Best_VGM_0796_with_vid_id_y6UhV3E2H6w.json
-python downloader.py --youtubeid="Sw9BfnRv8Ik" --output SD_Best_VGM_0797_with_vid_id_Sw9BfnRv8Ik.json
-python downloader.py --youtubeid="p5ObFGkl_-4" --output SD_Best_VGM_0798_with_vid_id_p5ObFGkl_-4.json
-python downloader.py --youtubeid="aObuQqkoa-g" --output SD_Best_VGM_0799_with_vid_id_aObuQqkoa-g.json
-python downloader.py --youtubeid="8lmjoPgEWb4" --output SD_Best_VGM_0800_with_vid_id_8lmjoPgEWb4.json
-python downloader.py --youtubeid="OXWqqshHuYs" --output SD_Best_VGM_0801_with_vid_id_OXWqqshHuYs.json
-python downloader.py --youtubeid="-IsFD_jw6lM" --output SD_Best_VGM_0802_with_vid_id_-IsFD_jw6lM.json
-python downloader.py --youtubeid="6IadffCqEQw" --output SD_Best_VGM_0803_with_vid_id_6IadffCqEQw.json
-python downloader.py --youtubeid="KZA1PegcwIg" --output SD_Best_VGM_0804_with_vid_id_KZA1PegcwIg.json
-python downloader.py --youtubeid="xY86oDk6Ces" --output SD_Best_VGM_0805_with_vid_id_xY86oDk6Ces.json
-python downloader.py --youtubeid="O1Ysg-0v7aQ" --output SD_Best_VGM_0806_with_vid_id_O1Ysg-0v7aQ.json
-python downloader.py --youtubeid="QkgA1qgTsdQ" --output SD_Best_VGM_0807_with_vid_id_QkgA1qgTsdQ.json
-python downloader.py --youtubeid="4ugpeNkSyMc" --output SD_Best_VGM_0808_with_vid_id_4ugpeNkSyMc.json
-python downloader.py --youtubeid="_i9LIgKpgkc" --output SD_Best_VGM_0809_with_vid_id__i9LIgKpgkc.json
-python downloader.py --youtubeid="MhjEEbyuJME" --output SD_Best_VGM_0810_with_vid_id_MhjEEbyuJME.json
-python downloader.py --youtubeid="pxcx_BACNQE" --output SD_Best_VGM_0811_with_vid_id_pxcx_BACNQE.json
-python downloader.py --youtubeid="aDbohXp2oEs" --output SD_Best_VGM_0812_with_vid_id_aDbohXp2oEs.json
-python downloader.py --youtubeid="9sVb_cb7Skg" --output SD_Best_VGM_0813_with_vid_id_9sVb_cb7Skg.json
-python downloader.py --youtubeid="vbzmtIEujzk" --output SD_Best_VGM_0814_with_vid_id_vbzmtIEujzk.json
-python downloader.py --youtubeid="8IP_IsXL7b4" --output SD_Best_VGM_0815_with_vid_id_8IP_IsXL7b4.json
-python downloader.py --youtubeid="FJ976LQSY-k" --output SD_Best_VGM_0816_with_vid_id_FJ976LQSY-k.json
-python downloader.py --youtubeid="U9z3oWS0Qo0" --output SD_Best_VGM_0817_with_vid_id_U9z3oWS0Qo0.json
-python downloader.py --youtubeid="XxMf4BdVq_g" --output SD_Best_VGM_0818_with_vid_id_XxMf4BdVq_g.json
-python downloader.py --youtubeid="0Lo8Q5tL0WQ" --output SD_Best_VGM_0819_with_vid_id_0Lo8Q5tL0WQ.json
-python downloader.py --youtubeid="GIhf0yU94q4" --output SD_Best_VGM_0820_with_vid_id_GIhf0yU94q4.json
-python downloader.py --youtubeid="46WQk6Qvne8" --output SD_Best_VGM_0821_with_vid_id_46WQk6Qvne8.json
-python downloader.py --youtubeid="dGzGSapPGL8" --output SD_Best_VGM_0822_with_vid_id_dGzGSapPGL8.json
-python downloader.py --youtubeid="_RHmWJyCsAM" --output SD_Best_VGM_0823_with_vid_id__RHmWJyCsAM.json
-python downloader.py --youtubeid="8xWWLSlQPeI" --output SD_Best_VGM_0824_with_vid_id_8xWWLSlQPeI.json
-python downloader.py --youtubeid="29dJ6XlsMds" --output SD_Best_VGM_0825_with_vid_id_29dJ6XlsMds.json
-python downloader.py --youtubeid="gIlGulCdwB4" --output SD_Best_VGM_0826_with_vid_id_gIlGulCdwB4.json
-python downloader.py --youtubeid="RSlUnXWm9hM" --output SD_Best_VGM_0827_with_vid_id_RSlUnXWm9hM.json
-python downloader.py --youtubeid="Zn8GP0TifCc" --output SD_Best_VGM_0828_with_vid_id_Zn8GP0TifCc.json
-python downloader.py --youtubeid="Su5Z-NHGXLc" --output SD_Best_VGM_0829_with_vid_id_Su5Z-NHGXLc.json
-python downloader.py --youtubeid="eKiz8PrTvSs" --output SD_Best_VGM_0830_with_vid_id_eKiz8PrTvSs.json
-python downloader.py --youtubeid="qnJDEN-JOzY" --output SD_Best_VGM_0831_with_vid_id_qnJDEN-JOzY.json
-python downloader.py --youtubeid="1DFIYMTnlzo" --output SD_Best_VGM_0832_with_vid_id_1DFIYMTnlzo.json
-python downloader.py --youtubeid="E3PKlQUYNTw" --output SD_Best_VGM_0833_with_vid_id_E3PKlQUYNTw.json
-python downloader.py --youtubeid="6JdMvEBtFSE" --output SD_Best_VGM_0834_with_vid_id_6JdMvEBtFSE.json
-python downloader.py --youtubeid="rd3QIW5ds4Q" --output SD_Best_VGM_0835_with_vid_id_rd3QIW5ds4Q.json
-python downloader.py --youtubeid="T9kK9McaCoE" --output SD_Best_VGM_0836_with_vid_id_T9kK9McaCoE.json
-python downloader.py --youtubeid="XKeXXWBYTkE" --output SD_Best_VGM_0837_with_vid_id_XKeXXWBYTkE.json
-python downloader.py --youtubeid="6AuCTNAJz_M" --output SD_Best_VGM_0838_with_vid_id_6AuCTNAJz_M.json
-python downloader.py --youtubeid="mPhy1ylhj7E" --output SD_Best_VGM_0839_with_vid_id_mPhy1ylhj7E.json
-python downloader.py --youtubeid="NGJp1-tPT54" --output SD_Best_VGM_0840_with_vid_id_NGJp1-tPT54.json
-python downloader.py --youtubeid="Ubu3U44i5Ic" --output SD_Best_VGM_0841_with_vid_id_Ubu3U44i5Ic.json
-python downloader.py --youtubeid="DZQ1P_oafJ0" --output SD_Best_VGM_0842_with_vid_id_DZQ1P_oafJ0.json
-python downloader.py --youtubeid="jXGaW3dKaHs" --output SD_Best_VGM_0843_with_vid_id_jXGaW3dKaHs.json
-python downloader.py --youtubeid="ki_ralGwQN4" --output SD_Best_VGM_0844_with_vid_id_ki_ralGwQN4.json
-python downloader.py --youtubeid="wPZgCJwBSgI" --output SD_Best_VGM_0845_with_vid_id_wPZgCJwBSgI.json
-python downloader.py --youtubeid="AkKMlbmq6mc" --output SD_Best_VGM_0846_with_vid_id_AkKMlbmq6mc.json
-python downloader.py --youtubeid="1s7lAVqC0Ps" --output SD_Best_VGM_0847_with_vid_id_1s7lAVqC0Ps.json
-python downloader.py --youtubeid="pETxZAqgYgQ" --output SD_Best_VGM_0848_with_vid_id_pETxZAqgYgQ.json
-python downloader.py --youtubeid="Z-LAcjwV74M" --output SD_Best_VGM_0849_with_vid_id_Z-LAcjwV74M.json
-python downloader.py --youtubeid="YzELBO_3HzE" --output SD_Best_VGM_0850_with_vid_id_YzELBO_3HzE.json
-python downloader.py --youtubeid="vCqkxI9eu44" --output SD_Best_VGM_0851_with_vid_id_vCqkxI9eu44.json
-python downloader.py --youtubeid="CoQrXSc_PPw" --output SD_Best_VGM_0852_with_vid_id_CoQrXSc_PPw.json
-python downloader.py --youtubeid="_OM5A6JwHig" --output SD_Best_VGM_0853_with_vid_id__OM5A6JwHig.json
-python downloader.py --youtubeid="1gZaH16gqgk" --output SD_Best_VGM_0854_with_vid_id_1gZaH16gqgk.json
-python downloader.py --youtubeid="02VD6G-JD4w" --output SD_Best_VGM_0855_with_vid_id_02VD6G-JD4w.json
-python downloader.py --youtubeid="a8hAxP__AKw" --output SD_Best_VGM_0856_with_vid_id_a8hAxP__AKw.json
-python downloader.py --youtubeid="dyFj_MfRg3I" --output SD_Best_VGM_0857_with_vid_id_dyFj_MfRg3I.json
-python downloader.py --youtubeid="pgacxbSdObw" --output SD_Best_VGM_0858_with_vid_id_pgacxbSdObw.json
-python downloader.py --youtubeid="1R1-hXIeiKI" --output SD_Best_VGM_0859_with_vid_id_1R1-hXIeiKI.json
-python downloader.py --youtubeid="01n8imWdT6g" --output SD_Best_VGM_0860_with_vid_id_01n8imWdT6g.json
-python downloader.py --youtubeid="u3S8CGo_klk" --output SD_Best_VGM_0861_with_vid_id_u3S8CGo_klk.json
-python downloader.py --youtubeid="2qDajCHTkWc" --output SD_Best_VGM_0862_with_vid_id_2qDajCHTkWc.json
-python downloader.py --youtubeid="lFOBRmPK-Qs" --output SD_Best_VGM_0863_with_vid_id_lFOBRmPK-Qs.json
-python downloader.py --youtubeid="bDH8AIok0IM" --output SD_Best_VGM_0864_with_vid_id_bDH8AIok0IM.json
-python downloader.py --youtubeid="e9uvCvvlMn4" --output SD_Best_VGM_0865_with_vid_id_e9uvCvvlMn4.json
-python downloader.py --youtubeid="zLXJ6l4Gxsg" --output SD_Best_VGM_0866_with_vid_id_zLXJ6l4Gxsg.json
-python downloader.py --youtubeid="rZ2sNdqELMY" --output SD_Best_VGM_0867_with_vid_id_rZ2sNdqELMY.json
-python downloader.py --youtubeid="Nw5cfSRvFSA" --output SD_Best_VGM_0868_with_vid_id_Nw5cfSRvFSA.json
-python downloader.py --youtubeid="hMd5T_RlE_o" --output SD_Best_VGM_0869_with_vid_id_hMd5T_RlE_o.json
-python downloader.py --youtubeid="elvSWFGFOQs" --output SD_Best_VGM_0870_with_vid_id_elvSWFGFOQs.json
-python downloader.py --youtubeid="BSVBfElvom8" --output SD_Best_VGM_0871_with_vid_id_BSVBfElvom8.json
-python downloader.py --youtubeid="zojcLdL7UTw" --output SD_Best_VGM_0872_with_vid_id_zojcLdL7UTw.json
-python downloader.py --youtubeid="zO9y6EH6jVw" --output SD_Best_VGM_0873_with_vid_id_zO9y6EH6jVw.json
-python downloader.py --youtubeid="sl22D3F1954" --output SD_Best_VGM_0874_with_vid_id_sl22D3F1954.json
-python downloader.py --youtubeid="rADeZTd9qBc" --output SD_Best_VGM_0875_with_vid_id_rADeZTd9qBc.json
-python downloader.py --youtubeid="h4VF0mL35as" --output SD_Best_VGM_0876_with_vid_id_h4VF0mL35as.json
-python downloader.py --youtubeid="QYnrEDKTB-k" --output SD_Best_VGM_0877_with_vid_id_QYnrEDKTB-k.json
-python downloader.py --youtubeid="uxETfaBcSYo" --output SD_Best_VGM_0878_with_vid_id_uxETfaBcSYo.json
-python downloader.py --youtubeid="3vYAXZs8pFU" --output SD_Best_VGM_0879_with_vid_id_3vYAXZs8pFU.json
-python downloader.py --youtubeid="OYr-B_KWM50" --output SD_Best_VGM_0880_with_vid_id_OYr-B_KWM50.json
-python downloader.py --youtubeid="H3fQtYVwpx4" --output SD_Best_VGM_0881_with_vid_id_H3fQtYVwpx4.json
-python downloader.py --youtubeid="R6BoWeWh2Fg" --output SD_Best_VGM_0882_with_vid_id_R6BoWeWh2Fg.json
-python downloader.py --youtubeid="ytp_EVRf8_I" --output SD_Best_VGM_0883_with_vid_id_ytp_EVRf8_I.json
-python downloader.py --youtubeid="d0akzKhBl2k" --output SD_Best_VGM_0884_with_vid_id_d0akzKhBl2k.json
-python downloader.py --youtubeid="3Y8toBvkRpc" --output SD_Best_VGM_0885_with_vid_id_3Y8toBvkRpc.json
-python downloader.py --youtubeid="4HHlWg5iZDs" --output SD_Best_VGM_0886_with_vid_id_4HHlWg5iZDs.json
-python downloader.py --youtubeid="e6cvikWAAEo" --output SD_Best_VGM_0887_with_vid_id_e6cvikWAAEo.json
-python downloader.py --youtubeid="K_jigRSuN-g" --output SD_Best_VGM_0888_with_vid_id_K_jigRSuN-g.json
-python downloader.py --youtubeid="R1DRTdnR0qU" --output SD_Best_VGM_0889_with_vid_id_R1DRTdnR0qU.json
-python downloader.py --youtubeid="LlokRNcURKM" --output SD_Best_VGM_0890_with_vid_id_LlokRNcURKM.json
-python downloader.py --youtubeid="ARTuLmKjA7g" --output SD_Best_VGM_0891_with_vid_id_ARTuLmKjA7g.json
-python downloader.py --youtubeid="2bd4NId7GiA" --output SD_Best_VGM_0892_with_vid_id_2bd4NId7GiA.json
-python downloader.py --youtubeid="X8CGqt3N4GA" --output SD_Best_VGM_0893_with_vid_id_X8CGqt3N4GA.json
-python downloader.py --youtubeid="mbPpGeTPbjM" --output SD_Best_VGM_0894_with_vid_id_mbPpGeTPbjM.json
-python downloader.py --youtubeid="YJcuMHvodN4" --output SD_Best_VGM_0895_with_vid_id_YJcuMHvodN4.json
-python downloader.py --youtubeid="0_8CS1mrfFA" --output SD_Best_VGM_0896_with_vid_id_0_8CS1mrfFA.json
-python downloader.py --youtubeid="QtW1BBAufvM" --output SD_Best_VGM_0897_with_vid_id_QtW1BBAufvM.json
-python downloader.py --youtubeid="fjNJqcuFD-A" --output SD_Best_VGM_0898_with_vid_id_fjNJqcuFD-A.json
-python downloader.py --youtubeid="Q1TnrjE909c" --output SD_Best_VGM_0899_with_vid_id_Q1TnrjE909c.json
-python downloader.py --youtubeid="bO2wTaoCguc" --output SD_Best_VGM_0900_with_vid_id_bO2wTaoCguc.json
-python downloader.py --youtubeid="XMc9xjrnySg" --output SD_Best_VGM_0901_with_vid_id_XMc9xjrnySg.json
-python downloader.py --youtubeid="ccHauz5l5Kc" --output SD_Best_VGM_0902_with_vid_id_ccHauz5l5Kc.json
-python downloader.py --youtubeid="ML-kTPHnwKI" --output SD_Best_VGM_0903_with_vid_id_ML-kTPHnwKI.json
-python downloader.py --youtubeid="ft5DP1h8jsg" --output SD_Best_VGM_0904_with_vid_id_ft5DP1h8jsg.json
-python downloader.py --youtubeid="dSwUFI18s7s" --output SD_Best_VGM_0905_with_vid_id_dSwUFI18s7s.json
-python downloader.py --youtubeid="VfvadCcVXCo" --output SD_Best_VGM_0906_with_vid_id_VfvadCcVXCo.json
-python downloader.py --youtubeid="-GouzQ8y5Cc" --output SD_Best_VGM_0907_with_vid_id_-GouzQ8y5Cc.json
-python downloader.py --youtubeid="roRsBf_kQps" --output SD_Best_VGM_0908_with_vid_id_roRsBf_kQps.json
-python downloader.py --youtubeid="-LLr-88UG1U" --output SD_Best_VGM_0909_with_vid_id_-LLr-88UG1U.json
-python downloader.py --youtubeid="feZJtZnevAM" --output SD_Best_VGM_0910_with_vid_id_feZJtZnevAM.json
-python downloader.py --youtubeid="ZrDAjeoPR7A" --output SD_Best_VGM_0911_with_vid_id_ZrDAjeoPR7A.json
-python downloader.py --youtubeid="1_8u5eDjEwY" --output SD_Best_VGM_0912_with_vid_id_1_8u5eDjEwY.json
-python downloader.py --youtubeid="S3k1zdbBhRQ" --output SD_Best_VGM_0913_with_vid_id_S3k1zdbBhRQ.json
-python downloader.py --youtubeid="EHAbZoBjQEw" --output SD_Best_VGM_0914_with_vid_id_EHAbZoBjQEw.json
-python downloader.py --youtubeid="WLorUNfzJy8" --output SD_Best_VGM_0915_with_vid_id_WLorUNfzJy8.json
-python downloader.py --youtubeid="m2q8wtFHbyY" --output SD_Best_VGM_0916_with_vid_id_m2q8wtFHbyY.json
-python downloader.py --youtubeid="1CJ69ZxnVOs" --output SD_Best_VGM_0917_with_vid_id_1CJ69ZxnVOs.json
-python downloader.py --youtubeid="S87W-Rnag1E" --output SD_Best_VGM_0918_with_vid_id_S87W-Rnag1E.json
-python downloader.py --youtubeid="9v_B9wv_qTw" --output SD_Best_VGM_0919_with_vid_id_9v_B9wv_qTw.json
-python downloader.py --youtubeid="WeVAeMWeFNo" --output SD_Best_VGM_0920_with_vid_id_WeVAeMWeFNo.json
-python downloader.py --youtubeid="1RBvXjg_QAc" --output SD_Best_VGM_0921_with_vid_id_1RBvXjg_QAc.json
-python downloader.py --youtubeid="nuXnaXgt2MM" --output SD_Best_VGM_0922_with_vid_id_nuXnaXgt2MM.json
-python downloader.py --youtubeid="jaG1I-7dYvY" --output SD_Best_VGM_0923_with_vid_id_jaG1I-7dYvY.json
-python downloader.py --youtubeid="-TG5VLGPdRc" --output SD_Best_VGM_0924_with_vid_id_-TG5VLGPdRc.json
-python downloader.py --youtubeid="e-r3yVxzwe0" --output SD_Best_VGM_0925_with_vid_id_e-r3yVxzwe0.json
-python downloader.py --youtubeid="52f2DQl8eGE" --output SD_Best_VGM_0926_with_vid_id_52f2DQl8eGE.json
-python downloader.py --youtubeid="_thDGKkVgIE" --output SD_Best_VGM_0927_with_vid_id__thDGKkVgIE.json
-python downloader.py --youtubeid="TVKAMsRwIUk" --output SD_Best_VGM_0928_with_vid_id_TVKAMsRwIUk.json
-python downloader.py --youtubeid="ooohjN5k5QE" --output SD_Best_VGM_0929_with_vid_id_ooohjN5k5QE.json
-python downloader.py --youtubeid="r5A1MkzCX-s" --output SD_Best_VGM_0930_with_vid_id_r5A1MkzCX-s.json
-python downloader.py --youtubeid="4RPbxVl6z5I" --output SD_Best_VGM_0931_with_vid_id_4RPbxVl6z5I.json
-python downloader.py --youtubeid="BMpvrfwD7Hg" --output SD_Best_VGM_0932_with_vid_id_BMpvrfwD7Hg.json
-python downloader.py --youtubeid="7RDRhAKsLHo" --output SD_Best_VGM_0933_with_vid_id_7RDRhAKsLHo.json
-python downloader.py --youtubeid="ucXYUeyQ6iM" --output SD_Best_VGM_0934_with_vid_id_ucXYUeyQ6iM.json
-python downloader.py --youtubeid="MffE4TpsHto" --output SD_Best_VGM_0935_with_vid_id_MffE4TpsHto.json
-python downloader.py --youtubeid="8qy4-VeSnYk" --output SD_Best_VGM_0936_with_vid_id_8qy4-VeSnYk.json
-python downloader.py --youtubeid="C8aVq5yQPD8" --output SD_Best_VGM_0937_with_vid_id_C8aVq5yQPD8.json
-python downloader.py --youtubeid="MTThoxoAVoI" --output SD_Best_VGM_0938_with_vid_id_MTThoxoAVoI.json
-python downloader.py --youtubeid="zawNmXL36zM" --output SD_Best_VGM_0939_with_vid_id_zawNmXL36zM.json
-python downloader.py --youtubeid="Os2q1_PkgzY" --output SD_Best_VGM_0940_with_vid_id_Os2q1_PkgzY.json
-python downloader.py --youtubeid="ny2ludAFStY" --output SD_Best_VGM_0941_with_vid_id_ny2ludAFStY.json
-python downloader.py --youtubeid="8IVlnImPqQA" --output SD_Best_VGM_0942_with_vid_id_8IVlnImPqQA.json
-python downloader.py --youtubeid="v_9EdBLmHcE" --output SD_Best_VGM_0943_with_vid_id_v_9EdBLmHcE.json
-python downloader.py --youtubeid="16e2Okdc-PQ" --output SD_Best_VGM_0944_with_vid_id_16e2Okdc-PQ.json
-python downloader.py --youtubeid="zsuBQNO7tps" --output SD_Best_VGM_0945_with_vid_id_zsuBQNO7tps.json
-python downloader.py --youtubeid="SXQsmY_Px8Q" --output SD_Best_VGM_0946_with_vid_id_SXQsmY_Px8Q.json
-python downloader.py --youtubeid="C7r8sJbeOJc" --output SD_Best_VGM_0947_with_vid_id_C7r8sJbeOJc.json
-python downloader.py --youtubeid="aci_luVBju4" --output SD_Best_VGM_0948_with_vid_id_aci_luVBju4.json
-python downloader.py --youtubeid="QiX-xWrkNZs" --output SD_Best_VGM_0949_with_vid_id_QiX-xWrkNZs.json
-python downloader.py --youtubeid="cwmHupo9oSQ" --output SD_Best_VGM_0950_with_vid_id_cwmHupo9oSQ.json
-python downloader.py --youtubeid="IUAZtA-hHsw" --output SD_Best_VGM_0951_with_vid_id_IUAZtA-hHsw.json
-python downloader.py --youtubeid="MH00uDOwD28" --output SD_Best_VGM_0952_with_vid_id_MH00uDOwD28.json
-python downloader.py --youtubeid="rZn6QE_iVzA" --output SD_Best_VGM_0953_with_vid_id_rZn6QE_iVzA.json
-python downloader.py --youtubeid="QdLD2Wop_3k" --output SD_Best_VGM_0954_with_vid_id_QdLD2Wop_3k.json
-python downloader.py --youtubeid="pDW_nN8EkjM" --output SD_Best_VGM_0955_with_vid_id_pDW_nN8EkjM.json
-python downloader.py --youtubeid="Jb83GX7k_08" --output SD_Best_VGM_0956_with_vid_id_Jb83GX7k_08.json
-python downloader.py --youtubeid="YD19UMTxu4I" --output SD_Best_VGM_0957_with_vid_id_YD19UMTxu4I.json
-python downloader.py --youtubeid="VZIA6ZoLBEA" --output SD_Best_VGM_0958_with_vid_id_VZIA6ZoLBEA.json
-python downloader.py --youtubeid="evVH7gshLs8" --output SD_Best_VGM_0959_with_vid_id_evVH7gshLs8.json
-python downloader.py --youtubeid="7d8nmKL5hbU" --output SD_Best_VGM_0960_with_vid_id_7d8nmKL5hbU.json
-python downloader.py --youtubeid="Ct54E7GryFQ" --output SD_Best_VGM_0961_with_vid_id_Ct54E7GryFQ.json
-python downloader.py --youtubeid="hL7-cD9LDp0" --output SD_Best_VGM_0962_with_vid_id_hL7-cD9LDp0.json
-python downloader.py --youtubeid="IjZaRBbmVUc" --output SD_Best_VGM_0963_with_vid_id_IjZaRBbmVUc.json
-python downloader.py --youtubeid="BxYfQBNFVSw" --output SD_Best_VGM_0964_with_vid_id_BxYfQBNFVSw.json
-python downloader.py --youtubeid="MjeghICMVDY" --output SD_Best_VGM_0965_with_vid_id_MjeghICMVDY.json
-python downloader.py --youtubeid="4DmNrnj6wUI" --output SD_Best_VGM_0966_with_vid_id_4DmNrnj6wUI.json
-python downloader.py --youtubeid="qnvYRm_8Oy8" --output SD_Best_VGM_0967_with_vid_id_qnvYRm_8Oy8.json
-python downloader.py --youtubeid="MlhPnFjCfwc" --output SD_Best_VGM_0968_with_vid_id_MlhPnFjCfwc.json
-python downloader.py --youtubeid="P01-ckCZtCo" --output SD_Best_VGM_0969_with_vid_id_P01-ckCZtCo.json
-python downloader.py --youtubeid="zB-n8fx-Dig" --output SD_Best_VGM_0970_with_vid_id_zB-n8fx-Dig.json
-python downloader.py --youtubeid="KDVUlqp8aFM" --output SD_Best_VGM_0971_with_vid_id_KDVUlqp8aFM.json
-python downloader.py --youtubeid="qEozZuqRbgQ" --output SD_Best_VGM_0972_with_vid_id_qEozZuqRbgQ.json
-python downloader.py --youtubeid="Jg5M1meS6wI" --output SD_Best_VGM_0973_with_vid_id_Jg5M1meS6wI.json
-python downloader.py --youtubeid="clyy2eKqdC0" --output SD_Best_VGM_0974_with_vid_id_clyy2eKqdC0.json
-python downloader.py --youtubeid="d2dB0PuWotU" --output SD_Best_VGM_0975_with_vid_id_d2dB0PuWotU.json
-python downloader.py --youtubeid="mh9iibxyg14" --output SD_Best_VGM_0976_with_vid_id_mh9iibxyg14.json
-python downloader.py --youtubeid="JRKOBmaENoE" --output SD_Best_VGM_0977_with_vid_id_JRKOBmaENoE.json
-python downloader.py --youtubeid="ung2q_BVXWY" --output SD_Best_VGM_0978_with_vid_id_ung2q_BVXWY.json
-python downloader.py --youtubeid="hB3mYnW-v4w" --output SD_Best_VGM_0979_with_vid_id_hB3mYnW-v4w.json
-python downloader.py --youtubeid="WcM38YKdk44" --output SD_Best_VGM_0980_with_vid_id_WcM38YKdk44.json
-python downloader.py --youtubeid="zxZROhq4Lz0" --output SD_Best_VGM_0981_with_vid_id_zxZROhq4Lz0.json
-python downloader.py --youtubeid="w4b-3x2wqpw" --output SD_Best_VGM_0982_with_vid_id_w4b-3x2wqpw.json
-python downloader.py --youtubeid="gSLIlAVZ6Eo" --output SD_Best_VGM_0983_with_vid_id_gSLIlAVZ6Eo.json
-python downloader.py --youtubeid="xx9uLg6pYc0" --output SD_Best_VGM_0984_with_vid_id_xx9uLg6pYc0.json
-python downloader.py --youtubeid="Iu4MCoIyV94" --output SD_Best_VGM_0985_with_vid_id_Iu4MCoIyV94.json
-python downloader.py --youtubeid="gokt9KTpf18" --output SD_Best_VGM_0986_with_vid_id_gokt9KTpf18.json
-python downloader.py --youtubeid="1QHyvhnEe2g" --output SD_Best_VGM_0987_with_vid_id_1QHyvhnEe2g.json
-python downloader.py --youtubeid="B4JvKl7nvL0" --output SD_Best_VGM_0988_with_vid_id_B4JvKl7nvL0.json
-python downloader.py --youtubeid="HGMjMDE-gAY" --output SD_Best_VGM_0989_with_vid_id_HGMjMDE-gAY.json
-python downloader.py --youtubeid="gzl9oJstIgg" --output SD_Best_VGM_0990_with_vid_id_gzl9oJstIgg.json
-python downloader.py --youtubeid="qgJ0yQNX2cI" --output SD_Best_VGM_0991_with_vid_id_qgJ0yQNX2cI.json
-python downloader.py --youtubeid="ksq6wWbVsPY" --output SD_Best_VGM_0992_with_vid_id_ksq6wWbVsPY.json
-python downloader.py --youtubeid="WNORnKsigdQ" --output SD_Best_VGM_0993_with_vid_id_WNORnKsigdQ.json
-python downloader.py --youtubeid="WZ1TQWlSOxo" --output SD_Best_VGM_0994_with_vid_id_WZ1TQWlSOxo.json
-python downloader.py --youtubeid="72RLQGHxE08" --output SD_Best_VGM_0995_with_vid_id_72RLQGHxE08.json
-python downloader.py --youtubeid="c_ex2h9t2yk" --output SD_Best_VGM_0996_with_vid_id_c_ex2h9t2yk.json
-python downloader.py --youtubeid="g6vc_zFeHFk" --output SD_Best_VGM_0997_with_vid_id_g6vc_zFeHFk.json
-python downloader.py --youtubeid="DmaFexLIh4s" --output SD_Best_VGM_0998_with_vid_id_DmaFexLIh4s.json
-python downloader.py --youtubeid="TUZU34Sss8o" --output SD_Best_VGM_0999_with_vid_id_TUZU34Sss8o.json
-python downloader.py --youtubeid="T18nAaO_rGs" --output SD_Best_VGM_1000_with_vid_id_T18nAaO_rGs.json
-python downloader.py --youtubeid="qsDU8LC5PLI" --output SD_Best_VGM_1001_with_vid_id_qsDU8LC5PLI.json
-python downloader.py --youtubeid="2xP0dFTlxdo" --output SD_Best_VGM_1002_with_vid_id_2xP0dFTlxdo.json
-python downloader.py --youtubeid="brYzVFvM98I" --output SD_Best_VGM_1003_with_vid_id_brYzVFvM98I.json
-python downloader.py --youtubeid="uUA40z9kT6w" --output SD_Best_VGM_1004_with_vid_id_uUA40z9kT6w.json
-python downloader.py --youtubeid="i8DTcUWfmws" --output SD_Best_VGM_1005_with_vid_id_i8DTcUWfmws.json
-python downloader.py --youtubeid="Mobwl45u2J8" --output SD_Best_VGM_1006_with_vid_id_Mobwl45u2J8.json
-python downloader.py --youtubeid="SPBIT_SSzmI" --output SD_Best_VGM_1007_with_vid_id_SPBIT_SSzmI.json
-python downloader.py --youtubeid="FGtk_eaVnxQ" --output SD_Best_VGM_1008_with_vid_id_FGtk_eaVnxQ.json
-python downloader.py --youtubeid="5hc3R4Tso2k" --output SD_Best_VGM_1009_with_vid_id_5hc3R4Tso2k.json
-python downloader.py --youtubeid="jfEZs-Ada78" --output SD_Best_VGM_1010_with_vid_id_jfEZs-Ada78.json
-python downloader.py --youtubeid="WV56iJ9KFlw" --output SD_Best_VGM_1011_with_vid_id_WV56iJ9KFlw.json
-python downloader.py --youtubeid="Q7a0piUG3jM" --output SD_Best_VGM_1012_with_vid_id_Q7a0piUG3jM.json
-python downloader.py --youtubeid="NAyXKITCss8" --output SD_Best_VGM_1013_with_vid_id_NAyXKITCss8.json
-python downloader.py --youtubeid="1OzPeu60ZvU" --output SD_Best_VGM_1014_with_vid_id_1OzPeu60ZvU.json
-python downloader.py --youtubeid="Yh4e_rdWD-k" --output SD_Best_VGM_1015_with_vid_id_Yh4e_rdWD-k.json
-python downloader.py --youtubeid="74cYr5ZLeko" --output SD_Best_VGM_1016_with_vid_id_74cYr5ZLeko.json
-python downloader.py --youtubeid="GtZNgj5OUCM" --output SD_Best_VGM_1017_with_vid_id_GtZNgj5OUCM.json
-python downloader.py --youtubeid="y0PixBaf8_Y" --output SD_Best_VGM_1018_with_vid_id_y0PixBaf8_Y.json
-python downloader.py --youtubeid="DlbCke52EBQ" --output SD_Best_VGM_1019_with_vid_id_DlbCke52EBQ.json
-python downloader.py --youtubeid="V4JjpIUYPg4" --output SD_Best_VGM_1020_with_vid_id_V4JjpIUYPg4.json
-python downloader.py --youtubeid="ysLhWVbE12Y" --output SD_Best_VGM_1021_with_vid_id_ysLhWVbE12Y.json
-python downloader.py --youtubeid="6FdjTwtvKCE" --output SD_Best_VGM_1022_with_vid_id_6FdjTwtvKCE.json
-python downloader.py --youtubeid="1MVAIf-leiQ" --output SD_Best_VGM_1023_with_vid_id_1MVAIf-leiQ.json
-python downloader.py --youtubeid="OMsJdryIOQU" --output SD_Best_VGM_1024_with_vid_id_OMsJdryIOQU.json
-python downloader.py --youtubeid="-KXPZ81aUPY" --output SD_Best_VGM_1025_with_vid_id_-KXPZ81aUPY.json
-python downloader.py --youtubeid="3tpO54VR6Oo" --output SD_Best_VGM_1026_with_vid_id_3tpO54VR6Oo.json
-python downloader.py --youtubeid="J323aFuwx64" --output SD_Best_VGM_1027_with_vid_id_J323aFuwx64.json
-python downloader.py --youtubeid="_3Am7OPTsSk" --output SD_Best_VGM_1028_with_vid_id__3Am7OPTsSk.json
-python downloader.py --youtubeid="Ba4J-4bUN0w" --output SD_Best_VGM_1029_with_vid_id_Ba4J-4bUN0w.json
-python downloader.py --youtubeid="3nPLwrTvII0" --output SD_Best_VGM_1030_with_vid_id_3nPLwrTvII0.json
-python downloader.py --youtubeid="lOaWT7Y7ZNo" --output SD_Best_VGM_1031_with_vid_id_lOaWT7Y7ZNo.json
-python downloader.py --youtubeid="YYGKW8vyYXU" --output SD_Best_VGM_1032_with_vid_id_YYGKW8vyYXU.json
-python downloader.py --youtubeid="U4aEm6UufgY" --output SD_Best_VGM_1033_with_vid_id_U4aEm6UufgY.json
-python downloader.py --youtubeid="Vgxs785sqjw" --output SD_Best_VGM_1034_with_vid_id_Vgxs785sqjw.json
-python downloader.py --youtubeid="BfR5AmZcZ9g" --output SD_Best_VGM_1035_with_vid_id_BfR5AmZcZ9g.json
-python downloader.py --youtubeid="qyrLcNCBnPQ" --output SD_Best_VGM_1036_with_vid_id_qyrLcNCBnPQ.json
-python downloader.py --youtubeid="KgCLAXQow3w" --output SD_Best_VGM_1037_with_vid_id_KgCLAXQow3w.json
-python downloader.py --youtubeid="QD30b0MwpQw" --output SD_Best_VGM_1038_with_vid_id_QD30b0MwpQw.json
-python downloader.py --youtubeid="VClUpC8BwJU" --output SD_Best_VGM_1039_with_vid_id_VClUpC8BwJU.json
-python downloader.py --youtubeid="cQhqxEIAZbE" --output SD_Best_VGM_1040_with_vid_id_cQhqxEIAZbE.json
-python downloader.py --youtubeid="1saL4_XcwVA" --output SD_Best_VGM_1041_with_vid_id_1saL4_XcwVA.json
-python downloader.py --youtubeid="ZEUEQ4wlvi4" --output SD_Best_VGM_1042_with_vid_id_ZEUEQ4wlvi4.json
-python downloader.py --youtubeid="-eHjgg4cnjo" --output SD_Best_VGM_1043_with_vid_id_-eHjgg4cnjo.json
-python downloader.py --youtubeid="Tc6G2CdSVfs" --output SD_Best_VGM_1044_with_vid_id_Tc6G2CdSVfs.json
-python downloader.py --youtubeid="ku0pS3ko5CU" --output SD_Best_VGM_1045_with_vid_id_ku0pS3ko5CU.json
-python downloader.py --youtubeid="iga0Ed0BWGo" --output SD_Best_VGM_1046_with_vid_id_iga0Ed0BWGo.json
-python downloader.py --youtubeid="c8sDG4L-qrY" --output SD_Best_VGM_1047_with_vid_id_c8sDG4L-qrY.json
-python downloader.py --youtubeid="VVc6pY7njCA" --output SD_Best_VGM_1048_with_vid_id_VVc6pY7njCA.json
-python downloader.py --youtubeid="rAJS58eviIk" --output SD_Best_VGM_1049_with_vid_id_rAJS58eviIk.json
-python downloader.py --youtubeid="HwBOvdH38l0" --output SD_Best_VGM_1050_with_vid_id_HwBOvdH38l0.json
-python downloader.py --youtubeid="kNDB4L0D2wg" --output SD_Best_VGM_1051_with_vid_id_kNDB4L0D2wg.json
-python downloader.py --youtubeid="Km-cCxquP-s" --output SD_Best_VGM_1052_with_vid_id_Km-cCxquP-s.json
-python downloader.py --youtubeid="dZAOgvdXhuk" --output SD_Best_VGM_1053_with_vid_id_dZAOgvdXhuk.json
-python downloader.py --youtubeid="_eDz4_fCerk" --output SD_Best_VGM_1054_with_vid_id__eDz4_fCerk.json
-python downloader.py --youtubeid="Tms-MKKS714" --output SD_Best_VGM_1055_with_vid_id_Tms-MKKS714.json
-python downloader.py --youtubeid="6nJgdcnFtcQ" --output SD_Best_VGM_1056_with_vid_id_6nJgdcnFtcQ.json
-python downloader.py --youtubeid="rXNrtuz0vl4" --output SD_Best_VGM_1057_with_vid_id_rXNrtuz0vl4.json
-python downloader.py --youtubeid="vl6Cuvw4iyk" --output SD_Best_VGM_1058_with_vid_id_vl6Cuvw4iyk.json
-python downloader.py --youtubeid="NTfVsOnX0lY" --output SD_Best_VGM_1059_with_vid_id_NTfVsOnX0lY.json
-python downloader.py --youtubeid="Z74e6bFr5EY" --output SD_Best_VGM_1060_with_vid_id_Z74e6bFr5EY.json
-python downloader.py --youtubeid="w1tmFpEPagk" --output SD_Best_VGM_1061_with_vid_id_w1tmFpEPagk.json
-python downloader.py --youtubeid="HvyPtN7_jNk" --output SD_Best_VGM_1062_with_vid_id_HvyPtN7_jNk.json
-python downloader.py --youtubeid="jv5_zzFZMtk" --output SD_Best_VGM_1063_with_vid_id_jv5_zzFZMtk.json
-python downloader.py --youtubeid="fd6QnwqipcE" --output SD_Best_VGM_1064_with_vid_id_fd6QnwqipcE.json
-python downloader.py --youtubeid="RSm22cu707w" --output SD_Best_VGM_1065_with_vid_id_RSm22cu707w.json
-python downloader.py --youtubeid="irQxobE5PU8" --output SD_Best_VGM_1066_with_vid_id_irQxobE5PU8.json
-python downloader.py --youtubeid="FJJPaBA7264" --output SD_Best_VGM_1067_with_vid_id_FJJPaBA7264.json
-python downloader.py --youtubeid="c62hLhyF2D4" --output SD_Best_VGM_1068_with_vid_id_c62hLhyF2D4.json
-python downloader.py --youtubeid="RBxWlVGd9zE" --output SD_Best_VGM_1069_with_vid_id_RBxWlVGd9zE.json
-python downloader.py --youtubeid="lyduqdKbGSw" --output SD_Best_VGM_1070_with_vid_id_lyduqdKbGSw.json
-python downloader.py --youtubeid="GhFffRvPfig" --output SD_Best_VGM_1071_with_vid_id_GhFffRvPfig.json
-python downloader.py --youtubeid="CmMswzZkMYY" --output SD_Best_VGM_1072_with_vid_id_CmMswzZkMYY.json
-python downloader.py --youtubeid="bcHL3tGy7ws" --output SD_Best_VGM_1073_with_vid_id_bcHL3tGy7ws.json
-python downloader.py --youtubeid="grmP-wEjYKw" --output SD_Best_VGM_1074_with_vid_id_grmP-wEjYKw.json
-python downloader.py --youtubeid="4Ze5BfLk0J8" --output SD_Best_VGM_1075_with_vid_id_4Ze5BfLk0J8.json
-python downloader.py --youtubeid="kN-jdHNOq8w" --output SD_Best_VGM_1076_with_vid_id_kN-jdHNOq8w.json
-python downloader.py --youtubeid="khPWld3iA8g" --output SD_Best_VGM_1077_with_vid_id_khPWld3iA8g.json
-python downloader.py --youtubeid="w_TOt-XQnPg" --output SD_Best_VGM_1078_with_vid_id_w_TOt-XQnPg.json
-python downloader.py --youtubeid="1B0D2_zhYyM" --output SD_Best_VGM_1079_with_vid_id_1B0D2_zhYyM.json
-python downloader.py --youtubeid="PZwTdBbDmB8" --output SD_Best_VGM_1080_with_vid_id_PZwTdBbDmB8.json
-python downloader.py --youtubeid="jANl59bNb60" --output SD_Best_VGM_1081_with_vid_id_jANl59bNb60.json
-python downloader.py --youtubeid="oIPYptk_eJE" --output SD_Best_VGM_1082_with_vid_id_oIPYptk_eJE.json
-python downloader.py --youtubeid="Un0n0m8b3uE" --output SD_Best_VGM_1083_with_vid_id_Un0n0m8b3uE.json
-python downloader.py --youtubeid="9YRGh-hQq5c" --output SD_Best_VGM_1084_with_vid_id_9YRGh-hQq5c.json
-python downloader.py --youtubeid="8KX9L6YkA78" --output SD_Best_VGM_1085_with_vid_id_8KX9L6YkA78.json
-python downloader.py --youtubeid="44lJD2Xd5rc" --output SD_Best_VGM_1086_with_vid_id_44lJD2Xd5rc.json
-python downloader.py --youtubeid="qPgoOxGb6vk" --output SD_Best_VGM_1087_with_vid_id_qPgoOxGb6vk.json
-python downloader.py --youtubeid="L8TEsGhBOfI" --output SD_Best_VGM_1088_with_vid_id_L8TEsGhBOfI.json
-python downloader.py --youtubeid="sQ4aADxHssY" --output SD_Best_VGM_1089_with_vid_id_sQ4aADxHssY.json
-python downloader.py --youtubeid="AE0hhzASHwY" --output SD_Best_VGM_1090_with_vid_id_AE0hhzASHwY.json
-python downloader.py --youtubeid="BqxjLbpmUiU" --output SD_Best_VGM_1091_with_vid_id_BqxjLbpmUiU.json
-python downloader.py --youtubeid="Ru7_ew8X6i4" --output SD_Best_VGM_1092_with_vid_id_Ru7_ew8X6i4.json
-python downloader.py --youtubeid="i2E9c0j0n4A" --output SD_Best_VGM_1093_with_vid_id_i2E9c0j0n4A.json
-python downloader.py --youtubeid="dj8Qe3GUrdc" --output SD_Best_VGM_1094_with_vid_id_dj8Qe3GUrdc.json
-python downloader.py --youtubeid="m_kAJLsSGz8" --output SD_Best_VGM_1095_with_vid_id_m_kAJLsSGz8.json
-python downloader.py --youtubeid="7HMGj_KUBzU" --output SD_Best_VGM_1096_with_vid_id_7HMGj_KUBzU.json
-python downloader.py --youtubeid="iA6xXR3pwIY" --output SD_Best_VGM_1097_with_vid_id_iA6xXR3pwIY.json
-python downloader.py --youtubeid="GnwlAOp6tfI" --output SD_Best_VGM_1098_with_vid_id_GnwlAOp6tfI.json
-python downloader.py --youtubeid="0dMkx7c-uNM" --output SD_Best_VGM_1099_with_vid_id_0dMkx7c-uNM.json
-python downloader.py --youtubeid="NXr5V6umW6U" --output SD_Best_VGM_1100_with_vid_id_NXr5V6umW6U.json
-python downloader.py --youtubeid="nl57xFzDIM0" --output SD_Best_VGM_1101_with_vid_id_nl57xFzDIM0.json
-python downloader.py --youtubeid="hLKBPvLNzng" --output SD_Best_VGM_1102_with_vid_id_hLKBPvLNzng.json
-python downloader.py --youtubeid="ciM3PBf1DRs" --output SD_Best_VGM_1103_with_vid_id_ciM3PBf1DRs.json
-python downloader.py --youtubeid="OWQ4bzYMbNQ" --output SD_Best_VGM_1104_with_vid_id_OWQ4bzYMbNQ.json
-python downloader.py --youtubeid="V39OyFbkevY" --output SD_Best_VGM_1105_with_vid_id_V39OyFbkevY.json
-python downloader.py --youtubeid="7L3VJpMORxM" --output SD_Best_VGM_1106_with_vid_id_7L3VJpMORxM.json
-python downloader.py --youtubeid="YlLX3U6QfyQ" --output SD_Best_VGM_1107_with_vid_id_YlLX3U6QfyQ.json
-python downloader.py --youtubeid="fJkpSSJUxC4" --output SD_Best_VGM_1108_with_vid_id_fJkpSSJUxC4.json
-python downloader.py --youtubeid="_EYg1z-ZmUs" --output SD_Best_VGM_1109_with_vid_id__EYg1z-ZmUs.json
-python downloader.py --youtubeid="YFz1vqikCaE" --output SD_Best_VGM_1110_with_vid_id_YFz1vqikCaE.json
-python downloader.py --youtubeid="ZQGc9rG5qKo" --output SD_Best_VGM_1111_with_vid_id_ZQGc9rG5qKo.json
-python downloader.py --youtubeid="AmDE3fCW9gY" --output SD_Best_VGM_1112_with_vid_id_AmDE3fCW9gY.json
-python downloader.py --youtubeid="ww6KySR4MQ0" --output SD_Best_VGM_1113_with_vid_id_ww6KySR4MQ0.json
-python downloader.py --youtubeid="f2q9axKQFHc" --output SD_Best_VGM_1114_with_vid_id_f2q9axKQFHc.json
-python downloader.py --youtubeid="pxAH2U75BoM" --output SD_Best_VGM_1115_with_vid_id_pxAH2U75BoM.json
-python downloader.py --youtubeid="8K35MD4ZNRU" --output SD_Best_VGM_1116_with_vid_id_8K35MD4ZNRU.json
-python downloader.py --youtubeid="gmfBMy-h6Js" --output SD_Best_VGM_1117_with_vid_id_gmfBMy-h6Js.json
-python downloader.py --youtubeid="uj2mhutaEGA" --output SD_Best_VGM_1118_with_vid_id_uj2mhutaEGA.json
-python downloader.py --youtubeid="A6Qolno2AQA" --output SD_Best_VGM_1119_with_vid_id_A6Qolno2AQA.json
-python downloader.py --youtubeid="XmAMeRNX_D4" --output SD_Best_VGM_1120_with_vid_id_XmAMeRNX_D4.json
-python downloader.py --youtubeid="8qNwJeuk4gY" --output SD_Best_VGM_1121_with_vid_id_8qNwJeuk4gY.json
-python downloader.py --youtubeid="PfY_O8NPhkg" --output SD_Best_VGM_1122_with_vid_id_PfY_O8NPhkg.json
-python downloader.py --youtubeid="Xkr40w4TfZQ" --output SD_Best_VGM_1123_with_vid_id_Xkr40w4TfZQ.json
-python downloader.py --youtubeid="UOdV3Ci46jY" --output SD_Best_VGM_1124_with_vid_id_UOdV3Ci46jY.json
-python downloader.py --youtubeid="Vl9Nz-X4M68" --output SD_Best_VGM_1125_with_vid_id_Vl9Nz-X4M68.json
-python downloader.py --youtubeid="I1USJ16xqw4" --output SD_Best_VGM_1126_with_vid_id_I1USJ16xqw4.json
-python downloader.py --youtubeid="B2j3_kaReP4" --output SD_Best_VGM_1127_with_vid_id_B2j3_kaReP4.json
-python downloader.py --youtubeid="PhW7tlUisEU" --output SD_Best_VGM_1128_with_vid_id_PhW7tlUisEU.json
-python downloader.py --youtubeid="myZzE9AYI90" --output SD_Best_VGM_1129_with_vid_id_myZzE9AYI90.json
-python downloader.py --youtubeid="V2kV7vfl1SE" --output SD_Best_VGM_1130_with_vid_id_V2kV7vfl1SE.json
-python downloader.py --youtubeid="CpThkLTJjUQ" --output SD_Best_VGM_1131_with_vid_id_CpThkLTJjUQ.json
-python downloader.py --youtubeid="8mcUQ8Iv6QA" --output SD_Best_VGM_1132_with_vid_id_8mcUQ8Iv6QA.json
-python downloader.py --youtubeid="tVnjViENsds" --output SD_Best_VGM_1133_with_vid_id_tVnjViENsds.json
-python downloader.py --youtubeid="1IMUSeMsxwI" --output SD_Best_VGM_1134_with_vid_id_1IMUSeMsxwI.json
-python downloader.py --youtubeid="YmF88zf5qhM" --output SD_Best_VGM_1135_with_vid_id_YmF88zf5qhM.json
-python downloader.py --youtubeid="rzLD0vbOoco" --output SD_Best_VGM_1136_with_vid_id_rzLD0vbOoco.json
-python downloader.py --youtubeid="3tItkV0GeoY" --output SD_Best_VGM_1137_with_vid_id_3tItkV0GeoY.json
-python downloader.py --youtubeid="l5WLVNhczjE" --output SD_Best_VGM_1138_with_vid_id_l5WLVNhczjE.json
-python downloader.py --youtubeid="_Ms2ME7ufis" --output SD_Best_VGM_1139_with_vid_id__Ms2ME7ufis.json
-python downloader.py --youtubeid="OmMWlRu6pbM" --output SD_Best_VGM_1140_with_vid_id_OmMWlRu6pbM.json
-python downloader.py --youtubeid="3TjzvAGDubE" --output SD_Best_VGM_1141_with_vid_id_3TjzvAGDubE.json
-python downloader.py --youtubeid="za05W9gtegc" --output SD_Best_VGM_1142_with_vid_id_za05W9gtegc.json
-python downloader.py --youtubeid="uPU4gCjrDqg" --output SD_Best_VGM_1143_with_vid_id_uPU4gCjrDqg.json
-python downloader.py --youtubeid="A3PE47hImMo" --output SD_Best_VGM_1144_with_vid_id_A3PE47hImMo.json
-python downloader.py --youtubeid="avyGawaBrtQ" --output SD_Best_VGM_1145_with_vid_id_avyGawaBrtQ.json
-python downloader.py --youtubeid="g_Hsyo7lmQU" --output SD_Best_VGM_1146_with_vid_id_g_Hsyo7lmQU.json
-python downloader.py --youtubeid="uKWkvGnNffU" --output SD_Best_VGM_1147_with_vid_id_uKWkvGnNffU.json
-python downloader.py --youtubeid="_Wcte_8oFyM" --output SD_Best_VGM_1148_with_vid_id__Wcte_8oFyM.json
-python downloader.py --youtubeid="wHgmFPLNdW8" --output SD_Best_VGM_1149_with_vid_id_wHgmFPLNdW8.json
-python downloader.py --youtubeid="lJc9ajk9bXs" --output SD_Best_VGM_1150_with_vid_id_lJc9ajk9bXs.json
-python downloader.py --youtubeid="NlsRts7Sims" --output SD_Best_VGM_1151_with_vid_id_NlsRts7Sims.json
-python downloader.py --youtubeid="DjKfEQD892I" --output SD_Best_VGM_1152_with_vid_id_DjKfEQD892I.json
-python downloader.py --youtubeid="IwIt4zlHSWM" --output SD_Best_VGM_1153_with_vid_id_IwIt4zlHSWM.json
-python downloader.py --youtubeid="t6YVE2kp8gs" --output SD_Best_VGM_1154_with_vid_id_t6YVE2kp8gs.json
-python downloader.py --youtubeid="NUloEiKpAZU" --output SD_Best_VGM_1155_with_vid_id_NUloEiKpAZU.json
-python downloader.py --youtubeid="VpOYrLJKFUk" --output SD_Best_VGM_1156_with_vid_id_VpOYrLJKFUk.json
-python downloader.py --youtubeid="qrmzQOAASXo" --output SD_Best_VGM_1157_with_vid_id_qrmzQOAASXo.json
-python downloader.py --youtubeid="WP9081WAmiY" --output SD_Best_VGM_1158_with_vid_id_WP9081WAmiY.json
-python downloader.py --youtubeid="z513Tty2hag" --output SD_Best_VGM_1159_with_vid_id_z513Tty2hag.json
-python downloader.py --youtubeid="lhVk4Q47cgQ" --output SD_Best_VGM_1160_with_vid_id_lhVk4Q47cgQ.json
-python downloader.py --youtubeid="k3m-_uCo-b8" --output SD_Best_VGM_1161_with_vid_id_k3m-_uCo-b8.json
-python downloader.py --youtubeid="3XM9eiSys98" --output SD_Best_VGM_1162_with_vid_id_3XM9eiSys98.json
-python downloader.py --youtubeid="BimaIgvOa-A" --output SD_Best_VGM_1163_with_vid_id_BimaIgvOa-A.json
-python downloader.py --youtubeid="dtITnB_uRzc" --output SD_Best_VGM_1164_with_vid_id_dtITnB_uRzc.json
-python downloader.py --youtubeid="bmsw4ND8HNA" --output SD_Best_VGM_1165_with_vid_id_bmsw4ND8HNA.json
-python downloader.py --youtubeid="1DwQk4-Smn0" --output SD_Best_VGM_1166_with_vid_id_1DwQk4-Smn0.json
-python downloader.py --youtubeid="JXtWCWeM6uI" --output SD_Best_VGM_1167_with_vid_id_JXtWCWeM6uI.json
-python downloader.py --youtubeid="YYBmrB3bYo4" --output SD_Best_VGM_1168_with_vid_id_YYBmrB3bYo4.json
-python downloader.py --youtubeid="0Y0RwyI8j8k" --output SD_Best_VGM_1169_with_vid_id_0Y0RwyI8j8k.json
-python downloader.py --youtubeid="PMKc5Ffynzw" --output SD_Best_VGM_1170_with_vid_id_PMKc5Ffynzw.json
-python downloader.py --youtubeid="s7mVzuPSvSY" --output SD_Best_VGM_1171_with_vid_id_s7mVzuPSvSY.json
-python downloader.py --youtubeid="dQRiJz_nEP8" --output SD_Best_VGM_1172_with_vid_id_dQRiJz_nEP8.json
-python downloader.py --youtubeid="NtRlpjt5ItA" --output SD_Best_VGM_1173_with_vid_id_NtRlpjt5ItA.json
-python downloader.py --youtubeid="3bNlWGyxkCU" --output SD_Best_VGM_1174_with_vid_id_3bNlWGyxkCU.json
-python downloader.py --youtubeid="Jokz0rBmE7M" --output SD_Best_VGM_1175_with_vid_id_Jokz0rBmE7M.json
-python downloader.py --youtubeid="MqK5MvPwPsE" --output SD_Best_VGM_1176_with_vid_id_MqK5MvPwPsE.json
-python downloader.py --youtubeid="ICdhgaXXor4" --output SD_Best_VGM_1177_with_vid_id_ICdhgaXXor4.json
-python downloader.py --youtubeid="vsLJDafIEHc" --output SD_Best_VGM_1178_with_vid_id_vsLJDafIEHc.json
-python downloader.py --youtubeid="M3FytW43iOI" --output SD_Best_VGM_1179_with_vid_id_M3FytW43iOI.json
-python downloader.py --youtubeid="CcovgBkMTmE" --output SD_Best_VGM_1180_with_vid_id_CcovgBkMTmE.json
-python downloader.py --youtubeid="SvCIrLZ8hkI" --output SD_Best_VGM_1181_with_vid_id_SvCIrLZ8hkI.json
-python downloader.py --youtubeid="1yBlUvZ-taY" --output SD_Best_VGM_1182_with_vid_id_1yBlUvZ-taY.json
-python downloader.py --youtubeid="UBCtM24yyYY" --output SD_Best_VGM_1183_with_vid_id_UBCtM24yyYY.json
-python downloader.py --youtubeid="zFfgwmWuimk" --output SD_Best_VGM_1184_with_vid_id_zFfgwmWuimk.json
-python downloader.py --youtubeid="TrO0wRbqPUo" --output SD_Best_VGM_1185_with_vid_id_TrO0wRbqPUo.json
-python downloader.py --youtubeid="ZabqQ7MSsIg" --output SD_Best_VGM_1186_with_vid_id_ZabqQ7MSsIg.json
-python downloader.py --youtubeid="uDzUf4I751w" --output SD_Best_VGM_1187_with_vid_id_uDzUf4I751w.json
-python downloader.py --youtubeid="RxcQY1OUzzY" --output SD_Best_VGM_1188_with_vid_id_RxcQY1OUzzY.json
-python downloader.py --youtubeid="DKbzLuiop80" --output SD_Best_VGM_1189_with_vid_id_DKbzLuiop80.json
-python downloader.py --youtubeid="DY_Tz7UAeAY" --output SD_Best_VGM_1190_with_vid_id_DY_Tz7UAeAY.json
-python downloader.py --youtubeid="6s6Bc0QAyxU" --output SD_Best_VGM_1191_with_vid_id_6s6Bc0QAyxU.json
-python downloader.py --youtubeid="-64NlME4lJU" --output SD_Best_VGM_1192_with_vid_id_-64NlME4lJU.json
-python downloader.py --youtubeid="ifqmN14qJp8" --output SD_Best_VGM_1193_with_vid_id_ifqmN14qJp8.json
-python downloader.py --youtubeid="1iKxdUnF0Vg" --output SD_Best_VGM_1194_with_vid_id_1iKxdUnF0Vg.json
-python downloader.py --youtubeid="AJX08k_VZv8" --output SD_Best_VGM_1195_with_vid_id_AJX08k_VZv8.json
-python downloader.py --youtubeid="C31ciPeuuXU" --output SD_Best_VGM_1196_with_vid_id_C31ciPeuuXU.json
-python downloader.py --youtubeid="k4N3Go4wZCg" --output SD_Best_VGM_1197_with_vid_id_k4N3Go4wZCg.json
-python downloader.py --youtubeid="88VyZ4Lvd0c" --output SD_Best_VGM_1198_with_vid_id_88VyZ4Lvd0c.json
-python downloader.py --youtubeid="iK-g9PXhXzM" --output SD_Best_VGM_1199_with_vid_id_iK-g9PXhXzM.json
-python downloader.py --youtubeid="SA7NfjCWbZU" --output SD_Best_VGM_1200_with_vid_id_SA7NfjCWbZU.json
-python downloader.py --youtubeid="ehNS3sKQseY" --output SD_Best_VGM_1201_with_vid_id_ehNS3sKQseY.json
-python downloader.py --youtubeid="2CEZdt5n5JQ" --output SD_Best_VGM_1202_with_vid_id_2CEZdt5n5JQ.json
-python downloader.py --youtubeid="xrLiaewZZ2E" --output SD_Best_VGM_1203_with_vid_id_xrLiaewZZ2E.json
-python downloader.py --youtubeid="Ho2TE9ZfkgI" --output SD_Best_VGM_1204_with_vid_id_Ho2TE9ZfkgI.json
-python downloader.py --youtubeid="D0uYrKpNE2o" --output SD_Best_VGM_1205_with_vid_id_D0uYrKpNE2o.json
-python downloader.py --youtubeid="dWrm-lwiKj0" --output SD_Best_VGM_1206_with_vid_id_dWrm-lwiKj0.json
-python downloader.py --youtubeid="IyAs15CjGXU" --output SD_Best_VGM_1207_with_vid_id_IyAs15CjGXU.json
-python downloader.py --youtubeid="hoOeroni32A" --output SD_Best_VGM_1208_with_vid_id_hoOeroni32A.json
-python downloader.py --youtubeid="HSWAPWjg5AM" --output SD_Best_VGM_1209_with_vid_id_HSWAPWjg5AM.json
-python downloader.py --youtubeid="_YxsxsaP2T4" --output SD_Best_VGM_1210_with_vid_id__YxsxsaP2T4.json
-python downloader.py --youtubeid="OD49e9J3qbw" --output SD_Best_VGM_1211_with_vid_id_OD49e9J3qbw.json
-python downloader.py --youtubeid="PqvQvt3ePyg" --output SD_Best_VGM_1212_with_vid_id_PqvQvt3ePyg.json
-python downloader.py --youtubeid="W6O1WLDxRrY" --output SD_Best_VGM_1213_with_vid_id_W6O1WLDxRrY.json
-python downloader.py --youtubeid="T1edn6OPNRo" --output SD_Best_VGM_1214_with_vid_id_T1edn6OPNRo.json
-python downloader.py --youtubeid="I-_yzFMnclM" --output SD_Best_VGM_1215_with_vid_id_I-_yzFMnclM.json
-python downloader.py --youtubeid="0_ph5htjyl0" --output SD_Best_VGM_1216_with_vid_id_0_ph5htjyl0.json
-python downloader.py --youtubeid="7MhWtz8Nv9Q" --output SD_Best_VGM_1217_with_vid_id_7MhWtz8Nv9Q.json
-python downloader.py --youtubeid="Xm7lW0uvFpc" --output SD_Best_VGM_1218_with_vid_id_Xm7lW0uvFpc.json
-python downloader.py --youtubeid="t6-MOj2mkgE" --output SD_Best_VGM_1219_with_vid_id_t6-MOj2mkgE.json
-python downloader.py --youtubeid="-Gg6v-GMnsU" --output SD_Best_VGM_1220_with_vid_id_-Gg6v-GMnsU.json
-python downloader.py --youtubeid="yJrRo8Dqpkw" --output SD_Best_VGM_1221_with_vid_id_yJrRo8Dqpkw.json
-python downloader.py --youtubeid="xieau-Uia18" --output SD_Best_VGM_1222_with_vid_id_xieau-Uia18.json
-python downloader.py --youtubeid="1NmzdFvqzSU" --output SD_Best_VGM_1223_with_vid_id_1NmzdFvqzSU.json
-python downloader.py --youtubeid="PZBltehhkog" --output SD_Best_VGM_1224_with_vid_id_PZBltehhkog.json
-python downloader.py --youtubeid="HRAnMmwuLx4" --output SD_Best_VGM_1225_with_vid_id_HRAnMmwuLx4.json
-python downloader.py --youtubeid="eje3VwPYdBM" --output SD_Best_VGM_1226_with_vid_id_eje3VwPYdBM.json
-python downloader.py --youtubeid="9_wYMNZYaA4" --output SD_Best_VGM_1227_with_vid_id_9_wYMNZYaA4.json
-python downloader.py --youtubeid="6UWGh1A1fPw" --output SD_Best_VGM_1228_with_vid_id_6UWGh1A1fPw.json
-python downloader.py --youtubeid="bWp4F1p2I64" --output SD_Best_VGM_1229_with_vid_id_bWp4F1p2I64.json
-python downloader.py --youtubeid="EVo5O3hKVvo" --output SD_Best_VGM_1230_with_vid_id_EVo5O3hKVvo.json
-python downloader.py --youtubeid="l1O9XZupPJY" --output SD_Best_VGM_1231_with_vid_id_l1O9XZupPJY.json
-python downloader.py --youtubeid="tIiNJgLECK0" --output SD_Best_VGM_1232_with_vid_id_tIiNJgLECK0.json
-python downloader.py --youtubeid="SqWu2wRA-Rk" --output SD_Best_VGM_1233_with_vid_id_SqWu2wRA-Rk.json
-python downloader.py --youtubeid="mm-nVnt8L0g" --output SD_Best_VGM_1234_with_vid_id_mm-nVnt8L0g.json
-python downloader.py --youtubeid="fbc17iYI7PA" --output SD_Best_VGM_1235_with_vid_id_fbc17iYI7PA.json
-python downloader.py --youtubeid="TEPaoDnS6AM" --output SD_Best_VGM_1236_with_vid_id_TEPaoDnS6AM.json
-python downloader.py --youtubeid="_wbGNLXgYgE" --output SD_Best_VGM_1237_with_vid_id__wbGNLXgYgE.json
-python downloader.py --youtubeid="-WQGbuqnVlc" --output SD_Best_VGM_1238_with_vid_id_-WQGbuqnVlc.json
-python downloader.py --youtubeid="KULCV3TgyQk" --output SD_Best_VGM_1239_with_vid_id_KULCV3TgyQk.json
-python downloader.py --youtubeid="ru4pkshvp7o" --output SD_Best_VGM_1240_with_vid_id_ru4pkshvp7o.json
-python downloader.py --youtubeid="cxAbbHCpucs" --output SD_Best_VGM_1241_with_vid_id_cxAbbHCpucs.json
-python downloader.py --youtubeid="Ir_3DdPZeSg" --output SD_Best_VGM_1242_with_vid_id_Ir_3DdPZeSg.json
-python downloader.py --youtubeid="minJMBk4V9g" --output SD_Best_VGM_1243_with_vid_id_minJMBk4V9g.json
-python downloader.py --youtubeid="VzHPc-HJlfM" --output SD_Best_VGM_1244_with_vid_id_VzHPc-HJlfM.json
-python downloader.py --youtubeid="Ks9ZCaUNKx4" --output SD_Best_VGM_1245_with_vid_id_Ks9ZCaUNKx4.json
-python downloader.py --youtubeid="HUpDqe4s4do" --output SD_Best_VGM_1246_with_vid_id_HUpDqe4s4do.json
-python downloader.py --youtubeid="W0fvt7_n9CU" --output SD_Best_VGM_1247_with_vid_id_W0fvt7_n9CU.json
-python downloader.py --youtubeid="hBg-pnQpic4" --output SD_Best_VGM_1248_with_vid_id_hBg-pnQpic4.json
-python downloader.py --youtubeid="CYswIEEMIWw" --output SD_Best_VGM_1249_with_vid_id_CYswIEEMIWw.json
-python downloader.py --youtubeid="LQxlUTTrKWE" --output SD_Best_VGM_1250_with_vid_id_LQxlUTTrKWE.json
-python downloader.py --youtubeid="DxEl2p9GPnY" --output SD_Best_VGM_1251_with_vid_id_DxEl2p9GPnY.json
-python downloader.py --youtubeid="z1oW4USdB68" --output SD_Best_VGM_1252_with_vid_id_z1oW4USdB68.json
-python downloader.py --youtubeid="07EXFbZaXiM" --output SD_Best_VGM_1253_with_vid_id_07EXFbZaXiM.json
-python downloader.py --youtubeid="P7K7jzxf6iw" --output SD_Best_VGM_1254_with_vid_id_P7K7jzxf6iw.json
-python downloader.py --youtubeid="eF03eqpRxHE" --output SD_Best_VGM_1255_with_vid_id_eF03eqpRxHE.json
-python downloader.py --youtubeid="1DAD230gipE" --output SD_Best_VGM_1256_with_vid_id_1DAD230gipE.json
-python downloader.py --youtubeid="JhDblgtqx5o" --output SD_Best_VGM_1257_with_vid_id_JhDblgtqx5o.json
-python downloader.py --youtubeid="ARQfmb30M14" --output SD_Best_VGM_1258_with_vid_id_ARQfmb30M14.json
-python downloader.py --youtubeid="g2S2Lxzow3Q" --output SD_Best_VGM_1259_with_vid_id_g2S2Lxzow3Q.json
-python downloader.py --youtubeid="29h1H6neu3k" --output SD_Best_VGM_1260_with_vid_id_29h1H6neu3k.json
-python downloader.py --youtubeid="sHduBNdadTA" --output SD_Best_VGM_1261_with_vid_id_sHduBNdadTA.json
-python downloader.py --youtubeid="OegoI_0vduQ" --output SD_Best_VGM_1262_with_vid_id_OegoI_0vduQ.json
-python downloader.py --youtubeid="Z8Jf5aFCbEE" --output SD_Best_VGM_1263_with_vid_id_Z8Jf5aFCbEE.json
-python downloader.py --youtubeid="oJFAAWYju6c" --output SD_Best_VGM_1264_with_vid_id_oJFAAWYju6c.json
-python downloader.py --youtubeid="bKj3JXmYDfY" --output SD_Best_VGM_1265_with_vid_id_bKj3JXmYDfY.json
-python downloader.py --youtubeid="berZX7mPxbE" --output SD_Best_VGM_1266_with_vid_id_berZX7mPxbE.json
-python downloader.py --youtubeid="xJHVfLI5pLY" --output SD_Best_VGM_1267_with_vid_id_xJHVfLI5pLY.json
-python downloader.py --youtubeid="2r35JpoRCOk" --output SD_Best_VGM_1268_with_vid_id_2r35JpoRCOk.json
-python downloader.py --youtubeid="P2smOsHacjk" --output SD_Best_VGM_1269_with_vid_id_P2smOsHacjk.json
-python downloader.py --youtubeid="83p9uYd4peM" --output SD_Best_VGM_1270_with_vid_id_83p9uYd4peM.json
-python downloader.py --youtubeid="EdkkgkEu_NQ" --output SD_Best_VGM_1271_with_vid_id_EdkkgkEu_NQ.json
-python downloader.py --youtubeid="vY8in7gADDY" --output SD_Best_VGM_1272_with_vid_id_vY8in7gADDY.json
-python downloader.py --youtubeid="8x1E_1TY8ig" --output SD_Best_VGM_1273_with_vid_id_8x1E_1TY8ig.json
-python downloader.py --youtubeid="RHiQZ7tXSlw" --output SD_Best_VGM_1274_with_vid_id_RHiQZ7tXSlw.json
-python downloader.py --youtubeid="ae_lrtPgor0" --output SD_Best_VGM_1275_with_vid_id_ae_lrtPgor0.json
-python downloader.py --youtubeid="jI2ltHB50KU" --output SD_Best_VGM_1276_with_vid_id_jI2ltHB50KU.json
-python downloader.py --youtubeid="vtTk81cIJlg" --output SD_Best_VGM_1277_with_vid_id_vtTk81cIJlg.json
-python downloader.py --youtubeid="pyO56W8cysw" --output SD_Best_VGM_1278_with_vid_id_pyO56W8cysw.json
-python downloader.py --youtubeid="bffwco66Vnc" --output SD_Best_VGM_1279_with_vid_id_bffwco66Vnc.json
-python downloader.py --youtubeid="_2FYWCCZrNs" --output SD_Best_VGM_1280_with_vid_id__2FYWCCZrNs.json
-python downloader.py --youtubeid="3J9-q-cv_Io" --output SD_Best_VGM_1281_with_vid_id_3J9-q-cv_Io.json
-python downloader.py --youtubeid="T24J3gTL4vY" --output SD_Best_VGM_1282_with_vid_id_T24J3gTL4vY.json
-python downloader.py --youtubeid="EF7QwcRAwac" --output SD_Best_VGM_1283_with_vid_id_EF7QwcRAwac.json
-python downloader.py --youtubeid="pmKP4hR2Td0" --output SD_Best_VGM_1284_with_vid_id_pmKP4hR2Td0.json
-python downloader.py --youtubeid="RqqbUR7YxUw" --output SD_Best_VGM_1285_with_vid_id_RqqbUR7YxUw.json
-python downloader.py --youtubeid="mfOHgEeuEHE" --output SD_Best_VGM_1286_with_vid_id_mfOHgEeuEHE.json
-python downloader.py --youtubeid="2TgWzuTOXN8" --output SD_Best_VGM_1287_with_vid_id_2TgWzuTOXN8.json
-python downloader.py --youtubeid="yTe_L2AYaI4" --output SD_Best_VGM_1288_with_vid_id_yTe_L2AYaI4.json
-python downloader.py --youtubeid="1X5Y6Opw26s" --output SD_Best_VGM_1289_with_vid_id_1X5Y6Opw26s.json
-python downloader.py --youtubeid="8EaxiB6Yt5g" --output SD_Best_VGM_1290_with_vid_id_8EaxiB6Yt5g.json
-python downloader.py --youtubeid="kzId-AbowC4" --output SD_Best_VGM_1291_with_vid_id_kzId-AbowC4.json
-python downloader.py --youtubeid="bXfaBUCDX1I" --output SD_Best_VGM_1292_with_vid_id_bXfaBUCDX1I.json
-python downloader.py --youtubeid="KoPF_wOrQ6A" --output SD_Best_VGM_1293_with_vid_id_KoPF_wOrQ6A.json
-python downloader.py --youtubeid="nrNPfvs4Amc" --output SD_Best_VGM_1294_with_vid_id_nrNPfvs4Amc.json
-python downloader.py --youtubeid="6l8a_pzRcRI" --output SD_Best_VGM_1295_with_vid_id_6l8a_pzRcRI.json
-python downloader.py --youtubeid="62_S0Sl02TM" --output SD_Best_VGM_1296_with_vid_id_62_S0Sl02TM.json
-python downloader.py --youtubeid="T586T6QFjqE" --output SD_Best_VGM_1297_with_vid_id_T586T6QFjqE.json
-python downloader.py --youtubeid="JF7ucc5IH_Y" --output SD_Best_VGM_1298_with_vid_id_JF7ucc5IH_Y.json
-python downloader.py --youtubeid="G4g1SH2tEV0" --output SD_Best_VGM_1299_with_vid_id_G4g1SH2tEV0.json
-python downloader.py --youtubeid="bR4AB3xNT0c" --output SD_Best_VGM_1300_with_vid_id_bR4AB3xNT0c.json
-python downloader.py --youtubeid="7FwtoHygavA" --output SD_Best_VGM_1301_with_vid_id_7FwtoHygavA.json
-python downloader.py --youtubeid="hMoejZAOOUM" --output SD_Best_VGM_1302_with_vid_id_hMoejZAOOUM.json
-python downloader.py --youtubeid="rb9yuLqoryU" --output SD_Best_VGM_1303_with_vid_id_rb9yuLqoryU.json
-python downloader.py --youtubeid="4d2Wwxbsk64" --output SD_Best_VGM_1304_with_vid_id_4d2Wwxbsk64.json
-python downloader.py --youtubeid="rACVXsRX6IU" --output SD_Best_VGM_1305_with_vid_id_rACVXsRX6IU.json
-python downloader.py --youtubeid="U2XioVnZUlo" --output SD_Best_VGM_1306_with_vid_id_U2XioVnZUlo.json
-python downloader.py --youtubeid="deKo_UHZa14" --output SD_Best_VGM_1307_with_vid_id_deKo_UHZa14.json
-python downloader.py --youtubeid="-4nCbgayZNE" --output SD_Best_VGM_1308_with_vid_id_-4nCbgayZNE.json
-python downloader.py --youtubeid="gQUe8l_Y28Y" --output SD_Best_VGM_1309_with_vid_id_gQUe8l_Y28Y.json
-python downloader.py --youtubeid="2mLCr2sV3rs" --output SD_Best_VGM_1310_with_vid_id_2mLCr2sV3rs.json
-python downloader.py --youtubeid="NxWGa33zC8w" --output SD_Best_VGM_1311_with_vid_id_NxWGa33zC8w.json
-python downloader.py --youtubeid="aKgSFxA0ZhY" --output SD_Best_VGM_1312_with_vid_id_aKgSFxA0ZhY.json
-python downloader.py --youtubeid="Fa9-pSBa9Cg" --output SD_Best_VGM_1313_with_vid_id_Fa9-pSBa9Cg.json
-python downloader.py --youtubeid="_hRi2AwnEyw" --output SD_Best_VGM_1314_with_vid_id__hRi2AwnEyw.json
-python downloader.py --youtubeid="q6btinyHMAg" --output SD_Best_VGM_1315_with_vid_id_q6btinyHMAg.json
-python downloader.py --youtubeid="lZUgl5vm6tk" --output SD_Best_VGM_1316_with_vid_id_lZUgl5vm6tk.json
-python downloader.py --youtubeid="hqKfTvkVo1o" --output SD_Best_VGM_1317_with_vid_id_hqKfTvkVo1o.json
-python downloader.py --youtubeid="o8cQl5pL6R8" --output SD_Best_VGM_1318_with_vid_id_o8cQl5pL6R8.json
-python downloader.py --youtubeid="nea0ze3wh6k" --output SD_Best_VGM_1319_with_vid_id_nea0ze3wh6k.json
-python downloader.py --youtubeid="s4pG2_UOel4" --output SD_Best_VGM_1320_with_vid_id_s4pG2_UOel4.json
-python downloader.py --youtubeid="jRqXWj7TL5A" --output SD_Best_VGM_1321_with_vid_id_jRqXWj7TL5A.json
-python downloader.py --youtubeid="Sht8cKbdf_g" --output SD_Best_VGM_1322_with_vid_id_Sht8cKbdf_g.json
-python downloader.py --youtubeid="aOxqL6hSt8c" --output SD_Best_VGM_1323_with_vid_id_aOxqL6hSt8c.json
-python downloader.py --youtubeid="IrLs8cW3sIc" --output SD_Best_VGM_1324_with_vid_id_IrLs8cW3sIc.json
-python downloader.py --youtubeid="WaThErXvfD8" --output SD_Best_VGM_1325_with_vid_id_WaThErXvfD8.json
-python downloader.py --youtubeid="JCqSHvyY_2I" --output SD_Best_VGM_1326_with_vid_id_JCqSHvyY_2I.json
-python downloader.py --youtubeid="dTjNEOT-e-M" --output SD_Best_VGM_1327_with_vid_id_dTjNEOT-e-M.json
-python downloader.py --youtubeid="xorfsUKMGm8" --output SD_Best_VGM_1328_with_vid_id_xorfsUKMGm8.json
-python downloader.py --youtubeid="go7JlCI5n5o" --output SD_Best_VGM_1329_with_vid_id_go7JlCI5n5o.json
-python downloader.py --youtubeid="sC4xMC4sISU" --output SD_Best_VGM_1330_with_vid_id_sC4xMC4sISU.json
-python downloader.py --youtubeid="vRRrOKsfxPg" --output SD_Best_VGM_1331_with_vid_id_vRRrOKsfxPg.json
-python downloader.py --youtubeid="vsYHDEiBSrg" --output SD_Best_VGM_1332_with_vid_id_vsYHDEiBSrg.json
-python downloader.py --youtubeid="J-zD9QjtRNo" --output SD_Best_VGM_1333_with_vid_id_J-zD9QjtRNo.json
-python downloader.py --youtubeid="ELqpqweytFc" --output SD_Best_VGM_1334_with_vid_id_ELqpqweytFc.json
-python downloader.py --youtubeid="PyubBPi9Oi0" --output SD_Best_VGM_1335_with_vid_id_PyubBPi9Oi0.json
-python downloader.py --youtubeid="p-GeFCcmGzk" --output SD_Best_VGM_1336_with_vid_id_p-GeFCcmGzk.json
-python downloader.py --youtubeid="Ol9Ine1TkEk" --output SD_Best_VGM_1337_with_vid_id_Ol9Ine1TkEk.json
-python downloader.py --youtubeid="YADDsshr-NM" --output SD_Best_VGM_1338_with_vid_id_YADDsshr-NM.json
-python downloader.py --youtubeid="OzbSP7ycMPM" --output SD_Best_VGM_1339_with_vid_id_OzbSP7ycMPM.json
-python downloader.py --youtubeid="drFZ1-6r7W8" --output SD_Best_VGM_1340_with_vid_id_drFZ1-6r7W8.json
-python downloader.py --youtubeid="SCdUSkq_imI" --output SD_Best_VGM_1341_with_vid_id_SCdUSkq_imI.json
-python downloader.py --youtubeid="hxZTBl7Q5fs" --output SD_Best_VGM_1342_with_vid_id_hxZTBl7Q5fs.json
-python downloader.py --youtubeid="-lz8ydvkFuo" --output SD_Best_VGM_1343_with_vid_id_-lz8ydvkFuo.json
-python downloader.py --youtubeid="Bj5bng0KRPk" --output SD_Best_VGM_1344_with_vid_id_Bj5bng0KRPk.json
-python downloader.py --youtubeid="I4gMnPkOQe8" --output SD_Best_VGM_1345_with_vid_id_I4gMnPkOQe8.json
-python downloader.py --youtubeid="eRuhYeSR19Y" --output SD_Best_VGM_1346_with_vid_id_eRuhYeSR19Y.json
-python downloader.py --youtubeid="11CqmhtBfJI" --output SD_Best_VGM_1347_with_vid_id_11CqmhtBfJI.json
-python downloader.py --youtubeid="CzZab0uEd1w" --output SD_Best_VGM_1348_with_vid_id_CzZab0uEd1w.json
-python downloader.py --youtubeid="Dr95nRD7vAo" --output SD_Best_VGM_1349_with_vid_id_Dr95nRD7vAo.json
-python downloader.py --youtubeid="pnS50Lmz6Y8" --output SD_Best_VGM_1350_with_vid_id_pnS50Lmz6Y8.json
-python downloader.py --youtubeid="QOKl7-it2HY" --output SD_Best_VGM_1351_with_vid_id_QOKl7-it2HY.json
-python downloader.py --youtubeid="E3Po0o6zoJY" --output SD_Best_VGM_1352_with_vid_id_E3Po0o6zoJY.json
-python downloader.py --youtubeid="YqPjWx9XiWk" --output SD_Best_VGM_1353_with_vid_id_YqPjWx9XiWk.json
-python downloader.py --youtubeid="VsvQy72iZZ8" --output SD_Best_VGM_1354_with_vid_id_VsvQy72iZZ8.json
-python downloader.py --youtubeid="XWd4539-gdk" --output SD_Best_VGM_1355_with_vid_id_XWd4539-gdk.json
-python downloader.py --youtubeid="tBr9OyNHRjA" --output SD_Best_VGM_1356_with_vid_id_tBr9OyNHRjA.json
-python downloader.py --youtubeid="fNBMeTJb9SM" --output SD_Best_VGM_1357_with_vid_id_fNBMeTJb9SM.json
-python downloader.py --youtubeid="ks74Hlce8yw" --output SD_Best_VGM_1358_with_vid_id_ks74Hlce8yw.json
-python downloader.py --youtubeid="R6tANRv2YxA" --output SD_Best_VGM_1359_with_vid_id_R6tANRv2YxA.json
-python downloader.py --youtubeid="rg_6OKlgjGE" --output SD_Best_VGM_1360_with_vid_id_rg_6OKlgjGE.json
-python downloader.py --youtubeid="xWQOYiYHZ2w" --output SD_Best_VGM_1361_with_vid_id_xWQOYiYHZ2w.json
-python downloader.py --youtubeid="zTKEnlYhL0M" --output SD_Best_VGM_1362_with_vid_id_zTKEnlYhL0M.json
-python downloader.py --youtubeid="WwuhhymZzgY" --output SD_Best_VGM_1363_with_vid_id_WwuhhymZzgY.json
-python downloader.py --youtubeid="ammnaFhcafI" --output SD_Best_VGM_1364_with_vid_id_ammnaFhcafI.json
-python downloader.py --youtubeid="UQFiG9We23I" --output SD_Best_VGM_1365_with_vid_id_UQFiG9We23I.json
-python downloader.py --youtubeid="8ajBHjJyVDE" --output SD_Best_VGM_1366_with_vid_id_8ajBHjJyVDE.json
-python downloader.py --youtubeid="8-Q-UsqJ8iM" --output SD_Best_VGM_1367_with_vid_id_8-Q-UsqJ8iM.json
-python downloader.py --youtubeid="MvJUxw8rbPA" --output SD_Best_VGM_1368_with_vid_id_MvJUxw8rbPA.json
-python downloader.py --youtubeid="WEoHCLNJPy0" --output SD_Best_VGM_1369_with_vid_id_WEoHCLNJPy0.json
-python downloader.py --youtubeid="ZbPfNA8vxQY" --output SD_Best_VGM_1370_with_vid_id_ZbPfNA8vxQY.json
-python downloader.py --youtubeid="X80YQj6UHG8" --output SD_Best_VGM_1371_with_vid_id_X80YQj6UHG8.json
-python downloader.py --youtubeid="83xEzdYAmSg" --output SD_Best_VGM_1372_with_vid_id_83xEzdYAmSg.json
-python downloader.py --youtubeid="ptr9JCSxeug" --output SD_Best_VGM_1373_with_vid_id_ptr9JCSxeug.json
-python downloader.py --youtubeid="0IcVJVcjAxA" --output SD_Best_VGM_1374_with_vid_id_0IcVJVcjAxA.json
-python downloader.py --youtubeid="8SJl4mELFMM" --output SD_Best_VGM_1375_with_vid_id_8SJl4mELFMM.json
-python downloader.py --youtubeid="pfe5a22BHGk" --output SD_Best_VGM_1376_with_vid_id_pfe5a22BHGk.json
-python downloader.py --youtubeid="49rleD-HNCk" --output SD_Best_VGM_1377_with_vid_id_49rleD-HNCk.json
-python downloader.py --youtubeid="mJCRoXkJohc" --output SD_Best_VGM_1378_with_vid_id_mJCRoXkJohc.json
-python downloader.py --youtubeid="ivfEScAwMrE" --output SD_Best_VGM_1379_with_vid_id_ivfEScAwMrE.json
-python downloader.py --youtubeid="4JzDb3PZGEg" --output SD_Best_VGM_1380_with_vid_id_4JzDb3PZGEg.json
-python downloader.py --youtubeid="sBkqcoD53eI" --output SD_Best_VGM_1381_with_vid_id_sBkqcoD53eI.json
-python downloader.py --youtubeid="P3oYGDwIKbc" --output SD_Best_VGM_1382_with_vid_id_P3oYGDwIKbc.json
-python downloader.py --youtubeid="xWVBra_NpZo" --output SD_Best_VGM_1383_with_vid_id_xWVBra_NpZo.json
-python downloader.py --youtubeid="ZfZQWz0VVxI" --output SD_Best_VGM_1384_with_vid_id_ZfZQWz0VVxI.json
-python downloader.py --youtubeid="FSfRr0LriBE" --output SD_Best_VGM_1385_with_vid_id_FSfRr0LriBE.json
-python downloader.py --youtubeid="shx_nhWmZ-I" --output SD_Best_VGM_1386_with_vid_id_shx_nhWmZ-I.json
-python downloader.py --youtubeid="qMkvXCaxXOg" --output SD_Best_VGM_1387_with_vid_id_qMkvXCaxXOg.json
-python downloader.py --youtubeid="P1IBUrLte2w" --output SD_Best_VGM_1388_with_vid_id_P1IBUrLte2w.json
-python downloader.py --youtubeid="TFxtovEXNmc" --output SD_Best_VGM_1389_with_vid_id_TFxtovEXNmc.json
-python downloader.py --youtubeid="pI4lS0lxV18" --output SD_Best_VGM_1390_with_vid_id_pI4lS0lxV18.json
-python downloader.py --youtubeid="9th-yImn9aA" --output SD_Best_VGM_1391_with_vid_id_9th-yImn9aA.json
-python downloader.py --youtubeid="D30VHuqhXm8" --output SD_Best_VGM_1392_with_vid_id_D30VHuqhXm8.json
-python downloader.py --youtubeid="CP0TcAnHftc" --output SD_Best_VGM_1393_with_vid_id_CP0TcAnHftc.json
-python downloader.py --youtubeid="CEPnbBgjWdk" --output SD_Best_VGM_1394_with_vid_id_CEPnbBgjWdk.json
-python downloader.py --youtubeid="Nhj0Rct8v48" --output SD_Best_VGM_1395_with_vid_id_Nhj0Rct8v48.json
-python downloader.py --youtubeid="uX-Dk8gBgg8" --output SD_Best_VGM_1396_with_vid_id_uX-Dk8gBgg8.json
-python downloader.py --youtubeid="Vjf--bJDDGQ" --output SD_Best_VGM_1397_with_vid_id_Vjf--bJDDGQ.json
-python downloader.py --youtubeid="7sb2q6JedKk" --output SD_Best_VGM_1398_with_vid_id_7sb2q6JedKk.json
-python downloader.py --youtubeid="-YfpDN84qls" --output SD_Best_VGM_1399_with_vid_id_-YfpDN84qls.json
-python downloader.py --youtubeid="YZGrI4NI9Nw" --output SD_Best_VGM_1400_with_vid_id_YZGrI4NI9Nw.json
-python downloader.py --youtubeid="LdIlCX2iOa0" --output SD_Best_VGM_1401_with_vid_id_LdIlCX2iOa0.json
-python downloader.py --youtubeid="gwesq9ElVM4" --output SD_Best_VGM_1402_with_vid_id_gwesq9ElVM4.json
-python downloader.py --youtubeid="WY2kHNPn-x8" --output SD_Best_VGM_1403_with_vid_id_WY2kHNPn-x8.json
-python downloader.py --youtubeid="j4Zh9IFn_2U" --output SD_Best_VGM_1404_with_vid_id_j4Zh9IFn_2U.json
-python downloader.py --youtubeid="6uWBacK2RxI" --output SD_Best_VGM_1405_with_vid_id_6uWBacK2RxI.json
-python downloader.py --youtubeid="Y1i3z56CiU4" --output SD_Best_VGM_1406_with_vid_id_Y1i3z56CiU4.json
-python downloader.py --youtubeid="Jz2sxbuN3gM" --output SD_Best_VGM_1407_with_vid_id_Jz2sxbuN3gM.json
-python downloader.py --youtubeid="_WjOqJ4LbkQ" --output SD_Best_VGM_1408_with_vid_id__WjOqJ4LbkQ.json
-python downloader.py --youtubeid="jhHfROLw4fA" --output SD_Best_VGM_1409_with_vid_id_jhHfROLw4fA.json
-python downloader.py --youtubeid="66-rV8v6TNo" --output SD_Best_VGM_1410_with_vid_id_66-rV8v6TNo.json
-python downloader.py --youtubeid="nY8JLHPaN4c" --output SD_Best_VGM_1411_with_vid_id_nY8JLHPaN4c.json
-python downloader.py --youtubeid="YA3VczBNCh8" --output SD_Best_VGM_1412_with_vid_id_YA3VczBNCh8.json
-python downloader.py --youtubeid="JWMtsksJtYw" --output SD_Best_VGM_1413_with_vid_id_JWMtsksJtYw.json
-python downloader.py --youtubeid="2oo0qQ79uWE" --output SD_Best_VGM_1414_with_vid_id_2oo0qQ79uWE.json
-python downloader.py --youtubeid="cWt6j5ZJCHU" --output SD_Best_VGM_1415_with_vid_id_cWt6j5ZJCHU.json
-python downloader.py --youtubeid="Hro03nOyUuI" --output SD_Best_VGM_1416_with_vid_id_Hro03nOyUuI.json
-python downloader.py --youtubeid="IXU7Jhi6jZ8" --output SD_Best_VGM_1417_with_vid_id_IXU7Jhi6jZ8.json
-python downloader.py --youtubeid="dOHur-Yc3nE" --output SD_Best_VGM_1418_with_vid_id_dOHur-Yc3nE.json
-python downloader.py --youtubeid="GyiSanVotOM" --output SD_Best_VGM_1419_with_vid_id_GyiSanVotOM.json
-python downloader.py --youtubeid="lLP6Y-1_P1g" --output SD_Best_VGM_1420_with_vid_id_lLP6Y-1_P1g.json
-python downloader.py --youtubeid="sSkcY8zPWIY" --output SD_Best_VGM_1421_with_vid_id_sSkcY8zPWIY.json
-python downloader.py --youtubeid="he2oLG1Trtg" --output SD_Best_VGM_1422_with_vid_id_he2oLG1Trtg.json
-python downloader.py --youtubeid="YCwOCGt97Y0" --output SD_Best_VGM_1423_with_vid_id_YCwOCGt97Y0.json
-python downloader.py --youtubeid="FkMm63VAHps" --output SD_Best_VGM_1424_with_vid_id_FkMm63VAHps.json
-python downloader.py --youtubeid="3lehXRPWyes" --output SD_Best_VGM_1425_with_vid_id_3lehXRPWyes.json
-python downloader.py --youtubeid="XIzflqDtA1M" --output SD_Best_VGM_1426_with_vid_id_XIzflqDtA1M.json
-python downloader.py --youtubeid="0YN7-nirAbk" --output SD_Best_VGM_1427_with_vid_id_0YN7-nirAbk.json
-python downloader.py --youtubeid="o0t8vHJtaKk" --output SD_Best_VGM_1428_with_vid_id_o0t8vHJtaKk.json
-python downloader.py --youtubeid="Uu4KCLd5kdg" --output SD_Best_VGM_1429_with_vid_id_Uu4KCLd5kdg.json
-python downloader.py --youtubeid="_joPG7N0lRk" --output SD_Best_VGM_1430_with_vid_id__joPG7N0lRk.json
-python downloader.py --youtubeid="-ehGFSkPfko" --output SD_Best_VGM_1431_with_vid_id_-ehGFSkPfko.json
-python downloader.py --youtubeid="udNOf4W52hg" --output SD_Best_VGM_1432_with_vid_id_udNOf4W52hg.json
-python downloader.py --youtubeid="1kt-H7qUr58" --output SD_Best_VGM_1433_with_vid_id_1kt-H7qUr58.json
-python downloader.py --youtubeid="AW7oKCS8HjM" --output SD_Best_VGM_1434_with_vid_id_AW7oKCS8HjM.json
-python downloader.py --youtubeid="EohQnQbQQWk" --output SD_Best_VGM_1435_with_vid_id_EohQnQbQQWk.json
-python downloader.py --youtubeid="7rNgsqxnIuY" --output SD_Best_VGM_1436_with_vid_id_7rNgsqxnIuY.json
-python downloader.py --youtubeid="iZv19yJrZyo" --output SD_Best_VGM_1437_with_vid_id_iZv19yJrZyo.json
-python downloader.py --youtubeid="tj3ks8GfBQU" --output SD_Best_VGM_1438_with_vid_id_tj3ks8GfBQU.json
-python downloader.py --youtubeid="eDjJq3DsNTc" --output SD_Best_VGM_1439_with_vid_id_eDjJq3DsNTc.json
-python downloader.py --youtubeid="KYfK61zxads" --output SD_Best_VGM_1440_with_vid_id_KYfK61zxads.json
-python downloader.py --youtubeid="7Dwc0prm7z4" --output SD_Best_VGM_1441_with_vid_id_7Dwc0prm7z4.json
-python downloader.py --youtubeid="p9Nt449SP24" --output SD_Best_VGM_1442_with_vid_id_p9Nt449SP24.json
-python downloader.py --youtubeid="8kBBJQ_ySpI" --output SD_Best_VGM_1443_with_vid_id_8kBBJQ_ySpI.json
-python downloader.py --youtubeid="93Fqrbd-9gI" --output SD_Best_VGM_1444_with_vid_id_93Fqrbd-9gI.json
-python downloader.py --youtubeid="GM6lrZw9Fdg" --output SD_Best_VGM_1445_with_vid_id_GM6lrZw9Fdg.json
-python downloader.py --youtubeid="jWtiuVTe5kQ" --output SD_Best_VGM_1446_with_vid_id_jWtiuVTe5kQ.json
-python downloader.py --youtubeid="5hVRaTn_ogE" --output SD_Best_VGM_1447_with_vid_id_5hVRaTn_ogE.json
-python downloader.py --youtubeid="fJZoDK-N6ug" --output SD_Best_VGM_1448_with_vid_id_fJZoDK-N6ug.json
-python downloader.py --youtubeid="7MQFljss6Pc" --output SD_Best_VGM_1449_with_vid_id_7MQFljss6Pc.json
-python downloader.py --youtubeid="Qv_8KiUsRTE" --output SD_Best_VGM_1450_with_vid_id_Qv_8KiUsRTE.json
-python downloader.py --youtubeid="i1GFclxeDIU" --output SD_Best_VGM_1451_with_vid_id_i1GFclxeDIU.json
-python downloader.py --youtubeid="dhGMZwQr0Iw" --output SD_Best_VGM_1452_with_vid_id_dhGMZwQr0Iw.json
-python downloader.py --youtubeid="FEpAD0RQ66w" --output SD_Best_VGM_1453_with_vid_id_FEpAD0RQ66w.json
-python downloader.py --youtubeid="nL3YMZ-Br0o" --output SD_Best_VGM_1454_with_vid_id_nL3YMZ-Br0o.json
-python downloader.py --youtubeid="TssxHy4hbko" --output SD_Best_VGM_1455_with_vid_id_TssxHy4hbko.json
-python downloader.py --youtubeid="6JuO7v84BiY" --output SD_Best_VGM_1456_with_vid_id_6JuO7v84BiY.json
-python downloader.py --youtubeid="93jNP6y_Az8" --output SD_Best_VGM_1457_with_vid_id_93jNP6y_Az8.json
-python downloader.py --youtubeid="LSFho-sCOp0" --output SD_Best_VGM_1458_with_vid_id_LSFho-sCOp0.json
-python downloader.py --youtubeid="JFadABMZnYM" --output SD_Best_VGM_1459_with_vid_id_JFadABMZnYM.json
-python downloader.py --youtubeid="IDUGJ22OWLE" --output SD_Best_VGM_1460_with_vid_id_IDUGJ22OWLE.json
-python downloader.py --youtubeid="TtACPCoJ-4I" --output SD_Best_VGM_1461_with_vid_id_TtACPCoJ-4I.json
-python downloader.py --youtubeid="--bWm9hhoZo" --output SD_Best_VGM_1462_with_vid_id_--bWm9hhoZo.json
-python downloader.py --youtubeid="aBmqRgtqOgw" --output SD_Best_VGM_1463_with_vid_id_aBmqRgtqOgw.json
-python downloader.py --youtubeid="KB0Yxdtig90" --output SD_Best_VGM_1464_with_vid_id_KB0Yxdtig90.json
-python downloader.py --youtubeid="_CB18Elh4Rc" --output SD_Best_VGM_1465_with_vid_id__CB18Elh4Rc.json
-python downloader.py --youtubeid="aXJ0om-_1Ew" --output SD_Best_VGM_1466_with_vid_id_aXJ0om-_1Ew.json
-python downloader.py --youtubeid="bss8vzkIB74" --output SD_Best_VGM_1467_with_vid_id_bss8vzkIB74.json
-python downloader.py --youtubeid="jEmyzsFaiZ8" --output SD_Best_VGM_1468_with_vid_id_jEmyzsFaiZ8.json
-python downloader.py --youtubeid="bItjdi5wxFQ" --output SD_Best_VGM_1469_with_vid_id_bItjdi5wxFQ.json
-python downloader.py --youtubeid="yVcn0cFJY_c" --output SD_Best_VGM_1470_with_vid_id_yVcn0cFJY_c.json
-python downloader.py --youtubeid="u5v8qTkf-yk" --output SD_Best_VGM_1471_with_vid_id_u5v8qTkf-yk.json
-python downloader.py --youtubeid="wkrgYK2U5hE" --output SD_Best_VGM_1472_with_vid_id_wkrgYK2U5hE.json
-python downloader.py --youtubeid="5maIQJ79hGM" --output SD_Best_VGM_1473_with_vid_id_5maIQJ79hGM.json
-python downloader.py --youtubeid="Q3Vci9ri4yM" --output SD_Best_VGM_1474_with_vid_id_Q3Vci9ri4yM.json
-python downloader.py --youtubeid="CrjvBd9q4A0" --output SD_Best_VGM_1475_with_vid_id_CrjvBd9q4A0.json
-python downloader.py --youtubeid="X1-oxRS8-m4" --output SD_Best_VGM_1476_with_vid_id_X1-oxRS8-m4.json
-python downloader.py --youtubeid="UWOTB6x_WAs" --output SD_Best_VGM_1477_with_vid_id_UWOTB6x_WAs.json
-python downloader.py --youtubeid="pq_nXXuZTtA" --output SD_Best_VGM_1478_with_vid_id_pq_nXXuZTtA.json
-python downloader.py --youtubeid="cxAE48Dul7Y" --output SD_Best_VGM_1479_with_vid_id_cxAE48Dul7Y.json
-python downloader.py --youtubeid="Nu91ToSI4MU" --output SD_Best_VGM_1480_with_vid_id_Nu91ToSI4MU.json
-python downloader.py --youtubeid="-uJOYd76nSQ" --output SD_Best_VGM_1481_with_vid_id_-uJOYd76nSQ.json
-python downloader.py --youtubeid="NT-c2ZeOpsg" --output SD_Best_VGM_1482_with_vid_id_NT-c2ZeOpsg.json
-python downloader.py --youtubeid="dRHpQFbEthY" --output SD_Best_VGM_1483_with_vid_id_dRHpQFbEthY.json
-python downloader.py --youtubeid="OB9t0q4kkEE" --output SD_Best_VGM_1484_with_vid_id_OB9t0q4kkEE.json
-python downloader.py --youtubeid="CgtvppDEyeU" --output SD_Best_VGM_1485_with_vid_id_CgtvppDEyeU.json
-python downloader.py --youtubeid="RBslMKpPu1M" --output SD_Best_VGM_1486_with_vid_id_RBslMKpPu1M.json
-python downloader.py --youtubeid="JlGnZvt5OBE" --output SD_Best_VGM_1487_with_vid_id_JlGnZvt5OBE.json
-python downloader.py --youtubeid="VmOy8IvUcAE" --output SD_Best_VGM_1488_with_vid_id_VmOy8IvUcAE.json
-python downloader.py --youtubeid="tDuCLC_sZZY" --output SD_Best_VGM_1489_with_vid_id_tDuCLC_sZZY.json
-python downloader.py --youtubeid="PXqJEm-vm-w" --output SD_Best_VGM_1490_with_vid_id_PXqJEm-vm-w.json
-python downloader.py --youtubeid="cKBgNT-8rrM" --output SD_Best_VGM_1491_with_vid_id_cKBgNT-8rrM.json
-python downloader.py --youtubeid="cqSEDRNwkt8" --output SD_Best_VGM_1492_with_vid_id_cqSEDRNwkt8.json
-python downloader.py --youtubeid="2ZX41kMN9V8" --output SD_Best_VGM_1493_with_vid_id_2ZX41kMN9V8.json
-python downloader.py --youtubeid="iV5Ae4lOWmk" --output SD_Best_VGM_1494_with_vid_id_iV5Ae4lOWmk.json
-python downloader.py --youtubeid="C3xhG7wRnf0" --output SD_Best_VGM_1495_with_vid_id_C3xhG7wRnf0.json
-python downloader.py --youtubeid="xajMfQuVnp4" --output SD_Best_VGM_1496_with_vid_id_xajMfQuVnp4.json
-python downloader.py --youtubeid="N-T8KwCCNh8" --output SD_Best_VGM_1497_with_vid_id_N-T8KwCCNh8.json
-python downloader.py --youtubeid="C7NTTBm7fS8" --output SD_Best_VGM_1498_with_vid_id_C7NTTBm7fS8.json
-python downloader.py --youtubeid="7DYL2blxWSA" --output SD_Best_VGM_1499_with_vid_id_7DYL2blxWSA.json
-python downloader.py --youtubeid="6GhseRvdAgs" --output SD_Best_VGM_1500_with_vid_id_6GhseRvdAgs.json
-python downloader.py --youtubeid="2CyFFMCC67U" --output SD_Best_VGM_1501_with_vid_id_2CyFFMCC67U.json
-python downloader.py --youtubeid="VmemS-mqlOQ" --output SD_Best_VGM_1502_with_vid_id_VmemS-mqlOQ.json
-python downloader.py --youtubeid="cU1Z5UwBlQo" --output SD_Best_VGM_1503_with_vid_id_cU1Z5UwBlQo.json
-python downloader.py --youtubeid="IY7hfsfPh84" --output SD_Best_VGM_1504_with_vid_id_IY7hfsfPh84.json
-python downloader.py --youtubeid="KAHuWEfue8U" --output SD_Best_VGM_1505_with_vid_id_KAHuWEfue8U.json
-python downloader.py --youtubeid="nUbwvWQOOvU" --output SD_Best_VGM_1506_with_vid_id_nUbwvWQOOvU.json
-python downloader.py --youtubeid="MYNeu0cZ3NE" --output SD_Best_VGM_1507_with_vid_id_MYNeu0cZ3NE.json
-python downloader.py --youtubeid="Dhd4jJw8VtE" --output SD_Best_VGM_1508_with_vid_id_Dhd4jJw8VtE.json
-python downloader.py --youtubeid="N46rEikk4bw" --output SD_Best_VGM_1509_with_vid_id_N46rEikk4bw.json
-python downloader.py --youtubeid="_XJw072Co_A" --output SD_Best_VGM_1510_with_vid_id__XJw072Co_A.json
-python downloader.py --youtubeid="aqLjvjhHgDI" --output SD_Best_VGM_1511_with_vid_id_aqLjvjhHgDI.json
-python downloader.py --youtubeid="jJVTRXZXEIA" --output SD_Best_VGM_1512_with_vid_id_jJVTRXZXEIA.json
-python downloader.py --youtubeid="1hxkqsEz4dk" --output SD_Best_VGM_1513_with_vid_id_1hxkqsEz4dk.json
-python downloader.py --youtubeid="SFCn8IpgiLY" --output SD_Best_VGM_1514_with_vid_id_SFCn8IpgiLY.json
-python downloader.py --youtubeid="_qbSmANSx6s" --output SD_Best_VGM_1515_with_vid_id__qbSmANSx6s.json
-python downloader.py --youtubeid="pZBBZ77gob4" --output SD_Best_VGM_1516_with_vid_id_pZBBZ77gob4.json
-python downloader.py --youtubeid="1r5BYjZdAtI" --output SD_Best_VGM_1517_with_vid_id_1r5BYjZdAtI.json
-python downloader.py --youtubeid="_blDkW4rCwc" --output SD_Best_VGM_1518_with_vid_id__blDkW4rCwc.json
-python downloader.py --youtubeid="bZBoTinEpao" --output SD_Best_VGM_1519_with_vid_id_bZBoTinEpao.json
-python downloader.py --youtubeid="i49PlEN5k9I" --output SD_Best_VGM_1520_with_vid_id_i49PlEN5k9I.json
-python downloader.py --youtubeid="rLXgXfncaIA" --output SD_Best_VGM_1521_with_vid_id_rLXgXfncaIA.json
-python downloader.py --youtubeid="zTOZesa-uG4" --output SD_Best_VGM_1522_with_vid_id_zTOZesa-uG4.json
-python downloader.py --youtubeid="gRZFl-vt4w0" --output SD_Best_VGM_1523_with_vid_id_gRZFl-vt4w0.json
-python downloader.py --youtubeid="KnoUxId8yUQ" --output SD_Best_VGM_1524_with_vid_id_KnoUxId8yUQ.json
-python downloader.py --youtubeid="Y0oO0bOyIAU" --output SD_Best_VGM_1525_with_vid_id_Y0oO0bOyIAU.json
-python downloader.py --youtubeid="Y7McPnKoP8g" --output SD_Best_VGM_1526_with_vid_id_Y7McPnKoP8g.json
-python downloader.py --youtubeid="Hbw3ZVY7qGc" --output SD_Best_VGM_1527_with_vid_id_Hbw3ZVY7qGc.json
-python downloader.py --youtubeid="ECP710r6JCM" --output SD_Best_VGM_1528_with_vid_id_ECP710r6JCM.json
-python downloader.py --youtubeid="OXqxg3FpuDA" --output SD_Best_VGM_1529_with_vid_id_OXqxg3FpuDA.json
-python downloader.py --youtubeid="sqIb-ZhY85Q" --output SD_Best_VGM_1530_with_vid_id_sqIb-ZhY85Q.json
-python downloader.py --youtubeid="x4mrK-42Z18" --output SD_Best_VGM_1531_with_vid_id_x4mrK-42Z18.json
-python downloader.py --youtubeid="Gza34GxrZlk" --output SD_Best_VGM_1532_with_vid_id_Gza34GxrZlk.json
-python downloader.py --youtubeid="CwI39pDPlgc" --output SD_Best_VGM_1533_with_vid_id_CwI39pDPlgc.json
-python downloader.py --youtubeid="aKqYLGaG_E4" --output SD_Best_VGM_1534_with_vid_id_aKqYLGaG_E4.json
-python downloader.py --youtubeid="A9PXQSFWuRY" --output SD_Best_VGM_1535_with_vid_id_A9PXQSFWuRY.json
-python downloader.py --youtubeid="pqCxONuUK3s" --output SD_Best_VGM_1536_with_vid_id_pqCxONuUK3s.json
-python downloader.py --youtubeid="BdlkxaSEgB0" --output SD_Best_VGM_1537_with_vid_id_BdlkxaSEgB0.json
-python downloader.py --youtubeid="3kmwqOIeego" --output SD_Best_VGM_1538_with_vid_id_3kmwqOIeego.json
-python downloader.py --youtubeid="H2-rCJmEDIQ" --output SD_Best_VGM_1539_with_vid_id_H2-rCJmEDIQ.json
-python downloader.py --youtubeid="BKmv_mecn5g" --output SD_Best_VGM_1540_with_vid_id_BKmv_mecn5g.json
-python downloader.py --youtubeid="kJRiZaexNno" --output SD_Best_VGM_1541_with_vid_id_kJRiZaexNno.json
-python downloader.py --youtubeid="wXZ-2p4rC5s" --output SD_Best_VGM_1542_with_vid_id_wXZ-2p4rC5s.json
-python downloader.py --youtubeid="HCi2-HtFh78" --output SD_Best_VGM_1543_with_vid_id_HCi2-HtFh78.json
-python downloader.py --youtubeid="F4QbiPftlEE" --output SD_Best_VGM_1544_with_vid_id_F4QbiPftlEE.json
-python downloader.py --youtubeid="IEMaS33Wcd8" --output SD_Best_VGM_1545_with_vid_id_IEMaS33Wcd8.json
-python downloader.py --youtubeid="krmNfjbfJUQ" --output SD_Best_VGM_1546_with_vid_id_krmNfjbfJUQ.json
-python downloader.py --youtubeid="9sYfDXfMO0o" --output SD_Best_VGM_1547_with_vid_id_9sYfDXfMO0o.json
-python downloader.py --youtubeid="BhfevIZsXo0" --output SD_Best_VGM_1548_with_vid_id_BhfevIZsXo0.json
-python downloader.py --youtubeid="tU3ZA2tFxDU" --output SD_Best_VGM_1549_with_vid_id_tU3ZA2tFxDU.json
-python downloader.py --youtubeid="9BF1JT8rNKI" --output SD_Best_VGM_1550_with_vid_id_9BF1JT8rNKI.json
-python downloader.py --youtubeid="e1HWSPwGlpA" --output SD_Best_VGM_1551_with_vid_id_e1HWSPwGlpA.json
-python downloader.py --youtubeid="mwWcWgKjN5Y" --output SD_Best_VGM_1552_with_vid_id_mwWcWgKjN5Y.json
-python downloader.py --youtubeid="dcEXzNbn20k" --output SD_Best_VGM_1553_with_vid_id_dcEXzNbn20k.json
-python downloader.py --youtubeid="ghe_tgQvWKQ" --output SD_Best_VGM_1554_with_vid_id_ghe_tgQvWKQ.json
-python downloader.py --youtubeid="bu-kSDUXUts" --output SD_Best_VGM_1555_with_vid_id_bu-kSDUXUts.json
-python downloader.py --youtubeid="_dXaKTGvaEk" --output SD_Best_VGM_1556_with_vid_id__dXaKTGvaEk.json
-python downloader.py --youtubeid="EF_lbrpdRQo" --output SD_Best_VGM_1557_with_vid_id_EF_lbrpdRQo.json
-python downloader.py --youtubeid="B8MpofvFtqY" --output SD_Best_VGM_1558_with_vid_id_B8MpofvFtqY.json
-python downloader.py --youtubeid="ccMkXEV0YmY" --output SD_Best_VGM_1559_with_vid_id_ccMkXEV0YmY.json
-python downloader.py --youtubeid="LTWbJDROe7A" --output SD_Best_VGM_1560_with_vid_id_LTWbJDROe7A.json
-python downloader.py --youtubeid="m4NfokfW3jw" --output SD_Best_VGM_1561_with_vid_id_m4NfokfW3jw.json
-python downloader.py --youtubeid="a_qDMzn6BOA" --output SD_Best_VGM_1562_with_vid_id_a_qDMzn6BOA.json
-python downloader.py --youtubeid="oPjI-qh3QWQ" --output SD_Best_VGM_1563_with_vid_id_oPjI-qh3QWQ.json
-python downloader.py --youtubeid="H-CwNdgHcDw" --output SD_Best_VGM_1564_with_vid_id_H-CwNdgHcDw.json
-python downloader.py --youtubeid="I8ij2RGGBtc" --output SD_Best_VGM_1565_with_vid_id_I8ij2RGGBtc.json
-python downloader.py --youtubeid="2mlPgPBDovw" --output SD_Best_VGM_1566_with_vid_id_2mlPgPBDovw.json
-python downloader.py --youtubeid="tWopcEQUkhg" --output SD_Best_VGM_1567_with_vid_id_tWopcEQUkhg.json
-python downloader.py --youtubeid="xkSD3pCyfP4" --output SD_Best_VGM_1568_with_vid_id_xkSD3pCyfP4.json
-python downloader.py --youtubeid="a0oq7Yw8tkc" --output SD_Best_VGM_1569_with_vid_id_a0oq7Yw8tkc.json
-python downloader.py --youtubeid="qcf1CdKVATo" --output SD_Best_VGM_1570_with_vid_id_qcf1CdKVATo.json
-python downloader.py --youtubeid="C4cD-7dOohU" --output SD_Best_VGM_1571_with_vid_id_C4cD-7dOohU.json
-python downloader.py --youtubeid="r-zRrHICsw0" --output SD_Best_VGM_1572_with_vid_id_r-zRrHICsw0.json
-python downloader.py --youtubeid="fpVag5b7zHo" --output SD_Best_VGM_1573_with_vid_id_fpVag5b7zHo.json
-python downloader.py --youtubeid="jNoiUfwuuP8" --output SD_Best_VGM_1574_with_vid_id_jNoiUfwuuP8.json
-python downloader.py --youtubeid="4HLSGn4_3WE" --output SD_Best_VGM_1575_with_vid_id_4HLSGn4_3WE.json
-python downloader.py --youtubeid="qjNHwF3R-kg" --output SD_Best_VGM_1576_with_vid_id_qjNHwF3R-kg.json
-python downloader.py --youtubeid="eLLdU3Td1w0" --output SD_Best_VGM_1577_with_vid_id_eLLdU3Td1w0.json
-python downloader.py --youtubeid="80YFKvaRou4" --output SD_Best_VGM_1578_with_vid_id_80YFKvaRou4.json
-python downloader.py --youtubeid="tiL0mhmOOnU" --output SD_Best_VGM_1579_with_vid_id_tiL0mhmOOnU.json
-python downloader.py --youtubeid="SawlCRnYYC8" --output SD_Best_VGM_1580_with_vid_id_SawlCRnYYC8.json
-python downloader.py --youtubeid="-J55bt2b3Z8" --output SD_Best_VGM_1581_with_vid_id_-J55bt2b3Z8.json
-python downloader.py --youtubeid="9alsJe-gEts" --output SD_Best_VGM_1582_with_vid_id_9alsJe-gEts.json
-python downloader.py --youtubeid="aj9mW0Hvp0g" --output SD_Best_VGM_1583_with_vid_id_aj9mW0Hvp0g.json
-python downloader.py --youtubeid="QqN7bKgYWI0" --output SD_Best_VGM_1584_with_vid_id_QqN7bKgYWI0.json
-python downloader.py --youtubeid="HeirTA9Y9i0" --output SD_Best_VGM_1585_with_vid_id_HeirTA9Y9i0.json
-python downloader.py --youtubeid="ZriKAVSIQa0" --output SD_Best_VGM_1586_with_vid_id_ZriKAVSIQa0.json
-python downloader.py --youtubeid="_CeQp-NVkSw" --output SD_Best_VGM_1587_with_vid_id__CeQp-NVkSw.json
-python downloader.py --youtubeid="04TLq1cKeTI" --output SD_Best_VGM_1588_with_vid_id_04TLq1cKeTI.json
-python downloader.py --youtubeid="-ROXEo0YD10" --output SD_Best_VGM_1589_with_vid_id_-ROXEo0YD10.json
-python downloader.py --youtubeid="PZnF6rVTgQE" --output SD_Best_VGM_1590_with_vid_id_PZnF6rVTgQE.json
-python downloader.py --youtubeid="qJMfgv5YFog" --output SD_Best_VGM_1591_with_vid_id_qJMfgv5YFog.json
-python downloader.py --youtubeid="AU_tnstiX9s" --output SD_Best_VGM_1592_with_vid_id_AU_tnstiX9s.json
-python downloader.py --youtubeid="M3Wux3163kI" --output SD_Best_VGM_1593_with_vid_id_M3Wux3163kI.json
-python downloader.py --youtubeid="R9rnsbf914c" --output SD_Best_VGM_1594_with_vid_id_R9rnsbf914c.json
-python downloader.py --youtubeid="fTj73xQg2TY" --output SD_Best_VGM_1595_with_vid_id_fTj73xQg2TY.json
-python downloader.py --youtubeid="zpleUx1Llgs" --output SD_Best_VGM_1596_with_vid_id_zpleUx1Llgs.json
-python downloader.py --youtubeid="Lx906iVIZSE" --output SD_Best_VGM_1597_with_vid_id_Lx906iVIZSE.json
-python downloader.py --youtubeid="-_51UVCkOh4" --output SD_Best_VGM_1598_with_vid_id_-_51UVCkOh4.json
-python downloader.py --youtubeid="UxiG3triMd8" --output SD_Best_VGM_1599_with_vid_id_UxiG3triMd8.json
-python downloader.py --youtubeid="ODjYdlmwf1E" --output SD_Best_VGM_1600_with_vid_id_ODjYdlmwf1E.json
-python downloader.py --youtubeid="Bqvy5KIeQhI" --output SD_Best_VGM_1601_with_vid_id_Bqvy5KIeQhI.json
-python downloader.py --youtubeid="jlcjrgSVkkc" --output SD_Best_VGM_1602_with_vid_id_jlcjrgSVkkc.json
-python downloader.py --youtubeid="snsS40I9-Ts" --output SD_Best_VGM_1603_with_vid_id_snsS40I9-Ts.json
-python downloader.py --youtubeid="uvRU3gsmXx4" --output SD_Best_VGM_1604_with_vid_id_uvRU3gsmXx4.json
-python downloader.py --youtubeid="8eZRNAtq_ps" --output SD_Best_VGM_1605_with_vid_id_8eZRNAtq_ps.json
-python downloader.py --youtubeid="idw1zFkySA0" --output SD_Best_VGM_1606_with_vid_id_idw1zFkySA0.json
-python downloader.py --youtubeid="CPKoMt4QKmw" --output SD_Best_VGM_1607_with_vid_id_CPKoMt4QKmw.json
-python downloader.py --youtubeid="TRdrbKasYz8" --output SD_Best_VGM_1608_with_vid_id_TRdrbKasYz8.json
-python downloader.py --youtubeid="OCFWEWW9tAo" --output SD_Best_VGM_1609_with_vid_id_OCFWEWW9tAo.json
-python downloader.py --youtubeid="VzJ2MLvIGmM" --output SD_Best_VGM_1610_with_vid_id_VzJ2MLvIGmM.json
-python downloader.py --youtubeid="QN1wbetaaTk" --output SD_Best_VGM_1611_with_vid_id_QN1wbetaaTk.json
-python downloader.py --youtubeid="FE59rlKJRPs" --output SD_Best_VGM_1612_with_vid_id_FE59rlKJRPs.json
-python downloader.py --youtubeid="wxzrrUWOU8M" --output SD_Best_VGM_1613_with_vid_id_wxzrrUWOU8M.json
-python downloader.py --youtubeid="U_l3eYfpUQ0" --output SD_Best_VGM_1614_with_vid_id_U_l3eYfpUQ0.json
-python downloader.py --youtubeid="P3vzN5sizXk" --output SD_Best_VGM_1615_with_vid_id_P3vzN5sizXk.json
-python downloader.py --youtubeid="aYUMd2GvwsU" --output SD_Best_VGM_1616_with_vid_id_aYUMd2GvwsU.json
-python downloader.py --youtubeid="0w-9yZBE_nQ" --output SD_Best_VGM_1617_with_vid_id_0w-9yZBE_nQ.json
-python downloader.py --youtubeid="c2Y1ANec-5M" --output SD_Best_VGM_1618_with_vid_id_c2Y1ANec-5M.json
-python downloader.py --youtubeid="vN9zJNpH3Mc" --output SD_Best_VGM_1619_with_vid_id_vN9zJNpH3Mc.json
-python downloader.py --youtubeid="ZyAIAKItmoM" --output SD_Best_VGM_1620_with_vid_id_ZyAIAKItmoM.json
-python downloader.py --youtubeid="QTwpZhWtQus" --output SD_Best_VGM_1621_with_vid_id_QTwpZhWtQus.json
-python downloader.py --youtubeid="xze4yNQAmUU" --output SD_Best_VGM_1622_with_vid_id_xze4yNQAmUU.json
-python downloader.py --youtubeid="eDOCPzvn87s" --output SD_Best_VGM_1623_with_vid_id_eDOCPzvn87s.json
-python downloader.py --youtubeid="SuI_RSHfLIk" --output SD_Best_VGM_1624_with_vid_id_SuI_RSHfLIk.json
-python downloader.py --youtubeid="f3z73Xp9fCk" --output SD_Best_VGM_1625_with_vid_id_f3z73Xp9fCk.json
-python downloader.py --youtubeid="OUmeK282f-E" --output SD_Best_VGM_1626_with_vid_id_OUmeK282f-E.json
-python downloader.py --youtubeid="nUScyv5DcIo" --output SD_Best_VGM_1627_with_vid_id_nUScyv5DcIo.json
-python downloader.py --youtubeid="w7dO2edfy00" --output SD_Best_VGM_1628_with_vid_id_w7dO2edfy00.json
-python downloader.py --youtubeid="lzhkFmiTB_8" --output SD_Best_VGM_1629_with_vid_id_lzhkFmiTB_8.json
-python downloader.py --youtubeid="3nLtMX4Y8XI" --output SD_Best_VGM_1630_with_vid_id_3nLtMX4Y8XI.json
-python downloader.py --youtubeid="_cglnkygG_0" --output SD_Best_VGM_1631_with_vid_id__cglnkygG_0.json
-python downloader.py --youtubeid="Vin5IrgdWnM" --output SD_Best_VGM_1632_with_vid_id_Vin5IrgdWnM.json
-python downloader.py --youtubeid="kA69u0-U-Vk" --output SD_Best_VGM_1633_with_vid_id_kA69u0-U-Vk.json
-python downloader.py --youtubeid="R3gmQcMK_zg" --output SD_Best_VGM_1634_with_vid_id_R3gmQcMK_zg.json
-python downloader.py --youtubeid="ng442hwhhAw" --output SD_Best_VGM_1635_with_vid_id_ng442hwhhAw.json
-python downloader.py --youtubeid="JOFsATsPiH0" --output SD_Best_VGM_1636_with_vid_id_JOFsATsPiH0.json
-python downloader.py --youtubeid="F2-bROS64aI" --output SD_Best_VGM_1637_with_vid_id_F2-bROS64aI.json
-python downloader.py --youtubeid="OJjsUitjhmU" --output SD_Best_VGM_1638_with_vid_id_OJjsUitjhmU.json
-python downloader.py --youtubeid="ASl7qClvqTE" --output SD_Best_VGM_1639_with_vid_id_ASl7qClvqTE.json
-python downloader.py --youtubeid="CHydNVrPpAQ" --output SD_Best_VGM_1640_with_vid_id_CHydNVrPpAQ.json
-python downloader.py --youtubeid="acVjEoRvpv8" --output SD_Best_VGM_1641_with_vid_id_acVjEoRvpv8.json
-python downloader.py --youtubeid="0dEc-UyQf58" --output SD_Best_VGM_1642_with_vid_id_0dEc-UyQf58.json
-python downloader.py --youtubeid="hv2BL0v2tb4" --output SD_Best_VGM_1643_with_vid_id_hv2BL0v2tb4.json
-python downloader.py --youtubeid="Iss6CCi3zNk" --output SD_Best_VGM_1644_with_vid_id_Iss6CCi3zNk.json
-python downloader.py --youtubeid="iJS-PjSQMtw" --output SD_Best_VGM_1645_with_vid_id_iJS-PjSQMtw.json
-python downloader.py --youtubeid="b-oxtWJ00WA" --output SD_Best_VGM_1646_with_vid_id_b-oxtWJ00WA.json
-python downloader.py --youtubeid="uwB0T1rExMc" --output SD_Best_VGM_1647_with_vid_id_uwB0T1rExMc.json
-python downloader.py --youtubeid="i-hcCtD_aB0" --output SD_Best_VGM_1648_with_vid_id_i-hcCtD_aB0.json
-python downloader.py --youtubeid="8hLQart9bsQ" --output SD_Best_VGM_1649_with_vid_id_8hLQart9bsQ.json
-python downloader.py --youtubeid="oEEm45iRylE" --output SD_Best_VGM_1650_with_vid_id_oEEm45iRylE.json
-python downloader.py --youtubeid="oeBGiKhMy-Q" --output SD_Best_VGM_1651_with_vid_id_oeBGiKhMy-Q.json
-python downloader.py --youtubeid="gQiYZlxJk3w" --output SD_Best_VGM_1652_with_vid_id_gQiYZlxJk3w.json
-python downloader.py --youtubeid="jObg1aw9kzE" --output SD_Best_VGM_1653_with_vid_id_jObg1aw9kzE.json
-python downloader.py --youtubeid="iS98ggIHkRw" --output SD_Best_VGM_1654_with_vid_id_iS98ggIHkRw.json
-python downloader.py --youtubeid="tXnCJLLZIvc" --output SD_Best_VGM_1655_with_vid_id_tXnCJLLZIvc.json
-python downloader.py --youtubeid="n6f-bb8DZ_k" --output SD_Best_VGM_1656_with_vid_id_n6f-bb8DZ_k.json
-python downloader.py --youtubeid="j6i73HYUNPk" --output SD_Best_VGM_1657_with_vid_id_j6i73HYUNPk.json
-python downloader.py --youtubeid="aZ37adgwDIw" --output SD_Best_VGM_1658_with_vid_id_aZ37adgwDIw.json
-python downloader.py --youtubeid="U2MqAWgqYJY" --output SD_Best_VGM_1659_with_vid_id_U2MqAWgqYJY.json
-python downloader.py --youtubeid="wKNz1SsO_cM" --output SD_Best_VGM_1660_with_vid_id_wKNz1SsO_cM.json
-python downloader.py --youtubeid="sIXnwB5AyvM" --output SD_Best_VGM_1661_with_vid_id_sIXnwB5AyvM.json
-python downloader.py --youtubeid="wqb9Cesq3oM" --output SD_Best_VGM_1662_with_vid_id_wqb9Cesq3oM.json
-python downloader.py --youtubeid="evHQZjhE9CM" --output SD_Best_VGM_1663_with_vid_id_evHQZjhE9CM.json
-python downloader.py --youtubeid="ztLD9IqnRqY" --output SD_Best_VGM_1664_with_vid_id_ztLD9IqnRqY.json
-python downloader.py --youtubeid="kW63YiVf5I0" --output SD_Best_VGM_1665_with_vid_id_kW63YiVf5I0.json
-python downloader.py --youtubeid="Jq949CcPxnM" --output SD_Best_VGM_1666_with_vid_id_Jq949CcPxnM.json
-python downloader.py --youtubeid="8K8hCmRDbWc" --output SD_Best_VGM_1667_with_vid_id_8K8hCmRDbWc.json
-python downloader.py --youtubeid="JGQ_Z0W43D4" --output SD_Best_VGM_1668_with_vid_id_JGQ_Z0W43D4.json
-python downloader.py --youtubeid="I0FNN-t4pRU" --output SD_Best_VGM_1669_with_vid_id_I0FNN-t4pRU.json
-python downloader.py --youtubeid="mDw3F-Gt4bQ" --output SD_Best_VGM_1670_with_vid_id_mDw3F-Gt4bQ.json
-python downloader.py --youtubeid="0tWIVmHNDYk" --output SD_Best_VGM_1671_with_vid_id_0tWIVmHNDYk.json
-python downloader.py --youtubeid="6b77tr2Vu9U" --output SD_Best_VGM_1672_with_vid_id_6b77tr2Vu9U.json
-python downloader.py --youtubeid="M16kCIMiNyc" --output SD_Best_VGM_1673_with_vid_id_M16kCIMiNyc.json
-python downloader.py --youtubeid="6_JLe4OxrbA" --output SD_Best_VGM_1674_with_vid_id_6_JLe4OxrbA.json
-python downloader.py --youtubeid="glFK5I0G2GE" --output SD_Best_VGM_1675_with_vid_id_glFK5I0G2GE.json
-python downloader.py --youtubeid="PGowEQXyi3Y" --output SD_Best_VGM_1676_with_vid_id_PGowEQXyi3Y.json
-python downloader.py --youtubeid="SYp2ic7v4FU" --output SD_Best_VGM_1677_with_vid_id_SYp2ic7v4FU.json
-python downloader.py --youtubeid="FKtnlUcGVvM" --output SD_Best_VGM_1678_with_vid_id_FKtnlUcGVvM.json
-python downloader.py --youtubeid="NkonFpRLGTU" --output SD_Best_VGM_1679_with_vid_id_NkonFpRLGTU.json
-python downloader.py --youtubeid="xsC6UGAJmIw" --output SD_Best_VGM_1680_with_vid_id_xsC6UGAJmIw.json
-python downloader.py --youtubeid="uTRjJj4UeCg" --output SD_Best_VGM_1681_with_vid_id_uTRjJj4UeCg.json
-python downloader.py --youtubeid="xl30LV6ruvA" --output SD_Best_VGM_1682_with_vid_id_xl30LV6ruvA.json
-python downloader.py --youtubeid="i-v-bJhK5yc" --output SD_Best_VGM_1683_with_vid_id_i-v-bJhK5yc.json
-python downloader.py --youtubeid="hFgqnQLyqqE" --output SD_Best_VGM_1684_with_vid_id_hFgqnQLyqqE.json
-python downloader.py --youtubeid="GAVePrZeGTc" --output SD_Best_VGM_1685_with_vid_id_GAVePrZeGTc.json
-python downloader.py --youtubeid="N6hzEQyU6QM" --output SD_Best_VGM_1686_with_vid_id_N6hzEQyU6QM.json
-python downloader.py --youtubeid="0yKsce_NsWA" --output SD_Best_VGM_1687_with_vid_id_0yKsce_NsWA.json
-python downloader.py --youtubeid="OIsI5kUyLcI" --output SD_Best_VGM_1688_with_vid_id_OIsI5kUyLcI.json
-python downloader.py --youtubeid="TMhh7ApHESo" --output SD_Best_VGM_1689_with_vid_id_TMhh7ApHESo.json
-python downloader.py --youtubeid="yV7eGX8y2dM" --output SD_Best_VGM_1690_with_vid_id_yV7eGX8y2dM.json
-python downloader.py --youtubeid="q_ClDJNpFV8" --output SD_Best_VGM_1691_with_vid_id_q_ClDJNpFV8.json
-python downloader.py --youtubeid="Zee9VKBU_Vk" --output SD_Best_VGM_1692_with_vid_id_Zee9VKBU_Vk.json
-python downloader.py --youtubeid="AC58piv97eM" --output SD_Best_VGM_1693_with_vid_id_AC58piv97eM.json
-python downloader.py --youtubeid="0OMlZPg8tl4" --output SD_Best_VGM_1694_with_vid_id_0OMlZPg8tl4.json
-python downloader.py --youtubeid="1MRrLo4awBI" --output SD_Best_VGM_1695_with_vid_id_1MRrLo4awBI.json
-python downloader.py --youtubeid="TPW9GRiGTek" --output SD_Best_VGM_1696_with_vid_id_TPW9GRiGTek.json
-python downloader.py --youtubeid="Ovn18xiJIKY" --output SD_Best_VGM_1697_with_vid_id_Ovn18xiJIKY.json
-python downloader.py --youtubeid="gLfz9w6jmJM" --output SD_Best_VGM_1698_with_vid_id_gLfz9w6jmJM.json
-python downloader.py --youtubeid="h8wD8Dmxr94" --output SD_Best_VGM_1699_with_vid_id_h8wD8Dmxr94.json
-python downloader.py --youtubeid="ggTedyRHx20" --output SD_Best_VGM_1700_with_vid_id_ggTedyRHx20.json
-python downloader.py --youtubeid="Xw58jPitU-Q" --output SD_Best_VGM_1701_with_vid_id_Xw58jPitU-Q.json
-python downloader.py --youtubeid="tqyigq3uWzo" --output SD_Best_VGM_1702_with_vid_id_tqyigq3uWzo.json
-python downloader.py --youtubeid="pIC5D1F9EQQ" --output SD_Best_VGM_1703_with_vid_id_pIC5D1F9EQQ.json
-python downloader.py --youtubeid="1wskjjST4F8" --output SD_Best_VGM_1704_with_vid_id_1wskjjST4F8.json
-python downloader.py --youtubeid="wyYpZvfAUso" --output SD_Best_VGM_1705_with_vid_id_wyYpZvfAUso.json
-python downloader.py --youtubeid="hlQ-DG9Jy3Y" --output SD_Best_VGM_1706_with_vid_id_hlQ-DG9Jy3Y.json
-python downloader.py --youtubeid="Xo1gsf_pmzM" --output SD_Best_VGM_1707_with_vid_id_Xo1gsf_pmzM.json
-python downloader.py --youtubeid="z5ndH9xEVlo" --output SD_Best_VGM_1708_with_vid_id_z5ndH9xEVlo.json
-python downloader.py --youtubeid="iMeBQBv2ACs" --output SD_Best_VGM_1709_with_vid_id_iMeBQBv2ACs.json
-python downloader.py --youtubeid="HW5WcFpYDc4" --output SD_Best_VGM_1710_with_vid_id_HW5WcFpYDc4.json
-python downloader.py --youtubeid="1UzoyIwC3Lg" --output SD_Best_VGM_1711_with_vid_id_1UzoyIwC3Lg.json
-python downloader.py --youtubeid="vrWC1PosXSI" --output SD_Best_VGM_1712_with_vid_id_vrWC1PosXSI.json
-python downloader.py --youtubeid="yZ5gFAjZsS4" --output SD_Best_VGM_1713_with_vid_id_yZ5gFAjZsS4.json
-python downloader.py --youtubeid="ehxzly2ogW4" --output SD_Best_VGM_1714_with_vid_id_ehxzly2ogW4.json
-python downloader.py --youtubeid="mX78VEVMSVo" --output SD_Best_VGM_1715_with_vid_id_mX78VEVMSVo.json
-python downloader.py --youtubeid="L5t48bbzRDs" --output SD_Best_VGM_1716_with_vid_id_L5t48bbzRDs.json
-python downloader.py --youtubeid="f0UzNWcwC30" --output SD_Best_VGM_1717_with_vid_id_f0UzNWcwC30.json
-python downloader.py --youtubeid="eyiABstbKJE" --output SD_Best_VGM_1718_with_vid_id_eyiABstbKJE.json
-python downloader.py --youtubeid="Luko2A5gNpk" --output SD_Best_VGM_1719_with_vid_id_Luko2A5gNpk.json
-python downloader.py --youtubeid="dim1KXcN34U" --output SD_Best_VGM_1720_with_vid_id_dim1KXcN34U.json
-python downloader.py --youtubeid="xhVwxYU23RU" --output SD_Best_VGM_1721_with_vid_id_xhVwxYU23RU.json
-python downloader.py --youtubeid="56oPoX8sCcY" --output SD_Best_VGM_1722_with_vid_id_56oPoX8sCcY.json
-python downloader.py --youtubeid="wXXgqWHDp18" --output SD_Best_VGM_1723_with_vid_id_wXXgqWHDp18.json
-python downloader.py --youtubeid="LcFX7lFjfqA" --output SD_Best_VGM_1724_with_vid_id_LcFX7lFjfqA.json
-python downloader.py --youtubeid="r7owYv6_tuw" --output SD_Best_VGM_1725_with_vid_id_r7owYv6_tuw.json
-python downloader.py --youtubeid="nesYhwViPkc" --output SD_Best_VGM_1726_with_vid_id_nesYhwViPkc.json
-python downloader.py --youtubeid="r6dC9N4WgSY" --output SD_Best_VGM_1727_with_vid_id_r6dC9N4WgSY.json
-python downloader.py --youtubeid="Rj9bp-bp-TA" --output SD_Best_VGM_1728_with_vid_id_Rj9bp-bp-TA.json
-python downloader.py --youtubeid="naIUUMurT5U" --output SD_Best_VGM_1729_with_vid_id_naIUUMurT5U.json
-python downloader.py --youtubeid="qR8x99ylgqc" --output SD_Best_VGM_1730_with_vid_id_qR8x99ylgqc.json
-python downloader.py --youtubeid="lcOky3CKCa0" --output SD_Best_VGM_1731_with_vid_id_lcOky3CKCa0.json
-python downloader.py --youtubeid="nL5Y2NmHn38" --output SD_Best_VGM_1732_with_vid_id_nL5Y2NmHn38.json
-python downloader.py --youtubeid="EpbcztAybh0" --output SD_Best_VGM_1733_with_vid_id_EpbcztAybh0.json
-python downloader.py --youtubeid="9rldISzBkjE" --output SD_Best_VGM_1734_with_vid_id_9rldISzBkjE.json
-python downloader.py --youtubeid="jTZEuazir4s" --output SD_Best_VGM_1735_with_vid_id_jTZEuazir4s.json
-python downloader.py --youtubeid="dMYW4wBDQLU" --output SD_Best_VGM_1736_with_vid_id_dMYW4wBDQLU.json
-python downloader.py --youtubeid="DWXXhLbqYOI" --output SD_Best_VGM_1737_with_vid_id_DWXXhLbqYOI.json
-python downloader.py --youtubeid="3283ANpvPPM" --output SD_Best_VGM_1738_with_vid_id_3283ANpvPPM.json
-python downloader.py --youtubeid="r6F92CUYjbI" --output SD_Best_VGM_1739_with_vid_id_r6F92CUYjbI.json
-python downloader.py --youtubeid="MxyCk1mToY4" --output SD_Best_VGM_1740_with_vid_id_MxyCk1mToY4.json
-python downloader.py --youtubeid="PQjOIZTv8I4" --output SD_Best_VGM_1741_with_vid_id_PQjOIZTv8I4.json
-python downloader.py --youtubeid="XSSNGYomwAU" --output SD_Best_VGM_1742_with_vid_id_XSSNGYomwAU.json
-python downloader.py --youtubeid="ght6F5_jHQ0" --output SD_Best_VGM_1743_with_vid_id_ght6F5_jHQ0.json
-python downloader.py --youtubeid="0EhiDgp8Drg" --output SD_Best_VGM_1744_with_vid_id_0EhiDgp8Drg.json
-python downloader.py --youtubeid="gF4pOYxzplw" --output SD_Best_VGM_1745_with_vid_id_gF4pOYxzplw.json
-python downloader.py --youtubeid="KI6ZwWinXNM" --output SD_Best_VGM_1746_with_vid_id_KI6ZwWinXNM.json
-python downloader.py --youtubeid="Xy9eA5PJ9cU" --output SD_Best_VGM_1747_with_vid_id_Xy9eA5PJ9cU.json
-python downloader.py --youtubeid="mNDaE4dD8dE" --output SD_Best_VGM_1748_with_vid_id_mNDaE4dD8dE.json
-python downloader.py --youtubeid="OjRNSYsddz0" --output SD_Best_VGM_1749_with_vid_id_OjRNSYsddz0.json
-python downloader.py --youtubeid="eEZLBWjQsGk" --output SD_Best_VGM_1750_with_vid_id_eEZLBWjQsGk.json
-python downloader.py --youtubeid="CuQJ-qh9s_s" --output SD_Best_VGM_1751_with_vid_id_CuQJ-qh9s_s.json
-python downloader.py --youtubeid="RBKbYPqJNOw" --output SD_Best_VGM_1752_with_vid_id_RBKbYPqJNOw.json
-python downloader.py --youtubeid="jhsNQ6r2fHE" --output SD_Best_VGM_1753_with_vid_id_jhsNQ6r2fHE.json
-python downloader.py --youtubeid="Pmn-r3zx-E0" --output SD_Best_VGM_1754_with_vid_id_Pmn-r3zx-E0.json
-python downloader.py --youtubeid="imK2k2YK36E" --output SD_Best_VGM_1755_with_vid_id_imK2k2YK36E.json
-python downloader.py --youtubeid="2hfgF1RoqJo" --output SD_Best_VGM_1756_with_vid_id_2hfgF1RoqJo.json
-python downloader.py --youtubeid="A-dyJWsn_2Y" --output SD_Best_VGM_1757_with_vid_id_A-dyJWsn_2Y.json
-python downloader.py --youtubeid="096M0eZMk5Q" --output SD_Best_VGM_1758_with_vid_id_096M0eZMk5Q.json
-python downloader.py --youtubeid="c7mYaBoSIQU" --output SD_Best_VGM_1759_with_vid_id_c7mYaBoSIQU.json
-python downloader.py --youtubeid="JrlGy3ozlDA" --output SD_Best_VGM_1760_with_vid_id_JrlGy3ozlDA.json
-python downloader.py --youtubeid="cvae_OsnWZ0" --output SD_Best_VGM_1761_with_vid_id_cvae_OsnWZ0.json
-python downloader.py --youtubeid="mA2rTmfT1T8" --output SD_Best_VGM_1762_with_vid_id_mA2rTmfT1T8.json
-python downloader.py --youtubeid="Zys-MeBfBto" --output SD_Best_VGM_1763_with_vid_id_Zys-MeBfBto.json
-python downloader.py --youtubeid="AQMonx8SlXc" --output SD_Best_VGM_1764_with_vid_id_AQMonx8SlXc.json
-python downloader.py --youtubeid="glcGXw3gS6Q" --output SD_Best_VGM_1765_with_vid_id_glcGXw3gS6Q.json
-python downloader.py --youtubeid="5lyXiD-OYXU" --output SD_Best_VGM_1766_with_vid_id_5lyXiD-OYXU.json
-python downloader.py --youtubeid="15PEwOkJ5DA" --output SD_Best_VGM_1767_with_vid_id_15PEwOkJ5DA.json
-python downloader.py --youtubeid="MK41-UzpQLk" --output SD_Best_VGM_1768_with_vid_id_MK41-UzpQLk.json
-python downloader.py --youtubeid="un-CZxdgudA" --output SD_Best_VGM_1769_with_vid_id_un-CZxdgudA.json
-python downloader.py --youtubeid="bQ1D8oR128E" --output SD_Best_VGM_1770_with_vid_id_bQ1D8oR128E.json
-python downloader.py --youtubeid="hlCHzEa9MRg" --output SD_Best_VGM_1771_with_vid_id_hlCHzEa9MRg.json
-python downloader.py --youtubeid="Yn9EmSHIaLw" --output SD_Best_VGM_1772_with_vid_id_Yn9EmSHIaLw.json
-python downloader.py --youtubeid="WwXBfLnChSE" --output SD_Best_VGM_1773_with_vid_id_WwXBfLnChSE.json
-python downloader.py --youtubeid="8bEtK6g4g_Y" --output SD_Best_VGM_1774_with_vid_id_8bEtK6g4g_Y.json
-python downloader.py --youtubeid="bvbOS8Mp8aQ" --output SD_Best_VGM_1775_with_vid_id_bvbOS8Mp8aQ.json
-python downloader.py --youtubeid="nK-IjRF-hs4" --output SD_Best_VGM_1776_with_vid_id_nK-IjRF-hs4.json
-python downloader.py --youtubeid="mTnXMcxBwcE" --output SD_Best_VGM_1777_with_vid_id_mTnXMcxBwcE.json
-python downloader.py --youtubeid="d5OK1GkI_CU" --output SD_Best_VGM_1778_with_vid_id_d5OK1GkI_CU.json
-python downloader.py --youtubeid="aPrcJy-5hoA" --output SD_Best_VGM_1779_with_vid_id_aPrcJy-5hoA.json
-python downloader.py --youtubeid="udO3kaNWEsI" --output SD_Best_VGM_1780_with_vid_id_udO3kaNWEsI.json
-python downloader.py --youtubeid="vmUwR3aa6dc" --output SD_Best_VGM_1781_with_vid_id_vmUwR3aa6dc.json
-python downloader.py --youtubeid="EvRTjXbb8iw" --output SD_Best_VGM_1782_with_vid_id_EvRTjXbb8iw.json
-python downloader.py --youtubeid="sHQslJ2FaaM" --output SD_Best_VGM_1783_with_vid_id_sHQslJ2FaaM.json
-python downloader.py --youtubeid="O5a4jwv-jPo" --output SD_Best_VGM_1784_with_vid_id_O5a4jwv-jPo.json
-python downloader.py --youtubeid="RyQAZcBim88" --output SD_Best_VGM_1785_with_vid_id_RyQAZcBim88.json
-python downloader.py --youtubeid="fXxbFMtx0Bo" --output SD_Best_VGM_1786_with_vid_id_fXxbFMtx0Bo.json
-python downloader.py --youtubeid="jYFYsfEyi0c" --output SD_Best_VGM_1787_with_vid_id_jYFYsfEyi0c.json
-python downloader.py --youtubeid="cl6iryREksM" --output SD_Best_VGM_1788_with_vid_id_cl6iryREksM.json
-python downloader.py --youtubeid="VktyN1crFLQ" --output SD_Best_VGM_1789_with_vid_id_VktyN1crFLQ.json
-python downloader.py --youtubeid="qBh4tvmT6N4" --output SD_Best_VGM_1790_with_vid_id_qBh4tvmT6N4.json
-python downloader.py --youtubeid="H_rMLATTMws" --output SD_Best_VGM_1791_with_vid_id_H_rMLATTMws.json
-python downloader.py --youtubeid="fWqvxC_8yDk" --output SD_Best_VGM_1792_with_vid_id_fWqvxC_8yDk.json
-python downloader.py --youtubeid="718qcWPzvAY" --output SD_Best_VGM_1793_with_vid_id_718qcWPzvAY.json
-python downloader.py --youtubeid="HImC0q17Pk0" --output SD_Best_VGM_1794_with_vid_id_HImC0q17Pk0.json
-python downloader.py --youtubeid="ERohLbXvzVQ" --output SD_Best_VGM_1795_with_vid_id_ERohLbXvzVQ.json
-python downloader.py --youtubeid="vLRhuxHiYio" --output SD_Best_VGM_1796_with_vid_id_vLRhuxHiYio.json
-python downloader.py --youtubeid="MowlJduEbgY" --output SD_Best_VGM_1797_with_vid_id_MowlJduEbgY.json
-python downloader.py --youtubeid="obPhMUJ8G9k" --output SD_Best_VGM_1798_with_vid_id_obPhMUJ8G9k.json
-python downloader.py --youtubeid="gTahA9hCxAg" --output SD_Best_VGM_1799_with_vid_id_gTahA9hCxAg.json
-python downloader.py --youtubeid="f0bj_Aqhbb8" --output SD_Best_VGM_1800_with_vid_id_f0bj_Aqhbb8.json
-python downloader.py --youtubeid="ro4ceM17QzY" --output SD_Best_VGM_1801_with_vid_id_ro4ceM17QzY.json
-python downloader.py --youtubeid="Sime7JZrTl0" --output SD_Best_VGM_1802_with_vid_id_Sime7JZrTl0.json
-python downloader.py --youtubeid="7vpHPBE59HE" --output SD_Best_VGM_1803_with_vid_id_7vpHPBE59HE.json
-python downloader.py --youtubeid="tFsVKUoGJZs" --output SD_Best_VGM_1804_with_vid_id_tFsVKUoGJZs.json
-python downloader.py --youtubeid="dO4awKzd8rc" --output SD_Best_VGM_1805_with_vid_id_dO4awKzd8rc.json
-python downloader.py --youtubeid="HmOUI30QqiE" --output SD_Best_VGM_1806_with_vid_id_HmOUI30QqiE.json
-python downloader.py --youtubeid="nOeGX-O_QRU" --output SD_Best_VGM_1807_with_vid_id_nOeGX-O_QRU.json
-python downloader.py --youtubeid="ktnL6toFPCo" --output SD_Best_VGM_1808_with_vid_id_ktnL6toFPCo.json
-python downloader.py --youtubeid="B0nk276pUv8" --output SD_Best_VGM_1809_with_vid_id_B0nk276pUv8.json
-python downloader.py --youtubeid="n4Pun5BDH0g" --output SD_Best_VGM_1810_with_vid_id_n4Pun5BDH0g.json
-python downloader.py --youtubeid="lwUtHErD2Yo" --output SD_Best_VGM_1811_with_vid_id_lwUtHErD2Yo.json
-python downloader.py --youtubeid="aOjeeAVojAE" --output SD_Best_VGM_1812_with_vid_id_aOjeeAVojAE.json
-python downloader.py --youtubeid="9YY-v0pPRc8" --output SD_Best_VGM_1813_with_vid_id_9YY-v0pPRc8.json
-python downloader.py --youtubeid="y_4Ei9OljBA" --output SD_Best_VGM_1814_with_vid_id_y_4Ei9OljBA.json
-python downloader.py --youtubeid="DW-tMwk3t04" --output SD_Best_VGM_1815_with_vid_id_DW-tMwk3t04.json
-python downloader.py --youtubeid="9oVbqhGBKac" --output SD_Best_VGM_1816_with_vid_id_9oVbqhGBKac.json
-python downloader.py --youtubeid="M4XYQ8YfVdo" --output SD_Best_VGM_1817_with_vid_id_M4XYQ8YfVdo.json
-python downloader.py --youtubeid="PjlkqeMdZzU" --output SD_Best_VGM_1818_with_vid_id_PjlkqeMdZzU.json
-python downloader.py --youtubeid="sYVOk6kU3TY" --output SD_Best_VGM_1819_with_vid_id_sYVOk6kU3TY.json
-python downloader.py --youtubeid="6VD_aVMOL1c" --output SD_Best_VGM_1820_with_vid_id_6VD_aVMOL1c.json
-python downloader.py --youtubeid="GdOFuA2qpG4" --output SD_Best_VGM_1821_with_vid_id_GdOFuA2qpG4.json
-python downloader.py --youtubeid="PRCBxcvNApQ" --output SD_Best_VGM_1822_with_vid_id_PRCBxcvNApQ.json
-python downloader.py --youtubeid="fWx4q8GqZeo" --output SD_Best_VGM_1823_with_vid_id_fWx4q8GqZeo.json
-python downloader.py --youtubeid="zYMU-v7GGW4" --output SD_Best_VGM_1824_with_vid_id_zYMU-v7GGW4.json
-python downloader.py --youtubeid="r5n9re80hcQ" --output SD_Best_VGM_1825_with_vid_id_r5n9re80hcQ.json
-python downloader.py --youtubeid="aTofARLXiBk" --output SD_Best_VGM_1826_with_vid_id_aTofARLXiBk.json
-python downloader.py --youtubeid="cZVRDjJUPIQ" --output SD_Best_VGM_1827_with_vid_id_cZVRDjJUPIQ.json
-python downloader.py --youtubeid="I0rfWwuyHFg" --output SD_Best_VGM_1828_with_vid_id_I0rfWwuyHFg.json
-python downloader.py --youtubeid="HTo_H7376Rs" --output SD_Best_VGM_1829_with_vid_id_HTo_H7376Rs.json
-python downloader.py --youtubeid="4EBNeFI0QW4" --output SD_Best_VGM_1830_with_vid_id_4EBNeFI0QW4.json
-python downloader.py --youtubeid="wBAXLY1hq7s" --output SD_Best_VGM_1831_with_vid_id_wBAXLY1hq7s.json
-python downloader.py --youtubeid="JvGhaOX-aOo" --output SD_Best_VGM_1832_with_vid_id_JvGhaOX-aOo.json
-python downloader.py --youtubeid="I2LzT-9KtNA" --output SD_Best_VGM_1833_with_vid_id_I2LzT-9KtNA.json
-python downloader.py --youtubeid="CD9A7myidl4" --output SD_Best_VGM_1834_with_vid_id_CD9A7myidl4.json
-python downloader.py --youtubeid="N2_yNExicyI" --output SD_Best_VGM_1835_with_vid_id_N2_yNExicyI.json
-python downloader.py --youtubeid="CPbjTzqyr7o" --output SD_Best_VGM_1836_with_vid_id_CPbjTzqyr7o.json
-python downloader.py --youtubeid="gf3NerhyM_k" --output SD_Best_VGM_1837_with_vid_id_gf3NerhyM_k.json
-python downloader.py --youtubeid="-finZK4D6NA" --output SD_Best_VGM_1838_with_vid_id_-finZK4D6NA.json
-python downloader.py --youtubeid="3Bl0nIoCB5Q" --output SD_Best_VGM_1839_with_vid_id_3Bl0nIoCB5Q.json
-python downloader.py --youtubeid="a5JdLRzK_uQ" --output SD_Best_VGM_1840_with_vid_id_a5JdLRzK_uQ.json
-python downloader.py --youtubeid="Ys_xfruRWSc" --output SD_Best_VGM_1841_with_vid_id_Ys_xfruRWSc.json
-python downloader.py --youtubeid="VMt6f3DvTaU" --output SD_Best_VGM_1842_with_vid_id_VMt6f3DvTaU.json
-python downloader.py --youtubeid="tvGn7jf7t8c" --output SD_Best_VGM_1843_with_vid_id_tvGn7jf7t8c.json
-python downloader.py --youtubeid="0_YB2lagalY" --output SD_Best_VGM_1844_with_vid_id_0_YB2lagalY.json
-python downloader.py --youtubeid="LAHKscXvt3Q" --output SD_Best_VGM_1845_with_vid_id_LAHKscXvt3Q.json
-python downloader.py --youtubeid="EDmsNVWZIws" --output SD_Best_VGM_1846_with_vid_id_EDmsNVWZIws.json
-python downloader.py --youtubeid="he_ECgg9YyU" --output SD_Best_VGM_1847_with_vid_id_he_ECgg9YyU.json
-python downloader.py --youtubeid="d3mJsXFGhDg" --output SD_Best_VGM_1848_with_vid_id_d3mJsXFGhDg.json
-python downloader.py --youtubeid="AzlWTsBn8M8" --output SD_Best_VGM_1849_with_vid_id_AzlWTsBn8M8.json
-python downloader.py --youtubeid="iXDF9eHsmD4" --output SD_Best_VGM_1850_with_vid_id_iXDF9eHsmD4.json
-python downloader.py --youtubeid="77Z3VDq_9_0" --output SD_Best_VGM_1851_with_vid_id_77Z3VDq_9_0.json
-python downloader.py --youtubeid="Xb8k4cp_mvQ" --output SD_Best_VGM_1852_with_vid_id_Xb8k4cp_mvQ.json
-python downloader.py --youtubeid="T_HfcZMUR4k" --output SD_Best_VGM_1853_with_vid_id_T_HfcZMUR4k.json
-python downloader.py --youtubeid="a4t1ty8U9qw" --output SD_Best_VGM_1854_with_vid_id_a4t1ty8U9qw.json
-python downloader.py --youtubeid="YQasQAYgbb4" --output SD_Best_VGM_1855_with_vid_id_YQasQAYgbb4.json
-python downloader.py --youtubeid="s6D8clnSE_I" --output SD_Best_VGM_1856_with_vid_id_s6D8clnSE_I.json
-python downloader.py --youtubeid="W4259ddJDtw" --output SD_Best_VGM_1857_with_vid_id_W4259ddJDtw.json
-python downloader.py --youtubeid="Tug0cYK0XW0" --output SD_Best_VGM_1858_with_vid_id_Tug0cYK0XW0.json
-python downloader.py --youtubeid="zTHAKsaD_8U" --output SD_Best_VGM_1859_with_vid_id_zTHAKsaD_8U.json
-python downloader.py --youtubeid="cnjADMWesKk" --output SD_Best_VGM_1860_with_vid_id_cnjADMWesKk.json
-python downloader.py --youtubeid="g4Bnot1yBJA" --output SD_Best_VGM_1861_with_vid_id_g4Bnot1yBJA.json
-python downloader.py --youtubeid="RAevlv9Y1ao" --output SD_Best_VGM_1862_with_vid_id_RAevlv9Y1ao.json
-python downloader.py --youtubeid="UoDDUr6poOs" --output SD_Best_VGM_1863_with_vid_id_UoDDUr6poOs.json
-python downloader.py --youtubeid="Is_yOYLMlHY" --output SD_Best_VGM_1864_with_vid_id_Is_yOYLMlHY.json
-python downloader.py --youtubeid="69142JeBFXM" --output SD_Best_VGM_1865_with_vid_id_69142JeBFXM.json
-python downloader.py --youtubeid="nO3lPvYVxzs" --output SD_Best_VGM_1866_with_vid_id_nO3lPvYVxzs.json
-python downloader.py --youtubeid="calW24ddgOM" --output SD_Best_VGM_1867_with_vid_id_calW24ddgOM.json
-python downloader.py --youtubeid="ocVRCl9Kcus" --output SD_Best_VGM_1868_with_vid_id_ocVRCl9Kcus.json
-python downloader.py --youtubeid="HpecW3jSJvQ" --output SD_Best_VGM_1869_with_vid_id_HpecW3jSJvQ.json
-python downloader.py --youtubeid="OViAthHme2o" --output SD_Best_VGM_1870_with_vid_id_OViAthHme2o.json
-python downloader.py --youtubeid="JvMsfqT9KB8" --output SD_Best_VGM_1871_with_vid_id_JvMsfqT9KB8.json
-python downloader.py --youtubeid="qNIAYDOCfGU" --output SD_Best_VGM_1872_with_vid_id_qNIAYDOCfGU.json
-python downloader.py --youtubeid="N1EyCv65yOI" --output SD_Best_VGM_1873_with_vid_id_N1EyCv65yOI.json
-python downloader.py --youtubeid="1UZ1fKOlZC0" --output SD_Best_VGM_1874_with_vid_id_1UZ1fKOlZC0.json
-python downloader.py --youtubeid="o5tflPmrT5c" --output SD_Best_VGM_1875_with_vid_id_o5tflPmrT5c.json
-python downloader.py --youtubeid="xZHoULMU6fE" --output SD_Best_VGM_1876_with_vid_id_xZHoULMU6fE.json
-python downloader.py --youtubeid="ZulAUy2_mZ4" --output SD_Best_VGM_1877_with_vid_id_ZulAUy2_mZ4.json
-python downloader.py --youtubeid="K2fx7bngK80" --output SD_Best_VGM_1878_with_vid_id_K2fx7bngK80.json
-python downloader.py --youtubeid="1KCcXn5xBeY" --output SD_Best_VGM_1879_with_vid_id_1KCcXn5xBeY.json
-python downloader.py --youtubeid="44vPlW8_X3s" --output SD_Best_VGM_1880_with_vid_id_44vPlW8_X3s.json
-python downloader.py --youtubeid="Roj5F9QZEpU" --output SD_Best_VGM_1881_with_vid_id_Roj5F9QZEpU.json
-python downloader.py --youtubeid="ZJGF0_ycDpU" --output SD_Best_VGM_1882_with_vid_id_ZJGF0_ycDpU.json
-python downloader.py --youtubeid="LXuXWMV2hW4" --output SD_Best_VGM_1883_with_vid_id_LXuXWMV2hW4.json
-python downloader.py --youtubeid="nuUYTK61228" --output SD_Best_VGM_1884_with_vid_id_nuUYTK61228.json
-python downloader.py --youtubeid="XG7HmRvDb5Y" --output SD_Best_VGM_1885_with_vid_id_XG7HmRvDb5Y.json
-python downloader.py --youtubeid="KWRoyFQ1Sj4" --output SD_Best_VGM_1886_with_vid_id_KWRoyFQ1Sj4.json
-python downloader.py --youtubeid="CHd4iWEFARM" --output SD_Best_VGM_1887_with_vid_id_CHd4iWEFARM.json
-python downloader.py --youtubeid="MxShFnOgCnk" --output SD_Best_VGM_1888_with_vid_id_MxShFnOgCnk.json
-python downloader.py --youtubeid="DTzf-vahsdI" --output SD_Best_VGM_1889_with_vid_id_DTzf-vahsdI.json
-python downloader.py --youtubeid="JxhYFSN_xQY" --output SD_Best_VGM_1890_with_vid_id_JxhYFSN_xQY.json
-python downloader.py --youtubeid="dobKarKesA0" --output SD_Best_VGM_1891_with_vid_id_dobKarKesA0.json
-python downloader.py --youtubeid="qmeaNH7mWAY" --output SD_Best_VGM_1892_with_vid_id_qmeaNH7mWAY.json
-python downloader.py --youtubeid="-oGZIqeeTt0" --output SD_Best_VGM_1893_with_vid_id_-oGZIqeeTt0.json
-python downloader.py --youtubeid="uM3dR2VbMck" --output SD_Best_VGM_1894_with_vid_id_uM3dR2VbMck.json
-python downloader.py --youtubeid="uURUC6yEMZc" --output SD_Best_VGM_1895_with_vid_id_uURUC6yEMZc.json
-python downloader.py --youtubeid="-Q2Srm60GLg" --output SD_Best_VGM_1896_with_vid_id_-Q2Srm60GLg.json
-python downloader.py --youtubeid="UmTX3cPnxXg" --output SD_Best_VGM_1897_with_vid_id_UmTX3cPnxXg.json
-python downloader.py --youtubeid="TcKSIuOSs4U" --output SD_Best_VGM_1898_with_vid_id_TcKSIuOSs4U.json
-python downloader.py --youtubeid="k0f4cCJqUbg" --output SD_Best_VGM_1899_with_vid_id_k0f4cCJqUbg.json
-python downloader.py --youtubeid="763w2hsKUpk" --output SD_Best_VGM_1900_with_vid_id_763w2hsKUpk.json
-python downloader.py --youtubeid="BCjRd3LfRkE" --output SD_Best_VGM_1901_with_vid_id_BCjRd3LfRkE.json
-python downloader.py --youtubeid="vz59icOE03E" --output SD_Best_VGM_1902_with_vid_id_vz59icOE03E.json
-python downloader.py --youtubeid="nEBoB571s9w" --output SD_Best_VGM_1903_with_vid_id_nEBoB571s9w.json
-python downloader.py --youtubeid="81dgZtXKMII" --output SD_Best_VGM_1904_with_vid_id_81dgZtXKMII.json
-python downloader.py --youtubeid="OpvLr9vyOhQ" --output SD_Best_VGM_1905_with_vid_id_OpvLr9vyOhQ.json
-python downloader.py --youtubeid="ERUnY6EIsn8" --output SD_Best_VGM_1906_with_vid_id_ERUnY6EIsn8.json
-python downloader.py --youtubeid="7sc7R7jeOX0" --output SD_Best_VGM_1907_with_vid_id_7sc7R7jeOX0.json
-python downloader.py --youtubeid="ygqp3eNXbI4" --output SD_Best_VGM_1908_with_vid_id_ygqp3eNXbI4.json
-python downloader.py --youtubeid="f_UurCb4AD4" --output SD_Best_VGM_1909_with_vid_id_f_UurCb4AD4.json
-python downloader.py --youtubeid="TIzYqi_QFY8" --output SD_Best_VGM_1910_with_vid_id_TIzYqi_QFY8.json
-python downloader.py --youtubeid="TaRAKfltBfo" --output SD_Best_VGM_1911_with_vid_id_TaRAKfltBfo.json
-python downloader.py --youtubeid="YEoAPCEZyA0" --output SD_Best_VGM_1912_with_vid_id_YEoAPCEZyA0.json
-python downloader.py --youtubeid="ABYH2x7xaBo" --output SD_Best_VGM_1913_with_vid_id_ABYH2x7xaBo.json
-python downloader.py --youtubeid="31NHdGB1ZSk" --output SD_Best_VGM_1914_with_vid_id_31NHdGB1ZSk.json
-python downloader.py --youtubeid="hYHMbcC08xA" --output SD_Best_VGM_1915_with_vid_id_hYHMbcC08xA.json
-python downloader.py --youtubeid="TdxJKAvFEIU" --output SD_Best_VGM_1916_with_vid_id_TdxJKAvFEIU.json
-python downloader.py --youtubeid="oseD00muRc8" --output SD_Best_VGM_1917_with_vid_id_oseD00muRc8.json
-python downloader.py --youtubeid="ysoz5EnW6r4" --output SD_Best_VGM_1918_with_vid_id_ysoz5EnW6r4.json
-python downloader.py --youtubeid="eCS1Tzbcbro" --output SD_Best_VGM_1919_with_vid_id_eCS1Tzbcbro.json
-python downloader.py --youtubeid="LScvuN6-ZWo" --output SD_Best_VGM_1920_with_vid_id_LScvuN6-ZWo.json
-python downloader.py --youtubeid="8hzjxWVQnxo" --output SD_Best_VGM_1921_with_vid_id_8hzjxWVQnxo.json
-python downloader.py --youtubeid="CumPOZtsxkU" --output SD_Best_VGM_1922_with_vid_id_CumPOZtsxkU.json
-python downloader.py --youtubeid="MbkMki62A4o" --output SD_Best_VGM_1923_with_vid_id_MbkMki62A4o.json
-python downloader.py --youtubeid="KTHBvQKkibA" --output SD_Best_VGM_1924_with_vid_id_KTHBvQKkibA.json
-python downloader.py --youtubeid="tNvY96zReis" --output SD_Best_VGM_1925_with_vid_id_tNvY96zReis.json
-python downloader.py --youtubeid="DS825tbc9Ts" --output SD_Best_VGM_1926_with_vid_id_DS825tbc9Ts.json
-python downloader.py --youtubeid="iTUBlKA5IfY" --output SD_Best_VGM_1927_with_vid_id_iTUBlKA5IfY.json
-python downloader.py --youtubeid="GNqR9kGLAeA" --output SD_Best_VGM_1928_with_vid_id_GNqR9kGLAeA.json
-python downloader.py --youtubeid="CLl8UR5vrMk" --output SD_Best_VGM_1929_with_vid_id_CLl8UR5vrMk.json
-python downloader.py --youtubeid="_C_fXeDZHKw" --output SD_Best_VGM_1930_with_vid_id__C_fXeDZHKw.json
-python downloader.py --youtubeid="Mn3HPClpZ6Q" --output SD_Best_VGM_1931_with_vid_id_Mn3HPClpZ6Q.json
-python downloader.py --youtubeid="BQRKQ-CQ27U" --output SD_Best_VGM_1932_with_vid_id_BQRKQ-CQ27U.json
-python downloader.py --youtubeid="7u3tJbtAi_o" --output SD_Best_VGM_1933_with_vid_id_7u3tJbtAi_o.json
-python downloader.py --youtubeid="9VE72cRcQKk" --output SD_Best_VGM_1934_with_vid_id_9VE72cRcQKk.json
-python downloader.py --youtubeid="wv6HHTa4jjI" --output SD_Best_VGM_1935_with_vid_id_wv6HHTa4jjI.json
-python downloader.py --youtubeid="GaOT77kUTD8" --output SD_Best_VGM_1936_with_vid_id_GaOT77kUTD8.json
-python downloader.py --youtubeid="DzXQKut6Ih4" --output SD_Best_VGM_1937_with_vid_id_DzXQKut6Ih4.json
-python downloader.py --youtubeid="mHUE5GkAUXo" --output SD_Best_VGM_1938_with_vid_id_mHUE5GkAUXo.json
-python downloader.py --youtubeid="248TO66gf8M" --output SD_Best_VGM_1939_with_vid_id_248TO66gf8M.json
-python downloader.py --youtubeid="nJN-xeA7ZJo" --output SD_Best_VGM_1940_with_vid_id_nJN-xeA7ZJo.json
-python downloader.py --youtubeid="Ca4QJ_pDqpA" --output SD_Best_VGM_1941_with_vid_id_Ca4QJ_pDqpA.json
-python downloader.py --youtubeid="_U3JUtO8a9U" --output SD_Best_VGM_1942_with_vid_id__U3JUtO8a9U.json
-python downloader.py --youtubeid="_jWbBWpfBWw" --output SD_Best_VGM_1943_with_vid_id__jWbBWpfBWw.json
-python downloader.py --youtubeid="q-NUnKMEXnM" --output SD_Best_VGM_1944_with_vid_id_q-NUnKMEXnM.json
-python downloader.py --youtubeid="-u_udSjbXgs" --output SD_Best_VGM_1945_with_vid_id_-u_udSjbXgs.json
-python downloader.py --youtubeid="5CLpmBIb4MM" --output SD_Best_VGM_1946_with_vid_id_5CLpmBIb4MM.json
-python downloader.py --youtubeid="TTt_-gE9iPU" --output SD_Best_VGM_1947_with_vid_id_TTt_-gE9iPU.json
-python downloader.py --youtubeid="5ZMI6Gu2aac" --output SD_Best_VGM_1948_with_vid_id_5ZMI6Gu2aac.json
-python downloader.py --youtubeid="OXHIuTm-w2o" --output SD_Best_VGM_1949_with_vid_id_OXHIuTm-w2o.json
-python downloader.py --youtubeid="eWsYdciDkqY" --output SD_Best_VGM_1950_with_vid_id_eWsYdciDkqY.json
-python downloader.py --youtubeid="HaRmFcPG7o8" --output SD_Best_VGM_1951_with_vid_id_HaRmFcPG7o8.json
-python downloader.py --youtubeid="dgD5lgqNzP8" --output SD_Best_VGM_1952_with_vid_id_dgD5lgqNzP8.json
-python downloader.py --youtubeid="M_B1DJu8FlQ" --output SD_Best_VGM_1953_with_vid_id_M_B1DJu8FlQ.json
-python downloader.py --youtubeid="q87OASJOKOg" --output SD_Best_VGM_1954_with_vid_id_q87OASJOKOg.json
-python downloader.py --youtubeid="RNkUpb36KhQ" --output SD_Best_VGM_1955_with_vid_id_RNkUpb36KhQ.json
-python downloader.py --youtubeid="NuSPcCqiCZo" --output SD_Best_VGM_1956_with_vid_id_NuSPcCqiCZo.json
-python downloader.py --youtubeid="nvv6JrhcQSo" --output SD_Best_VGM_1957_with_vid_id_nvv6JrhcQSo.json
-python downloader.py --youtubeid="K5AOu1d79WA" --output SD_Best_VGM_1958_with_vid_id_K5AOu1d79WA.json
-python downloader.py --youtubeid="zS8QlZkN_kM" --output SD_Best_VGM_1959_with_vid_id_zS8QlZkN_kM.json
-python downloader.py --youtubeid="P9OdKnQQchQ" --output SD_Best_VGM_1960_with_vid_id_P9OdKnQQchQ.json
-python downloader.py --youtubeid="HtJPpVCuYGQ" --output SD_Best_VGM_1961_with_vid_id_HtJPpVCuYGQ.json
-python downloader.py --youtubeid="MkKh-oP7DBQ" --output SD_Best_VGM_1962_with_vid_id_MkKh-oP7DBQ.json
-python downloader.py --youtubeid="h0LDHLeL-mE" --output SD_Best_VGM_1963_with_vid_id_h0LDHLeL-mE.json
-python downloader.py --youtubeid="4CEc0t0t46s" --output SD_Best_VGM_1964_with_vid_id_4CEc0t0t46s.json
-python downloader.py --youtubeid="dd2dbckq54Q" --output SD_Best_VGM_1965_with_vid_id_dd2dbckq54Q.json
-python downloader.py --youtubeid="y9SFrBt1xtw" --output SD_Best_VGM_1966_with_vid_id_y9SFrBt1xtw.json
-python downloader.py --youtubeid="hNCGAN-eyuc" --output SD_Best_VGM_1967_with_vid_id_hNCGAN-eyuc.json
-python downloader.py --youtubeid="Urqrn3sZbHQ" --output SD_Best_VGM_1968_with_vid_id_Urqrn3sZbHQ.json
-python downloader.py --youtubeid="mRGdr6iahg8" --output SD_Best_VGM_1969_with_vid_id_mRGdr6iahg8.json
-python downloader.py --youtubeid="JKVUavdztAg" --output SD_Best_VGM_1970_with_vid_id_JKVUavdztAg.json
-python downloader.py --youtubeid="O-v3Df_q5QQ" --output SD_Best_VGM_1971_with_vid_id_O-v3Df_q5QQ.json
-python downloader.py --youtubeid="jLrqs_dvAGU" --output SD_Best_VGM_1972_with_vid_id_jLrqs_dvAGU.json
-python downloader.py --youtubeid="VxJf8k4YzBY" --output SD_Best_VGM_1973_with_vid_id_VxJf8k4YzBY.json
-python downloader.py --youtubeid="h0ed9Kei7dw" --output SD_Best_VGM_1974_with_vid_id_h0ed9Kei7dw.json
-python downloader.py --youtubeid="x6VlzkDSU6k" --output SD_Best_VGM_1975_with_vid_id_x6VlzkDSU6k.json
-python downloader.py --youtubeid="9ZanHcT3wJI" --output SD_Best_VGM_1976_with_vid_id_9ZanHcT3wJI.json
-python downloader.py --youtubeid="pAlhuLOMFbU" --output SD_Best_VGM_1977_with_vid_id_pAlhuLOMFbU.json
-python downloader.py --youtubeid="cWTZEXmWcOs" --output SD_Best_VGM_1978_with_vid_id_cWTZEXmWcOs.json
-python downloader.py --youtubeid="J6Beh5YUWdI" --output SD_Best_VGM_1979_with_vid_id_J6Beh5YUWdI.json
-python downloader.py --youtubeid="eRzo1UGPn9s" --output SD_Best_VGM_1980_with_vid_id_eRzo1UGPn9s.json
-python downloader.py --youtubeid="dUcTukA0q4Y" --output SD_Best_VGM_1981_with_vid_id_dUcTukA0q4Y.json
-python downloader.py --youtubeid="Fs9FhHHQKwE" --output SD_Best_VGM_1982_with_vid_id_Fs9FhHHQKwE.json
-python downloader.py --youtubeid="waesdKG4rhM" --output SD_Best_VGM_1983_with_vid_id_waesdKG4rhM.json
-python downloader.py --youtubeid="Cnn9BW3OpJs" --output SD_Best_VGM_1984_with_vid_id_Cnn9BW3OpJs.json
-python downloader.py --youtubeid="wdWZYggy75A" --output SD_Best_VGM_1985_with_vid_id_wdWZYggy75A.json
-python downloader.py --youtubeid="03L56CE7QWc" --output SD_Best_VGM_1986_with_vid_id_03L56CE7QWc.json
-python downloader.py --youtubeid="XSkuBJx8q-Q" --output SD_Best_VGM_1987_with_vid_id_XSkuBJx8q-Q.json
-python downloader.py --youtubeid="yzgSscW7klw" --output SD_Best_VGM_1988_with_vid_id_yzgSscW7klw.json
-python downloader.py --youtubeid="b6QzJaltmUM" --output SD_Best_VGM_1989_with_vid_id_b6QzJaltmUM.json
-python downloader.py --youtubeid="Vt2-826EsT8" --output SD_Best_VGM_1990_with_vid_id_Vt2-826EsT8.json
-python downloader.py --youtubeid="SOAsm2UqIIM" --output SD_Best_VGM_1991_with_vid_id_SOAsm2UqIIM.json
-python downloader.py --youtubeid="6xXHeaLmAcM" --output SD_Best_VGM_1992_with_vid_id_6xXHeaLmAcM.json
-python downloader.py --youtubeid="F0cuCvhbF9k" --output SD_Best_VGM_1993_with_vid_id_F0cuCvhbF9k.json
-python downloader.py --youtubeid="A1b4QO48AoA" --output SD_Best_VGM_1994_with_vid_id_A1b4QO48AoA.json
-python downloader.py --youtubeid="s25IVZL0cuE" --output SD_Best_VGM_1995_with_vid_id_s25IVZL0cuE.json
-python downloader.py --youtubeid="pb3EJpfIYGc" --output SD_Best_VGM_1996_with_vid_id_pb3EJpfIYGc.json
-python downloader.py --youtubeid="3Hf0L8oddrA" --output SD_Best_VGM_1997_with_vid_id_3Hf0L8oddrA.json
-python downloader.py --youtubeid="sN8gtvYdqY4" --output SD_Best_VGM_1998_with_vid_id_sN8gtvYdqY4.json
-python downloader.py --youtubeid="LD4OAYQx1-I" --output SD_Best_VGM_1999_with_vid_id_LD4OAYQx1-I.json
-python downloader.py --youtubeid="l1UCISJoDTU" --output SD_Best_VGM_2000_with_vid_id_l1UCISJoDTU.json
-python downloader.py --youtubeid="AdI6nJ_sPKQ" --output SD_Best_VGM_2001_with_vid_id_AdI6nJ_sPKQ.json
-python downloader.py --youtubeid="xP3PDznPrw4" --output SD_Best_VGM_2002_with_vid_id_xP3PDznPrw4.json
-python downloader.py --youtubeid="RP5DzEkA0l8" --output SD_Best_VGM_2003_with_vid_id_RP5DzEkA0l8.json
-python downloader.py --youtubeid="I4b8wCqmQfE" --output SD_Best_VGM_2004_with_vid_id_I4b8wCqmQfE.json
-python downloader.py --youtubeid="NtXv9yFZI_Y" --output SD_Best_VGM_2005_with_vid_id_NtXv9yFZI_Y.json
-python downloader.py --youtubeid="DmpP-RMFNHo" --output SD_Best_VGM_2006_with_vid_id_DmpP-RMFNHo.json
-python downloader.py --youtubeid="YmaHBaNxWt0" --output SD_Best_VGM_2007_with_vid_id_YmaHBaNxWt0.json
-python downloader.py --youtubeid="RpQlfTGfEsw" --output SD_Best_VGM_2008_with_vid_id_RpQlfTGfEsw.json
-python downloader.py --youtubeid="qP_40IXc-UA" --output SD_Best_VGM_2009_with_vid_id_qP_40IXc-UA.json
-python downloader.py --youtubeid="6TJWqX8i8-E" --output SD_Best_VGM_2010_with_vid_id_6TJWqX8i8-E.json
-python downloader.py --youtubeid="qqa_pXXSMDg" --output SD_Best_VGM_2011_with_vid_id_qqa_pXXSMDg.json
-python downloader.py --youtubeid="IYGLnkSrA50" --output SD_Best_VGM_2012_with_vid_id_IYGLnkSrA50.json
-python downloader.py --youtubeid="aRloSB3iXG0" --output SD_Best_VGM_2013_with_vid_id_aRloSB3iXG0.json
-python downloader.py --youtubeid="rSBh2ZUKuq4" --output SD_Best_VGM_2014_with_vid_id_rSBh2ZUKuq4.json
-python downloader.py --youtubeid="qBC7aIoDSHU" --output SD_Best_VGM_2015_with_vid_id_qBC7aIoDSHU.json
-python downloader.py --youtubeid="-XTYsUzDWEM" --output SD_Best_VGM_2016_with_vid_id_-XTYsUzDWEM.json
-python downloader.py --youtubeid="XqPsT01sZVU" --output SD_Best_VGM_2017_with_vid_id_XqPsT01sZVU.json
-python downloader.py --youtubeid="7DC2Qj2LKng" --output SD_Best_VGM_2018_with_vid_id_7DC2Qj2LKng.json
-python downloader.py --youtubeid="A-AmRMWqcBk" --output SD_Best_VGM_2019_with_vid_id_A-AmRMWqcBk.json
-python downloader.py --youtubeid="6ZiYK9U4TfE" --output SD_Best_VGM_2020_with_vid_id_6ZiYK9U4TfE.json
-python downloader.py --youtubeid="KWH19AGkFT0" --output SD_Best_VGM_2021_with_vid_id_KWH19AGkFT0.json
-python downloader.py --youtubeid="qhYbg4fsPiE" --output SD_Best_VGM_2022_with_vid_id_qhYbg4fsPiE.json
-python downloader.py --youtubeid="eoPtQd6adrA" --output SD_Best_VGM_2023_with_vid_id_eoPtQd6adrA.json
-python downloader.py --youtubeid="MaiHaXRYtNQ" --output SD_Best_VGM_2024_with_vid_id_MaiHaXRYtNQ.json
-python downloader.py --youtubeid="dBsdllfE4Ek" --output SD_Best_VGM_2025_with_vid_id_dBsdllfE4Ek.json
-python downloader.py --youtubeid="5B46aBeR4zo" --output SD_Best_VGM_2026_with_vid_id_5B46aBeR4zo.json
-python downloader.py --youtubeid="BZWiBxlBCbM" --output SD_Best_VGM_2027_with_vid_id_BZWiBxlBCbM.json
-python downloader.py --youtubeid="PFQCO_q6kW8" --output SD_Best_VGM_2028_with_vid_id_PFQCO_q6kW8.json
-python downloader.py --youtubeid="fEfuvS-V9PI" --output SD_Best_VGM_2029_with_vid_id_fEfuvS-V9PI.json
-python downloader.py --youtubeid="yirRajMEud4" --output SD_Best_VGM_2030_with_vid_id_yirRajMEud4.json
-python downloader.py --youtubeid="dGF7xsF0DmQ" --output SD_Best_VGM_2031_with_vid_id_dGF7xsF0DmQ.json
-python downloader.py --youtubeid="MCITsL-vfW8" --output SD_Best_VGM_2032_with_vid_id_MCITsL-vfW8.json
-python downloader.py --youtubeid="mnPqUs4DZkI" --output SD_Best_VGM_2033_with_vid_id_mnPqUs4DZkI.json
-python downloader.py --youtubeid="WdZPEL9zoMA" --output SD_Best_VGM_2034_with_vid_id_WdZPEL9zoMA.json
-python downloader.py --youtubeid="a9MLBjUvgFE" --output SD_Best_VGM_2035_with_vid_id_a9MLBjUvgFE.json
-python downloader.py --youtubeid="5w_SgBImsGg" --output SD_Best_VGM_2036_with_vid_id_5w_SgBImsGg.json
-python downloader.py --youtubeid="UPdZlmyedcI" --output SD_Best_VGM_2037_with_vid_id_UPdZlmyedcI.json
-python downloader.py --youtubeid="nQC4AYA14UU" --output SD_Best_VGM_2038_with_vid_id_nQC4AYA14UU.json
-python downloader.py --youtubeid="rKGlXub23pw" --output SD_Best_VGM_2039_with_vid_id_rKGlXub23pw.json
-python downloader.py --youtubeid="UOOmKmahDX4" --output SD_Best_VGM_2040_with_vid_id_UOOmKmahDX4.json
-python downloader.py --youtubeid="GQND5Y7_pXc" --output SD_Best_VGM_2041_with_vid_id_GQND5Y7_pXc.json
-python downloader.py --youtubeid="PRLWoJBwJFY" --output SD_Best_VGM_2042_with_vid_id_PRLWoJBwJFY.json
-python downloader.py --youtubeid="--OsLIYsK7E" --output SD_Best_VGM_2043_with_vid_id_--OsLIYsK7E.json
-python downloader.py --youtubeid="9H5yfLLuJUY" --output SD_Best_VGM_2044_with_vid_id_9H5yfLLuJUY.json
-python downloader.py --youtubeid="vbJYALn5z6M" --output SD_Best_VGM_2045_with_vid_id_vbJYALn5z6M.json
-python downloader.py --youtubeid="TSVG-cKj71Y" --output SD_Best_VGM_2046_with_vid_id_TSVG-cKj71Y.json
-python downloader.py --youtubeid="_Dy0WPMs9Xc" --output SD_Best_VGM_2047_with_vid_id__Dy0WPMs9Xc.json
-python downloader.py --youtubeid="aAJGC-zfvpA" --output SD_Best_VGM_2048_with_vid_id_aAJGC-zfvpA.json
-python downloader.py --youtubeid="Iv0f8BSAb3Y" --output SD_Best_VGM_2049_with_vid_id_Iv0f8BSAb3Y.json
-python downloader.py --youtubeid="zmnr68RUSoc" --output SD_Best_VGM_2050_with_vid_id_zmnr68RUSoc.json
-python downloader.py --youtubeid="39qG5aFOqS8" --output SD_Best_VGM_2051_with_vid_id_39qG5aFOqS8.json
-python downloader.py --youtubeid="vG5ajZ16qoI" --output SD_Best_VGM_2052_with_vid_id_vG5ajZ16qoI.json
-python downloader.py --youtubeid="NctBt5Pd34Q" --output SD_Best_VGM_2053_with_vid_id_NctBt5Pd34Q.json
-python downloader.py --youtubeid="DFXjKboSne8" --output SD_Best_VGM_2054_with_vid_id_DFXjKboSne8.json
-python downloader.py --youtubeid="hrHPmA-ScE0" --output SD_Best_VGM_2055_with_vid_id_hrHPmA-ScE0.json
-python downloader.py --youtubeid="OnaXP86esjU" --output SD_Best_VGM_2056_with_vid_id_OnaXP86esjU.json
-python downloader.py --youtubeid="sPOt6Doc5aA" --output SD_Best_VGM_2057_with_vid_id_sPOt6Doc5aA.json
-python downloader.py --youtubeid="x5DuKsERoEo" --output SD_Best_VGM_2058_with_vid_id_x5DuKsERoEo.json
-python downloader.py --youtubeid="TYJJZ_KXXm8" --output SD_Best_VGM_2059_with_vid_id_TYJJZ_KXXm8.json
-python downloader.py --youtubeid="ZP65Ar5CaR0" --output SD_Best_VGM_2060_with_vid_id_ZP65Ar5CaR0.json
-python downloader.py --youtubeid="DSdcNL0DZt8" --output SD_Best_VGM_2061_with_vid_id_DSdcNL0DZt8.json
-python downloader.py --youtubeid="58Z2AyY-zms" --output SD_Best_VGM_2062_with_vid_id_58Z2AyY-zms.json
-python downloader.py --youtubeid="PFGusujntfI" --output SD_Best_VGM_2063_with_vid_id_PFGusujntfI.json
-python downloader.py --youtubeid="Jk1Y8nomECI" --output SD_Best_VGM_2064_with_vid_id_Jk1Y8nomECI.json
-python downloader.py --youtubeid="0E96xz29izY" --output SD_Best_VGM_2065_with_vid_id_0E96xz29izY.json
-python downloader.py --youtubeid="htYezX1QKe8" --output SD_Best_VGM_2066_with_vid_id_htYezX1QKe8.json
-python downloader.py --youtubeid="0pCNC3bjHGw" --output SD_Best_VGM_2067_with_vid_id_0pCNC3bjHGw.json
-python downloader.py --youtubeid="J0iHBONeTKQ" --output SD_Best_VGM_2068_with_vid_id_J0iHBONeTKQ.json
-python downloader.py --youtubeid="hWcpq_6vinM" --output SD_Best_VGM_2069_with_vid_id_hWcpq_6vinM.json
-python downloader.py --youtubeid="i_tEEwETtdo" --output SD_Best_VGM_2070_with_vid_id_i_tEEwETtdo.json
-python downloader.py --youtubeid="V4lskRBMaN0" --output SD_Best_VGM_2071_with_vid_id_V4lskRBMaN0.json
-python downloader.py --youtubeid="5ZjtR3qlMo4" --output SD_Best_VGM_2072_with_vid_id_5ZjtR3qlMo4.json
-python downloader.py --youtubeid="TGNaJ3Zg0Tk" --output SD_Best_VGM_2073_with_vid_id_TGNaJ3Zg0Tk.json
-python downloader.py --youtubeid="Oce7JfNyaiI" --output SD_Best_VGM_2074_with_vid_id_Oce7JfNyaiI.json
-python downloader.py --youtubeid="QWfdNR0nH0c" --output SD_Best_VGM_2075_with_vid_id_QWfdNR0nH0c.json
-python downloader.py --youtubeid="8w6qTEBVuNw" --output SD_Best_VGM_2076_with_vid_id_8w6qTEBVuNw.json
-python downloader.py --youtubeid="Ku4Kgdt-ZFw" --output SD_Best_VGM_2077_with_vid_id_Ku4Kgdt-ZFw.json
-python downloader.py --youtubeid="AGOPPatoeQw" --output SD_Best_VGM_2078_with_vid_id_AGOPPatoeQw.json
-python downloader.py --youtubeid="7A30a3tv7zk" --output SD_Best_VGM_2079_with_vid_id_7A30a3tv7zk.json
-python downloader.py --youtubeid="dWbRn8WzlwU" --output SD_Best_VGM_2080_with_vid_id_dWbRn8WzlwU.json
-python downloader.py --youtubeid="3vwInuzdOCE" --output SD_Best_VGM_2081_with_vid_id_3vwInuzdOCE.json
-python downloader.py --youtubeid="F6m3Fo14Eko" --output SD_Best_VGM_2082_with_vid_id_F6m3Fo14Eko.json
-python downloader.py --youtubeid="FWVCjQiSf6Y" --output SD_Best_VGM_2083_with_vid_id_FWVCjQiSf6Y.json
-python downloader.py --youtubeid="pkVUKf366FI" --output SD_Best_VGM_2084_with_vid_id_pkVUKf366FI.json
-python downloader.py --youtubeid="RF_kwqNR5UI" --output SD_Best_VGM_2085_with_vid_id_RF_kwqNR5UI.json
-python downloader.py --youtubeid="RPuqp3nFJEQ" --output SD_Best_VGM_2086_with_vid_id_RPuqp3nFJEQ.json
-python downloader.py --youtubeid="K_qt3fBYD8M" --output SD_Best_VGM_2087_with_vid_id_K_qt3fBYD8M.json
-python downloader.py --youtubeid="16-9ui62SNw" --output SD_Best_VGM_2088_with_vid_id_16-9ui62SNw.json
-python downloader.py --youtubeid="Yv4L8ZsG4Ak" --output SD_Best_VGM_2089_with_vid_id_Yv4L8ZsG4Ak.json
-python downloader.py --youtubeid="gp761FIQ8jw" --output SD_Best_VGM_2090_with_vid_id_gp761FIQ8jw.json
-python downloader.py --youtubeid="xU_BcboL4mg" --output SD_Best_VGM_2091_with_vid_id_xU_BcboL4mg.json
-python downloader.py --youtubeid="cSKv75EPAkk" --output SD_Best_VGM_2092_with_vid_id_cSKv75EPAkk.json
-python downloader.py --youtubeid="xDMmlCPnmiY" --output SD_Best_VGM_2093_with_vid_id_xDMmlCPnmiY.json
-python downloader.py --youtubeid="pYSo-_E2lQU" --output SD_Best_VGM_2094_with_vid_id_pYSo-_E2lQU.json
-python downloader.py --youtubeid="ckLt3F_RVLw" --output SD_Best_VGM_2095_with_vid_id_ckLt3F_RVLw.json
-python downloader.py --youtubeid="lIfDWmohU8A" --output SD_Best_VGM_2096_with_vid_id_lIfDWmohU8A.json
-python downloader.py --youtubeid="gL89iJ__u_E" --output SD_Best_VGM_2097_with_vid_id_gL89iJ__u_E.json
-python downloader.py --youtubeid="gtbC6W_lgkM" --output SD_Best_VGM_2098_with_vid_id_gtbC6W_lgkM.json
-python downloader.py --youtubeid="-NP2RIdEGDc" --output SD_Best_VGM_2099_with_vid_id_-NP2RIdEGDc.json
-python downloader.py --youtubeid="IEZ8qje8rKo" --output SD_Best_VGM_2100_with_vid_id_IEZ8qje8rKo.json
-python downloader.py --youtubeid="zYDi_nzK5gU" --output SD_Best_VGM_2101_with_vid_id_zYDi_nzK5gU.json
-python downloader.py --youtubeid="qXJxrDonp4k" --output SD_Best_VGM_2102_with_vid_id_qXJxrDonp4k.json
-python downloader.py --youtubeid="gnxOKXHNvvo" --output SD_Best_VGM_2103_with_vid_id_gnxOKXHNvvo.json
-python downloader.py --youtubeid="Rzl_WPmjk-0" --output SD_Best_VGM_2104_with_vid_id_Rzl_WPmjk-0.json
-python downloader.py --youtubeid="AFuAQ15JGOw" --output SD_Best_VGM_2105_with_vid_id_AFuAQ15JGOw.json
-python downloader.py --youtubeid="ySzKAvFljw8" --output SD_Best_VGM_2106_with_vid_id_ySzKAvFljw8.json
-python downloader.py --youtubeid="_DgqnxoNpd8" --output SD_Best_VGM_2107_with_vid_id__DgqnxoNpd8.json
-python downloader.py --youtubeid="-EpQmIg5nHk" --output SD_Best_VGM_2108_with_vid_id_-EpQmIg5nHk.json
-python downloader.py --youtubeid="psEhQeOcMZw" --output SD_Best_VGM_2109_with_vid_id_psEhQeOcMZw.json
-python downloader.py --youtubeid="bt0FCsafudU" --output SD_Best_VGM_2110_with_vid_id_bt0FCsafudU.json
-python downloader.py --youtubeid="KH7dAsqT-64" --output SD_Best_VGM_2111_with_vid_id_KH7dAsqT-64.json
-python downloader.py --youtubeid="DNxjYY68LY0" --output SD_Best_VGM_2112_with_vid_id_DNxjYY68LY0.json
-python downloader.py --youtubeid="qvm-KB5V1Wg" --output SD_Best_VGM_2113_with_vid_id_qvm-KB5V1Wg.json
-python downloader.py --youtubeid="Ld8y5AGw5SE" --output SD_Best_VGM_2114_with_vid_id_Ld8y5AGw5SE.json
-python downloader.py --youtubeid="19ViwcEuf-A" --output SD_Best_VGM_2115_with_vid_id_19ViwcEuf-A.json
-python downloader.py --youtubeid="1PKSHoUn5aM" --output SD_Best_VGM_2116_with_vid_id_1PKSHoUn5aM.json
-python downloader.py --youtubeid="kDRjuC2IkKU" --output SD_Best_VGM_2117_with_vid_id_kDRjuC2IkKU.json
-python downloader.py --youtubeid="CWgj5fUEODI" --output SD_Best_VGM_2118_with_vid_id_CWgj5fUEODI.json
-python downloader.py --youtubeid="w4Kwk1rKzXM" --output SD_Best_VGM_2119_with_vid_id_w4Kwk1rKzXM.json
-python downloader.py --youtubeid="vodqocR529k" --output SD_Best_VGM_2120_with_vid_id_vodqocR529k.json
-python downloader.py --youtubeid="TkeUHCO5HxE" --output SD_Best_VGM_2121_with_vid_id_TkeUHCO5HxE.json
-python downloader.py --youtubeid="S35mBKUY4Xc" --output SD_Best_VGM_2122_with_vid_id_S35mBKUY4Xc.json
-python downloader.py --youtubeid="wDPyjioLDrw" --output SD_Best_VGM_2123_with_vid_id_wDPyjioLDrw.json
-python downloader.py --youtubeid="5TCr34gRoZc" --output SD_Best_VGM_2124_with_vid_id_5TCr34gRoZc.json
-python downloader.py --youtubeid="zyEW61cUT7Y" --output SD_Best_VGM_2125_with_vid_id_zyEW61cUT7Y.json
-python downloader.py --youtubeid="eB3HhEVjwTQ" --output SD_Best_VGM_2126_with_vid_id_eB3HhEVjwTQ.json
-python downloader.py --youtubeid="Sd6eUmXuGh8" --output SD_Best_VGM_2127_with_vid_id_Sd6eUmXuGh8.json
-python downloader.py --youtubeid="IWVmP8d81wQ" --output SD_Best_VGM_2128_with_vid_id_IWVmP8d81wQ.json
-python downloader.py --youtubeid="M-eXc4dHQhE" --output SD_Best_VGM_2129_with_vid_id_M-eXc4dHQhE.json
-python downloader.py --youtubeid="38IHeVeT_ec" --output SD_Best_VGM_2130_with_vid_id_38IHeVeT_ec.json
-python downloader.py --youtubeid="QbFAZSxNYRM" --output SD_Best_VGM_2131_with_vid_id_QbFAZSxNYRM.json
-python downloader.py --youtubeid="5Ijnpy-zNA4" --output SD_Best_VGM_2132_with_vid_id_5Ijnpy-zNA4.json
-python downloader.py --youtubeid="l3Q69mipGQ0" --output SD_Best_VGM_2133_with_vid_id_l3Q69mipGQ0.json
-python downloader.py --youtubeid="347m_waoqJ8" --output SD_Best_VGM_2134_with_vid_id_347m_waoqJ8.json
-python downloader.py --youtubeid="v2REdWkHYJ0" --output SD_Best_VGM_2135_with_vid_id_v2REdWkHYJ0.json
-python downloader.py --youtubeid="Aa_BdVoVgK0" --output SD_Best_VGM_2136_with_vid_id_Aa_BdVoVgK0.json
-python downloader.py --youtubeid="JbHBZ7Iz7Dg" --output SD_Best_VGM_2137_with_vid_id_JbHBZ7Iz7Dg.json
-python downloader.py --youtubeid="2flRFZx4Nj0" --output SD_Best_VGM_2138_with_vid_id_2flRFZx4Nj0.json
-python downloader.py --youtubeid="6usSJ7UCZeQ" --output SD_Best_VGM_2139_with_vid_id_6usSJ7UCZeQ.json
-python downloader.py --youtubeid="dNjMJS8vc8g" --output SD_Best_VGM_2140_with_vid_id_dNjMJS8vc8g.json
-python downloader.py --youtubeid="jXFKkI2w7MA" --output SD_Best_VGM_2141_with_vid_id_jXFKkI2w7MA.json
-python downloader.py --youtubeid="QCH9Fw1UlxQ" --output SD_Best_VGM_2142_with_vid_id_QCH9Fw1UlxQ.json
-python downloader.py --youtubeid="LlLtN8fHC0M" --output SD_Best_VGM_2143_with_vid_id_LlLtN8fHC0M.json
-python downloader.py --youtubeid="B65eIBgRSN4" --output SD_Best_VGM_2144_with_vid_id_B65eIBgRSN4.json
-python downloader.py --youtubeid="WHOCXAZWHAg" --output SD_Best_VGM_2145_with_vid_id_WHOCXAZWHAg.json
-python downloader.py --youtubeid="9uKh4z4fJAw" --output SD_Best_VGM_2146_with_vid_id_9uKh4z4fJAw.json
-python downloader.py --youtubeid="x7OX94tI3OU" --output SD_Best_VGM_2147_with_vid_id_x7OX94tI3OU.json
-python downloader.py --youtubeid="hcPvMbGpka0" --output SD_Best_VGM_2148_with_vid_id_hcPvMbGpka0.json
-python downloader.py --youtubeid="jZB-uhAoWWw" --output SD_Best_VGM_2149_with_vid_id_jZB-uhAoWWw.json
-python downloader.py --youtubeid="zOOZmOmDR8M" --output SD_Best_VGM_2150_with_vid_id_zOOZmOmDR8M.json
-python downloader.py --youtubeid="6QTaHdzOzWE" --output SD_Best_VGM_2151_with_vid_id_6QTaHdzOzWE.json
-python downloader.py --youtubeid="bmzu2iJZ8fs" --output SD_Best_VGM_2152_with_vid_id_bmzu2iJZ8fs.json
-python downloader.py --youtubeid="Omn3bNEb_HA" --output SD_Best_VGM_2153_with_vid_id_Omn3bNEb_HA.json
-python downloader.py --youtubeid="5HCkfplzyns" --output SD_Best_VGM_2154_with_vid_id_5HCkfplzyns.json
-python downloader.py --youtubeid="reoO57HYJkU" --output SD_Best_VGM_2155_with_vid_id_reoO57HYJkU.json
-python downloader.py --youtubeid="vI8h5wvMm-0" --output SD_Best_VGM_2156_with_vid_id_vI8h5wvMm-0.json
-python downloader.py --youtubeid="JUuDaAKVJXg" --output SD_Best_VGM_2157_with_vid_id_JUuDaAKVJXg.json
-python downloader.py --youtubeid="Bj9QX4ZYtFk" --output SD_Best_VGM_2158_with_vid_id_Bj9QX4ZYtFk.json
-python downloader.py --youtubeid="I9mDBcDrwo4" --output SD_Best_VGM_2159_with_vid_id_I9mDBcDrwo4.json
-python downloader.py --youtubeid="I91telCvY0E" --output SD_Best_VGM_2160_with_vid_id_I91telCvY0E.json
-python downloader.py --youtubeid="FuzU3ZMc3fE" --output SD_Best_VGM_2161_with_vid_id_FuzU3ZMc3fE.json
-python downloader.py --youtubeid="kuCCxnxWTjA" --output SD_Best_VGM_2162_with_vid_id_kuCCxnxWTjA.json
-python downloader.py --youtubeid="g41znM_UHys" --output SD_Best_VGM_2163_with_vid_id_g41znM_UHys.json
-python downloader.py --youtubeid="sV48MJyQtyU" --output SD_Best_VGM_2164_with_vid_id_sV48MJyQtyU.json
-python downloader.py --youtubeid="5el8ssJU8EQ" --output SD_Best_VGM_2165_with_vid_id_5el8ssJU8EQ.json
-python downloader.py --youtubeid="izv9bzlFBLw" --output SD_Best_VGM_2166_with_vid_id_izv9bzlFBLw.json
-python downloader.py --youtubeid="jL9F7MGqc6c" --output SD_Best_VGM_2167_with_vid_id_jL9F7MGqc6c.json
-python downloader.py --youtubeid="jDnB5TzV2X8" --output SD_Best_VGM_2168_with_vid_id_jDnB5TzV2X8.json
-python downloader.py --youtubeid="QsbSETPjhXA" --output SD_Best_VGM_2169_with_vid_id_QsbSETPjhXA.json
-python downloader.py --youtubeid="ZGKv6NmIwUE" --output SD_Best_VGM_2170_with_vid_id_ZGKv6NmIwUE.json
-python downloader.py --youtubeid="WO2dA4ysxQ4" --output SD_Best_VGM_2171_with_vid_id_WO2dA4ysxQ4.json
-python downloader.py --youtubeid="2Co1EL0Bz8c" --output SD_Best_VGM_2172_with_vid_id_2Co1EL0Bz8c.json
-python downloader.py --youtubeid="pmDEfUkYVno" --output SD_Best_VGM_2173_with_vid_id_pmDEfUkYVno.json
-python downloader.py --youtubeid="ZxUKc8cCEPM" --output SD_Best_VGM_2174_with_vid_id_ZxUKc8cCEPM.json
-python downloader.py --youtubeid="bzoTRBKkuXo" --output SD_Best_VGM_2175_with_vid_id_bzoTRBKkuXo.json
-python downloader.py --youtubeid="xEfXm6tIZqQ" --output SD_Best_VGM_2176_with_vid_id_xEfXm6tIZqQ.json
-python downloader.py --youtubeid="1Nv0BzbTYOA" --output SD_Best_VGM_2177_with_vid_id_1Nv0BzbTYOA.json
-python downloader.py --youtubeid="cpLkGihTUTU" --output SD_Best_VGM_2178_with_vid_id_cpLkGihTUTU.json
-python downloader.py --youtubeid="2JyoG5nJzgs" --output SD_Best_VGM_2179_with_vid_id_2JyoG5nJzgs.json
-python downloader.py --youtubeid="xjHdaTMJMLY" --output SD_Best_VGM_2180_with_vid_id_xjHdaTMJMLY.json
-python downloader.py --youtubeid="AaxWi-qHG_8" --output SD_Best_VGM_2181_with_vid_id_AaxWi-qHG_8.json
-python downloader.py --youtubeid="MRYH3s2HVjg" --output SD_Best_VGM_2182_with_vid_id_MRYH3s2HVjg.json
-python downloader.py --youtubeid="bxHSJkae4BI" --output SD_Best_VGM_2183_with_vid_id_bxHSJkae4BI.json
-python downloader.py --youtubeid="c_gooDxzRqY" --output SD_Best_VGM_2184_with_vid_id_c_gooDxzRqY.json
-python downloader.py --youtubeid="Fw1IFLFO310" --output SD_Best_VGM_2185_with_vid_id_Fw1IFLFO310.json
-python downloader.py --youtubeid="xO4JdZ7G_P8" --output SD_Best_VGM_2186_with_vid_id_xO4JdZ7G_P8.json
-python downloader.py --youtubeid="Wxn7rIco3hM" --output SD_Best_VGM_2187_with_vid_id_Wxn7rIco3hM.json
-python downloader.py --youtubeid="e5_xe3FoLM8" --output SD_Best_VGM_2188_with_vid_id_e5_xe3FoLM8.json
-python downloader.py --youtubeid="e3xfQW14qds" --output SD_Best_VGM_2189_with_vid_id_e3xfQW14qds.json
-python downloader.py --youtubeid="0tZ8axZV3QA" --output SD_Best_VGM_2190_with_vid_id_0tZ8axZV3QA.json
-python downloader.py --youtubeid="4cNl9RXoYAo" --output SD_Best_VGM_2191_with_vid_id_4cNl9RXoYAo.json
-python downloader.py --youtubeid="TSa9S6P_kJU" --output SD_Best_VGM_2192_with_vid_id_TSa9S6P_kJU.json
-python downloader.py --youtubeid="Chg7BqkgPjY" --output SD_Best_VGM_2193_with_vid_id_Chg7BqkgPjY.json
-python downloader.py --youtubeid="lnHQ51PJZYI" --output SD_Best_VGM_2194_with_vid_id_lnHQ51PJZYI.json
-python downloader.py --youtubeid="pWIrcuXPs1M" --output SD_Best_VGM_2195_with_vid_id_pWIrcuXPs1M.json
-python downloader.py --youtubeid="SLAIHkWMnQY" --output SD_Best_VGM_2196_with_vid_id_SLAIHkWMnQY.json
-python downloader.py --youtubeid="lBI7g1oOud8" --output SD_Best_VGM_2197_with_vid_id_lBI7g1oOud8.json
-python downloader.py --youtubeid="zbx3396r8OM" --output SD_Best_VGM_2198_with_vid_id_zbx3396r8OM.json
-python downloader.py --youtubeid="4B_z9iucRvA" --output SD_Best_VGM_2199_with_vid_id_4B_z9iucRvA.json
-python downloader.py --youtubeid="E3y8wN4xYiE" --output SD_Best_VGM_2200_with_vid_id_E3y8wN4xYiE.json
-python downloader.py --youtubeid="GvN2S5VTTgc" --output SD_Best_VGM_2201_with_vid_id_GvN2S5VTTgc.json
-python downloader.py --youtubeid="bhq7rShY5Ag" --output SD_Best_VGM_2202_with_vid_id_bhq7rShY5Ag.json
-python downloader.py --youtubeid="eHYsn4Hk7-I" --output SD_Best_VGM_2203_with_vid_id_eHYsn4Hk7-I.json
-python downloader.py --youtubeid="Y0abt5clrHA" --output SD_Best_VGM_2204_with_vid_id_Y0abt5clrHA.json
-python downloader.py --youtubeid="uCf6ov20520" --output SD_Best_VGM_2205_with_vid_id_uCf6ov20520.json
-python downloader.py --youtubeid="7rQ3uDfcbc0" --output SD_Best_VGM_2206_with_vid_id_7rQ3uDfcbc0.json
-python downloader.py --youtubeid="vyaR1c1gKSY" --output SD_Best_VGM_2207_with_vid_id_vyaR1c1gKSY.json
-python downloader.py --youtubeid="OpT5AMRhhoo" --output SD_Best_VGM_2208_with_vid_id_OpT5AMRhhoo.json
-python downloader.py --youtubeid="TjqTkEJ0PaM" --output SD_Best_VGM_2209_with_vid_id_TjqTkEJ0PaM.json
-python downloader.py --youtubeid="331WbeZKBb8" --output SD_Best_VGM_2210_with_vid_id_331WbeZKBb8.json
-python downloader.py --youtubeid="u-1anx-mHow" --output SD_Best_VGM_2211_with_vid_id_u-1anx-mHow.json
-python downloader.py --youtubeid="CQ6BcM-z0Q8" --output SD_Best_VGM_2212_with_vid_id_CQ6BcM-z0Q8.json
-python downloader.py --youtubeid="EYnx05qXrgA" --output SD_Best_VGM_2213_with_vid_id_EYnx05qXrgA.json
-python downloader.py --youtubeid="SsKTiH28u9M" --output SD_Best_VGM_2214_with_vid_id_SsKTiH28u9M.json
-python downloader.py --youtubeid="9mtPiqbT6NY" --output SD_Best_VGM_2215_with_vid_id_9mtPiqbT6NY.json
-python downloader.py --youtubeid="CEUd5iopUHQ" --output SD_Best_VGM_2216_with_vid_id_CEUd5iopUHQ.json
-python downloader.py --youtubeid="OIZO6Isj_Y4" --output SD_Best_VGM_2217_with_vid_id_OIZO6Isj_Y4.json
-python downloader.py --youtubeid="AFWXJWvmsEs" --output SD_Best_VGM_2218_with_vid_id_AFWXJWvmsEs.json
-python downloader.py --youtubeid="gfpZm54jwdQ" --output SD_Best_VGM_2219_with_vid_id_gfpZm54jwdQ.json
-python downloader.py --youtubeid="qxtp0Pk4NAM" --output SD_Best_VGM_2220_with_vid_id_qxtp0Pk4NAM.json
-python downloader.py --youtubeid="iTIHpfFz9Bk" --output SD_Best_VGM_2221_with_vid_id_iTIHpfFz9Bk.json
-python downloader.py --youtubeid="kTfibzkQsoA" --output SD_Best_VGM_2222_with_vid_id_kTfibzkQsoA.json
-python downloader.py --youtubeid="ac9QJBw55PM" --output SD_Best_VGM_2223_with_vid_id_ac9QJBw55PM.json
-python downloader.py --youtubeid="n1YfSTpRxvU" --output SD_Best_VGM_2224_with_vid_id_n1YfSTpRxvU.json
-python downloader.py --youtubeid="Mk6n1Acqv_c" --output SD_Best_VGM_2225_with_vid_id_Mk6n1Acqv_c.json
-python downloader.py --youtubeid="u4uXEWgCAPw" --output SD_Best_VGM_2226_with_vid_id_u4uXEWgCAPw.json
-python downloader.py --youtubeid="Y9__LMEmzq4" --output SD_Best_VGM_2227_with_vid_id_Y9__LMEmzq4.json
-python downloader.py --youtubeid="UhVWxNU6yag" --output SD_Best_VGM_2228_with_vid_id_UhVWxNU6yag.json
-python downloader.py --youtubeid="m84xKsWaKqk" --output SD_Best_VGM_2229_with_vid_id_m84xKsWaKqk.json
-python downloader.py --youtubeid="wqDUvSncxJI" --output SD_Best_VGM_2230_with_vid_id_wqDUvSncxJI.json
-python downloader.py --youtubeid="H51KXTcwVrs" --output SD_Best_VGM_2231_with_vid_id_H51KXTcwVrs.json
-python downloader.py --youtubeid="DxUNizYOo24" --output SD_Best_VGM_2232_with_vid_id_DxUNizYOo24.json
-python downloader.py --youtubeid="-hnXn7b4dmk" --output SD_Best_VGM_2233_with_vid_id_-hnXn7b4dmk.json
-python downloader.py --youtubeid="14E8S9zaJVw" --output SD_Best_VGM_2234_with_vid_id_14E8S9zaJVw.json
-python downloader.py --youtubeid="06NK_4HJjhc" --output SD_Best_VGM_2235_with_vid_id_06NK_4HJjhc.json
-python downloader.py --youtubeid="5Wu3r7TBbQM" --output SD_Best_VGM_2236_with_vid_id_5Wu3r7TBbQM.json
-python downloader.py --youtubeid="6bR6YiHzSBs" --output SD_Best_VGM_2237_with_vid_id_6bR6YiHzSBs.json
-python downloader.py --youtubeid="d_3d_thXtbw" --output SD_Best_VGM_2238_with_vid_id_d_3d_thXtbw.json
-python downloader.py --youtubeid="18sSCgfPp6M" --output SD_Best_VGM_2239_with_vid_id_18sSCgfPp6M.json
-python downloader.py --youtubeid="nbAvusy_Pok" --output SD_Best_VGM_2240_with_vid_id_nbAvusy_Pok.json
-python downloader.py --youtubeid="Goh8zMkQu-c" --output SD_Best_VGM_2241_with_vid_id_Goh8zMkQu-c.json
-python downloader.py --youtubeid="Gd4m_EG8mgA" --output SD_Best_VGM_2242_with_vid_id_Gd4m_EG8mgA.json
-python downloader.py --youtubeid="jOTSv_JTC4w" --output SD_Best_VGM_2243_with_vid_id_jOTSv_JTC4w.json
-python downloader.py --youtubeid="Vc7eK_rmtIU" --output SD_Best_VGM_2244_with_vid_id_Vc7eK_rmtIU.json
-python downloader.py --youtubeid="UTx_jr_FOuM" --output SD_Best_VGM_2245_with_vid_id_UTx_jr_FOuM.json
-python downloader.py --youtubeid="25eIPgSzBQs" --output SD_Best_VGM_2246_with_vid_id_25eIPgSzBQs.json
-python downloader.py --youtubeid="0DPtJLn2GTw" --output SD_Best_VGM_2247_with_vid_id_0DPtJLn2GTw.json
-python downloader.py --youtubeid="UhR_jL6yiUA" --output SD_Best_VGM_2248_with_vid_id_UhR_jL6yiUA.json
-python downloader.py --youtubeid="ZKfdsRJIicI" --output SD_Best_VGM_2249_with_vid_id_ZKfdsRJIicI.json
-python downloader.py --youtubeid="icZLSrOEWng" --output SD_Best_VGM_2250_with_vid_id_icZLSrOEWng.json
-python downloader.py --youtubeid="DSqKRDWbK98" --output SD_Best_VGM_2251_with_vid_id_DSqKRDWbK98.json
-python downloader.py --youtubeid="Qn5dpkjG8TU" --output SD_Best_VGM_2252_with_vid_id_Qn5dpkjG8TU.json
-python downloader.py --youtubeid="oFzq-P_y3uw" --output SD_Best_VGM_2253_with_vid_id_oFzq-P_y3uw.json
-python downloader.py --youtubeid="bvxr4WyQ4Is" --output SD_Best_VGM_2254_with_vid_id_bvxr4WyQ4Is.json
-python downloader.py --youtubeid="2nKRuX8gYEQ" --output SD_Best_VGM_2255_with_vid_id_2nKRuX8gYEQ.json
-python downloader.py --youtubeid="crlF4n41UaI" --output SD_Best_VGM_2256_with_vid_id_crlF4n41UaI.json
-python downloader.py --youtubeid="BgcZ0emSxJs" --output SD_Best_VGM_2257_with_vid_id_BgcZ0emSxJs.json
-python downloader.py --youtubeid="s1CKzrPRbhM" --output SD_Best_VGM_2258_with_vid_id_s1CKzrPRbhM.json
-python downloader.py --youtubeid="Jlr4OfJJnqA" --output SD_Best_VGM_2259_with_vid_id_Jlr4OfJJnqA.json
-python downloader.py --youtubeid="DRH8Bvc_shE" --output SD_Best_VGM_2260_with_vid_id_DRH8Bvc_shE.json
-python downloader.py --youtubeid="HpgkrWRkbZM" --output SD_Best_VGM_2261_with_vid_id_HpgkrWRkbZM.json
-python downloader.py --youtubeid="nwCgulC8quE" --output SD_Best_VGM_2262_with_vid_id_nwCgulC8quE.json
-python downloader.py --youtubeid="kd2d0b-tGzI" --output SD_Best_VGM_2263_with_vid_id_kd2d0b-tGzI.json
-python downloader.py --youtubeid="jZCid5RpBtI" --output SD_Best_VGM_2264_with_vid_id_jZCid5RpBtI.json
-python downloader.py --youtubeid="oT-9gc8mSzk" --output SD_Best_VGM_2265_with_vid_id_oT-9gc8mSzk.json
-python downloader.py --youtubeid="1Cpfr6fKtlY" --output SD_Best_VGM_2266_with_vid_id_1Cpfr6fKtlY.json
-python downloader.py --youtubeid="lM28rfsHge0" --output SD_Best_VGM_2267_with_vid_id_lM28rfsHge0.json
+echo "Archiving SD video 1, Best VGM 02 - Metroid Prime - Ice Valley (Phendrana Deep Lake)'s comments (YouTube id P8oefrmJrW...)"
+python downloader.py --youtubeid="P8oefrmJrW" --output="SD0001 Best VGM 02 - Metroid Prime - Ice Valley (Phendrana Deep Lake)'s comments (YT ID P8oefrmJrW).json"
+echo "Archiving SD video 2, Best VGM 03 - Castlevania : Curse of Darkness - Garibaldi Courtyard's comments (YouTube id Y5HHYuQi7c...)"
+python downloader.py --youtubeid="Y5HHYuQi7c" --output="SD0002 Best VGM 03 - Castlevania : Curse of Darkness - Garibaldi Courtyard's comments (YT ID Y5HHYuQi7c).json"
+echo "Archiving SD video 3, Best VGM 05 - Silent Hill 2 - Theme of Laura's comments (YouTube id GBYsdw4Vwx...)"
+python downloader.py --youtubeid="GBYsdw4Vwx" --output="SD0003 Best VGM 05 - Silent Hill 2 - Theme of Laura's comments (YT ID GBYsdw4Vwx).json"
+echo "Archiving SD video 4, Best VGM 06 - Chrono Trigger - Undersea Palace's comments (YouTube id iSP-_hNQyY...)"
+python downloader.py --youtubeid="iSP-_hNQyY" --output="SD0004 Best VGM 06 - Chrono Trigger - Undersea Palace's comments (YT ID iSP-_hNQyY).json"
+echo "Archiving SD video 5, Best VGM 07 - Chaos Legion - Feel No Fear (Sky Gallery)'s comments (YouTube id AvlfNZ685B...)"
+python downloader.py --youtubeid="AvlfNZ685B" --output="SD0005 Best VGM 07 - Chaos Legion - Feel No Fear (Sky Gallery)'s comments (YT ID AvlfNZ685B).json"
+echo "Archiving SD video 6, Best VGM 08 - Shadow Hearts II : Covenant - Astaroth (Fallen Angel Battle)'s comments (YouTube id AGWVzDhDHM...)"
+python downloader.py --youtubeid="AGWVzDhDHM" --output="SD0006 Best VGM 08 - Shadow Hearts II : Covenant - Astaroth (Fallen Angel Battle)'s comments (YT ID AGWVzDhDHM).json"
+echo "Archiving SD video 7, Best VGM 09 - Tribes 2 - Desert's comments (YouTube id DlcwDU0i6M...)"
+python downloader.py --youtubeid="DlcwDU0i6M" --output="SD0007 Best VGM 09 - Tribes 2 - Desert's comments (YT ID DlcwDU0i6M).json"
+echo "Archiving SD video 8, Best VGM 11 - Zelda : Ocarina of Time - Song of Storms (Windmill Hut)'s comments (YouTube id jChHVPyd4-...)"
+python downloader.py --youtubeid="jChHVPyd4-" --output="SD0008 Best VGM 11 - Zelda : Ocarina of Time - Song of Storms (Windmill Hut)'s comments (YT ID jChHVPyd4-).json"
+echo "Archiving SD video 9, Best VGM 12 - Beyond Good & Evil - Home Sweet Home's comments (YouTube id e9xHOWHjYK...)"
+python downloader.py --youtubeid="e9xHOWHjYK" --output="SD0009 Best VGM 12 - Beyond Good & Evil - Home Sweet Home's comments (YT ID e9xHOWHjYK).json"
+echo "Archiving SD video 10, Super Mario RPG - A Journey in Music's comments (YouTube id uBIqG5kme1...)"
+python downloader.py --youtubeid="uBIqG5kme1" --output="SD0010 Super Mario RPG - A Journey in Music's comments (YT ID uBIqG5kme1).json"
+echo "Archiving SD video 11, Best VGM 13 - Yoshi's Island - Overworld Stage (Touch Fuzzy, Get Dizzy)'s comments (YouTube id kDssUvBiHF...)"
+python downloader.py --youtubeid="kDssUvBiHF" --output="SD0011 Best VGM 13 - Yoshi's Island - Overworld Stage (Touch Fuzzy, Get Dizzy)'s comments (YT ID kDssUvBiHF).json"
+echo "Archiving SD video 12, Best VGM 14 - Wild Arms - Port Town Theme's comments (YouTube id lBEvtA4Uuw...)"
+python downloader.py --youtubeid="lBEvtA4Uuw" --output="SD0012 Best VGM 14 - Wild Arms - Port Town Theme's comments (YT ID lBEvtA4Uuw).json"
+echo "Archiving SD video 13, Castlevania Rap Perfect Selection - Mad Forest's comments (YouTube id k8gll7RGJy...)"
+python downloader.py --youtubeid="k8gll7RGJy" --output="SD0013 Castlevania Rap Perfect Selection - Mad Forest's comments (YT ID k8gll7RGJy).json"
+echo "Archiving SD video 14, Castlevania Rap Perfect Selection - Beginning's comments (YouTube id -LOXGTXUrw...)"
+python downloader.py --youtubeid="-LOXGTXUrw" --output="SD0014 Castlevania Rap Perfect Selection - Beginning's comments (YT ID -LOXGTXUrw).json"
+echo "Archiving SD video 15, Castlevania Rap Perfect Selection - Bloody Tears's comments (YouTube id ZPfsbGR1Fo...)"
+python downloader.py --youtubeid="ZPfsbGR1Fo" --output="SD0015 Castlevania Rap Perfect Selection - Bloody Tears's comments (YT ID ZPfsbGR1Fo).json"
+echo "Archiving SD video 16, Castlevania Rap Perfect Selection - Vampire Killer's comments (YouTube id WrgRfC8JOD...)"
+python downloader.py --youtubeid="WrgRfC8JOD" --output="SD0016 Castlevania Rap Perfect Selection - Vampire Killer's comments (YT ID WrgRfC8JOD).json"
+echo "Archiving SD video 17, Best VGM 15 - Chrono Trigger - Silent Light's comments (YouTube id bW3KNnZ2Zi...)"
+python downloader.py --youtubeid="bW3KNnZ2Zi" --output="SD0017 Best VGM 15 - Chrono Trigger - Silent Light's comments (YT ID bW3KNnZ2Zi).json"
+echo "Archiving SD video 18, Best VGM 16 - Grandia II - Fight!! Ver.4 ~ Final Battle's comments (YouTube id Je3YoGKPC_...)"
+python downloader.py --youtubeid="Je3YoGKPC_" --output="SD0018 Best VGM 16 - Grandia II - Fight!! Ver.4 ~ Final Battle's comments (YT ID Je3YoGKPC_).json"
+echo "Archiving SD video 19, Best VGM 17 - Deus Ex - The Synapse (Wan Chai)'s comments (YouTube id 9FZ-12a3dT...)"
+python downloader.py --youtubeid="9FZ-12a3dT" --output="SD0019 Best VGM 17 - Deus Ex - The Synapse (Wan Chai)'s comments (YT ID 9FZ-12a3dT).json"
+echo "Archiving SD video 20, Best VGM 18 - Kingdom Hearts II - Afternoon Streets (Twilight Town ~ Sora)'s comments (YouTube id bdNrjSswl7...)"
+python downloader.py --youtubeid="bdNrjSswl7" --output="SD0020 Best VGM 18 - Kingdom Hearts II - Afternoon Streets (Twilight Town ~ Sora)'s comments (YT ID bdNrjSswl7).json"
+echo "Archiving SD video 21, Best VGM 19 - Xenosaga III - In a Limestone Cave's comments (YouTube id -LId8l6Rc6...)"
+python downloader.py --youtubeid="-LId8l6Rc6" --output="SD0021 Best VGM 19 - Xenosaga III - In a Limestone Cave's comments (YT ID -LId8l6Rc6).json"
+echo "Archiving SD video 22, Best VGM 21 - Persona 3 - The Battle for Everybody's Souls's comments (YouTube id yz1yrVcpWj...)"
+python downloader.py --youtubeid="yz1yrVcpWj" --output="SD0022 Best VGM 21 - Persona 3 - The Battle for Everybody's Souls's comments (YT ID yz1yrVcpWj).json"
+echo "Archiving SD video 23, Best VGM 22 - Castlevania Curse of Darkness - Cordova Town's comments (YouTube id -BmGDtP2t7...)"
+python downloader.py --youtubeid="-BmGDtP2t7" --output="SD0023 Best VGM 22 - Castlevania Curse of Darkness - Cordova Town's comments (YT ID -BmGDtP2t7).json"
+echo "Archiving SD video 24, Best VGM 23 - The 7th Saga - Town Theme's comments (YouTube id xdQDETzVii...)"
+python downloader.py --youtubeid="xdQDETzVii" --output="SD0024 Best VGM 23 - The 7th Saga - Town Theme's comments (YT ID xdQDETzVii).json"
+echo "Archiving SD video 25, Best VGM 24 - Zelda : Ocarina of Time - Gerudo Valley's comments (YouTube id f1QLfSOUiH...)"
+python downloader.py --youtubeid="f1QLfSOUiH" --output="SD0025 Best VGM 24 - Zelda : Ocarina of Time - Gerudo Valley's comments (YT ID f1QLfSOUiH).json"
+echo "Archiving SD video 26, Best VGM 25 - Wild Arms 3 - A Person's Warmth (Quiet Town)'s comments (YouTube id m4uR39jNeG...)"
+python downloader.py --youtubeid="m4uR39jNeG" --output="SD0026 Best VGM 25 - Wild Arms 3 - A Person's Warmth (Quiet Town)'s comments (YT ID m4uR39jNeG).json"
+echo "Archiving SD video 27, Best VGM 26 - Soul Edge - A Continental Gale (Rock's Stage)'s comments (YouTube id Cm9HjyPkQb...)"
+python downloader.py --youtubeid="Cm9HjyPkQb" --output="SD0027 Best VGM 26 - Soul Edge - A Continental Gale (Rock's Stage)'s comments (YT ID Cm9HjyPkQb).json"
+echo "Archiving SD video 28, Best VGM 27 - SaGa Frontier - Sunset Town's comments (YouTube id aumWblPK58...)"
+python downloader.py --youtubeid="aumWblPK58" --output="SD0028 Best VGM 27 - SaGa Frontier - Sunset Town's comments (YT ID aumWblPK58).json"
+echo "Archiving SD video 29, Best VGM 28 - Baten Kaitos - House of Cards's comments (YouTube id YKe8k8P2FN...)"
+python downloader.py --youtubeid="YKe8k8P2FN" --output="SD0029 Best VGM 28 - Baten Kaitos - House of Cards's comments (YT ID YKe8k8P2FN).json"
+echo "Archiving SD video 30, Best VGM 29 - Unreal Tournament 2003 & 2004 - Level 6's comments (YouTube id hrxseupEwe...)"
+python downloader.py --youtubeid="hrxseupEwe" --output="SD0030 Best VGM 29 - Unreal Tournament 2003 & 2004 - Level 6's comments (YT ID hrxseupEwe).json"
+echo "Archiving SD video 31, SupraDarky - Let's Think of a Plan !'s comments (YouTube id 6D1WjiXcyr...)"
+python downloader.py --youtubeid="6D1WjiXcyr" --output="SD0031 SupraDarky - Let's Think of a Plan !'s comments (YT ID 6D1WjiXcyr).json"
+echo "Archiving SD video 32, Best VGM 30 - Final Fantasy VI - Terra's comments (YouTube id W7RPY-oiDA...)"
+python downloader.py --youtubeid="W7RPY-oiDA" --output="SD0032 Best VGM 30 - Final Fantasy VI - Terra's comments (YT ID W7RPY-oiDA).json"
+echo "Archiving SD video 33, Best VGM 31 - Legaia 2 - God's Fist's comments (YouTube id JV8qMsWKTv...)"
+python downloader.py --youtubeid="JV8qMsWKTv" --output="SD0033 Best VGM 31 - Legaia 2 - God's Fist's comments (YT ID JV8qMsWKTv).json"
+echo "Archiving SD video 34, Best VGM 32 - Shadow Hearts III - Land of the Spirits's comments (YouTube id cqkYQt8dnx...)"
+python downloader.py --youtubeid="cqkYQt8dnx" --output="SD0034 Best VGM 32 - Shadow Hearts III - Land of the Spirits's comments (YT ID cqkYQt8dnx).json"
+echo "Archiving SD video 35, Best VGM 33 - Blast Corps - Beeton Tracks's comments (YouTube id tdsnX2Z0a3...)"
+python downloader.py --youtubeid="tdsnX2Z0a3" --output="SD0035 Best VGM 33 - Blast Corps - Beeton Tracks's comments (YT ID tdsnX2Z0a3).json"
+echo "Archiving SD video 36, Best VGM 34 - Super Mario 64 - Dire Dire Docks / Jolly Roger Bay's comments (YouTube id H1B52TSCl_...)"
+python downloader.py --youtubeid="H1B52TSCl_" --output="SD0036 Best VGM 34 - Super Mario 64 - Dire Dire Docks / Jolly Roger Bay's comments (YT ID H1B52TSCl_).json"
+echo "Archiving SD video 37, Earthbound Music: Battle Edition's comments (YouTube id eYgWyWaLf5...)"
+python downloader.py --youtubeid="eYgWyWaLf5" --output="SD0037 Earthbound Music: Battle Edition's comments (YT ID eYgWyWaLf5).json"
+echo "Archiving SD video 38, Earthbound Music: Town Edition's comments (YouTube id hSZhcvtHGK...)"
+python downloader.py --youtubeid="hSZhcvtHGK" --output="SD0038 Earthbound Music: Town Edition's comments (YT ID hSZhcvtHGK).json"
+echo "Archiving SD video 39, Best VGM 35 - Chrono Cross - Dream of the Shore Near Another World's comments (YouTube id ROKcr2OTgw...)"
+python downloader.py --youtubeid="ROKcr2OTgw" --output="SD0039 Best VGM 35 - Chrono Cross - Dream of the Shore Near Another World's comments (YT ID ROKcr2OTgw).json"
+echo "Archiving SD video 40, Best VGM 36 - Phoenix Wright: Ace Attorney - Turnabout Sisters's comments (YouTube id rt0hrHroPz...)"
+python downloader.py --youtubeid="rt0hrHroPz" --output="SD0040 Best VGM 36 - Phoenix Wright: Ace Attorney - Turnabout Sisters's comments (YT ID rt0hrHroPz).json"
+echo "Archiving SD video 41, Best VGM 37 - Xenogears - Bonds of Sea and Fire's comments (YouTube id oFbVhFlqt3...)"
+python downloader.py --youtubeid="oFbVhFlqt3" --output="SD0041 Best VGM 37 - Xenogears - Bonds of Sea and Fire's comments (YT ID oFbVhFlqt3).json"
+echo "Archiving SD video 42, Best VGM 38 - Wild Arms 4 - Nightless City Guara Bobelo's comments (YouTube id J_cTMwAZil...)"
+python downloader.py --youtubeid="J_cTMwAZil" --output="SD0042 Best VGM 38 - Wild Arms 4 - Nightless City Guara Bobelo's comments (YT ID J_cTMwAZil).json"
+echo "Archiving SD video 43, Best VGM 39 - Berserk - Opening (Sign)'s comments (YouTube id AVvhihA9gR...)"
+python downloader.py --youtubeid="AVvhihA9gR" --output="SD0043 Best VGM 39 - Berserk - Opening (Sign)'s comments (YT ID AVvhihA9gR).json"
+echo "Archiving SD video 44, Best VGM 40 - DuckTales - The Moon's comments (YouTube id G_80PQ543r...)"
+python downloader.py --youtubeid="G_80PQ543r" --output="SD0044 Best VGM 40 - DuckTales - The Moon's comments (YT ID G_80PQ543r).json"
+echo "Archiving SD video 45, Best VGM 41 - Final Fantasy VII - You Can Hear the Cry of the Planet's comments (YouTube id Bkmn35Okxf...)"
+python downloader.py --youtubeid="Bkmn35Okxf" --output="SD0045 Best VGM 41 - Final Fantasy VII - You Can Hear the Cry of the Planet's comments (YT ID Bkmn35Okxf).json"
+echo "Archiving SD video 46, Best VGM 42 - Castlevania: Lament of Innocence - Anti-Soul Mysteries Lab's comments (YouTube id Cp0UTM-Izj...)"
+python downloader.py --youtubeid="Cp0UTM-Izj" --output="SD0046 Best VGM 42 - Castlevania: Lament of Innocence - Anti-Soul Mysteries Lab's comments (YT ID Cp0UTM-Izj).json"
+echo "Archiving SD video 47, Best VGM 43 - Alundra - The Village of Inoa's comments (YouTube id 62HoIMZ8xA...)"
+python downloader.py --youtubeid="62HoIMZ8xA" --output="SD0047 Best VGM 43 - Alundra - The Village of Inoa's comments (YT ID 62HoIMZ8xA).json"
+echo "Archiving SD video 48, Best VGM 44 - Zelda : Wind Waker - Windfall Island's comments (YouTube id xj0AV3Y-gF...)"
+python downloader.py --youtubeid="xj0AV3Y-gF" --output="SD0048 Best VGM 44 - Zelda : Wind Waker - Windfall Island's comments (YT ID xj0AV3Y-gF).json"
+echo "Archiving SD video 49, Best VGM 45 - Vay - Freak You Out (Final Dungeon)'s comments (YouTube id cETUoqcjIC...)"
+python downloader.py --youtubeid="cETUoqcjIC" --output="SD0049 Best VGM 45 - Vay - Freak You Out (Final Dungeon)'s comments (YT ID cETUoqcjIC).json"
+echo "Archiving SD video 50, Best VGM 46 - Grandia II - Liligue City's comments (YouTube id aU0WdpQRzd...)"
+python downloader.py --youtubeid="aU0WdpQRzd" --output="SD0050 Best VGM 46 - Grandia II - Liligue City's comments (YT ID aU0WdpQRzd).json"
+echo "Archiving SD video 51, Best VGM 47 - Pokemon Mystery Dungeon - Sky Tower's comments (YouTube id tKMWMS7O50...)"
+python downloader.py --youtubeid="tKMWMS7O50" --output="SD0051 Best VGM 47 - Pokemon Mystery Dungeon - Sky Tower's comments (YT ID tKMWMS7O50).json"
+echo "Archiving SD video 52, Best VGM 49 - Twinsen's Odyssey - Main Theme's comments (YouTube id FqrNEjtl2F...)"
+python downloader.py --youtubeid="FqrNEjtl2F" --output="SD0052 Best VGM 49 - Twinsen's Odyssey - Main Theme's comments (YT ID FqrNEjtl2F).json"
+echo "Archiving SD video 53, Best VGM 50 - Lunar: The Silver Star - Battle Theme's comments (YouTube id 2NfhrT3gQd...)"
+python downloader.py --youtubeid="2NfhrT3gQd" --output="SD0053 Best VGM 50 - Lunar: The Silver Star - Battle Theme's comments (YT ID 2NfhrT3gQd).json"
+echo "Archiving SD video 54, Best VGM 51 - Paper Mario: The Thousand Year Door - Rogueport's comments (YouTube id GKFwm2NSJd...)"
+python downloader.py --youtubeid="GKFwm2NSJd" --output="SD0054 Best VGM 51 - Paper Mario: The Thousand Year Door - Rogueport's comments (YT ID GKFwm2NSJd).json"
+echo "Archiving SD video 55, Best VGM 52 - Suikoden III - Stupid Ducks's comments (YouTube id HneWfB9jsH...)"
+python downloader.py --youtubeid="HneWfB9jsH" --output="SD0055 Best VGM 52 - Suikoden III - Stupid Ducks's comments (YT ID HneWfB9jsH).json"
+echo "Archiving SD video 56, Best VGM 53 - Lufia II - Boss Battle Theme's comments (YouTube id JE1hhd0E-_...)"
+python downloader.py --youtubeid="JE1hhd0E-_" --output="SD0056 Best VGM 53 - Lufia II - Boss Battle Theme's comments (YT ID JE1hhd0E-_).json"
+echo "Archiving SD video 57, Best VGM 54 - Final Fantasy XI - Airship's comments (YouTube id s-6L1lM_x7...)"
+python downloader.py --youtubeid="s-6L1lM_x7" --output="SD0057 Best VGM 54 - Final Fantasy XI - Airship's comments (YT ID s-6L1lM_x7).json"
+echo "Archiving SD video 58, Best VGM 55 - Mario & Luigi : Superstar Saga - Teehee Valley's comments (YouTube id 2BNMm9irLT...)"
+python downloader.py --youtubeid="2BNMm9irLT" --output="SD0058 Best VGM 55 - Mario & Luigi : Superstar Saga - Teehee Valley's comments (YT ID 2BNMm9irLT).json"
+echo "Archiving SD video 59, Best VGM 56 - Zelda : A Link to the Past - Dark World's comments (YouTube id FgQaK7TGjX...)"
+python downloader.py --youtubeid="FgQaK7TGjX" --output="SD0059 Best VGM 56 - Zelda : A Link to the Past - Dark World's comments (YT ID FgQaK7TGjX).json"
+echo "Archiving SD video 60, Best VGM 57 - Skies of Arcadia - Battle Theme #1's comments (YouTube id an3P8otlD2...)"
+python downloader.py --youtubeid="an3P8otlD2" --output="SD0060 Best VGM 57 - Skies of Arcadia - Battle Theme #1's comments (YT ID an3P8otlD2).json"
+echo "Archiving SD video 61, Best VGM 58 - Tales of Eternia - Mintche's comments (YouTube id pucNWokmRr...)"
+python downloader.py --youtubeid="pucNWokmRr" --output="SD0061 Best VGM 58 - Tales of Eternia - Mintche's comments (YT ID pucNWokmRr).json"
+echo "Archiving SD video 62, Best VGM 59 - Super Mario Galaxy - Battlerock Galaxy's comments (YouTube id xTRmnisEJ7...)"
+python downloader.py --youtubeid="xTRmnisEJ7" --output="SD0062 Best VGM 59 - Super Mario Galaxy - Battlerock Galaxy's comments (YT ID xTRmnisEJ7).json"
+echo "Archiving SD video 63, Best VGM 60 - Mega Turrican - Stage 1-1 (Bionic Action)'s comments (YouTube id DLqos66n3Q...)"
+python downloader.py --youtubeid="DLqos66n3Q" --output="SD0063 Best VGM 60 - Mega Turrican - Stage 1-1 (Bionic Action)'s comments (YT ID DLqos66n3Q).json"
+echo "Archiving SD video 64, Best VGM 61 - Senko no Ronde (Wartech) - Limitless Cinderella's comments (YouTube id EQjT6103nL...)"
+python downloader.py --youtubeid="EQjT6103nL" --output="SD0064 Best VGM 61 - Senko no Ronde (Wartech) - Limitless Cinderella's comments (YT ID EQjT6103nL).json"
+echo "Archiving SD video 65, Best VGM 62 - Chrono Trigger - Corridors of Time's comments (YouTube id bNzYIEY-Cc...)"
+python downloader.py --youtubeid="bNzYIEY-Cc" --output="SD0065 Best VGM 62 - Chrono Trigger - Corridors of Time's comments (YT ID bNzYIEY-Cc).json"
+echo "Archiving SD video 66, Best VGM 63 - Pilotwings 64 - Hang Glider's comments (YouTube id Gibt8OLA__...)"
+python downloader.py --youtubeid="Gibt8OLA__" --output="SD0066 Best VGM 63 - Pilotwings 64 - Hang Glider's comments (YT ID Gibt8OLA__).json"
+echo "Archiving SD video 67, Best VGM 64 - Zelda : Twilight Princess - Faron Woods's comments (YouTube id xhzySCD19S...)"
+python downloader.py --youtubeid="xhzySCD19S" --output="SD0067 Best VGM 64 - Zelda : Twilight Princess - Faron Woods's comments (YT ID xhzySCD19S).json"
+echo "Archiving SD video 68, Best VGM 65 - Wild Arms Alter Code F - Puzzle's comments (YouTube id z-QISdXXN_...)"
+python downloader.py --youtubeid="z-QISdXXN_" --output="SD0068 Best VGM 65 - Wild Arms Alter Code F - Puzzle's comments (YT ID z-QISdXXN_).json"
+echo "Archiving SD video 69, Best VGM 66 - Mega Man 2 - Bubble Man Stage's comments (YouTube id vaJvNNWO_O...)"
+python downloader.py --youtubeid="vaJvNNWO_O" --output="SD0069 Best VGM 66 - Mega Man 2 - Bubble Man Stage's comments (YT ID vaJvNNWO_O).json"
+echo "Archiving SD video 70, Best VGM 67 - Extreme-G - Up to the Velocity's comments (YouTube id 5OLxWTdtOk...)"
+python downloader.py --youtubeid="5OLxWTdtOk" --output="SD0070 Best VGM 67 - Extreme-G - Up to the Velocity's comments (YT ID 5OLxWTdtOk).json"
+echo "Archiving SD video 71, Best VGM 68 - The Elder Scrolls IV: Oblivion - Wings of Kynareth's comments (YouTube id mkTkAkcj6m...)"
+python downloader.py --youtubeid="mkTkAkcj6m" --output="SD0071 Best VGM 68 - The Elder Scrolls IV: Oblivion - Wings of Kynareth's comments (YT ID mkTkAkcj6m).json"
+echo "Archiving SD video 72, Best VGM 69 - Persona 3 - Mass Destruction's comments (YouTube id 0RKF6gqCXi...)"
+python downloader.py --youtubeid="0RKF6gqCXi" --output="SD0072 Best VGM 69 - Persona 3 - Mass Destruction's comments (YT ID 0RKF6gqCXi).json"
+echo "Archiving SD video 73, Best VGM 70 - Terranigma - Crysta's comments (YouTube id QR5xn8fA76...)"
+python downloader.py --youtubeid="QR5xn8fA76" --output="SD0073 Best VGM 70 - Terranigma - Crysta's comments (YT ID QR5xn8fA76).json"
+echo "Archiving SD video 74, Best VGM 71 - Donkey Kong Country 2 - Stickerbush Symphony (Bramble Blast)'s comments (YouTube id J67nkzoJ_2...)"
+python downloader.py --youtubeid="J67nkzoJ_2" --output="SD0074 Best VGM 71 - Donkey Kong Country 2 - Stickerbush Symphony (Bramble Blast)'s comments (YT ID J67nkzoJ_2).json"
+echo "Archiving SD video 75, Best VGM 72 - Shadow Hearts II : Covenant - Hardcore to the Brain (Boss Theme ~ Japan)'s comments (YouTube id irGCdR0rTM...)"
+python downloader.py --youtubeid="irGCdR0rTM" --output="SD0075 Best VGM 72 - Shadow Hearts II : Covenant - Hardcore to the Brain (Boss Theme ~ Japan)'s comments (YT ID irGCdR0rTM).json"
+echo "Archiving SD video 76, Best VGM 73 - Dragon Quest VIII - Strange World ~ Marching through the Fields's comments (YouTube id Mg236zrHA4...)"
+python downloader.py --youtubeid="Mg236zrHA4" --output="SD0076 Best VGM 73 - Dragon Quest VIII - Strange World ~ Marching through the Fields's comments (YT ID Mg236zrHA4).json"
+echo "Archiving SD video 77, Best VGM 74 - Xenosaga II - Second Miltia's comments (YouTube id eOx1HJJ-Y8...)"
+python downloader.py --youtubeid="eOx1HJJ-Y8" --output="SD0077 Best VGM 74 - Xenosaga II - Second Miltia's comments (YT ID eOx1HJJ-Y8).json"
+echo "Archiving SD video 78, Best VGM 75 - Wild Arms - Into the Wilderness (Intro)'s comments (YouTube id cbiEH5DMx7...)"
+python downloader.py --youtubeid="cbiEH5DMx7" --output="SD0078 Best VGM 75 - Wild Arms - Into the Wilderness (Intro)'s comments (YT ID cbiEH5DMx7).json"
+echo "Archiving SD video 79, Best VGM 76 - Earthbound - Pokey Means Business!'s comments (YouTube id grQkblTqSM...)"
+python downloader.py --youtubeid="grQkblTqSM" --output="SD0079 Best VGM 76 - Earthbound - Pokey Means Business!'s comments (YT ID grQkblTqSM).json"
+echo "Archiving SD video 80, Best VGM 77 - Beyond Good & Evil - Funky Akuda Bar's comments (YouTube id vfqMK4BuN6...)"
+python downloader.py --youtubeid="vfqMK4BuN6" --output="SD0080 Best VGM 77 - Beyond Good & Evil - Funky Akuda Bar's comments (YT ID vfqMK4BuN6).json"
+echo "Archiving SD video 81, Best VGM 78 - Suikoden II - Gothic Neclord Battle's comments (YouTube id 473L99I88n...)"
+python downloader.py --youtubeid="473L99I88n" --output="SD0081 Best VGM 78 - Suikoden II - Gothic Neclord Battle's comments (YT ID 473L99I88n).json"
+echo "Archiving SD video 82, Best VGM 79 - Castlevania : Portrait of Ruin - Hail From the Past's comments (YouTube id fg1PDaOnU2...)"
+python downloader.py --youtubeid="fg1PDaOnU2" --output="SD0082 Best VGM 79 - Castlevania : Portrait of Ruin - Hail From the Past's comments (YT ID fg1PDaOnU2).json"
+echo "Archiving SD video 83, Paper Mario TTYD - Poshley Heights's comments (YouTube id tX_U8tZBuL...)"
+python downloader.py --youtubeid="tX_U8tZBuL" --output="SD0083 Paper Mario TTYD - Poshley Heights's comments (YT ID tX_U8tZBuL).json"
+echo "Archiving SD video 84, Best VGM 81 - Deep Labyrinth - The Azure Cavern's comments (YouTube id vp6NjZ0cGi...)"
+python downloader.py --youtubeid="vp6NjZ0cGi" --output="SD0084 Best VGM 81 - Deep Labyrinth - The Azure Cavern's comments (YT ID vp6NjZ0cGi).json"
+echo "Archiving SD video 85, Best VGM 82 - Zelda : Wind Waker - Dragon Roost Island's comments (YouTube id uixqfTElRu...)"
+python downloader.py --youtubeid="uixqfTElRu" --output="SD0085 Best VGM 82 - Zelda : Wind Waker - Dragon Roost Island's comments (YT ID uixqfTElRu).json"
+echo "Archiving SD video 86, Best VGM 83 - Donkey Kong Country 2 - Bayou Boogie's comments (YouTube id 8tffqG3zRL...)"
+python downloader.py --youtubeid="8tffqG3zRL" --output="SD0086 Best VGM 83 - Donkey Kong Country 2 - Bayou Boogie's comments (YT ID 8tffqG3zRL).json"
+echo "Archiving SD video 87, Best VGM 84 - Grandia - Town of Parm's comments (YouTube id 1BcHKsDr5C...)"
+python downloader.py --youtubeid="1BcHKsDr5C" --output="SD0087 Best VGM 84 - Grandia - Town of Parm's comments (YT ID 1BcHKsDr5C).json"
+echo "Archiving SD video 88, Best VGM 86 - Tribes 2 - Ice Level's comments (YouTube id N1lp6YLpT_...)"
+python downloader.py --youtubeid="N1lp6YLpT_" --output="SD0088 Best VGM 86 - Tribes 2 - Ice Level's comments (YT ID N1lp6YLpT_).json"
+echo "Archiving SD video 89, Best VGM 87 - Breath of Fire II - Sweet Home's comments (YouTube id 4i-qGSwyu5...)"
+python downloader.py --youtubeid="4i-qGSwyu5" --output="SD0089 Best VGM 87 - Breath of Fire II - Sweet Home's comments (YT ID 4i-qGSwyu5).json"
+echo "Archiving SD video 90, Best VGM 88 - Dark Cloud - Owl Forest's comments (YouTube id pwIy1Oto4Q...)"
+python downloader.py --youtubeid="pwIy1Oto4Q" --output="SD0090 Best VGM 88 - Dark Cloud - Owl Forest's comments (YT ID pwIy1Oto4Q).json"
+echo "Archiving SD video 91, Best VGM 89 - Mario Kart 64 - Rainbow Road's comments (YouTube id ty4CBnWeEK...)"
+python downloader.py --youtubeid="ty4CBnWeEK" --output="SD0091 Best VGM 89 - Mario Kart 64 - Rainbow Road's comments (YT ID ty4CBnWeEK).json"
+echo "Archiving SD video 92, Best VGM 90 - Castlevania - Wicked Child (Stage 3)'s comments (YouTube id 5bTAdrq6le...)"
+python downloader.py --youtubeid="5bTAdrq6le" --output="SD0092 Best VGM 90 - Castlevania - Wicked Child (Stage 3)'s comments (YT ID 5bTAdrq6le).json"
+echo "Archiving SD video 93, Best VGM 91 - Comix Zone - Night of the Mutants (Episode 1)'s comments (YouTube id ZAyRic3ZW0...)"
+python downloader.py --youtubeid="ZAyRic3ZW0" --output="SD0093 Best VGM 91 - Comix Zone - Night of the Mutants (Episode 1)'s comments (YT ID ZAyRic3ZW0).json"
+echo "Archiving SD video 94, Best VGM 92 - Chrono Cross - Another Marbule's comments (YouTube id gWZ2cqFr0V...)"
+python downloader.py --youtubeid="gWZ2cqFr0V" --output="SD0094 Best VGM 92 - Chrono Cross - Another Marbule's comments (YT ID gWZ2cqFr0V).json"
+echo "Archiving SD video 95, Shadow Hearts Covenant - Ladder to Heaven (Battle vs Amon)'s comments (YouTube id Es1uNda4p8...)"
+python downloader.py --youtubeid="Es1uNda4p8" --output="SD0095 Shadow Hearts Covenant - Ladder to Heaven (Battle vs Amon)'s comments (YT ID Es1uNda4p8).json"
+echo "Archiving SD video 96, Best VGM 93 - Super Metroid - Brinstar ~ Overgrown With Vegetation's comments (YouTube id 2MzcVSPUJw...)"
+python downloader.py --youtubeid="2MzcVSPUJw" --output="SD0096 Best VGM 93 - Super Metroid - Brinstar ~ Overgrown With Vegetation's comments (YT ID 2MzcVSPUJw).json"
+echo "Archiving SD video 97, Best VGM 94 - Final Fantasy Tactics - Trisection's comments (YouTube id MPvQoxXUQo...)"
+python downloader.py --youtubeid="MPvQoxXUQo" --output="SD0097 Best VGM 94 - Final Fantasy Tactics - Trisection's comments (YT ID MPvQoxXUQo).json"
+echo "Archiving SD video 98, Best VGM 95 - Mega Man ZX - Last Area ~ Serpent Company's comments (YouTube id afsUV7q6Hq...)"
+python downloader.py --youtubeid="afsUV7q6Hq" --output="SD0098 Best VGM 95 - Mega Man ZX - Last Area ~ Serpent Company's comments (YT ID afsUV7q6Hq).json"
+echo "Archiving SD video 99, [SD Remix] Super Metroid - Brinstar's comments (YouTube id mYlD828qgE...)"
+python downloader.py --youtubeid="mYlD828qgE" --output="SD0099 [SD Remix] Super Metroid - Brinstar's comments (YT ID mYlD828qgE).json"
+echo "Archiving SD video 100, Best VGM 96 - Live a Live - Wait For Truth (Near Future)'s comments (YouTube id 84NsPpkY4l...)"
+python downloader.py --youtubeid="84NsPpkY4l" --output="SD0100 Best VGM 96 - Live a Live - Wait For Truth (Near Future)'s comments (YT ID 84NsPpkY4l).json"
+echo "Archiving SD video 101, Best VGM 97 - Ys VI : The Ark of Napishtim - Quatera Woods's comments (YouTube id sA_8Y30Lk2...)"
+python downloader.py --youtubeid="sA_8Y30Lk2" --output="SD0101 Best VGM 97 - Ys VI : The Ark of Napishtim - Quatera Woods's comments (YT ID sA_8Y30Lk2).json"
+echo "Archiving SD video 102, Best VGM 98 - Star Ocean 3: Till the End of Time - The Desolate Smell of Earth's comments (YouTube id FYSt4qX85o...)"
+python downloader.py --youtubeid="FYSt4qX85o" --output="SD0102 Best VGM 98 - Star Ocean 3: Till the End of Time - The Desolate Smell of Earth's comments (YT ID FYSt4qX85o).json"
+echo "Archiving SD video 103, Best VGM 100 - Wild Arms - To a New Journey's comments (YouTube id guff_k4b6c...)"
+python downloader.py --youtubeid="guff_k4b6c" --output="SD0103 Best VGM 100 - Wild Arms - To a New Journey's comments (YT ID guff_k4b6c).json"
+echo "Archiving SD video 104, Best VGM 101 - Lufia II - Battle Against Sinistrals's comments (YouTube id hT8FhGDS5q...)"
+python downloader.py --youtubeid="hT8FhGDS5q" --output="SD0104 Best VGM 101 - Lufia II - Battle Against Sinistrals's comments (YT ID hT8FhGDS5q).json"
+echo "Archiving SD video 105, Best VGM 102 - Gitaroo Man - The Legendary Theme's comments (YouTube id nRw54IXvpE...)"
+python downloader.py --youtubeid="nRw54IXvpE" --output="SD0105 Best VGM 102 - Gitaroo Man - The Legendary Theme's comments (YT ID nRw54IXvpE).json"
+echo "Archiving SD video 106, Best VGM 103 - Xenogears - My Village is Number One!'s comments (YouTube id tlY88rlNnE...)"
+python downloader.py --youtubeid="tlY88rlNnE" --output="SD0106 Best VGM 103 - Xenogears - My Village is Number One!'s comments (YT ID tlY88rlNnE).json"
+echo "Archiving SD video 107, Best VGM 104 - Halo - Main Theme's comments (YouTube id QaE0HHN4c3...)"
+python downloader.py --youtubeid="QaE0HHN4c3" --output="SD0107 Best VGM 104 - Halo - Main Theme's comments (YT ID QaE0HHN4c3).json"
+echo "Archiving SD video 108, Best VGM 105 - Parasite Eve - Intro (Primal Eyes)'s comments (YouTube id 8Fl6WlJ-Pm...)"
+python downloader.py --youtubeid="8Fl6WlJ-Pm" --output="SD0108 Best VGM 105 - Parasite Eve - Intro (Primal Eyes)'s comments (YT ID 8Fl6WlJ-Pm).json"
+echo "Archiving SD video 109, [SD Cover] Zelda: Link to the Past - Forest's comments (YouTube id PXvrVufWr5...)"
+python downloader.py --youtubeid="PXvrVufWr5" --output="SD0109 [SD Cover] Zelda: Link to the Past - Forest's comments (YT ID PXvrVufWr5).json"
+echo "Archiving SD video 110, Best VGM 106 - Journey to Silius - Stage 1 (Space Colony Ruins)'s comments (YouTube id NjG2ZjPqzz...)"
+python downloader.py --youtubeid="NjG2ZjPqzz" --output="SD0110 Best VGM 106 - Journey to Silius - Stage 1 (Space Colony Ruins)'s comments (YT ID NjG2ZjPqzz).json"
+echo "Archiving SD video 111, Best VGM 107 - Ratchet & Clank - Eudora Logging Site's comments (YouTube id eFR7iBDJYp...)"
+python downloader.py --youtubeid="eFR7iBDJYp" --output="SD0111 Best VGM 107 - Ratchet & Clank - Eudora Logging Site's comments (YT ID eFR7iBDJYp).json"
+echo "Archiving SD video 112, Best VGM 108 - Donkey Kong Country 3 - Treetop Tumble's comments (YouTube id NjmUCbNk65...)"
+python downloader.py --youtubeid="NjmUCbNk65" --output="SD0112 Best VGM 108 - Donkey Kong Country 3 - Treetop Tumble's comments (YT ID NjmUCbNk65).json"
+echo "Archiving SD video 113, Best VGM 110 - Giftpia - Opening's comments (YouTube id koHO9vN6t4...)"
+python downloader.py --youtubeid="koHO9vN6t4" --output="SD0113 Best VGM 110 - Giftpia - Opening's comments (YT ID koHO9vN6t4).json"
+echo "Archiving SD video 114, Best VGM 112 - Metal Gear Solid 2 - Main Theme's comments (YouTube id Ag-O4VfJx6...)"
+python downloader.py --youtubeid="Ag-O4VfJx6" --output="SD0114 Best VGM 112 - Metal Gear Solid 2 - Main Theme's comments (YT ID Ag-O4VfJx6).json"
+echo "Archiving SD video 115, Best VGM 113 - Vay - Village's comments (YouTube id 4uJBIxKB01...)"
+python downloader.py --youtubeid="4uJBIxKB01" --output="SD0115 Best VGM 113 - Vay - Village's comments (YT ID 4uJBIxKB01).json"
+echo "Archiving SD video 116, Best VGM 114 - Super Castlevania IV - The Forest of Monsters's comments (YouTube id TJH9E2x87E...)"
+python downloader.py --youtubeid="TJH9E2x87E" --output="SD0116 Best VGM 114 - Super Castlevania IV - The Forest of Monsters's comments (YT ID TJH9E2x87E).json"
+echo "Archiving SD video 117, [SD Remix] Castlevania IV - The Forest of Monsters's comments (YouTube id 3Q8rRuy5ly...)"
+python downloader.py --youtubeid="3Q8rRuy5ly" --output="SD0117 [SD Remix] Castlevania IV - The Forest of Monsters's comments (YT ID 3Q8rRuy5ly).json"
+echo "Archiving SD video 118, Best VGM 115 - Shadow Hearts III - Final Battle (Lady Tears II)'s comments (YouTube id 8MRHV_Cf41...)"
+python downloader.py --youtubeid="8MRHV_Cf41" --output="SD0118 Best VGM 115 - Shadow Hearts III - Final Battle (Lady Tears II)'s comments (YT ID 8MRHV_Cf41).json"
+echo "Archiving SD video 119, Best VGM 116 - Hot Rod - Main Theme's comments (YouTube id RypdLW4G1N...)"
+python downloader.py --youtubeid="RypdLW4G1N" --output="SD0119 Best VGM 116 - Hot Rod - Main Theme's comments (YT ID RypdLW4G1N).json"
+echo "Archiving SD video 120, [SD Remix] DuckTales - Fun on the Moon's comments (YouTube id hn72sqPP5g...)"
+python downloader.py --youtubeid="hn72sqPP5g" --output="SD0120 [SD Remix] DuckTales - Fun on the Moon's comments (YT ID hn72sqPP5g).json"
+echo "Archiving SD video 121, Best VGM 117 - Yoshi's Island - Underground Theme's comments (YouTube id 8RtLhXibDf...)"
+python downloader.py --youtubeid="8RtLhXibDf" --output="SD0121 Best VGM 117 - Yoshi's Island - Underground Theme's comments (YT ID 8RtLhXibDf).json"
+echo "Archiving SD video 122, Best VGM 118 - Xenosaga III - Fifth Jerusalem's comments (YouTube id TioQJoZ8Cc...)"
+python downloader.py --youtubeid="TioQJoZ8Cc" --output="SD0122 Best VGM 118 - Xenosaga III - Fifth Jerusalem's comments (YT ID TioQJoZ8Cc).json"
+echo "Archiving SD video 123, Best VGM 120 - Breath of Fire III - Farm's comments (YouTube id _1rwSdxY7_...)"
+python downloader.py --youtubeid="_1rwSdxY7_" --output="SD0123 Best VGM 120 - Breath of Fire III - Farm's comments (YT ID _1rwSdxY7_).json"
+echo "Archiving SD video 124, Best VGM 121 - Metroid - Kraid's Lair's comments (YouTube id _wHwJoxw4i...)"
+python downloader.py --youtubeid="_wHwJoxw4i" --output="SD0124 Best VGM 121 - Metroid - Kraid's Lair's comments (YT ID _wHwJoxw4i).json"
+echo "Archiving SD video 125, Best VGM 122 - Arc the Lad IV: Twilight of the Spirits - Offense and Defense's comments (YouTube id o_vtaSXF0W...)"
+python downloader.py --youtubeid="o_vtaSXF0W" --output="SD0125 Best VGM 122 - Arc the Lad IV: Twilight of the Spirits - Offense and Defense's comments (YT ID o_vtaSXF0W).json"
+echo "Archiving SD video 126, Best VGM 123 - Shin  Megami Tensei Nocturne - Normal Battle ~ Town's comments (YouTube id N-BiX7QXE8...)"
+python downloader.py --youtubeid="N-BiX7QXE8" --output="SD0126 Best VGM 123 - Shin  Megami Tensei Nocturne - Normal Battle ~ Town's comments (YT ID N-BiX7QXE8).json"
+echo "Archiving SD video 127, Best VGM 124 - Mega Man 4 - Skull Man Stage's comments (YouTube id b-rgxR_zIC...)"
+python downloader.py --youtubeid="b-rgxR_zIC" --output="SD0127 Best VGM 124 - Mega Man 4 - Skull Man Stage's comments (YT ID b-rgxR_zIC).json"
+echo "Archiving SD video 128, Best VGM 125 - F-Zero GX - Octoman's Theme's comments (YouTube id 0ptVf0dQ18...)"
+python downloader.py --youtubeid="0ptVf0dQ18" --output="SD0128 Best VGM 125 - F-Zero GX - Octoman's Theme's comments (YT ID 0ptVf0dQ18).json"
+echo "Archiving SD video 129, Best VGM 126 - Romancing Saga 3 - Boss Battle's comments (YouTube id lmhxytynQO...)"
+python downloader.py --youtubeid="lmhxytynQO" --output="SD0129 Best VGM 126 - Romancing Saga 3 - Boss Battle's comments (YT ID lmhxytynQO).json"
+echo "Archiving SD video 130, Best VGM 127 - Final Fantasy V - Battle with Gilgamesh (Clash on the Big Bridge)'s comments (YouTube id 6CMTXyExke...)"
+python downloader.py --youtubeid="6CMTXyExke" --output="SD0130 Best VGM 127 - Final Fantasy V - Battle with Gilgamesh (Clash on the Big Bridge)'s comments (YT ID 6CMTXyExke).json"
+echo "Archiving SD video 131, [SD Remix] Donkey Kong Country 2 - Stickerbush Symphony's comments (YouTube id Sqa2yctcAE...)"
+python downloader.py --youtubeid="Sqa2yctcAE" --output="SD0131 [SD Remix] Donkey Kong Country 2 - Stickerbush Symphony's comments (YT ID Sqa2yctcAE).json"
+echo "Archiving SD video 132, Best VGM 128 - Castlevania: Symphony of the Night - Lost Painting's comments (YouTube id uKK631j464...)"
+python downloader.py --youtubeid="uKK631j464" --output="SD0132 Best VGM 128 - Castlevania: Symphony of the Night - Lost Painting's comments (YT ID uKK631j464).json"
+echo "Archiving SD video 133, Best VGM 129 - Ragnarok Online 2 : The Gate of the World - Din Don Dan Dan Non Monstr's comments (YouTube id pWVxGmFaNF...)"
+python downloader.py --youtubeid="pWVxGmFaNF" --output="SD0133 Best VGM 129 - Ragnarok Online 2 : The Gate of the World - Din Don Dan Dan Non Monstr's comments (YT ID pWVxGmFaNF).json"
+echo "Archiving SD video 134, Best VGM 130 - Lagoon - Philips Castle's comments (YouTube id ag5q7vmDOl...)"
+python downloader.py --youtubeid="ag5q7vmDOl" --output="SD0134 Best VGM 130 - Lagoon - Philips Castle's comments (YT ID ag5q7vmDOl).json"
+echo "Archiving SD video 135, Best VGM 131 - Cannon Fodder - Opening's comments (YouTube id e7YW5tmlsL...)"
+python downloader.py --youtubeid="e7YW5tmlsL" --output="SD0135 Best VGM 131 - Cannon Fodder - Opening's comments (YT ID e7YW5tmlsL).json"
+echo "Archiving SD video 136, Best VGM 132 - Baten Kaitos - Chaotic Dance's comments (YouTube id pieNm70nCI...)"
+python downloader.py --youtubeid="pieNm70nCI" --output="SD0136 Best VGM 132 - Baten Kaitos - Chaotic Dance's comments (YT ID pieNm70nCI).json"
+echo "Archiving SD video 137, Best VGM 133 - Wild Arms 3 - Scenery Called Everyday's comments (YouTube id 3WVqKTCx7U...)"
+python downloader.py --youtubeid="3WVqKTCx7U" --output="SD0137 Best VGM 133 - Wild Arms 3 - Scenery Called Everyday's comments (YT ID 3WVqKTCx7U).json"
+echo "Archiving SD video 138, Best VGM 134 - Chrono Trigger - Wind Scene's comments (YouTube id hELte7HgL2...)"
+python downloader.py --youtubeid="hELte7HgL2" --output="SD0138 Best VGM 134 - Chrono Trigger - Wind Scene's comments (YT ID hELte7HgL2).json"
+echo "Archiving SD video 139, Best VGM 135 - Contact - Free Time's comments (YouTube id rEE6yp873B...)"
+python downloader.py --youtubeid="rEE6yp873B" --output="SD0139 Best VGM 135 - Contact - Free Time's comments (YT ID rEE6yp873B).json"
+echo "Archiving SD video 140, Best VGM 136 - Legaia 2 - Lost Forest's comments (YouTube id 9xy9Q-BLp4...)"
+python downloader.py --youtubeid="9xy9Q-BLp4" --output="SD0140 Best VGM 136 - Legaia 2 - Lost Forest's comments (YT ID 9xy9Q-BLp4).json"
+echo "Archiving SD video 141, Best VGM 137 - Plok - Beach's comments (YouTube id 3ODKKILZiY...)"
+python downloader.py --youtubeid="3ODKKILZiY" --output="SD0141 Best VGM 137 - Plok - Beach's comments (YT ID 3ODKKILZiY).json"
+echo "Archiving SD video 142, Best VGM 138 - Extreme-G - Devil Speed Unborn's comments (YouTube id XW3Buw2tUg...)"
+python downloader.py --youtubeid="XW3Buw2tUg" --output="SD0142 Best VGM 138 - Extreme-G - Devil Speed Unborn's comments (YT ID XW3Buw2tUg).json"
+echo "Archiving SD video 143, [SD Remix] Final Fantasy VI - A Girl Named Terra's comments (YouTube id bAiYsqDXWe...)"
+python downloader.py --youtubeid="bAiYsqDXWe" --output="SD0143 [SD Remix] Final Fantasy VI - A Girl Named Terra's comments (YT ID bAiYsqDXWe).json"
+echo "Archiving SD video 144, Best VGM 139 - Mario Kart 64 - Toad's Turnpike's comments (YouTube id xvvXFCYVmk...)"
+python downloader.py --youtubeid="xvvXFCYVmk" --output="SD0144 Best VGM 139 - Mario Kart 64 - Toad's Turnpike's comments (YT ID xvvXFCYVmk).json"
+echo "Archiving SD video 145, Best VGM 140 - Shadow Hearts II : Covenant - Town of Twilight's comments (YouTube id gcm3ak-SLq...)"
+python downloader.py --youtubeid="gcm3ak-SLq" --output="SD0145 Best VGM 140 - Shadow Hearts II : Covenant - Town of Twilight's comments (YT ID gcm3ak-SLq).json"
+echo "Archiving SD video 146, Best VGM 141 - Civilization IV - Baba Yetu's comments (YouTube id 9u3xNXai8D...)"
+python downloader.py --youtubeid="9u3xNXai8D" --output="SD0146 Best VGM 141 - Civilization IV - Baba Yetu's comments (YT ID 9u3xNXai8D).json"
+echo "Archiving SD video 147, Best VGM 143 - Castlevania : Portrait of Ruin - The Gears Go Awry's comments (YouTube id mwdGO2vfAh...)"
+python downloader.py --youtubeid="mwdGO2vfAh" --output="SD0147 Best VGM 143 - Castlevania : Portrait of Ruin - The Gears Go Awry's comments (YT ID mwdGO2vfAh).json"
+echo "Archiving SD video 148, Best VGM 144 - Snowboard Kids - Big Snowman's comments (YouTube id XH1J5XxZkl...)"
+python downloader.py --youtubeid="XH1J5XxZkl" --output="SD0148 Best VGM 144 - Snowboard Kids - Big Snowman's comments (YT ID XH1J5XxZkl).json"
+echo "Archiving SD video 149, Best VGM 145 - Silent Hill: Origins - Prologue (O.R.T.)'s comments (YouTube id x4i7xG2IOO...)"
+python downloader.py --youtubeid="x4i7xG2IOO" --output="SD0149 Best VGM 145 - Silent Hill: Origins - Prologue (O.R.T.)'s comments (YT ID x4i7xG2IOO).json"
+echo "Archiving SD video 150, Best VGM 146 - Donkey Kong Country - Fear Factory's comments (YouTube id TYjKjjgQPk...)"
+python downloader.py --youtubeid="TYjKjjgQPk" --output="SD0150 Best VGM 146 - Donkey Kong Country - Fear Factory's comments (YT ID TYjKjjgQPk).json"
+echo "Archiving SD video 151, Best VGM 147 - SMT : Digital Devil Saga 2 - Divine Entity (Final Battle)'s comments (YouTube id 6XOEZIZMUl...)"
+python downloader.py --youtubeid="6XOEZIZMUl" --output="SD0151 Best VGM 147 - SMT : Digital Devil Saga 2 - Divine Entity (Final Battle)'s comments (YT ID 6XOEZIZMUl).json"
+echo "Archiving SD video 152, Best VGM 148 - Golden Sun - Kolima Forest's comments (YouTube id JA_VeKxyfi...)"
+python downloader.py --youtubeid="JA_VeKxyfi" --output="SD0152 Best VGM 148 - Golden Sun - Kolima Forest's comments (YT ID JA_VeKxyfi).json"
+echo "Archiving SD video 153, Best VGM 149 - Lufia - Fortress of Doom (Last Duel)'s comments (YouTube id GzBsFGh6zo...)"
+python downloader.py --youtubeid="GzBsFGh6zo" --output="SD0153 Best VGM 149 - Lufia - Fortress of Doom (Last Duel)'s comments (YT ID GzBsFGh6zo).json"
+echo "Archiving SD video 154, Best VGM 150 - Ridge Racers - Blue Topaz Remix's comments (YouTube id LPO5yrMSME...)"
+python downloader.py --youtubeid="LPO5yrMSME" --output="SD0154 Best VGM 150 - Ridge Racers - Blue Topaz Remix's comments (YT ID LPO5yrMSME).json"
+echo "Archiving SD video 155, Best VGM 151 - Guardian's Crusade - Opening's comments (YouTube id HO0rvkOPQw...)"
+python downloader.py --youtubeid="HO0rvkOPQw" --output="SD0155 Best VGM 151 - Guardian's Crusade - Opening's comments (YT ID HO0rvkOPQw).json"
+echo "Archiving SD video 156, Best VGM 152 - Tales of Symphonia - Town of Wind and Ruins (Asgard)'s comments (YouTube id fYvGx-PEAt...)"
+python downloader.py --youtubeid="fYvGx-PEAt" --output="SD0156 Best VGM 152 - Tales of Symphonia - Town of Wind and Ruins (Asgard)'s comments (YT ID fYvGx-PEAt).json"
+echo "Archiving SD video 157, Best VGM 153 - Mega Man 2 - Dr. Wily Stage 1 / 2's comments (YouTube id HFKtYCcMWT...)"
+python downloader.py --youtubeid="HFKtYCcMWT" --output="SD0157 Best VGM 153 - Mega Man 2 - Dr. Wily Stage 1 / 2's comments (YT ID HFKtYCcMWT).json"
+echo "Archiving SD video 158, Best VGM 154 - The World Ends With You - O-Parts's comments (YouTube id sZU8xWDH68...)"
+python downloader.py --youtubeid="sZU8xWDH68" --output="SD0158 Best VGM 154 - The World Ends With You - O-Parts's comments (YT ID sZU8xWDH68).json"
+echo "Archiving SD video 159, [SD Remix] Mega Man 2 - It's Bubble Time!'s comments (YouTube id fnOUY1uQAm...)"
+python downloader.py --youtubeid="fnOUY1uQAm" --output="SD0159 [SD Remix] Mega Man 2 - It's Bubble Time!'s comments (YT ID fnOUY1uQAm).json"
+echo "Archiving SD video 160, Best VGM 155 - Super Castlevania IV - Cave's comments (YouTube id kNPz77g5Xy...)"
+python downloader.py --youtubeid="kNPz77g5Xy" --output="SD0160 Best VGM 155 - Super Castlevania IV - Cave's comments (YT ID kNPz77g5Xy).json"
+echo "Archiving SD video 161, Best VGM 156 - Legend of Mana - Earth Painting's comments (YouTube id w4J4ZQP7Nq...)"
+python downloader.py --youtubeid="w4J4ZQP7Nq" --output="SD0161 Best VGM 156 - Legend of Mana - Earth Painting's comments (YT ID w4J4ZQP7Nq).json"
+echo "Archiving SD video 162, Best VGM 157 - Super Paper Mario - Sammer's Kingdom's comments (YouTube id RO_FVqiEtD...)"
+python downloader.py --youtubeid="RO_FVqiEtD" --output="SD0162 Best VGM 157 - Super Paper Mario - Sammer's Kingdom's comments (YT ID RO_FVqiEtD).json"
+echo "Archiving SD video 163, [SD Remix] Mario Kart 64 - Rockin' Rainbow's comments (YouTube id 0iOv_mQhXr...)"
+python downloader.py --youtubeid="0iOv_mQhXr" --output="SD0163 [SD Remix] Mario Kart 64 - Rockin' Rainbow's comments (YT ID 0iOv_mQhXr).json"
+echo "Archiving SD video 164, Best VGM 158 - Shadow Hearts - Callback From Jesus's comments (YouTube id 3iygPesmC-...)"
+python downloader.py --youtubeid="3iygPesmC-" --output="SD0164 Best VGM 158 - Shadow Hearts - Callback From Jesus's comments (YT ID 3iygPesmC-).json"
+echo "Archiving SD video 165, Best VGM 160 - Star Fox - Corneria's comments (YouTube id TS8q1pjWvi...)"
+python downloader.py --youtubeid="TS8q1pjWvi" --output="SD0165 Best VGM 160 - Star Fox - Corneria's comments (YT ID TS8q1pjWvi).json"
+echo "Archiving SD video 166, [SD Remix] Star Fox - Corneria Flight's comments (YouTube id egTFyKFaYB...)"
+python downloader.py --youtubeid="egTFyKFaYB" --output="SD0166 [SD Remix] Star Fox - Corneria Flight's comments (YT ID egTFyKFaYB).json"
+echo "Archiving SD video 167, Best VGM 161 - Breath of Fire V - Electric Power Building's comments (YouTube id 1xzf_Ey5th...)"
+python downloader.py --youtubeid="1xzf_Ey5th" --output="SD0167 Best VGM 161 - Breath of Fire V - Electric Power Building's comments (YT ID 1xzf_Ey5th).json"
+echo "Archiving SD video 168, SupraDarky - Professor Spaceton and the Mysterious Planet's comments (YouTube id 1rGGY-AQwa...)"
+python downloader.py --youtubeid="1rGGY-AQwa" --output="SD0168 SupraDarky - Professor Spaceton and the Mysterious Planet's comments (YT ID 1rGGY-AQwa).json"
+echo "Archiving SD video 169, Best VGM 164 - Castlevania Curse of Darkness - The Forest of Jigramunt's comments (YouTube id rVmt7axswL...)"
+python downloader.py --youtubeid="rVmt7axswL" --output="SD0169 Best VGM 164 - Castlevania Curse of Darkness - The Forest of Jigramunt's comments (YT ID rVmt7axswL).json"
+echo "Archiving SD video 170, Best VGM 165 - Earthbound - Winters's comments (YouTube id KiGfjOLF_j...)"
+python downloader.py --youtubeid="KiGfjOLF_j" --output="SD0170 Best VGM 165 - Earthbound - Winters's comments (YT ID KiGfjOLF_j).json"
+echo "Archiving SD video 171, [SD Cover] Super Mario Galaxy - Gusty Garden's comments (YouTube id XUWtLlXz-q...)"
+python downloader.py --youtubeid="XUWtLlXz-q" --output="SD0171 [SD Cover] Super Mario Galaxy - Gusty Garden's comments (YT ID XUWtLlXz-q).json"
+echo "Archiving SD video 172, Best VGM 166 - Illusion of Gaia - China's Great Wall's comments (YouTube id W6GNcYfHe1...)"
+python downloader.py --youtubeid="W6GNcYfHe1" --output="SD0172 Best VGM 166 - Illusion of Gaia - China's Great Wall's comments (YT ID W6GNcYfHe1).json"
+echo "Archiving SD video 173, Best VGM 167 - Mass Effect - Credits (M4 Part II)'s comments (YouTube id CRmOTY1lhY...)"
+python downloader.py --youtubeid="CRmOTY1lhY" --output="SD0173 Best VGM 167 - Mass Effect - Credits (M4 Part II)'s comments (YT ID CRmOTY1lhY).json"
+echo "Archiving SD video 174, Best VGM 168 - Chrono Trigger - Secret of the Forest's comments (YouTube id 2r1iesThvY...)"
+python downloader.py --youtubeid="2r1iesThvY" --output="SD0174 Best VGM 168 - Chrono Trigger - Secret of the Forest's comments (YT ID 2r1iesThvY).json"
+echo "Archiving SD video 175, Best VGM 169 - Breath of Fire III - Cedar Forest (Falling Green)'s comments (YouTube id F8U5nxhxYf...)"
+python downloader.py --youtubeid="F8U5nxhxYf" --output="SD0175 Best VGM 169 - Breath of Fire III - Cedar Forest (Falling Green)'s comments (YT ID F8U5nxhxYf).json"
+echo "Archiving SD video 176, Best VGM 170 - Soukaigi - Fire Wire's comments (YouTube id JHrGsxoZum...)"
+python downloader.py --youtubeid="JHrGsxoZum" --output="SD0176 Best VGM 170 - Soukaigi - Fire Wire's comments (YT ID JHrGsxoZum).json"
+echo "Archiving SD video 177, Best VGM 172 - Donkey Kong Country - Aquatic Ambiance's comments (YouTube id LDvKwSVuUG...)"
+python downloader.py --youtubeid="LDvKwSVuUG" --output="SD0177 Best VGM 172 - Donkey Kong Country - Aquatic Ambiance's comments (YT ID LDvKwSVuUG).json"
+echo "Archiving SD video 178, Best VGM 173 - Alundra - The Wind that Shook the Earth's comments (YouTube id tbVLmRfeIQ...)"
+python downloader.py --youtubeid="tbVLmRfeIQ" --output="SD0178 Best VGM 173 - Alundra - The Wind that Shook the Earth's comments (YT ID tbVLmRfeIQ).json"
+echo "Archiving SD video 179, [SD Remix] Lufia II - Wrath of the Sinistrals (Sinistrals Battle Theme)'s comments (YouTube id XQaoC--Uae...)"
+python downloader.py --youtubeid="XQaoC--Uae" --output="SD0179 [SD Remix] Lufia II - Wrath of the Sinistrals (Sinistrals Battle Theme)'s comments (YT ID XQaoC--Uae).json"
+echo "Archiving SD video 180, Best VGM 174 - Silent Hill 3 - A Stray Child's comments (YouTube id u4cv8dOFQs...)"
+python downloader.py --youtubeid="u4cv8dOFQs" --output="SD0180 Best VGM 174 - Silent Hill 3 - A Stray Child's comments (YT ID u4cv8dOFQs).json"
+echo "Archiving SD video 181, Best VGM 175 - Gremlins 2 : The New Batch - Stage 1's comments (YouTube id w2HT5XkGaw...)"
+python downloader.py --youtubeid="w2HT5XkGaw" --output="SD0181 Best VGM 175 - Gremlins 2 : The New Batch - Stage 1's comments (YT ID w2HT5XkGaw).json"
+echo "Archiving SD video 182, Best VGM 177 - Grandia II - Fight!! Ver.3 ~ Boss Battle's comments (YouTube id C-QGg9FGzj...)"
+python downloader.py --youtubeid="C-QGg9FGzj" --output="SD0182 Best VGM 177 - Grandia II - Fight!! Ver.3 ~ Boss Battle's comments (YT ID C-QGg9FGzj).json"
+echo "Archiving SD video 183, Best VGM 178 - Extreme-G - Track 2's comments (YouTube id 6l3nVyGhbp...)"
+python downloader.py --youtubeid="6l3nVyGhbp" --output="SD0183 Best VGM 178 - Extreme-G - Track 2's comments (YT ID 6l3nVyGhbp).json"
+echo "Archiving SD video 184, Best VGM 180 - Sonic the Hedgehog 2 - Chemical Plant Zone's comments (YouTube id tkj57nM0Oq...)"
+python downloader.py --youtubeid="tkj57nM0Oq" --output="SD0184 Best VGM 180 - Sonic the Hedgehog 2 - Chemical Plant Zone's comments (YT ID tkj57nM0Oq).json"
+echo "Archiving SD video 185, Best VGM 181 - Way of the Samurai - Righteous Soul (Credits)'s comments (YouTube id 5OZIrAW7aS...)"
+python downloader.py --youtubeid="5OZIrAW7aS" --output="SD0185 Best VGM 181 - Way of the Samurai - Righteous Soul (Credits)'s comments (YT ID 5OZIrAW7aS).json"
+echo "Archiving SD video 186, [SD Remix] Sonic the Hedgehog 2 - Chemical Plant's comments (YouTube id zuczEjFfJz...)"
+python downloader.py --youtubeid="zuczEjFfJz" --output="SD0186 [SD Remix] Sonic the Hedgehog 2 - Chemical Plant's comments (YT ID zuczEjFfJz).json"
+echo "Archiving SD video 187, Best VGM 182 - Mario Kart Wii - Moo Moo Meadows's comments (YouTube id 0Y1Y3buSm2...)"
+python downloader.py --youtubeid="0Y1Y3buSm2" --output="SD0187 Best VGM 182 - Mario Kart Wii - Moo Moo Meadows's comments (YT ID 0Y1Y3buSm2).json"
+echo "Archiving SD video 188, Best VGM 183 - Shadow Hearts III - Dead Fingers Talk (Battle Theme)'s comments (YouTube id f1EFHMwKdk...)"
+python downloader.py --youtubeid="f1EFHMwKdk" --output="SD0188 Best VGM 183 - Shadow Hearts III - Dead Fingers Talk (Battle Theme)'s comments (YT ID f1EFHMwKdk).json"
+echo "Archiving SD video 189, Best VGM 184 - Soma Bringer - Adel Desert's comments (YouTube id TdiRoUoSM-...)"
+python downloader.py --youtubeid="TdiRoUoSM-" --output="SD0189 Best VGM 184 - Soma Bringer - Adel Desert's comments (YT ID TdiRoUoSM-).json"
+echo "Archiving SD video 190, Best VGM 185 - Tales of Symphonia - A Snow Light (Flanoir)'s comments (YouTube id m6HgGxxjyr...)"
+python downloader.py --youtubeid="m6HgGxxjyr" --output="SD0190 Best VGM 185 - Tales of Symphonia - A Snow Light (Flanoir)'s comments (YT ID m6HgGxxjyr).json"
+echo "Archiving SD video 191, Best VGM 186 - Super Mario Land 2 - Star Maze's comments (YouTube id EmD9WnLYR5...)"
+python downloader.py --youtubeid="EmD9WnLYR5" --output="SD0191 Best VGM 186 - Super Mario Land 2 - Star Maze's comments (YT ID EmD9WnLYR5).json"
+echo "Archiving SD video 192, Best VGM 187 - Kingdom Hearts - Traverse Town's comments (YouTube id QGgK5kQkLU...)"
+python downloader.py --youtubeid="QGgK5kQkLU" --output="SD0192 Best VGM 187 - Kingdom Hearts - Traverse Town's comments (YT ID QGgK5kQkLU).json"
+echo "Archiving SD video 193, Best VGM 188 - Donkey Kong Country 3 GBA - Water World's comments (YouTube id YFDcu-hy4a...)"
+python downloader.py --youtubeid="YFDcu-hy4a" --output="SD0193 Best VGM 188 - Donkey Kong Country 3 GBA - Water World's comments (YT ID YFDcu-hy4a).json"
+echo "Archiving SD video 194, Best VGM 163 - Goldeneye - Byelomorye Dam's comments (YouTube id dEVI5_OxUy...)"
+python downloader.py --youtubeid="dEVI5_OxUy" --output="SD0194 Best VGM 163 - Goldeneye - Byelomorye Dam's comments (YT ID dEVI5_OxUy).json"
+echo "Archiving SD video 195, Best VGM 189 - ICO - You Were There (Ending Sequence)'s comments (YouTube id kzUYJAaiEv...)"
+python downloader.py --youtubeid="kzUYJAaiEv" --output="SD0195 Best VGM 189 - ICO - You Were There (Ending Sequence)'s comments (YT ID kzUYJAaiEv).json"
+echo "Archiving SD video 196, Best VGM 190 - Mystical Ninja Starring Goemon - Kai Highway's comments (YouTube id L9e6Pye7p5...)"
+python downloader.py --youtubeid="L9e6Pye7p5" --output="SD0196 Best VGM 190 - Mystical Ninja Starring Goemon - Kai Highway's comments (YT ID L9e6Pye7p5).json"
+echo "Archiving SD video 197, Best VGM 191 - Wild Arms 4 - The Desire to Fly Exceeds Words's comments (YouTube id HCHsMo4BOJ...)"
+python downloader.py --youtubeid="HCHsMo4BOJ" --output="SD0197 Best VGM 191 - Wild Arms 4 - The Desire to Fly Exceeds Words's comments (YT ID HCHsMo4BOJ).json"
+echo "Archiving SD video 198, Best VGM 193 - Okami - Shachimaru's Theme (Orca)'s comments (YouTube id 9VyMkkI39x...)"
+python downloader.py --youtubeid="9VyMkkI39x" --output="SD0198 Best VGM 193 - Okami - Shachimaru's Theme (Orca)'s comments (YT ID 9VyMkkI39x).json"
+echo "Archiving SD video 199, Best VGM 194 - Suikoden III - Exceeding Love (Opening)'s comments (YouTube id B-L4jj9lRm...)"
+python downloader.py --youtubeid="B-L4jj9lRm" --output="SD0199 Best VGM 194 - Suikoden III - Exceeding Love (Opening)'s comments (YT ID B-L4jj9lRm).json"
+echo "Archiving SD video 200, Best VGM 195 - Ace Combat Zero: The Belkan War - MERLON's comments (YouTube id CHlEPgi4Fr...)"
+python downloader.py --youtubeid="CHlEPgi4Fr" --output="SD0200 Best VGM 195 - Ace Combat Zero: The Belkan War - MERLON's comments (YT ID CHlEPgi4Fr).json"
+echo "Archiving SD video 201, [SD Remix] Live a Live - Western Sunset's comments (YouTube id cWyykNUGMp...)"
+python downloader.py --youtubeid="cWyykNUGMp" --output="SD0201 [SD Remix] Live a Live - Western Sunset's comments (YT ID cWyykNUGMp).json"
+echo "Archiving SD video 202, Best VGM 197 - Diablo I & II - Tristram's comments (YouTube id O8jJJXgNLo...)"
+python downloader.py --youtubeid="O8jJJXgNLo" --output="SD0202 Best VGM 197 - Diablo I & II - Tristram's comments (YT ID O8jJJXgNLo).json"
+echo "Archiving SD video 203, Best VGM 198 - Faxanadu - Land of Dwarf's comments (YouTube id 6GX_qN7hEE...)"
+python downloader.py --youtubeid="6GX_qN7hEE" --output="SD0203 Best VGM 198 - Faxanadu - Land of Dwarf's comments (YT ID 6GX_qN7hEE).json"
+echo "Archiving SD video 204, Best VGM 199 - Wild Arms 5 - The Road to Tomorrow Follows Behind You's comments (YouTube id SKtO8AZLp2...)"
+python downloader.py --youtubeid="SKtO8AZLp2" --output="SD0204 Best VGM 199 - Wild Arms 5 - The Road to Tomorrow Follows Behind You's comments (YT ID SKtO8AZLp2).json"
+echo "Archiving SD video 205, Best VGM 200 - The Legend of Zelda - Labyrinth's comments (YouTube id nH7ma8TPnE...)"
+python downloader.py --youtubeid="nH7ma8TPnE" --output="SD0205 Best VGM 200 - The Legend of Zelda - Labyrinth's comments (YT ID nH7ma8TPnE).json"
+echo "Archiving SD video 206, Best VGM 201 - Chrono Cross - The Scars of Time (Opening)'s comments (YouTube id Rs2y4Nqku2...)"
+python downloader.py --youtubeid="Rs2y4Nqku2" --output="SD0206 Best VGM 201 - Chrono Cross - The Scars of Time (Opening)'s comments (YT ID Rs2y4Nqku2).json"
+echo "Archiving SD video 207, Best VGM 202 - Metroid Fusion - Sector 1's comments (YouTube id GLPT6H4On4...)"
+python downloader.py --youtubeid="GLPT6H4On4" --output="SD0207 Best VGM 202 - Metroid Fusion - Sector 1's comments (YT ID GLPT6H4On4).json"
+echo "Archiving SD video 208, Best VGM 203 - Eternal Sonata - Leap the Precipice (Battle Theme)'s comments (YouTube id TM3BIOvEJS...)"
+python downloader.py --youtubeid="TM3BIOvEJS" --output="SD0208 Best VGM 203 - Eternal Sonata - Leap the Precipice (Battle Theme)'s comments (YT ID TM3BIOvEJS).json"
+echo "Archiving SD video 209, Best VGM 204 - Breath of Fire - Sara (Goodbye)'s comments (YouTube id ztiSivmoE0...)"
+python downloader.py --youtubeid="ztiSivmoE0" --output="SD0209 Best VGM 204 - Breath of Fire - Sara (Goodbye)'s comments (YT ID ztiSivmoE0).json"
+echo "Archiving SD video 210, Best VGM 205 - Tales of Legendia - The Birds Chirp, I Sing's comments (YouTube id bckgyhCo7L...)"
+python downloader.py --youtubeid="bckgyhCo7L" --output="SD0210 Best VGM 205 - Tales of Legendia - The Birds Chirp, I Sing's comments (YT ID bckgyhCo7L).json"
+echo "Archiving SD video 211, Best VGM 206 - Yoshi's Island - Castle's comments (YouTube id ifvxBt7tmA...)"
+python downloader.py --youtubeid="ifvxBt7tmA" --output="SD0211 Best VGM 206 - Yoshi's Island - Castle's comments (YT ID ifvxBt7tmA).json"
+echo "Archiving SD video 212, Best VGM 208 - Dragon Ball Z Butouden 2 - Vegeta's Theme's comments (YouTube id xaKXWFIz5E...)"
+python downloader.py --youtubeid="xaKXWFIz5E" --output="SD0212 Best VGM 208 - Dragon Ball Z Butouden 2 - Vegeta's Theme's comments (YT ID xaKXWFIz5E).json"
+echo "Archiving SD video 213, Best VGM 209 - Pokemon Trading Card Game - Club Master Duel!'s comments (YouTube id VgMHWxN2U_...)"
+python downloader.py --youtubeid="VgMHWxN2U_" --output="SD0213 Best VGM 209 - Pokemon Trading Card Game - Club Master Duel!'s comments (YT ID VgMHWxN2U_).json"
+echo "Archiving SD video 214, Best VGM 210 - Opoona - Bravo Company's comments (YouTube id wKgoegkoci...)"
+python downloader.py --youtubeid="wKgoegkoci" --output="SD0214 Best VGM 210 - Opoona - Bravo Company's comments (YT ID wKgoegkoci).json"
+echo "Archiving SD video 215, Best VGM 211 - Silent Hill: Origins - Blow Back (Credits)'s comments (YouTube id xfzWn5b6MH...)"
+python downloader.py --youtubeid="xfzWn5b6MH" --output="SD0215 Best VGM 211 - Silent Hill: Origins - Blow Back (Credits)'s comments (YT ID xfzWn5b6MH).json"
+echo "Archiving SD video 216, [SD Remix] Chrono Trigger - Zealously Zeal's comments (YouTube id apdba16z33...)"
+python downloader.py --youtubeid="apdba16z33" --output="SD0216 [SD Remix] Chrono Trigger - Zealously Zeal's comments (YT ID apdba16z33).json"
+echo "Archiving SD video 217, Best VGM 212 - Mega Man 3 - Dr. Wily Part 2 (Stage 3 / 4)'s comments (YouTube id DTqp7jUBoA...)"
+python downloader.py --youtubeid="DTqp7jUBoA" --output="SD0217 Best VGM 212 - Mega Man 3 - Dr. Wily Part 2 (Stage 3 / 4)'s comments (YT ID DTqp7jUBoA).json"
+echo "Archiving SD video 218, Best VGM 213 - Streets of Rage - Fighting in the Street (Stage 1)'s comments (YouTube id 9heorR5vEv...)"
+python downloader.py --youtubeid="9heorR5vEv" --output="SD0218 Best VGM 213 - Streets of Rage - Fighting in the Street (Stage 1)'s comments (YT ID 9heorR5vEv).json"
+echo "Archiving SD video 219, Best VGM 215 - Zelda : Ocarina of Time - Forest Temple's comments (YouTube id lb88VsHVDb...)"
+python downloader.py --youtubeid="lb88VsHVDb" --output="SD0219 Best VGM 215 - Zelda : Ocarina of Time - Forest Temple's comments (YT ID lb88VsHVDb).json"
+echo "Archiving SD video 220, Best VGM 216 - Xenosaga II - Fatal Fight ( Jin & Margulis )'s comments (YouTube id H4hryHF3kT...)"
+python downloader.py --youtubeid="H4hryHF3kT" --output="SD0220 Best VGM 216 - Xenosaga II - Fatal Fight ( Jin & Margulis )'s comments (YT ID H4hryHF3kT).json"
+echo "Archiving SD video 221, Star Wars - Cantina Song !'s comments (YouTube id _Tyg68GqZh...)"
+python downloader.py --youtubeid="_Tyg68GqZh" --output="SD0221 Star Wars - Cantina Song !'s comments (YT ID _Tyg68GqZh).json"
+echo "Archiving SD video 222, Best VGM 217 - Daytona USA - Sky High's comments (YouTube id a14tqUAswZ...)"
+python downloader.py --youtubeid="a14tqUAswZ" --output="SD0222 Best VGM 217 - Daytona USA - Sky High's comments (YT ID a14tqUAswZ).json"
+echo "Archiving SD video 223, Best VGM 218 - Skies of Arcadia - Air Pirate Island's comments (YouTube id z5oERC4cD8...)"
+python downloader.py --youtubeid="z5oERC4cD8" --output="SD0223 Best VGM 218 - Skies of Arcadia - Air Pirate Island's comments (YT ID z5oERC4cD8).json"
+echo "Archiving SD video 224, Best VGM 219 - Asterix - Credits's comments (YouTube id xTxZchmHmB...)"
+python downloader.py --youtubeid="xTxZchmHmB" --output="SD0224 Best VGM 219 - Asterix - Credits's comments (YT ID xTxZchmHmB).json"
+echo "Archiving SD video 225, Best VGM 220 - Yoshi's Island DS - Windblown Wilderness's comments (YouTube id kmkzuPrQHQ...)"
+python downloader.py --youtubeid="kmkzuPrQHQ" --output="SD0225 Best VGM 220 - Yoshi's Island DS - Windblown Wilderness's comments (YT ID kmkzuPrQHQ).json"
+echo "Archiving SD video 226, Best VGM 222 - Grandia III - Battle Theme's comments (YouTube id VuT5ukjMVF...)"
+python downloader.py --youtubeid="VuT5ukjMVF" --output="SD0226 Best VGM 222 - Grandia III - Battle Theme's comments (YT ID VuT5ukjMVF).json"
+echo "Archiving SD video 227, Best VGM 223 - Super Mario Bros 3 - Overworld 2's comments (YouTube id 3cIi2PEagm...)"
+python downloader.py --youtubeid="3cIi2PEagm" --output="SD0227 Best VGM 223 - Super Mario Bros 3 - Overworld 2's comments (YT ID 3cIi2PEagm).json"
+echo "Archiving SD video 228, Best VGM 224 - Castlevania : Dawn of Sorrow - Condemned Tower's comments (YouTube id Mea-D-VFzc...)"
+python downloader.py --youtubeid="Mea-D-VFzc" --output="SD0228 Best VGM 224 - Castlevania : Dawn of Sorrow - Condemned Tower's comments (YT ID Mea-D-VFzc).json"
+echo "Archiving SD video 229, Best VGM 225 - Tetris Attack - Forest Stage's comments (YouTube id xtsyXDTAWo...)"
+python downloader.py --youtubeid="xtsyXDTAWo" --output="SD0229 Best VGM 225 - Tetris Attack - Forest Stage's comments (YT ID xtsyXDTAWo).json"
+echo "Archiving SD video 230, Best VGM 226 - Shadow Hearts II : Covenant - The Fate's comments (YouTube id Kr5mloai1B...)"
+python downloader.py --youtubeid="Kr5mloai1B" --output="SD0230 Best VGM 226 - Shadow Hearts II : Covenant - The Fate's comments (YT ID Kr5mloai1B).json"
+echo "Archiving SD video 231, Best VGM 227 - Ragnarok Online 2 : The Gate of the World - Clap and Walk's comments (YouTube id ImdjNeH310...)"
+python downloader.py --youtubeid="ImdjNeH310" --output="SD0231 Best VGM 227 - Ragnarok Online 2 : The Gate of the World - Clap and Walk's comments (YT ID ImdjNeH310).json"
+echo "Archiving SD video 232, Best VGM 228 - Blaster Master - Forest (Stage 1)'s comments (YouTube id PKno6qPQEJ...)"
+python downloader.py --youtubeid="PKno6qPQEJ" --output="SD0232 Best VGM 228 - Blaster Master - Forest (Stage 1)'s comments (YT ID PKno6qPQEJ).json"
+echo "Archiving SD video 233, Best VGM 229 - Star Ocean 2: The Second Story - Shower of Blossoms's comments (YouTube id vEx9gtmDoR...)"
+python downloader.py --youtubeid="vEx9gtmDoR" --output="SD0233 Best VGM 229 - Star Ocean 2: The Second Story - Shower of Blossoms's comments (YT ID vEx9gtmDoR).json"
+echo "Archiving SD video 234, Best VGM 230 - Plok - Akrillic's comments (YouTube id 2jbJSftFr2...)"
+python downloader.py --youtubeid="2jbJSftFr2" --output="SD0234 Best VGM 230 - Plok - Akrillic's comments (YT ID 2jbJSftFr2).json"
+echo "Archiving SD video 235, Best VGM 231 - Wild Arms 5 - Terrible Monster Attacking Crew's comments (YouTube id TXEz-i-oOR...)"
+python downloader.py --youtubeid="TXEz-i-oOR" --output="SD0235 Best VGM 231 - Wild Arms 5 - Terrible Monster Attacking Crew's comments (YT ID TXEz-i-oOR).json"
+echo "Archiving SD video 236, Best VGM 232 - Chrono Trigger - To Far Away Times's comments (YouTube id Nn5K-NNmgT...)"
+python downloader.py --youtubeid="Nn5K-NNmgT" --output="SD0236 Best VGM 232 - Chrono Trigger - To Far Away Times's comments (YT ID Nn5K-NNmgT).json"
+echo "Archiving SD video 237, SupraDarky - Woop Dee Doop's comments (YouTube id LrVTXDDBVQ...)"
+python downloader.py --youtubeid="LrVTXDDBVQ" --output="SD0237 SupraDarky - Woop Dee Doop's comments (YT ID LrVTXDDBVQ).json"
+echo "Archiving SD video 238, Best VGM 233 - Breath of Fire IV - Yet The Merchants Will Go's comments (YouTube id msEbmIgnaS...)"
+python downloader.py --youtubeid="msEbmIgnaS" --output="SD0238 Best VGM 233 - Breath of Fire IV - Yet The Merchants Will Go's comments (YT ID msEbmIgnaS).json"
+echo "Archiving SD video 239, Best VGM 234 - Earthbound - You've Come Far (Coffee Break)'s comments (YouTube id a_WurTZJrp...)"
+python downloader.py --youtubeid="a_WurTZJrp" --output="SD0239 Best VGM 234 - Earthbound - You've Come Far (Coffee Break)'s comments (YT ID a_WurTZJrp).json"
+echo "Archiving SD video 240, Best VGM 235 - Atelier Iris 3: Grand Phantasm - Rain of Blossoms's comments (YouTube id Ou0WU5p5Xk...)"
+python downloader.py --youtubeid="Ou0WU5p5Xk" --output="SD0240 Best VGM 235 - Atelier Iris 3: Grand Phantasm - Rain of Blossoms's comments (YT ID Ou0WU5p5Xk).json"
+echo "Archiving SD video 241, Best VGM 236 - Castlevania II - The Silence of the Daylight's comments (YouTube id tiwsAs6WVy...)"
+python downloader.py --youtubeid="tiwsAs6WVy" --output="SD0241 Best VGM 236 - Castlevania II - The Silence of the Daylight's comments (YT ID tiwsAs6WVy).json"
+echo "Archiving SD video 242, Best VGM 237 - Lost Odyssey - A Sign of Hope's comments (YouTube id d8xtkry1wK...)"
+python downloader.py --youtubeid="d8xtkry1wK" --output="SD0242 Best VGM 237 - Lost Odyssey - A Sign of Hope's comments (YT ID d8xtkry1wK).json"
+echo "Archiving SD video 243, Best VGM 238 - Super Mario World - Castle Theme's comments (YouTube id zqFtW92WUa...)"
+python downloader.py --youtubeid="zqFtW92WUa" --output="SD0243 Best VGM 238 - Super Mario World - Castle Theme's comments (YT ID zqFtW92WUa).json"
+echo "Archiving SD video 244, Best VGM 239 - Donkey Kong Country 2 - Hot Head Bop's comments (YouTube id jlFYSIyAGm...)"
+python downloader.py --youtubeid="jlFYSIyAGm" --output="SD0244 Best VGM 239 - Donkey Kong Country 2 - Hot Head Bop's comments (YT ID jlFYSIyAGm).json"
+echo "Archiving SD video 245, Best VGM 240 - Demon's Crest - Metropolis of Ruin's comments (YouTube id Xnmuncx1F0...)"
+python downloader.py --youtubeid="Xnmuncx1F0" --output="SD0245 Best VGM 240 - Demon's Crest - Metropolis of Ruin's comments (YT ID Xnmuncx1F0).json"
+echo "Archiving SD video 246, Best VGM 241 - Katamari Damacy - Cherry Blossom Color Season's comments (YouTube id U3FkappfRs...)"
+python downloader.py --youtubeid="U3FkappfRs" --output="SD0246 Best VGM 241 - Katamari Damacy - Cherry Blossom Color Season's comments (YT ID U3FkappfRs).json"
+echo "Archiving SD video 247, Best VGM 242 - Zelda : Wind Waker - The Ocean's comments (YouTube id Car2R06WZc...)"
+python downloader.py --youtubeid="Car2R06WZc" --output="SD0247 Best VGM 242 - Zelda : Wind Waker - The Ocean's comments (YT ID Car2R06WZc).json"
+echo "Archiving SD video 248, Best VGM 243 - Soma Bringer - Amaty, the Ancient City's comments (YouTube id rMxIyQqeGZ...)"
+python downloader.py --youtubeid="rMxIyQqeGZ" --output="SD0248 Best VGM 243 - Soma Bringer - Amaty, the Ancient City's comments (YT ID rMxIyQqeGZ).json"
+echo "Archiving SD video 249, [SD Cover] Super Mario RPG - Seaside Ballad's comments (YouTube id YpIwIUlYnu...)"
+python downloader.py --youtubeid="YpIwIUlYnu" --output="SD0249 [SD Cover] Super Mario RPG - Seaside Ballad's comments (YT ID YpIwIUlYnu).json"
+echo "Archiving SD video 250, Best VGM 245 - Etrian Odyssey II - Cherry Tree Bridge's comments (YouTube id oksAhZuJ55...)"
+python downloader.py --youtubeid="oksAhZuJ55" --output="SD0250 Best VGM 245 - Etrian Odyssey II - Cherry Tree Bridge's comments (YT ID oksAhZuJ55).json"
+echo "Archiving SD video 251, Best VGM 246 - Bully - Defender of the Castle's comments (YouTube id CkPqtTcBXT...)"
+python downloader.py --youtubeid="CkPqtTcBXT" --output="SD0251 Best VGM 246 - Bully - Defender of the Castle's comments (YT ID CkPqtTcBXT).json"
+echo "Archiving SD video 252, Best VGM 247 - Pokemon - Lavender Town's comments (YouTube id V1YsfDO8lg...)"
+python downloader.py --youtubeid="V1YsfDO8lg" --output="SD0252 Best VGM 247 - Pokemon - Lavender Town's comments (YT ID V1YsfDO8lg).json"
+echo "Archiving SD video 253, Best VGM 248 - Super Street Fighter II - Blanka's Theme's comments (YouTube id -L45Lm02jI...)"
+python downloader.py --youtubeid="-L45Lm02jI" --output="SD0253 Best VGM 248 - Super Street Fighter II - Blanka's Theme's comments (YT ID -L45Lm02jI).json"
+echo "Archiving SD video 254, Blanka Came to the City !'s comments (YouTube id YuHpkuOels...)"
+python downloader.py --youtubeid="YuHpkuOels" --output="SD0254 Blanka Came to the City !'s comments (YT ID YuHpkuOels).json"
+echo "Archiving SD video 255, Best VGM 249 - Banjo-Kazooie - Treasure Trove Cove's comments (YouTube id AxVhRs8QC1...)"
+python downloader.py --youtubeid="AxVhRs8QC1" --output="SD0255 Best VGM 249 - Banjo-Kazooie - Treasure Trove Cove's comments (YT ID AxVhRs8QC1).json"
+echo "Archiving SD video 256, Best VGM 250 - One Piece Grand Battle 2 - Bell of Judgement's comments (YouTube id 96ro-5alCG...)"
+python downloader.py --youtubeid="96ro-5alCG" --output="SD0256 Best VGM 250 - One Piece Grand Battle 2 - Bell of Judgement's comments (YT ID 96ro-5alCG).json"
+echo "Archiving SD video 257, Best VGM 251 - Xenogears - Solaris, Eden of Heaven's comments (YouTube id qH8MFPIvFp...)"
+python downloader.py --youtubeid="qH8MFPIvFp" --output="SD0257 Best VGM 251 - Xenogears - Solaris, Eden of Heaven's comments (YT ID qH8MFPIvFp).json"
+echo "Archiving SD video 258, Best VGM 252 - The Adventures of Bayou Billy - Main Theme's comments (YouTube id oQVscNAg1c...)"
+python downloader.py --youtubeid="oQVscNAg1c" --output="SD0258 Best VGM 252 - The Adventures of Bayou Billy - Main Theme's comments (YT ID oQVscNAg1c).json"
+echo "Archiving SD video 259, Tribute to Video Game Music (1 Year Anniversary!)'s comments (YouTube id aKjpJUtbAs...)"
+python downloader.py --youtubeid="aKjpJUtbAs" --output="SD0259 Tribute to Video Game Music (1 Year Anniversary!)'s comments (YT ID aKjpJUtbAs).json"
+echo "Archiving SD video 260, Best VGM 253 - Skies of Arcadia - Kingdom of Ixa'taka's comments (YouTube id 0F-hJjD3XA...)"
+python downloader.py --youtubeid="0F-hJjD3XA" --output="SD0260 Best VGM 253 - Skies of Arcadia - Kingdom of Ixa'taka's comments (YT ID 0F-hJjD3XA).json"
+echo "Archiving SD video 261, Best VGM 254 - Zelda : Minish Cap - Temple of Droplets's comments (YouTube id NcjcKZnJqA...)"
+python downloader.py --youtubeid="NcjcKZnJqA" --output="SD0261 Best VGM 254 - Zelda : Minish Cap - Temple of Droplets's comments (YT ID NcjcKZnJqA).json"
+echo "Archiving SD video 262, Best VGM 255 - Bomberman 64 - Blue Resort's comments (YouTube id oNjnN_p5Cl...)"
+python downloader.py --youtubeid="oNjnN_p5Cl" --output="SD0262 Best VGM 255 - Bomberman 64 - Blue Resort's comments (YT ID oNjnN_p5Cl).json"
+echo "Archiving SD video 263, Best VGM 256 - Dragon Quest II - Overworld (Theme 2)'s comments (YouTube id -VtNcqxyNn...)"
+python downloader.py --youtubeid="-VtNcqxyNn" --output="SD0263 Best VGM 256 - Dragon Quest II - Overworld (Theme 2)'s comments (YT ID -VtNcqxyNn).json"
+echo "Archiving SD video 264, Best VGM 257 - Radiata Stories - Song of Freedom Fighters's comments (YouTube id zHej43S_OM...)"
+python downloader.py --youtubeid="zHej43S_OM" --output="SD0264 Best VGM 257 - Radiata Stories - Song of Freedom Fighters's comments (YT ID zHej43S_OM).json"
+echo "Archiving SD video 265, Best VGM 258 - Super Mario Bros 2 - Main Theme's comments (YouTube id uSOspFMHVl...)"
+python downloader.py --youtubeid="uSOspFMHVl" --output="SD0265 Best VGM 258 - Super Mario Bros 2 - Main Theme's comments (YT ID uSOspFMHVl).json"
+echo "Archiving SD video 266, Best VGM 259 - Wild Arms 4 - The Shining Spear Pierces the Darkness's comments (YouTube id BdFLRkDRtP...)"
+python downloader.py --youtubeid="BdFLRkDRtP" --output="SD0266 Best VGM 259 - Wild Arms 4 - The Shining Spear Pierces the Darkness's comments (YT ID BdFLRkDRtP).json"
+echo "Archiving SD video 267, Best VGM 260 - Donkey Kong Country 3 - Water World's comments (YouTube id s0mCsa2q2a...)"
+python downloader.py --youtubeid="s0mCsa2q2a" --output="SD0267 Best VGM 260 - Donkey Kong Country 3 - Water World's comments (YT ID s0mCsa2q2a).json"
+echo "Archiving SD video 268, SupraDarky - Strollin' (The Impossible Game Practice Song)'s comments (YouTube id oEhyuvkI4j...)"
+python downloader.py --youtubeid="oEhyuvkI4j" --output="SD0268 SupraDarky - Strollin' (The Impossible Game Practice Song)'s comments (YT ID oEhyuvkI4j).json"
+echo "Archiving SD video 269, Best VGM 262 - Cool Spot - Pier Pressure's comments (YouTube id CcKUWCm_yR...)"
+python downloader.py --youtubeid="CcKUWCm_yR" --output="SD0269 Best VGM 262 - Cool Spot - Pier Pressure's comments (YT ID CcKUWCm_yR).json"
+echo "Archiving SD video 270, Best VGM 263 - Mega Man X6 - Infinity Mijinion Stage's comments (YouTube id -m3VGoy-4Q...)"
+python downloader.py --youtubeid="-m3VGoy-4Q" --output="SD0270 Best VGM 263 - Mega Man X6 - Infinity Mijinion Stage's comments (YT ID -m3VGoy-4Q).json"
+echo "Archiving SD video 271, Sword of Mana - In Search of the Sacred Sword's comments (YouTube id peHXPMnGK6...)"
+python downloader.py --youtubeid="peHXPMnGK6" --output="SD0271 Sword of Mana - In Search of the Sacred Sword's comments (YT ID peHXPMnGK6).json"
+echo "Archiving SD video 272, Best VGM 265 - Baten Kaitos - Gentle Wind's comments (YouTube id Pc3GfVHluv...)"
+python downloader.py --youtubeid="Pc3GfVHluv" --output="SD0272 Best VGM 265 - Baten Kaitos - Gentle Wind's comments (YT ID Pc3GfVHluv).json"
+echo "Archiving SD video 273, Best VGM 266 - Maniac Mansion - Dave's Theme's comments (YouTube id iN3Jp55Db_...)"
+python downloader.py --youtubeid="iN3Jp55Db_" --output="SD0273 Best VGM 266 - Maniac Mansion - Dave's Theme's comments (YT ID iN3Jp55Db_).json"
+echo "Archiving SD video 274, Best VGM 267 - Xenosaga III - Hepatica (KOS-MOS)'s comments (YouTube id uV_g76Thyg...)"
+python downloader.py --youtubeid="uV_g76Thyg" --output="SD0274 Best VGM 267 - Xenosaga III - Hepatica (KOS-MOS)'s comments (YT ID uV_g76Thyg).json"
+echo "Archiving SD video 275, [SD Remix] Secret of Mana - Precious Gold (A Curious Tale)'s comments (YouTube id _tYfxgIMwX...)"
+python downloader.py --youtubeid="_tYfxgIMwX" --output="SD0275 [SD Remix] Secret of Mana - Precious Gold (A Curious Tale)'s comments (YT ID _tYfxgIMwX).json"
+echo "Archiving SD video 276, Best VGM 268 - Mega Man 9 - We're the Robots (Dr. Wily Stage 2)'s comments (YouTube id bA4PAkrAVp...)"
+python downloader.py --youtubeid="bA4PAkrAVp" --output="SD0276 Best VGM 268 - Mega Man 9 - We're the Robots (Dr. Wily Stage 2)'s comments (YT ID bA4PAkrAVp).json"
+echo "Archiving SD video 277, Best VGM 269 - Enchanted Arms - The People of London City's comments (YouTube id -ltGbYCYr-...)"
+python downloader.py --youtubeid="-ltGbYCYr-" --output="SD0277 Best VGM 269 - Enchanted Arms - The People of London City's comments (YT ID -ltGbYCYr-).json"
+echo "Archiving SD video 278, Best VGM 270 - Shadow Hearts III - Le Gran Luxe (Boss Battle Theme)'s comments (YouTube id rFIzW_ET_6...)"
+python downloader.py --youtubeid="rFIzW_ET_6" --output="SD0278 Best VGM 270 - Shadow Hearts III - Le Gran Luxe (Boss Battle Theme)'s comments (YT ID rFIzW_ET_6).json"
+echo "Archiving SD video 279, Best VGM 271 - Professor Layton and the Curious Village - Professor Layton's Theme's comments (YouTube id j_8sYSOkwA...)"
+python downloader.py --youtubeid="j_8sYSOkwA" --output="SD0279 Best VGM 271 - Professor Layton and the Curious Village - Professor Layton's Theme's comments (YT ID j_8sYSOkwA).json"
+echo "Archiving SD video 280, Best VGM 272 - Castlevania: Dracula X - Beginning (Stage 6)'s comments (YouTube id 44u87NnaV4...)"
+python downloader.py --youtubeid="44u87NnaV4" --output="SD0280 Best VGM 272 - Castlevania: Dracula X - Beginning (Stage 6)'s comments (YT ID 44u87NnaV4).json"
+echo "Archiving SD video 281, Dracula X: Rondo of Blood - Beginning (Stage 6)'s comments (YouTube id Cf5rFBCwP4...)"
+python downloader.py --youtubeid="Cf5rFBCwP4" --output="SD0281 Dracula X: Rondo of Blood - Beginning (Stage 6)'s comments (YT ID Cf5rFBCwP4).json"
+echo "Archiving SD video 282, Best VGM 273 - The Seventh Seal: Dark Lord - Rhythm of Red's comments (YouTube id TlDaPnHXl_...)"
+python downloader.py --youtubeid="TlDaPnHXl_" --output="SD0282 Best VGM 273 - The Seventh Seal: Dark Lord - Rhythm of Red's comments (YT ID TlDaPnHXl_).json"
+echo "Archiving SD video 283, Best VGM 274 - Breath of Fire III - Life's a Beach's comments (YouTube id y4DAIZM2sT...)"
+python downloader.py --youtubeid="y4DAIZM2sT" --output="SD0283 Best VGM 274 - Breath of Fire III - Life's a Beach's comments (YT ID y4DAIZM2sT).json"
+echo "Archiving SD video 284, Best VGM 275 - Dragon Ball Z : Super Butoden - Perfect Cell's Theme's comments (YouTube id lXBFPdRiZM...)"
+python downloader.py --youtubeid="lXBFPdRiZM" --output="SD0284 Best VGM 275 - Dragon Ball Z : Super Butoden - Perfect Cell's Theme's comments (YT ID lXBFPdRiZM).json"
+echo "Archiving SD video 285, Best VGM 276 - Chrono Trigger - Guardia Millenial Fair's comments (YouTube id k4L8cq2vrl...)"
+python downloader.py --youtubeid="k4L8cq2vrl" --output="SD0285 Best VGM 276 - Chrono Trigger - Guardia Millenial Fair's comments (YT ID k4L8cq2vrl).json"
+echo "Archiving SD video 286, [SD  Remix] Final Fantasy V - Fight and Hope (Decisive Battle - Exdeath Theme)'s comments (YouTube id 5Sy3Kl7djN...)"
+python downloader.py --youtubeid="5Sy3Kl7djN" --output="SD0286 [SD  Remix] Final Fantasy V - Fight and Hope (Decisive Battle - Exdeath Theme)'s comments (YT ID 5Sy3Kl7djN).json"
+echo "Archiving SD video 287, Best VGM 278 - Disaster: Day of Crisis - Main Theme (Title)'s comments (YouTube id FWSwAKVS-I...)"
+python downloader.py --youtubeid="FWSwAKVS-I" --output="SD0287 Best VGM 278 - Disaster: Day of Crisis - Main Theme (Title)'s comments (YT ID FWSwAKVS-I).json"
+echo "Archiving SD video 288, Best VGM 279 - Speed Freaks - City's comments (YouTube id yYPNScB1al...)"
+python downloader.py --youtubeid="yYPNScB1al" --output="SD0288 Best VGM 279 - Speed Freaks - City's comments (YT ID yYPNScB1al).json"
+echo "Archiving SD video 289, Mother Vocal Album - 01 - Pollyanna (I Believe in You)'s comments (YouTube id qezniWLWxE...)"
+python downloader.py --youtubeid="qezniWLWxE" --output="SD0289 Mother Vocal Album - 01 - Pollyanna (I Believe in You)'s comments (YT ID qezniWLWxE).json"
+echo "Archiving SD video 290, Best VGM 280 - Lost Odyssey - Dark Saint Battle's comments (YouTube id 9YoDuIZa8t...)"
+python downloader.py --youtubeid="9YoDuIZa8t" --output="SD0290 Best VGM 280 - Lost Odyssey - Dark Saint Battle's comments (YT ID 9YoDuIZa8t).json"
+echo "Archiving SD video 291, Best VGM 281 - Pokemon Ruby / Sapphire / Emerald - Sootopolis City's comments (YouTube id y2MP97fwOa...)"
+python downloader.py --youtubeid="y2MP97fwOa" --output="SD0291 Best VGM 281 - Pokemon Ruby / Sapphire / Emerald - Sootopolis City's comments (YT ID y2MP97fwOa).json"
+echo "Archiving SD video 292, Best VGM 282 - Starcraft - Terran Theme 1's comments (YouTube id PwlvY_SeUQ...)"
+python downloader.py --youtubeid="PwlvY_SeUQ" --output="SD0292 Best VGM 282 - Starcraft - Terran Theme 1's comments (YT ID PwlvY_SeUQ).json"
+echo "Archiving SD video 293, Best VGM 283 - Driver - Miami Night Cop's comments (YouTube id E5K6la0Fzu...)"
+python downloader.py --youtubeid="E5K6la0Fzu" --output="SD0293 Best VGM 283 - Driver - Miami Night Cop's comments (YT ID E5K6la0Fzu).json"
+echo "Archiving SD video 294, Mother Vocal Album - 02 - Bein' Friends's comments (YouTube id 0iJarTI7ri...)"
+python downloader.py --youtubeid="0iJarTI7ri" --output="SD0294 Mother Vocal Album - 02 - Bein' Friends's comments (YT ID 0iJarTI7ri).json"
+echo "Archiving SD video 295, Best VGM 284 - Zelda: A Link to the Past - Sanctuary Dungeon's comments (YouTube id d1UyVXN13S...)"
+python downloader.py --youtubeid="d1UyVXN13S" --output="SD0295 Best VGM 284 - Zelda: A Link to the Past - Sanctuary Dungeon's comments (YT ID d1UyVXN13S).json"
+echo "Archiving SD video 296, Best VGM 285 - Batman: Return of the Joker - Stage 1's comments (YouTube id nFsoCfGij0...)"
+python downloader.py --youtubeid="nFsoCfGij0" --output="SD0296 Best VGM 285 - Batman: Return of the Joker - Stage 1's comments (YT ID nFsoCfGij0).json"
+echo "Archiving SD video 297, Best VGM 286 - Dark Cloud 2 - Underground Water Channel's comments (YouTube id 7JWi5dyzW2...)"
+python downloader.py --youtubeid="7JWi5dyzW2" --output="SD0297 Best VGM 286 - Dark Cloud 2 - Underground Water Channel's comments (YT ID 7JWi5dyzW2).json"
+echo "Archiving SD video 298, Best VGM 287 - Kingdom Hearts II - Lazy Afternoons's comments (YouTube id EX5V_PWI3y...)"
+python downloader.py --youtubeid="EX5V_PWI3y" --output="SD0298 Best VGM 287 - Kingdom Hearts II - Lazy Afternoons's comments (YT ID EX5V_PWI3y).json"
+echo "Archiving SD video 299, Best VGM 288 - Earthbound - The Lost Underworld's comments (YouTube id 6kIE2xVJdT...)"
+python downloader.py --youtubeid="6kIE2xVJdT" --output="SD0299 Best VGM 288 - Earthbound - The Lost Underworld's comments (YT ID 6kIE2xVJdT).json"
+echo "Archiving SD video 300, Best VGM 289 - Romancing SaGa: Minstrel Song - Prelude of Battle's comments (YouTube id Ekiz0YMNp7...)"
+python downloader.py --youtubeid="Ekiz0YMNp7" --output="SD0300 Best VGM 289 - Romancing SaGa: Minstrel Song - Prelude of Battle's comments (YT ID Ekiz0YMNp7).json"
+echo "Archiving SD video 301, Best VGM 290 - Paladin's Quest - Town's comments (YouTube id DY0L5o9y-Y...)"
+python downloader.py --youtubeid="DY0L5o9y-Y" --output="SD0301 Best VGM 290 - Paladin's Quest - Town's comments (YT ID DY0L5o9y-Y).json"
+echo "Archiving SD video 302, Best VGM 291 - Kirby 64 : The Crystal Shards - Zero-Two's comments (YouTube id gQndM8KdTD...)"
+python downloader.py --youtubeid="gQndM8KdTD" --output="SD0302 Best VGM 291 - Kirby 64 : The Crystal Shards - Zero-Two's comments (YT ID gQndM8KdTD).json"
+echo "Archiving SD video 303, Lavender town reversed (Original Gameboy version)'s comments (YouTube id gWfljFxwsP...)"
+python downloader.py --youtubeid="gWfljFxwsP" --output="SD0303 Lavender town reversed (Original Gameboy version)'s comments (YT ID gWfljFxwsP).json"
+echo "Archiving SD video 304, Best VGM 292 - Opoona - The Village Without Memories (Fonthene)'s comments (YouTube id lfudDzITiw...)"
+python downloader.py --youtubeid="lfudDzITiw" --output="SD0304 Best VGM 292 - Opoona - The Village Without Memories (Fonthene)'s comments (YT ID lfudDzITiw).json"
+echo "Archiving SD video 305, Best VGM 293 - Lufia : The Legend Returns - Town of Albano's comments (YouTube id VixvyNbhZ6...)"
+python downloader.py --youtubeid="VixvyNbhZ6" --output="SD0305 Best VGM 293 - Lufia : The Legend Returns - Town of Albano's comments (YT ID VixvyNbhZ6).json"
+echo "Archiving SD video 306, Best VGM 294 - Mother 3 - Natural Killer Cyborg!'s comments (YouTube id tk61GaJLsO...)"
+python downloader.py --youtubeid="tk61GaJLsO" --output="SD0306 Best VGM 294 - Mother 3 - Natural Killer Cyborg!'s comments (YT ID tk61GaJLsO).json"
+echo "Archiving SD video 307, Best VGM 295 - Wild Arms 4 - Over the Wind's comments (YouTube id fiPxE3P2Qh...)"
+python downloader.py --youtubeid="fiPxE3P2Qh" --output="SD0307 Best VGM 295 - Wild Arms 4 - Over the Wind's comments (YT ID fiPxE3P2Qh).json"
+echo "Archiving SD video 308, Mother Vocal Album - 03 - The Paradise Line's comments (YouTube id 1FesxUPvqZ...)"
+python downloader.py --youtubeid="1FesxUPvqZ" --output="SD0308 Mother Vocal Album - 03 - The Paradise Line's comments (YT ID 1FesxUPvqZ).json"
+echo "Archiving SD video 309, Best VGM 297 - Castlevania: Order of Ecclesia - Tymeo Mountains (Jaws of a Scorched Earth)'s comments (YouTube id FjFx5oO-ri...)"
+python downloader.py --youtubeid="FjFx5oO-ri" --output="SD0309 Best VGM 297 - Castlevania: Order of Ecclesia - Tymeo Mountains (Jaws of a Scorched Earth)'s comments (YT ID FjFx5oO-ri).json"
+echo "Archiving SD video 310, Best VGM 298 - Yoshi's Island - Flower Garden's comments (YouTube id 5gCAhdDAPH...)"
+python downloader.py --youtubeid="5gCAhdDAPH" --output="SD0310 Best VGM 298 - Yoshi's Island - Flower Garden's comments (YT ID 5gCAhdDAPH).json"
+echo "Archiving SD video 311, Best VGM 299 - Command & Conquer: Red Alert - Hell March's comments (YouTube id FnogL42dEL...)"
+python downloader.py --youtubeid="FnogL42dEL" --output="SD0311 Best VGM 299 - Command & Conquer: Red Alert - Hell March's comments (YT ID FnogL42dEL).json"
+echo "Archiving SD video 312, Best VGM 300 - Chrono Trigger - The Brink of Time's comments (YouTube id TlLIOD2rJM...)"
+python downloader.py --youtubeid="TlLIOD2rJM" --output="SD0312 Best VGM 300 - Chrono Trigger - The Brink of Time's comments (YT ID TlLIOD2rJM).json"
+echo "Archiving SD video 313, Best VGM 301 - Shenmue - Main Theme's comments (YouTube id _OguBY5x-Q...)"
+python downloader.py --youtubeid="_OguBY5x-Q" --output="SD0313 Best VGM 301 - Shenmue - Main Theme's comments (YT ID _OguBY5x-Q).json"
+echo "Archiving SD video 314, Best VGM 302 - Tales of Symphonia - Dry Trail's comments (YouTube id HvnAkAQK82...)"
+python downloader.py --youtubeid="HvnAkAQK82" --output="SD0314 Best VGM 302 - Tales of Symphonia - Dry Trail's comments (YT ID HvnAkAQK82).json"
+echo "Archiving SD video 315, Best VGM 303 - Mega Man 3 - Snake Man Stage's comments (YouTube id zpVIM8de2x...)"
+python downloader.py --youtubeid="zpVIM8de2x" --output="SD0315 Best VGM 303 - Mega Man 3 - Snake Man Stage's comments (YT ID zpVIM8de2x).json"
+echo "Archiving SD video 316, [SD Remix] Donkey Kong Country - Exciting Fear's comments (YouTube id WKG0EJYdB_...)"
+python downloader.py --youtubeid="WKG0EJYdB_" --output="SD0316 [SD Remix] Donkey Kong Country - Exciting Fear's comments (YT ID WKG0EJYdB_).json"
+echo "Archiving SD video 317, Best VGM 304 - Sonic the Hedgehog 3 - Hydrocity Zone Act 2's comments (YouTube id KrvdivSD98...)"
+python downloader.py --youtubeid="KrvdivSD98" --output="SD0317 Best VGM 304 - Sonic the Hedgehog 3 - Hydrocity Zone Act 2's comments (YT ID KrvdivSD98).json"
+echo "Archiving SD video 318, Best VGM 305 - Etrian Odyssey - The Withered Forest's comments (YouTube id NnZlRu28fc...)"
+python downloader.py --youtubeid="NnZlRu28fc" --output="SD0318 Best VGM 305 - Etrian Odyssey - The Withered Forest's comments (YT ID NnZlRu28fc).json"
+echo "Archiving SD video 319, Best VGM 306 - Zone of the Enders 2 - Beyond the Bounds's comments (YouTube id y81PyRX4EN...)"
+python downloader.py --youtubeid="y81PyRX4EN" --output="SD0319 Best VGM 306 - Zone of the Enders 2 - Beyond the Bounds's comments (YT ID y81PyRX4EN).json"
+echo "Archiving SD video 320, Best VGM 308 - Journey to Silius - Title Theme's comments (YouTube id jkWYvENgxw...)"
+python downloader.py --youtubeid="jkWYvENgxw" --output="SD0320 Best VGM 308 - Journey to Silius - Title Theme's comments (YT ID jkWYvENgxw).json"
+echo "Archiving SD video 321, Best VGM 310 - Napple Tale - Cecil's Garden's comments (YouTube id 2biS2NM9Qe...)"
+python downloader.py --youtubeid="2biS2NM9Qe" --output="SD0321 Best VGM 310 - Napple Tale - Cecil's Garden's comments (YT ID 2biS2NM9Qe).json"
+echo "Archiving SD video 322, Best VGM 311 - Xenogears - Omen's comments (YouTube id qzhWuriX9W...)"
+python downloader.py --youtubeid="qzhWuriX9W" --output="SD0322 Best VGM 311 - Xenogears - Omen's comments (YT ID qzhWuriX9W).json"
+echo "Archiving SD video 323, Best VGM 312 - Super Mario Sunshine - Delfino Plaza's comments (YouTube id iwemkM-vBm...)"
+python downloader.py --youtubeid="iwemkM-vBm" --output="SD0323 Best VGM 312 - Super Mario Sunshine - Delfino Plaza's comments (YT ID iwemkM-vBm).json"
+echo "Archiving SD video 324, Best VGM 313 - Top Gear - Mad Racer (Track 1)'s comments (YouTube id ICOotKB_MU...)"
+python downloader.py --youtubeid="ICOotKB_MU" --output="SD0324 Best VGM 313 - Top Gear - Mad Racer (Track 1)'s comments (YT ID ICOotKB_MU).json"
+echo "Archiving SD video 325, Best VGM 314 - Okami - Ryoshima Coast's comments (YouTube id ckVmgiTobA...)"
+python downloader.py --youtubeid="ckVmgiTobA" --output="SD0325 Best VGM 314 - Okami - Ryoshima Coast's comments (YT ID ckVmgiTobA).json"
+echo "Archiving SD video 326, Best VGM 316 - Asterix - Rome's comments (YouTube id m-VXBxd2pm...)"
+python downloader.py --youtubeid="m-VXBxd2pm" --output="SD0326 Best VGM 316 - Asterix - Rome's comments (YT ID m-VXBxd2pm).json"
+echo "Archiving SD video 327, Best VGM 318 - Earthbound - Home Sweet Home's comments (YouTube id AKfLOMirwh...)"
+python downloader.py --youtubeid="AKfLOMirwh" --output="SD0327 Best VGM 318 - Earthbound - Home Sweet Home's comments (YT ID AKfLOMirwh).json"
+echo "Archiving SD video 328, Best VGM 319 - Tales of Legendia - Enemy Attack (Battle Theme)'s comments (YouTube id PAuFr7PZtG...)"
+python downloader.py --youtubeid="PAuFr7PZtG" --output="SD0328 Best VGM 319 - Tales of Legendia - Enemy Attack (Battle Theme)'s comments (YT ID PAuFr7PZtG).json"
+echo "Archiving SD video 329, Best VGM 320 - Donkey Kong Land - Kremlantis (Underwater)'s comments (YouTube id w_N7__8-9r...)"
+python downloader.py --youtubeid="w_N7__8-9r" --output="SD0329 Best VGM 320 - Donkey Kong Land - Kremlantis (Underwater)'s comments (YT ID w_N7__8-9r).json"
+echo "Archiving SD video 330, Best VGM 321 - Wild Arms - Adlehyde Castle's comments (YouTube id gAy6qk8rl5...)"
+python downloader.py --youtubeid="gAy6qk8rl5" --output="SD0330 Best VGM 321 - Wild Arms - Adlehyde Castle's comments (YT ID gAy6qk8rl5).json"
+echo "Archiving SD video 331, Best VGM 322 - F-Zero - Big Blue's comments (YouTube id uDwLy1_6nD...)"
+python downloader.py --youtubeid="uDwLy1_6nD" --output="SD0331 Best VGM 322 - F-Zero - Big Blue's comments (YT ID uDwLy1_6nD).json"
+echo "Archiving SD video 332, Best VGM 323 - Musashi Samurai Legend - White Whale of Heaven's comments (YouTube id GEuRzRW86b...)"
+python downloader.py --youtubeid="GEuRzRW86b" --output="SD0332 Best VGM 323 - Musashi Samurai Legend - White Whale of Heaven's comments (YT ID GEuRzRW86b).json"
+echo "Archiving SD video 333, Best VGM 324 - Castlevania Curse of Darkness - Abandoned Castle's comments (YouTube id Rv7-G28CPF...)"
+python downloader.py --youtubeid="Rv7-G28CPF" --output="SD0333 Best VGM 324 - Castlevania Curse of Darkness - Abandoned Castle's comments (YT ID Rv7-G28CPF).json"
+echo "Archiving SD video 334, Best VGM 325 - Dragon Quest VI - Overworld's comments (YouTube id Ev1MRskhUm...)"
+python downloader.py --youtubeid="Ev1MRskhUm" --output="SD0334 Best VGM 325 - Dragon Quest VI - Overworld's comments (YT ID Ev1MRskhUm).json"
+echo "Archiving SD video 335, Dragon Quest VI - Dream World's comments (YouTube id 2cRMLNMBwS...)"
+python downloader.py --youtubeid="2cRMLNMBwS" --output="SD0335 Dragon Quest VI - Dream World's comments (YT ID 2cRMLNMBwS).json"
+echo "Archiving SD video 336, Best VGM 326 - Super Mario Land - Easton Kingdom's comments (YouTube id DoQekfFkXv...)"
+python downloader.py --youtubeid="DoQekfFkXv" --output="SD0336 Best VGM 326 - Super Mario Land - Easton Kingdom's comments (YT ID DoQekfFkXv).json"
+echo "Archiving SD video 337, Best VGM 327 - World of Warcraft : Wrath of the Lich King - Totems of the Grizzlemaw's comments (YouTube id QNd4WYmj9W...)"
+python downloader.py --youtubeid="QNd4WYmj9W" --output="SD0337 Best VGM 327 - World of Warcraft : Wrath of the Lich King - Totems of the Grizzlemaw's comments (YT ID QNd4WYmj9W).json"
+echo "Archiving SD video 338, Best VGM 328 - Breath of Fire II - Breath of Fire's comments (YouTube id WgK4UTP0gf...)"
+python downloader.py --youtubeid="WgK4UTP0gf" --output="SD0338 Best VGM 328 - Breath of Fire II - Breath of Fire's comments (YT ID WgK4UTP0gf).json"
+echo "Archiving SD video 339, Best VGM 329 - Katamari Damacy - Lonely Rolling Star's comments (YouTube id 9saTXWj78t...)"
+python downloader.py --youtubeid="9saTXWj78t" --output="SD0339 Best VGM 329 - Katamari Damacy - Lonely Rolling Star's comments (YT ID 9saTXWj78t).json"
+echo "Archiving SD video 340, Best VGM 330 - Grandia - Ghost Ship's comments (YouTube id 77F1lLI5LZ...)"
+python downloader.py --youtubeid="77F1lLI5LZ" --output="SD0340 Best VGM 330 - Grandia - Ghost Ship's comments (YT ID 77F1lLI5LZ).json"
+echo "Archiving SD video 341, Best VGM 331 - Sailor Moon RPG: Another Story - Silver Moon Cruiser's comments (YouTube id HLl-oMBhiP...)"
+python downloader.py --youtubeid="HLl-oMBhiP" --output="SD0341 Best VGM 331 - Sailor Moon RPG: Another Story - Silver Moon Cruiser's comments (YT ID HLl-oMBhiP).json"
+echo "Archiving SD video 342, Best VGM 332 - Guilty Gear XX Reload (Korean Version) - Vampire Saga (Slayer's Theme)'s comments (YouTube id prRDZPbuDc...)"
+python downloader.py --youtubeid="prRDZPbuDc" --output="SD0342 Best VGM 332 - Guilty Gear XX Reload (Korean Version) - Vampire Saga (Slayer's Theme)'s comments (YT ID prRDZPbuDc).json"
+echo "Archiving SD video 343, Best VGM 333 - Seiken Densetsu 3 - Ordinary People's comments (YouTube id sMcx87rq0o...)"
+python downloader.py --youtubeid="sMcx87rq0o" --output="SD0343 Best VGM 333 - Seiken Densetsu 3 - Ordinary People's comments (YT ID sMcx87rq0o).json"
+echo "Archiving SD video 344, Best VGM 334 - Mother 3 - Monkey Delivery Service's comments (YouTube id 8iBCg85y0K...)"
+python downloader.py --youtubeid="8iBCg85y0K" --output="SD0344 Best VGM 334 - Mother 3 - Monkey Delivery Service's comments (YT ID 8iBCg85y0K).json"
+echo "Archiving SD video 345, Best VGM 335 - Donkey Kong Country 2 - Forest Interlude's comments (YouTube id 5IUXyzqrZs...)"
+python downloader.py --youtubeid="5IUXyzqrZs" --output="SD0345 Best VGM 335 - Donkey Kong Country 2 - Forest Interlude's comments (YT ID 5IUXyzqrZs).json"
+echo "Archiving SD video 346, Best VGM 337 - Sonic Unleashed - Shamar Town (Day)'s comments (YouTube id in7TUvirru...)"
+python downloader.py --youtubeid="in7TUvirru" --output="SD0346 Best VGM 337 - Sonic Unleashed - Shamar Town (Day)'s comments (YT ID in7TUvirru).json"
+echo "Archiving SD video 347, Best VGM 338 - Soul Blazer - Koibito no Inaiyoru (Lisa's Song)'s comments (YouTube id I5GznpBjHE...)"
+python downloader.py --youtubeid="I5GznpBjHE" --output="SD0347 Best VGM 338 - Soul Blazer - Koibito no Inaiyoru (Lisa's Song)'s comments (YT ID I5GznpBjHE).json"
+echo "Archiving SD video 348, [SD Remix] Super Mario Bros 2 - Mario + Vegetables (Overworld)'s comments (YouTube id Lp0ojZ4LHr...)"
+python downloader.py --youtubeid="Lp0ojZ4LHr" --output="SD0348 [SD Remix] Super Mario Bros 2 - Mario + Vegetables (Overworld)'s comments (YT ID Lp0ojZ4LHr).json"
+echo "Archiving SD video 349, Best VGM 339 - Shadow Hearts - Highnoon Fish (Dalian)'s comments (YouTube id 5oGK9YN0Ux...)"
+python downloader.py --youtubeid="5oGK9YN0Ux" --output="SD0349 Best VGM 339 - Shadow Hearts - Highnoon Fish (Dalian)'s comments (YT ID 5oGK9YN0Ux).json"
+echo "Archiving SD video 350, Best VGM 340 - Castlevania II - Bloody Tears's comments (YouTube id rhbGqHurV5...)"
+python downloader.py --youtubeid="rhbGqHurV5" --output="SD0350 Best VGM 340 - Castlevania II - Bloody Tears's comments (YT ID rhbGqHurV5).json"
+echo "Archiving SD video 351, Best VGM 341 - Shining Force II - Lively Town's comments (YouTube id XKI0-dPmwS...)"
+python downloader.py --youtubeid="XKI0-dPmwS" --output="SD0351 Best VGM 341 - Shining Force II - Lively Town's comments (YT ID XKI0-dPmwS).json"
+echo "Archiving SD video 352, Best VGM 342 - Xenosaga - Albedo's Theme's comments (YouTube id jAQGCM-IyO...)"
+python downloader.py --youtubeid="jAQGCM-IyO" --output="SD0352 Best VGM 342 - Xenosaga - Albedo's Theme's comments (YT ID jAQGCM-IyO).json"
+echo "Archiving SD video 353, Best VGM 343 - Goldeneye - Facility's comments (YouTube id wFM8K7GLFK...)"
+python downloader.py --youtubeid="wFM8K7GLFK" --output="SD0353 Best VGM 343 - Goldeneye - Facility's comments (YT ID wFM8K7GLFK).json"
+echo "Archiving SD video 354, Best VGM 344 - Secret of Evermore - Mini Boss Battle's comments (YouTube id TkEH0e07jg...)"
+python downloader.py --youtubeid="TkEH0e07jg" --output="SD0354 Best VGM 344 - Secret of Evermore - Mini Boss Battle's comments (YT ID TkEH0e07jg).json"
+echo "Archiving SD video 355, [SD Chiptune] Through Stars and Bubbles's comments (YouTube id J3r0-FGA_P...)"
+python downloader.py --youtubeid="J3r0-FGA_P" --output="SD0355 [SD Chiptune] Through Stars and Bubbles's comments (YT ID J3r0-FGA_P).json"
+echo "Archiving SD video 356, Best VGM 345 - Legaia 2 - Wasteland of Far Away Places's comments (YouTube id O0rVK4H0-E...)"
+python downloader.py --youtubeid="O0rVK4H0-E" --output="SD0356 Best VGM 345 - Legaia 2 - Wasteland of Far Away Places's comments (YT ID O0rVK4H0-E).json"
+echo "Archiving SD video 357, Best VGM 346 - Super Mario 64 - Snow Mountain's comments (YouTube id vfRr0Y0QnH...)"
+python downloader.py --youtubeid="vfRr0Y0QnH" --output="SD0357 Best VGM 346 - Super Mario 64 - Snow Mountain's comments (YT ID vfRr0Y0QnH).json"
+echo "Archiving SD video 358, Best VGM 347 - No More Heroes - Pleather for Breakfast (Duel Against Ranked #2: Bad Girl)'s comments (YouTube id LSfbb3WHCl...)"
+python downloader.py --youtubeid="LSfbb3WHCl" --output="SD0358 Best VGM 347 - No More Heroes - Pleather for Breakfast (Duel Against Ranked #2: Bad Girl)'s comments (YT ID LSfbb3WHCl).json"
+echo "Archiving SD video 359, Best VGM 348 - Legend of Dragoon - Boss Battle 1's comments (YouTube id fRy6Ly5A5E...)"
+python downloader.py --youtubeid="fRy6Ly5A5E" --output="SD0359 Best VGM 348 - Legend of Dragoon - Boss Battle 1's comments (YT ID fRy6Ly5A5E).json"
+echo "Archiving SD video 360, Best VGM 349 - Mega Man 9 - Splash Blue (Splash Woman Stage)'s comments (YouTube id -AesqnudNu...)"
+python downloader.py --youtubeid="-AesqnudNu" --output="SD0360 Best VGM 349 - Mega Man 9 - Splash Blue (Splash Woman Stage)'s comments (YT ID -AesqnudNu).json"
+echo "Archiving SD video 361, Best VGM 350 - Western Lords - Coyote Forest's comments (YouTube id DZaltYb0hj...)"
+python downloader.py --youtubeid="DZaltYb0hj" --output="SD0361 Best VGM 350 - Western Lords - Coyote Forest's comments (YT ID DZaltYb0hj).json"
+echo "Archiving SD video 362, Best VGM 351 - Demon's Crest - Beyond the Colosseum's comments (YouTube id qtrFSnyvEX...)"
+python downloader.py --youtubeid="qtrFSnyvEX" --output="SD0362 Best VGM 351 - Demon's Crest - Beyond the Colosseum's comments (YT ID qtrFSnyvEX).json"
+echo "Archiving SD video 363, Best VGM 352 - Zelda : Twilight Princess - Celestia (City in the Sky)'s comments (YouTube id 99RVgsDs1W...)"
+python downloader.py --youtubeid="99RVgsDs1W" --output="SD0363 Best VGM 352 - Zelda : Twilight Princess - Celestia (City in the Sky)'s comments (YT ID 99RVgsDs1W).json"
+echo "Archiving SD video 364, Best VGM 353 - Souten no Celenaria - Steam City Under the Grayish Sky's comments (YouTube id Y5cXKVt3wO...)"
+python downloader.py --youtubeid="Y5cXKVt3wO" --output="SD0364 Best VGM 353 - Souten no Celenaria - Steam City Under the Grayish Sky's comments (YT ID Y5cXKVt3wO).json"
+echo "Archiving SD video 365, Best VGM 354 - TMNT IV : Turtles in Time - Sewer Surfin''s comments (YouTube id fH-lLbHbG-...)"
+python downloader.py --youtubeid="fH-lLbHbG-" --output="SD0365 Best VGM 354 - TMNT IV : Turtles in Time - Sewer Surfin''s comments (YT ID fH-lLbHbG-).json"
+echo "Archiving SD video 366, Best VGM 355 - Breath of Fire V - Industrial Area's comments (YouTube id hUpjPQWKDp...)"
+python downloader.py --youtubeid="hUpjPQWKDp" --output="SD0366 Best VGM 355 - Breath of Fire V - Industrial Area's comments (YT ID hUpjPQWKDp).json"
+echo "Archiving SD video 367, Best VGM 356 - Kid Icarus - Underworld's comments (YouTube id ENStkWiosK...)"
+python downloader.py --youtubeid="ENStkWiosK" --output="SD0367 Best VGM 356 - Kid Icarus - Underworld's comments (YT ID ENStkWiosK).json"
+echo "Archiving SD video 368, Best VGM 357 - Metal Saga - Battle with the Wanted's comments (YouTube id WR_AncWskU...)"
+python downloader.py --youtubeid="WR_AncWskU" --output="SD0368 Best VGM 357 - Metal Saga - Battle with the Wanted's comments (YT ID WR_AncWskU).json"
+echo "Archiving SD video 369, Best VGM 359 - Panzer Dragoon - Flight's comments (YouTube id 0rz-SlHMtk...)"
+python downloader.py --youtubeid="0rz-SlHMtk" --output="SD0369 Best VGM 359 - Panzer Dragoon - Flight's comments (YT ID 0rz-SlHMtk).json"
+echo "Archiving SD video 370, Best VGM 360 - Legend of Mana - To the Sea's comments (YouTube id f6QCNRRA1x...)"
+python downloader.py --youtubeid="f6QCNRRA1x" --output="SD0370 Best VGM 360 - Legend of Mana - To the Sea's comments (YT ID f6QCNRRA1x).json"
+echo "Archiving SD video 371, Best VGM 361 - Dragon Quest IV - Wagon Wheel's March's comments (YouTube id _H42_mzLMz...)"
+python downloader.py --youtubeid="_H42_mzLMz" --output="SD0371 Best VGM 361 - Dragon Quest IV - Wagon Wheel's March's comments (YT ID _H42_mzLMz).json"
+echo "Archiving SD video 372, Best VGM 362 - Atelier Iris 3: Grand Phantasm - Thunderclap's comments (YouTube id 4MnzJjEuOU...)"
+python downloader.py --youtubeid="4MnzJjEuOU" --output="SD0372 Best VGM 362 - Atelier Iris 3: Grand Phantasm - Thunderclap's comments (YT ID 4MnzJjEuOU).json"
+echo "Archiving SD video 373, [SD Chiptune] Through Factories and Needles's comments (YouTube id OEfpYzsAJY...)"
+python downloader.py --youtubeid="OEfpYzsAJY" --output="SD0373 [SD Chiptune] Through Factories and Needles's comments (YT ID OEfpYzsAJY).json"
+echo "Archiving SD video 374, Best VGM 364 - ICO - Castle in the Mist's comments (YouTube id X_PszodM17...)"
+python downloader.py --youtubeid="X_PszodM17" --output="SD0374 Best VGM 364 - ICO - Castle in the Mist's comments (YT ID X_PszodM17).json"
+echo "Archiving SD video 375, Best VGM 365 - Dark Cloud - Matataki Village's comments (YouTube id -ohvCzPIBv...)"
+python downloader.py --youtubeid="-ohvCzPIBv" --output="SD0375 Best VGM 365 - Dark Cloud - Matataki Village's comments (YT ID -ohvCzPIBv).json"
+echo "Archiving SD video 376, Matataki Village Reversed's comments (YouTube id afA-AzQbJU...)"
+python downloader.py --youtubeid="afA-AzQbJU" --output="SD0376 Matataki Village Reversed's comments (YT ID afA-AzQbJU).json"
+echo "Archiving SD video 377, Best VGM 366 - Super Mario Galaxy - Good Egg Galaxy's comments (YouTube id FKqTtZXIid...)"
+python downloader.py --youtubeid="FKqTtZXIid" --output="SD0377 Best VGM 366 - Super Mario Galaxy - Good Egg Galaxy's comments (YT ID FKqTtZXIid).json"
+echo "Archiving SD video 378, Best VGM 367 - Mother 3 - King Porky's Theme's comments (YouTube id ELyz549E_f...)"
+python downloader.py --youtubeid="ELyz549E_f" --output="SD0378 Best VGM 367 - Mother 3 - King Porky's Theme's comments (YT ID ELyz549E_f).json"
+echo "Archiving SD video 379, Best VGM 368 - Metroid Prime 3 - Rundas Battle's comments (YouTube id zqgfOTBPv3...)"
+python downloader.py --youtubeid="zqgfOTBPv3" --output="SD0379 Best VGM 368 - Metroid Prime 3 - Rundas Battle's comments (YT ID zqgfOTBPv3).json"
+echo "Archiving SD video 380, Best VGM 369 - Deja Vu - Main Theme's comments (YouTube id ilOYzbGwX7...)"
+python downloader.py --youtubeid="ilOYzbGwX7" --output="SD0380 Best VGM 369 - Deja Vu - Main Theme's comments (YT ID ilOYzbGwX7).json"
+echo "Archiving SD video 381, Best VGM 370 - Chrono Cross - Voyage (Home World)'s comments (YouTube id m57kb5d3wZ...)"
+python downloader.py --youtubeid="m57kb5d3wZ" --output="SD0381 Best VGM 370 - Chrono Cross - Voyage (Home World)'s comments (YT ID m57kb5d3wZ).json"
+echo "Archiving SD video 382, Best VGM 371 - Castlevania: Lament of Innocence - House of Sacred Remains's comments (YouTube id HNPqugUrdE...)"
+python downloader.py --youtubeid="HNPqugUrdE" --output="SD0382 Best VGM 371 - Castlevania: Lament of Innocence - House of Sacred Remains's comments (YT ID HNPqugUrdE).json"
+echo "Archiving SD video 383, Best VGM 372 - Lagoon - Hobbit Valley's comments (YouTube id BDg0P_L57S...)"
+python downloader.py --youtubeid="BDg0P_L57S" --output="SD0383 Best VGM 372 - Lagoon - Hobbit Valley's comments (YT ID BDg0P_L57S).json"
+echo "Archiving SD video 384, Best VGM 373 - Wild Arms 2 - Field (The Barren Lands)'s comments (YouTube id 9BgCJL71YI...)"
+python downloader.py --youtubeid="9BgCJL71YI" --output="SD0384 Best VGM 373 - Wild Arms 2 - Field (The Barren Lands)'s comments (YT ID 9BgCJL71YI).json"
+echo "Archiving SD video 385, Best VGM 375 - Shadow Hearts II : Covenant - The 3 Karma (Final Battle)'s comments (YouTube id LYiwMd5y78...)"
+python downloader.py --youtubeid="LYiwMd5y78" --output="SD0385 Best VGM 375 - Shadow Hearts II : Covenant - The 3 Karma (Final Battle)'s comments (YT ID LYiwMd5y78).json"
+echo "Archiving SD video 386, Best VGM 376 - Sonic 3D Blast (Saturn) - Rusty Ruins Zone ~ Act 2's comments (YouTube id yDMN8XKs1z...)"
+python downloader.py --youtubeid="yDMN8XKs1z" --output="SD0386 Best VGM 376 - Sonic 3D Blast (Saturn) - Rusty Ruins Zone ~ Act 2's comments (YT ID yDMN8XKs1z).json"
+echo "Archiving SD video 387, Best VGM 377 - Chrono Trigger - Underground Sewers's comments (YouTube id VHCxLYOFHq...)"
+python downloader.py --youtubeid="VHCxLYOFHq" --output="SD0387 Best VGM 377 - Chrono Trigger - Underground Sewers's comments (YT ID VHCxLYOFHq).json"
+echo "Archiving SD video 388, Best VGM 378 - Shenmue II - Da Yuan Apartments's comments (YouTube id SjEwSzmSNV...)"
+python downloader.py --youtubeid="SjEwSzmSNV" --output="SD0388 Best VGM 378 - Shenmue II - Da Yuan Apartments's comments (YT ID SjEwSzmSNV).json"
+echo "Archiving SD video 389, Best VGM 379 - Mega Man 4 - Dr. Cossack Part 2 (Stage 3/4)'s comments (YouTube id MlRGotA3Yz...)"
+python downloader.py --youtubeid="MlRGotA3Yz" --output="SD0389 Best VGM 379 - Mega Man 4 - Dr. Cossack Part 2 (Stage 3/4)'s comments (YT ID MlRGotA3Yz).json"
+echo "Archiving SD video 390, Best VGM 380 - Donkey Kong Country - Life in the Mines's comments (YouTube id mvcctOvLAh...)"
+python downloader.py --youtubeid="mvcctOvLAh" --output="SD0390 Best VGM 380 - Donkey Kong Country - Life in the Mines's comments (YT ID mvcctOvLAh).json"
+echo "Archiving SD video 391, Best VGM 381 - Daytona USA - Let's Go Away's comments (YouTube id RKm11Z6Btb...)"
+python downloader.py --youtubeid="RKm11Z6Btb" --output="SD0391 Best VGM 381 - Daytona USA - Let's Go Away's comments (YT ID RKm11Z6Btb).json"
+echo "Archiving SD video 392, Best VGM 382 - Lost Odyssey - Ipsilon Mountains's comments (YouTube id J4EE4hRA9e...)"
+python downloader.py --youtubeid="J4EE4hRA9e" --output="SD0392 Best VGM 382 - Lost Odyssey - Ipsilon Mountains's comments (YT ID J4EE4hRA9e).json"
+echo "Archiving SD video 393, Best VGM 383 - Pilotwings 64 - Birdman's comments (YouTube id _24ZkPUOIe...)"
+python downloader.py --youtubeid="_24ZkPUOIe" --output="SD0393 Best VGM 383 - Pilotwings 64 - Birdman's comments (YT ID _24ZkPUOIe).json"
+echo "Archiving SD video 394, Best VGM 384 - Super Castlevania IV - Rotating Room (Clockwork Mansion)'s comments (YouTube id Tj04oRO-0W...)"
+python downloader.py --youtubeid="Tj04oRO-0W" --output="SD0394 Best VGM 384 - Super Castlevania IV - Rotating Room (Clockwork Mansion)'s comments (YT ID Tj04oRO-0W).json"
+echo "Archiving SD video 395, Best VGM 385 - Grim Fandango - Ninth Heaven's comments (YouTube id 1riMeMvabu...)"
+python downloader.py --youtubeid="1riMeMvabu" --output="SD0395 Best VGM 385 - Grim Fandango - Ninth Heaven's comments (YT ID 1riMeMvabu).json"
+echo "Archiving SD video 396, Best VGM 387 - Zelda: Link's Awakening - Tal Tal Heights's comments (YouTube id _L6scVxzIi...)"
+python downloader.py --youtubeid="_L6scVxzIi" --output="SD0396 Best VGM 387 - Zelda: Link's Awakening - Tal Tal Heights's comments (YT ID _L6scVxzIi).json"
+echo "Archiving SD video 397, Best VGM 388 - Lunar: Eternal Blue - Promenade's comments (YouTube id ej4PiY8AES...)"
+python downloader.py --youtubeid="ej4PiY8AES" --output="SD0397 Best VGM 388 - Lunar: Eternal Blue - Promenade's comments (YT ID ej4PiY8AES).json"
+echo "Archiving SD video 398, Best VGM 389 - Asterix & Obelix - The Mountains's comments (YouTube id p6LMIrRG16...)"
+python downloader.py --youtubeid="p6LMIrRG16" --output="SD0398 Best VGM 389 - Asterix & Obelix - The Mountains's comments (YT ID p6LMIrRG16).json"
+echo "Archiving SD video 399, Best VGM 390 - Blast Corps - Glory Crossing's comments (YouTube id TidW2D0Mnp...)"
+python downloader.py --youtubeid="TidW2D0Mnp" --output="SD0399 Best VGM 390 - Blast Corps - Glory Crossing's comments (YT ID TidW2D0Mnp).json"
+echo "Archiving SD video 400, Best VGM 391 - Breath of Fire IV - Maybe I'll Even Buy a Sheep's comments (YouTube id QHStTXLP7I...)"
+python downloader.py --youtubeid="QHStTXLP7I" --output="SD0400 Best VGM 391 - Breath of Fire IV - Maybe I'll Even Buy a Sheep's comments (YT ID QHStTXLP7I).json"
+echo "Archiving SD video 401, Best VGM 392 - Pokemon - Battle vs Gym Leader's comments (YouTube id -PQ9hQLWNC...)"
+python downloader.py --youtubeid="-PQ9hQLWNC" --output="SD0401 Best VGM 392 - Pokemon - Battle vs Gym Leader's comments (YT ID -PQ9hQLWNC).json"
+echo "Archiving SD video 402, Best VGM 393 - Skullmonkeys - Little Bonus Room's comments (YouTube id Al0XOLM9FP...)"
+python downloader.py --youtubeid="Al0XOLM9FP" --output="SD0402 Best VGM 393 - Skullmonkeys - Little Bonus Room's comments (YT ID Al0XOLM9FP).json"
+echo "Archiving SD video 403, Best VGM 394 - Lufia - Castle Town's comments (YouTube id vZOCpswBNi...)"
+python downloader.py --youtubeid="vZOCpswBNi" --output="SD0403 Best VGM 394 - Lufia - Castle Town's comments (YT ID vZOCpswBNi).json"
+echo "Archiving SD video 404, Best VGM 396 - Super Metroid - Maridia ~ Swampy Caverns's comments (YouTube id pTp4d38cPt...)"
+python downloader.py --youtubeid="pTp4d38cPt" --output="SD0404 Best VGM 396 - Super Metroid - Maridia ~ Swampy Caverns's comments (YT ID pTp4d38cPt).json"
+echo "Archiving SD video 405, Best VGM 397 - Wild Arms 3 - Long Days of Rest (Baskar Colony)'s comments (YouTube id GKKhBT0A1p...)"
+python downloader.py --youtubeid="GKKhBT0A1p" --output="SD0405 Best VGM 397 - Wild Arms 3 - Long Days of Rest (Baskar Colony)'s comments (YT ID GKKhBT0A1p).json"
+echo "Archiving SD video 406, Best VGM 398 - Sonic the Hedgehog - Marble Zone's comments (YouTube id qmvx5zT88w...)"
+python downloader.py --youtubeid="qmvx5zT88w" --output="SD0406 Best VGM 398 - Sonic the Hedgehog - Marble Zone's comments (YT ID qmvx5zT88w).json"
+echo "Archiving SD video 407, Best VGM 399 - Suikoden II - Imprisoned Town's comments (YouTube id w6exvhdhIE...)"
+python downloader.py --youtubeid="w6exvhdhIE" --output="SD0407 Best VGM 399 - Suikoden II - Imprisoned Town's comments (YT ID w6exvhdhIE).json"
+echo "Archiving SD video 408, Best VGM 400 - Super Mario 64 - Main Theme (Bob-omb's Battlefield)'s comments (YouTube id AN-NbukIjK...)"
+python downloader.py --youtubeid="AN-NbukIjK" --output="SD0408 Best VGM 400 - Super Mario 64 - Main Theme (Bob-omb's Battlefield)'s comments (YT ID AN-NbukIjK).json"
+echo "Archiving SD video 409, Best VGM 401 - Earthbound - Your Name Please (New Game)'s comments (YouTube id 37rVPijCrC...)"
+python downloader.py --youtubeid="37rVPijCrC" --output="SD0409 Best VGM 401 - Earthbound - Your Name Please (New Game)'s comments (YT ID 37rVPijCrC).json"
+echo "Archiving SD video 410, Best VGM 402 - River City Ransom - Running Around the City's comments (YouTube id VMMxNt_-s8...)"
+python downloader.py --youtubeid="VMMxNt_-s8" --output="SD0410 Best VGM 402 - River City Ransom - Running Around the City's comments (YT ID VMMxNt_-s8).json"
+echo "Archiving SD video 411, [Azure Remix] Through Factories and Needles's comments (YouTube id XYtaRhON2-...)"
+python downloader.py --youtubeid="XYtaRhON2-" --output="SD0411 [Azure Remix] Through Factories and Needles's comments (YT ID XYtaRhON2-).json"
+echo "Archiving SD video 412, Best VGM 403 - Blue Dragon - Eternity (Boss Battle Theme)'s comments (YouTube id LUjxPj3al5...)"
+python downloader.py --youtubeid="LUjxPj3al5" --output="SD0412 Best VGM 403 - Blue Dragon - Eternity (Boss Battle Theme)'s comments (YT ID LUjxPj3al5).json"
+echo "Archiving SD video 413, Best VGM 404 - Zelda : Majora's Mask - Stone Tower Temple's comments (YouTube id tL3zvui1ch...)"
+python downloader.py --youtubeid="tL3zvui1ch" --output="SD0413 Best VGM 404 - Zelda : Majora's Mask - Stone Tower Temple's comments (YT ID tL3zvui1ch).json"
+echo "Archiving SD video 414, Best VGM 405 - Majokko de Go Go - Cutie BOIN'G (The Heroine Kurumi's Theme)'s comments (YouTube id AuluLeMp1a...)"
+python downloader.py --youtubeid="AuluLeMp1a" --output="SD0414 Best VGM 405 - Majokko de Go Go - Cutie BOIN'G (The Heroine Kurumi's Theme)'s comments (YT ID AuluLeMp1a).json"
+echo "Archiving SD video 415, Best VGM 406 - Streets of Rage 2 - Go Straight (Stage 1)'s comments (YouTube id DeqecCzDWh...)"
+python downloader.py --youtubeid="DeqecCzDWh" --output="SD0415 Best VGM 406 - Streets of Rage 2 - Go Straight (Stage 1)'s comments (YT ID DeqecCzDWh).json"
+echo "Archiving SD video 416, Best VGM 407 - Animal Crossing: Wild World - Main Theme (Extended)'s comments (YouTube id Ef5pp7mt1l...)"
+python downloader.py --youtubeid="Ef5pp7mt1l" --output="SD0416 Best VGM 407 - Animal Crossing: Wild World - Main Theme (Extended)'s comments (YT ID Ef5pp7mt1l).json"
+echo "Archiving SD video 417, Best VGM 409 - Mega Man X - Storm Eagle Stage's comments (YouTube id mpt-RXhdZz...)"
+python downloader.py --youtubeid="mpt-RXhdZz" --output="SD0417 Best VGM 409 - Mega Man X - Storm Eagle Stage's comments (YT ID mpt-RXhdZz).json"
+echo "Archiving SD video 418, [SD Remix] Animal Crossing - Solitude (Steep Hill)'s comments (YouTube id 7UZ8uN3LyV...)"
+python downloader.py --youtubeid="7UZ8uN3LyV" --output="SD0418 [SD Remix] Animal Crossing - Solitude (Steep Hill)'s comments (YT ID 7UZ8uN3LyV).json"
+echo "Archiving SD video 419, Best VGM 410 - Ninja Gaiden - Basilisk Mine Field (Act 4-2)'s comments (YouTube id OZLXcCe7Gg...)"
+python downloader.py --youtubeid="OZLXcCe7Gg" --output="SD0419 Best VGM 410 - Ninja Gaiden - Basilisk Mine Field (Act 4-2)'s comments (YT ID OZLXcCe7Gg).json"
+echo "Archiving SD video 420, Best VGM 411 - Castlevania 64 - Castle Center's comments (YouTube id HUzLO2GpPv...)"
+python downloader.py --youtubeid="HUzLO2GpPv" --output="SD0420 Best VGM 411 - Castlevania 64 - Castle Center's comments (YT ID HUzLO2GpPv).json"
+echo "Archiving SD video 421, Best VGM 412 - Kingdom Hearts - Deep Jungle (Tarzan)'s comments (YouTube id NRNHbaF_bv...)"
+python downloader.py --youtubeid="NRNHbaF_bv" --output="SD0421 Best VGM 412 - Kingdom Hearts - Deep Jungle (Tarzan)'s comments (YT ID NRNHbaF_bv).json"
+echo "Archiving SD video 422, Best VGM 413 - Mario Kart 64 - Koopa Troopa Beach's comments (YouTube id iohvqM6CGE...)"
+python downloader.py --youtubeid="iohvqM6CGE" --output="SD0422 Best VGM 413 - Mario Kart 64 - Koopa Troopa Beach's comments (YT ID iohvqM6CGE).json"
+echo "Archiving SD video 423, Best VGM 414 - E.V.O : Search for Eden - The Ocean's comments (YouTube id EeXlQNJnjj...)"
+python downloader.py --youtubeid="EeXlQNJnjj" --output="SD0423 Best VGM 414 - E.V.O : Search for Eden - The Ocean's comments (YT ID EeXlQNJnjj).json"
+echo "Archiving SD video 424, Best VGM 415 - SimCity 4 - By the Bay's comments (YouTube id hsPiGiZ2ks...)"
+python downloader.py --youtubeid="hsPiGiZ2ks" --output="SD0424 Best VGM 415 - SimCity 4 - By the Bay's comments (YT ID hsPiGiZ2ks).json"
+echo "Archiving SD video 425, Best VGM 417 - Double Dragon II - Final Boss's comments (YouTube id J1x1Ao6Cxy...)"
+python downloader.py --youtubeid="J1x1Ao6Cxy" --output="SD0425 Best VGM 417 - Double Dragon II - Final Boss's comments (YT ID J1x1Ao6Cxy).json"
+echo "Archiving SD video 426, Best VGM 418 - Tales of Legendia - Short Circuit (Thunder Monument)'s comments (YouTube id fTvPg89TIM...)"
+python downloader.py --youtubeid="fTvPg89TIM" --output="SD0426 Best VGM 418 - Tales of Legendia - Short Circuit (Thunder Monument)'s comments (YT ID fTvPg89TIM).json"
+echo "Archiving SD video 427, Best VGM 420 - World Reborn - Title Theme's comments (YouTube id _bOxB__fyJ...)"
+python downloader.py --youtubeid="_bOxB__fyJ" --output="SD0427 Best VGM 420 - World Reborn - Title Theme's comments (YT ID _bOxB__fyJ).json"
+echo "Archiving SD video 428, Best VGM 421 - Dragon Ball Z Butouden 2 - Piccolo's Theme's comments (YouTube id UnyOHbOV-h...)"
+python downloader.py --youtubeid="UnyOHbOV-h" --output="SD0428 Best VGM 421 - Dragon Ball Z Butouden 2 - Piccolo's Theme's comments (YT ID UnyOHbOV-h).json"
+echo "Archiving SD video 429, Best VGM 422 - Shadow of the Colossus - Revived Power ~ Battle With the Colossus's comments (YouTube id 7lHAHFl_3u...)"
+python downloader.py --youtubeid="7lHAHFl_3u" --output="SD0429 Best VGM 422 - Shadow of the Colossus - Revived Power ~ Battle With the Colossus's comments (YT ID 7lHAHFl_3u).json"
+echo "Archiving SD video 430, Best VGM 423 - Journey to Silius - Stage 2 (Underground Concourse)'s comments (YouTube id F6sjYt6EJV...)"
+python downloader.py --youtubeid="F6sjYt6EJV" --output="SD0430 Best VGM 423 - Journey to Silius - Stage 2 (Underground Concourse)'s comments (YT ID F6sjYt6EJV).json"
+echo "Archiving SD video 431, Best VGM 424 - Star Fox Adventures - Cape Claw's comments (YouTube id hyjJl59f_I...)"
+python downloader.py --youtubeid="hyjJl59f_I" --output="SD0431 Best VGM 424 - Star Fox Adventures - Cape Claw's comments (YT ID hyjJl59f_I).json"
+echo "Archiving SD video 432, Best VGM 425 - Zelda: A Link to the Past - Hyrule Castle's comments (YouTube id CADHl-iZ_K...)"
+python downloader.py --youtubeid="CADHl-iZ_K" --output="SD0432 Best VGM 425 - Zelda: A Link to the Past - Hyrule Castle's comments (YT ID CADHl-iZ_K).json"
+echo "Archiving SD video 433, Best VGM 426 - Star Ocean 2: The Second Story - The Venerable Forest's comments (YouTube id 4h5FzzXKjL...)"
+python downloader.py --youtubeid="4h5FzzXKjL" --output="SD0433 Best VGM 426 - Star Ocean 2: The Second Story - The Venerable Forest's comments (YT ID 4h5FzzXKjL).json"
+echo "Archiving SD video 434, Best VGM 427 - Super Princess Peach - Giddy Sky 1's comments (YouTube id SDUUpUB1eu...)"
+python downloader.py --youtubeid="SDUUpUB1eu" --output="SD0434 Best VGM 427 - Super Princess Peach - Giddy Sky 1's comments (YT ID SDUUpUB1eu).json"
+echo "Archiving SD video 435, The Best VGM of All Time's comments (YouTube id b7nkvV-kgZ...)"
+python downloader.py --youtubeid="b7nkvV-kgZ" --output="SD0435 The Best VGM of All Time's comments (YT ID b7nkvV-kgZ).json"
+echo "Archiving SD video 436, Best VGM 428 - Banjo-Kazooie - Bubblegloop Swamp's comments (YouTube id l5VK4kR1YT...)"
+python downloader.py --youtubeid="l5VK4kR1YT" --output="SD0436 Best VGM 428 - Banjo-Kazooie - Bubblegloop Swamp's comments (YT ID l5VK4kR1YT).json"
+echo "Archiving SD video 437, Best VGM 429 - Diablo II - Caves's comments (YouTube id ijUwAWUS8u...)"
+python downloader.py --youtubeid="ijUwAWUS8u" --output="SD0437 Best VGM 429 - Diablo II - Caves's comments (YT ID ijUwAWUS8u).json"
+echo "Archiving SD video 438, Best VGM 430 - Donkey Kong Country 3 GBA - Stilt Village's comments (YouTube id PwEzeoxbHM...)"
+python downloader.py --youtubeid="PwEzeoxbHM" --output="SD0438 Best VGM 430 - Donkey Kong Country 3 GBA - Stilt Village's comments (YT ID PwEzeoxbHM).json"
+echo "Archiving SD video 439, [SD Cover] Final Fantasy X - Silence Before the Storm's comments (YouTube id 8CJ5kC68f5...)"
+python downloader.py --youtubeid="8CJ5kC68f5" --output="SD0439 [SD Cover] Final Fantasy X - Silence Before the Storm's comments (YT ID 8CJ5kC68f5).json"
+echo "Archiving SD video 440, Name the Temple!'s comments (YouTube id -zJXwPMwOX...)"
+python downloader.py --youtubeid="-zJXwPMwOX" --output="SD0440 Name the Temple!'s comments (YT ID -zJXwPMwOX).json"
+echo "Archiving SD video 441, Best VGM 431 - Dr. Mario - Chill's comments (YouTube id odyd0b_WZ9...)"
+python downloader.py --youtubeid="odyd0b_WZ9" --output="SD0441 Best VGM 431 - Dr. Mario - Chill's comments (YT ID odyd0b_WZ9).json"
+echo "Archiving SD video 442, Best VGM 432 - Lost Odyssey - A Mighty Enemy Appears (Boss Battle Theme)'s comments (YouTube id tgxFLMM9TL...)"
+python downloader.py --youtubeid="tgxFLMM9TL" --output="SD0442 Best VGM 432 - Lost Odyssey - A Mighty Enemy Appears (Boss Battle Theme)'s comments (YT ID tgxFLMM9TL).json"
+echo "Archiving SD video 443, Best VGM 433 - Castlevania: Dracula X - Opus 13 (Stage 5b)'s comments (YouTube id Op2h7kmJw1...)"
+python downloader.py --youtubeid="Op2h7kmJw1" --output="SD0443 Best VGM 433 - Castlevania: Dracula X - Opus 13 (Stage 5b)'s comments (YT ID Op2h7kmJw1).json"
+echo "Archiving SD video 444, Dracula X: Rondo of Blood - Opus 13 (Stage 5b)'s comments (YouTube id sjuaVAAsC4...)"
+python downloader.py --youtubeid="sjuaVAAsC4" --output="SD0444 Dracula X: Rondo of Blood - Opus 13 (Stage 5b)'s comments (YT ID sjuaVAAsC4).json"
+echo "Archiving SD video 445, Best VGM 434 - Silent Hill 3 - Rain of Brass Petals's comments (YouTube id Xa7uyLoh8t...)"
+python downloader.py --youtubeid="Xa7uyLoh8t" --output="SD0445 Best VGM 434 - Silent Hill 3 - Rain of Brass Petals's comments (YT ID Xa7uyLoh8t).json"
+echo "Archiving SD video 446, Best VGM 435 - F-Zero GX - Spade's Theme's comments (YouTube id ujverEHBzt...)"
+python downloader.py --youtubeid="ujverEHBzt" --output="SD0446 Best VGM 435 - F-Zero GX - Spade's Theme's comments (YT ID ujverEHBzt).json"
+echo "Archiving SD video 447, Best VGM 436 - Mother 3 - Porky's Porkies's comments (YouTube id s3ja0vTezh...)"
+python downloader.py --youtubeid="s3ja0vTezh" --output="SD0447 Best VGM 436 - Mother 3 - Porky's Porkies's comments (YT ID s3ja0vTezh).json"
+echo "Archiving SD video 448, Best VGM 437 - Terranigma - Underworld's comments (YouTube id aDJ3bdD4TP...)"
+python downloader.py --youtubeid="aDJ3bdD4TP" --output="SD0448 Best VGM 437 - Terranigma - Underworld's comments (YT ID aDJ3bdD4TP).json"
+echo "Archiving SD video 449, Best VGM 438 - Persona 4 - Mist's comments (YouTube id EHRfd2EQ_D...)"
+python downloader.py --youtubeid="EHRfd2EQ_D" --output="SD0449 Best VGM 438 - Persona 4 - Mist's comments (YT ID EHRfd2EQ_D).json"
+echo "Archiving SD video 450, Best VGM 439 - Mega Man 6 - Mr. X Stages's comments (YouTube id ZbpEhw42bv...)"
+python downloader.py --youtubeid="ZbpEhw42bv" --output="SD0450 Best VGM 439 - Mega Man 6 - Mr. X Stages's comments (YT ID ZbpEhw42bv).json"
+echo "Archiving SD video 451, Best VGM 440 - World of Warcraft : Wrath of the Lich King -  Garden of Life's comments (YouTube id IQDiMzoTMH...)"
+python downloader.py --youtubeid="IQDiMzoTMH" --output="SD0451 Best VGM 440 - World of Warcraft : Wrath of the Lich King -  Garden of Life's comments (YT ID IQDiMzoTMH).json"
+echo "Archiving SD video 452, Best VGM 442 - Beyond Good & Evil - Fun and Mini-Games's comments (YouTube id 4J99hnghz4...)"
+python downloader.py --youtubeid="4J99hnghz4" --output="SD0452 Best VGM 442 - Beyond Good & Evil - Fun and Mini-Games's comments (YT ID 4J99hnghz4).json"
+echo "Archiving SD video 453, Best VGM 443 - Mario & Luigi : Partners in Time - Holli Jolli Village's comments (YouTube id KnTyM5OmRA...)"
+python downloader.py --youtubeid="KnTyM5OmRA" --output="SD0453 Best VGM 443 - Mario & Luigi : Partners in Time - Holli Jolli Village's comments (YT ID KnTyM5OmRA).json"
+echo "Archiving SD video 454, Best VGM 444 - Contra - Jungle (Stage 1)'s comments (YouTube id Ie1zB5PHwE...)"
+python downloader.py --youtubeid="Ie1zB5PHwE" --output="SD0454 Best VGM 444 - Contra - Jungle (Stage 1)'s comments (YT ID Ie1zB5PHwE).json"
+echo "Archiving SD video 455, Best VGM 445 - Paladin's Quest - Boss Battle Theme's comments (YouTube id P3FU2NOzUE...)"
+python downloader.py --youtubeid="P3FU2NOzUE" --output="SD0455 Best VGM 445 - Paladin's Quest - Boss Battle Theme's comments (YT ID P3FU2NOzUE).json"
+echo "Archiving SD video 456, Best VGM 446 - Wild Arms 4 - Dark Grey Back Ry's comments (YouTube id VvMkmsgHWM...)"
+python downloader.py --youtubeid="VvMkmsgHWM" --output="SD0456 Best VGM 446 - Wild Arms 4 - Dark Grey Back Ry's comments (YT ID VvMkmsgHWM).json"
+echo "Archiving SD video 457, Best VGM 447 - Super Mario Galaxy - Buoy Base Galaxy's comments (YouTube id rhCzbGrG7D...)"
+python downloader.py --youtubeid="rhCzbGrG7D" --output="SD0457 Best VGM 447 - Super Mario Galaxy - Buoy Base Galaxy's comments (YT ID rhCzbGrG7D).json"
+echo "Archiving SD video 458, Best VGM 448 - Command & Conquer: Tiberian Sun - Lone Trooper's comments (YouTube id v0toUGs93N...)"
+python downloader.py --youtubeid="v0toUGs93N" --output="SD0458 Best VGM 448 - Command & Conquer: Tiberian Sun - Lone Trooper's comments (YT ID v0toUGs93N).json"
+echo "Archiving SD video 459, Best VGM 449 - Dragon Quest IV - Castle's comments (YouTube id ErlBKXnOHi...)"
+python downloader.py --youtubeid="ErlBKXnOHi" --output="SD0459 Best VGM 449 - Dragon Quest IV - Castle's comments (YT ID ErlBKXnOHi).json"
+echo "Archiving SD video 460, Best VGM 450 - Waterworld - Diving's comments (YouTube id 0H5YoFv09u...)"
+python downloader.py --youtubeid="0H5YoFv09u" --output="SD0460 Best VGM 450 - Waterworld - Diving's comments (YT ID 0H5YoFv09u).json"
+echo "Archiving SD video 461, Best VGM 451 - Chrono Cross - The Brink of Death (Boss Battle)'s comments (YouTube id Bk_NDMKfiV...)"
+python downloader.py --youtubeid="Bk_NDMKfiV" --output="SD0461 Best VGM 451 - Chrono Cross - The Brink of Death (Boss Battle)'s comments (YT ID Bk_NDMKfiV).json"
+echo "Archiving SD video 462, Best VGM 452 - Phoenix Wright: Ace Attorney - Turnabout Courtroom ~ Trial's comments (YouTube id APW3ZX8Fvv...)"
+python downloader.py --youtubeid="APW3ZX8Fvv" --output="SD0462 Best VGM 452 - Phoenix Wright: Ace Attorney - Turnabout Courtroom ~ Trial's comments (YT ID APW3ZX8Fvv).json"
+echo "Archiving SD video 463, Best VGM 453 - Blue Dragon - The Seal is Broken (Final Boss)'s comments (YouTube id c47-Y-y_dq...)"
+python downloader.py --youtubeid="c47-Y-y_dq" --output="SD0463 Best VGM 453 - Blue Dragon - The Seal is Broken (Final Boss)'s comments (YT ID c47-Y-y_dq).json"
+echo "Archiving SD video 464, Best VGM 454 - Sonic Unleashed - Holoska ~ Cool Edge (Night)'s comments (YouTube id tEXf3XFGFr...)"
+python downloader.py --youtubeid="tEXf3XFGFr" --output="SD0464 Best VGM 454 - Sonic Unleashed - Holoska ~ Cool Edge (Night)'s comments (YT ID tEXf3XFGFr).json"
+echo "Archiving SD video 465, Best VGM 455 - Zelda: Oracle of Seasons & Ages - Tarm Ruins & Lost Woods's comments (YouTube id 4JJEaVI3JR...)"
+python downloader.py --youtubeid="4JJEaVI3JR" --output="SD0465 Best VGM 455 - Zelda: Oracle of Seasons & Ages - Tarm Ruins & Lost Woods's comments (YT ID 4JJEaVI3JR).json"
+echo "Archiving SD video 466, Best VGM 456 - Castlevania : Portrait of Ruin - Silent Prison's comments (YouTube id PUZ8r9MJcz...)"
+python downloader.py --youtubeid="PUZ8r9MJcz" --output="SD0466 Best VGM 456 - Castlevania : Portrait of Ruin - Silent Prison's comments (YT ID PUZ8r9MJcz).json"
+echo "Archiving SD video 467, Best VGM 457 - Xenosaga II - The Elsa's comments (YouTube id rltCi97DQ7...)"
+python downloader.py --youtubeid="rltCi97DQ7" --output="SD0467 Best VGM 457 - Xenosaga II - The Elsa's comments (YT ID rltCi97DQ7).json"
+echo "Archiving SD video 468, Best VGM 458 - Super Mario RPG - Fight Against an Armed Boss's comments (YouTube id DbQdgOVOjS...)"
+python downloader.py --youtubeid="DbQdgOVOjS" --output="SD0468 Best VGM 458 - Super Mario RPG - Fight Against an Armed Boss's comments (YT ID DbQdgOVOjS).json"
+echo "Archiving SD video 469, Best VGM 459 - Battletoads - Surf City's comments (YouTube id yh8dWsIVCD...)"
+python downloader.py --youtubeid="yh8dWsIVCD" --output="SD0469 Best VGM 459 - Battletoads - Surf City's comments (YT ID yh8dWsIVCD).json"
+echo "Archiving SD video 470, Best VGM 460 - Baten Kaitos - Soft Labyrinth's comments (YouTube id 9GvO7CWsWE...)"
+python downloader.py --youtubeid="9GvO7CWsWE" --output="SD0470 Best VGM 460 - Baten Kaitos - Soft Labyrinth's comments (YT ID 9GvO7CWsWE).json"
+echo "Archiving SD video 471, Best VGM 461 - Grandia - Main Theme's comments (YouTube id MfsFZsPiw3...)"
+python downloader.py --youtubeid="MfsFZsPiw3" --output="SD0471 Best VGM 461 - Grandia - Main Theme's comments (YT ID MfsFZsPiw3).json"
+echo "Archiving SD video 472, Best VGM 462 - Conker's Bad Fur Day - Windy (Overworld)'s comments (YouTube id aWh7crjCWl...)"
+python downloader.py --youtubeid="aWh7crjCWl" --output="SD0472 Best VGM 462 - Conker's Bad Fur Day - Windy (Overworld)'s comments (YT ID aWh7crjCWl).json"
+echo "Archiving SD video 473, Best VGM 464 - Batman - Streets of Desolation (Stage 1)'s comments (YouTube id 0mmvYvsN32...)"
+python downloader.py --youtubeid="0mmvYvsN32" --output="SD0473 Best VGM 464 - Batman - Streets of Desolation (Stage 1)'s comments (YT ID 0mmvYvsN32).json"
+echo "Archiving SD video 474, Best VGM 465 - Mario Kart Wii - Bowser's Castle's comments (YouTube id HXxA7QJTyc...)"
+python downloader.py --youtubeid="HXxA7QJTyc" --output="SD0474 Best VGM 465 - Mario Kart Wii - Bowser's Castle's comments (YT ID HXxA7QJTyc).json"
+echo "Archiving SD video 475, Best VGM 466 - ActRaiser - Fillmore's comments (YouTube id GyuReqv2Rn...)"
+python downloader.py --youtubeid="GyuReqv2Rn" --output="SD0475 Best VGM 466 - ActRaiser - Fillmore's comments (YT ID GyuReqv2Rn).json"
+echo "Archiving SD video 476, Best VGM 467 - Shadow Hearts II : Covenant - Old Smudged Map's comments (YouTube id 4f6siAA3C9...)"
+python downloader.py --youtubeid="4f6siAA3C9" --output="SD0476 Best VGM 467 - Shadow Hearts II : Covenant - Old Smudged Map's comments (YT ID 4f6siAA3C9).json"
+echo "Archiving SD video 477, Best VGM 468 - Super Street Fighter II - Balrog's Theme's comments (YouTube id WCGk_7V5IG...)"
+python downloader.py --youtubeid="WCGk_7V5IG" --output="SD0477 Best VGM 468 - Super Street Fighter II - Balrog's Theme's comments (YT ID WCGk_7V5IG).json"
+echo "Archiving SD video 478, Best VGM 469 - The Last Remnant - Limberlost's comments (YouTube id ihi7tI8Kax...)"
+python downloader.py --youtubeid="ihi7tI8Kax" --output="SD0478 Best VGM 469 - The Last Remnant - Limberlost's comments (YT ID ihi7tI8Kax).json"
+echo "Archiving SD video 479, Best VGM 470 - Donkey Kong Country 2 - Krook's March (Toxic Tower)'s comments (YouTube id ITQVlvGsSD...)"
+python downloader.py --youtubeid="ITQVlvGsSD" --output="SD0479 Best VGM 470 - Donkey Kong Country 2 - Krook's March (Toxic Tower)'s comments (YT ID ITQVlvGsSD).json"
+echo "Archiving SD video 480, Best VGM 471 - Ar Tonelico - Loki's comments (YouTube id SsFYXts6Ee...)"
+python downloader.py --youtubeid="SsFYXts6Ee" --output="SD0480 Best VGM 471 - Ar Tonelico - Loki's comments (YT ID SsFYXts6Ee).json"
+echo "Archiving SD video 481, Best VGM 472 - McKids - Stage 2 & 6's comments (YouTube id CqAXFK8U32...)"
+python downloader.py --youtubeid="CqAXFK8U32" --output="SD0481 Best VGM 472 - McKids - Stage 2 & 6's comments (YT ID CqAXFK8U32).json"
+echo "Archiving SD video 482, Best VGM 473 - Metroid Prime 2 : Echoes - Darkness (vs Dark Samus)'s comments (YouTube id j2zAq26hqd...)"
+python downloader.py --youtubeid="j2zAq26hqd" --output="SD0482 Best VGM 473 - Metroid Prime 2 : Echoes - Darkness (vs Dark Samus)'s comments (YT ID j2zAq26hqd).json"
+echo "Archiving SD video 483, Best VGM 474 - Arc the Lad IV: Twilight of the Spirits - Yewbell ~ Balmy Breeze's comments (YouTube id CHQ56GSPi2...)"
+python downloader.py --youtubeid="CHQ56GSPi2" --output="SD0483 Best VGM 474 - Arc the Lad IV: Twilight of the Spirits - Yewbell ~ Balmy Breeze's comments (YT ID CHQ56GSPi2).json"
+echo "Archiving SD video 484, Best VGM 475 - F-Zero - Port Town's comments (YouTube id rLM_wOEsOU...)"
+python downloader.py --youtubeid="rLM_wOEsOU" --output="SD0484 Best VGM 475 - F-Zero - Port Town's comments (YT ID rLM_wOEsOU).json"
+echo "Archiving SD video 485, Best VGM 476 - Tales of Destiny - The Laughter of the Children (Town)'s comments (YouTube id _BdvaCCUsY...)"
+python downloader.py --youtubeid="_BdvaCCUsY" --output="SD0485 Best VGM 476 - Tales of Destiny - The Laughter of the Children (Town)'s comments (YT ID _BdvaCCUsY).json"
+echo "Archiving SD video 486, Best VGM 477 - Devil May Cry 3 - Cerberus Battle's comments (YouTube id 5niLxq7_yN...)"
+python downloader.py --youtubeid="5niLxq7_yN" --output="SD0486 Best VGM 477 - Devil May Cry 3 - Cerberus Battle's comments (YT ID 5niLxq7_yN).json"
+echo "Archiving SD video 487, Best VGM 478 - Zelda II : The Adventure of Link - Palace's comments (YouTube id nJgwF3gw9X...)"
+python downloader.py --youtubeid="nJgwF3gw9X" --output="SD0487 Best VGM 478 - Zelda II : The Adventure of Link - Palace's comments (YT ID nJgwF3gw9X).json"
+echo "Archiving SD video 488, Best VGM 479 - Ogre Battle - Thunder (Revolt)'s comments (YouTube id FDAMxLKY2E...)"
+python downloader.py --youtubeid="FDAMxLKY2E" --output="SD0488 Best VGM 479 - Ogre Battle - Thunder (Revolt)'s comments (YT ID FDAMxLKY2E).json"
+echo "Archiving SD video 489, Best VGM 480 - Star Ocean 3: Till the End of Time - Rust Color's comments (YouTube id TSlDUPl7Do...)"
+python downloader.py --youtubeid="TSlDUPl7Do" --output="SD0489 Best VGM 480 - Star Ocean 3: Till the End of Time - Rust Color's comments (YT ID TSlDUPl7Do).json"
+echo "Archiving SD video 490, Best VGM 481 - Western Lords - Mithla County's comments (YouTube id NOomtJrX_M...)"
+python downloader.py --youtubeid="NOomtJrX_M" --output="SD0490 Best VGM 481 - Western Lords - Mithla County's comments (YT ID NOomtJrX_M).json"
+echo "Archiving SD video 491, Best VGM 482 - Mega Man 5 - Wave Man Stage's comments (YouTube id Nd2O6mbhCL...)"
+python downloader.py --youtubeid="Nd2O6mbhCL" --output="SD0491 Best VGM 482 - Mega Man 5 - Wave Man Stage's comments (YT ID Nd2O6mbhCL).json"
+echo "Archiving SD video 492, Best VGM 483 - Mana Khemia - Sailbird's comments (YouTube id hb6Ny-4Pb7...)"
+python downloader.py --youtubeid="hb6Ny-4Pb7" --output="SD0492 Best VGM 483 - Mana Khemia - Sailbird's comments (YT ID hb6Ny-4Pb7).json"
+echo "Archiving SD video 493, Best VGM 484 - Earthbound - Summers, Eternal Tourist Trap's comments (YouTube id gW0DiDKWgW...)"
+python downloader.py --youtubeid="gW0DiDKWgW" --output="SD0493 Best VGM 484 - Earthbound - Summers, Eternal Tourist Trap's comments (YT ID gW0DiDKWgW).json"
+echo "Archiving SD video 494, Best VGM 485 - Radiata Stories - Unknown and Unnamed Spot's comments (YouTube id Ia1BEcALLX...)"
+python downloader.py --youtubeid="Ia1BEcALLX" --output="SD0494 Best VGM 485 - Radiata Stories - Unknown and Unnamed Spot's comments (YT ID Ia1BEcALLX).json"
+echo "Archiving SD video 495, Best VGM 487 - Legend of Mana - Wanderer's Path's comments (YouTube id b9OZwTLtrl...)"
+python downloader.py --youtubeid="b9OZwTLtrl" --output="SD0495 Best VGM 487 - Legend of Mana - Wanderer's Path's comments (YT ID b9OZwTLtrl).json"
+echo "Archiving SD video 496, Just a quick video!'s comments (YouTube id CaKUEn92Wl...)"
+python downloader.py --youtubeid="CaKUEn92Wl" --output="SD0496 Just a quick video!'s comments (YT ID CaKUEn92Wl).json"
+echo "Archiving SD video 497, Best VGM 488 - Paper Mario: The Thousand Year Door - The Crystal Stars's comments (YouTube id eyhLabJvb2...)"
+python downloader.py --youtubeid="eyhLabJvb2" --output="SD0497 Best VGM 488 - Paper Mario: The Thousand Year Door - The Crystal Stars's comments (YT ID eyhLabJvb2).json"
+echo "Archiving SD video 498, Best VGM 489 - Super Turrican - Stage 1-3's comments (YouTube id 14gpqf8JP-...)"
+python downloader.py --youtubeid="14gpqf8JP-" --output="SD0498 Best VGM 489 - Super Turrican - Stage 1-3's comments (YT ID 14gpqf8JP-).json"
+echo "Archiving SD video 499, Best VGM 490 - Deep Labyrinth - A Brazing Breeze's comments (YouTube id 81-SoTxMmi...)"
+python downloader.py --youtubeid="81-SoTxMmi" --output="SD0499 Best VGM 490 - Deep Labyrinth - A Brazing Breeze's comments (YT ID 81-SoTxMmi).json"
+echo "Archiving SD video 500, Best VGM 491 - Sonic the Hedgehog 3 - Hydrocity Zone Act 1's comments (YouTube id W8Y2EuSrz-...)"
+python downloader.py --youtubeid="W8Y2EuSrz-" --output="SD0500 Best VGM 491 - Sonic the Hedgehog 3 - Hydrocity Zone Act 1's comments (YT ID W8Y2EuSrz-).json"
+echo "Archiving SD video 501, Best VGM 492 - Castlevania: Symphony of the Night - Wandering Ghosts's comments (YouTube id He7jFaamHH...)"
+python downloader.py --youtubeid="He7jFaamHH" --output="SD0501 Best VGM 492 - Castlevania: Symphony of the Night - Wandering Ghosts's comments (YT ID He7jFaamHH).json"
+echo "Archiving SD video 502, Best VGM 493 - Dragon Quest V - Tower of Death's comments (YouTube id m2Vlxyd9Wj...)"
+python downloader.py --youtubeid="m2Vlxyd9Wj" --output="SD0502 Best VGM 493 - Dragon Quest V - Tower of Death's comments (YT ID m2Vlxyd9Wj).json"
+echo "Archiving SD video 503, [SD Zelda] Dungeon 1 - Fallen Temple's comments (YouTube id syFIaTBqHM...)"
+python downloader.py --youtubeid="syFIaTBqHM" --output="SD0503 [SD Zelda] Dungeon 1 - Fallen Temple's comments (YT ID syFIaTBqHM).json"
+echo "Archiving SD video 504, Best VGM 495 - Streets of Rage 2 - Slow Moon (Stage 5)'s comments (YouTube id cKQZVFIuyk...)"
+python downloader.py --youtubeid="cKQZVFIuyk" --output="SD0504 Best VGM 495 - Streets of Rage 2 - Slow Moon (Stage 5)'s comments (YT ID cKQZVFIuyk).json"
+echo "Archiving SD video 505, Best VGM 496 - Lunar : Dragon Song - Wind of Future's comments (YouTube id b3Ayzzo8eZ...)"
+python downloader.py --youtubeid="b3Ayzzo8eZ" --output="SD0505 Best VGM 496 - Lunar : Dragon Song - Wind of Future's comments (YT ID b3Ayzzo8eZ).json"
+echo "Archiving SD video 506, Best VGM 497 - Suikoden III - Wind and Ground's comments (YouTube id W8-GDfP2xN...)"
+python downloader.py --youtubeid="W8-GDfP2xN" --output="SD0506 Best VGM 497 - Suikoden III - Wind and Ground's comments (YT ID W8-GDfP2xN).json"
+echo "Archiving SD video 507, Best VGM 498 - Chrono Trigger - People Who Threw Away the Will to Live's comments (YouTube id 6paAqMXurd...)"
+python downloader.py --youtubeid="6paAqMXurd" --output="SD0507 Best VGM 498 - Chrono Trigger - People Who Threw Away the Will to Live's comments (YT ID 6paAqMXurd).json"
+echo "Archiving SD video 508, Best VGM 499 - Lost Eden - Main Theme's comments (YouTube id Z167OL2CQJ...)"
+python downloader.py --youtubeid="Z167OL2CQJ" --output="SD0508 Best VGM 499 - Lost Eden - Main Theme's comments (YT ID Z167OL2CQJ).json"
+echo "Archiving SD video 509, Best VGM 500 - Tetris - Type A's comments (YouTube id jgtKSnmM5o...)"
+python downloader.py --youtubeid="jgtKSnmM5o" --output="SD0509 Best VGM 500 - Tetris - Type A's comments (YT ID jgtKSnmM5o).json"
+echo "Archiving SD video 510, Best VGM 501 - Moon : Remix RPG Adventure - Hole In Your Sock (MoonDisc Version)'s comments (YouTube id eNXv3L_ebr...)"
+python downloader.py --youtubeid="eNXv3L_ebr" --output="SD0510 Best VGM 501 - Moon : Remix RPG Adventure - Hole In Your Sock (MoonDisc Version)'s comments (YT ID eNXv3L_ebr).json"
+echo "Archiving SD video 511, Best VGM 502 - Yoshi's Island - Athletic's comments (YouTube id B_QTkyu2Ss...)"
+python downloader.py --youtubeid="B_QTkyu2Ss" --output="SD0511 Best VGM 502 - Yoshi's Island - Athletic's comments (YT ID B_QTkyu2Ss).json"
+echo "Archiving SD video 512, Best VGM 503 - Grandia II - Mirumu Village's comments (YouTube id 00mLin2YU5...)"
+python downloader.py --youtubeid="00mLin2YU5" --output="SD0512 Best VGM 503 - Grandia II - Mirumu Village's comments (YT ID 00mLin2YU5).json"
+echo "Archiving SD video 513, Best VGM 504 - Shatter - Amethyst Caverns's comments (YouTube id X68AlSKY0d...)"
+python downloader.py --youtubeid="X68AlSKY0d" --output="SD0513 Best VGM 504 - Shatter - Amethyst Caverns's comments (YT ID X68AlSKY0d).json"
+echo "Archiving SD video 514, Best VGM 505 - Banjo-Tooie - Hailfire Peaks (Fire Side)'s comments (YouTube id XhlM0eFM8F...)"
+python downloader.py --youtubeid="XhlM0eFM8F" --output="SD0514 Best VGM 505 - Banjo-Tooie - Hailfire Peaks (Fire Side)'s comments (YT ID XhlM0eFM8F).json"
+echo "Archiving SD video 515, Best VGM 506 - Mother 3 - Mom's Homeland's comments (YouTube id aatRnG3Tkm...)"
+python downloader.py --youtubeid="aatRnG3Tkm" --output="SD0515 Best VGM 506 - Mother 3 - Mom's Homeland's comments (YT ID aatRnG3Tkm).json"
+echo "Archiving SD video 516, Best VGM 507 - Persona 4 - The Almighty's comments (YouTube id 2c1e5ASpwj...)"
+python downloader.py --youtubeid="2c1e5ASpwj" --output="SD0516 Best VGM 507 - Persona 4 - The Almighty's comments (YT ID 2c1e5ASpwj).json"
+echo "Archiving SD video 517, Best VGM 508 - Metroid - Credits's comments (YouTube id jL57YsG1JJ...)"
+python downloader.py --youtubeid="jL57YsG1JJ" --output="SD0517 Best VGM 508 - Metroid - Credits's comments (YT ID jL57YsG1JJ).json"
+echo "Archiving SD video 518, Best VGM 509 - Unreal Tournament 2003 & 2004 - Tokara Forest (Level 8)'s comments (YouTube id 7Y9ea3Ph7F...)"
+python downloader.py --youtubeid="7Y9ea3Ph7F" --output="SD0518 Best VGM 509 - Unreal Tournament 2003 & 2004 - Tokara Forest (Level 8)'s comments (YT ID 7Y9ea3Ph7F).json"
+echo "Archiving SD video 519, Best VGM 510 - Battletoads & Double Dragon - Roper (Stage 3)'s comments (YouTube id 0E-_TG7vGP...)"
+python downloader.py --youtubeid="0E-_TG7vGP" --output="SD0519 Best VGM 510 - Battletoads & Double Dragon - Roper (Stage 3)'s comments (YT ID 0E-_TG7vGP).json"
+echo "Archiving SD video 520, Best VGM 511 - Castlevania : Dawn of Sorrow - Wizardry Lab's comments (YouTube id mG9BcQEApo...)"
+python downloader.py --youtubeid="mG9BcQEApo" --output="SD0520 Best VGM 511 - Castlevania : Dawn of Sorrow - Wizardry Lab's comments (YT ID mG9BcQEApo).json"
+echo "Archiving SD video 521, Best VGM 512 - Shadow Hearts III - Pirates of the Caribbean's comments (YouTube id 1THa11egbM...)"
+python downloader.py --youtubeid="1THa11egbM" --output="SD0521 Best VGM 512 - Shadow Hearts III - Pirates of the Caribbean's comments (YT ID 1THa11egbM).json"
+echo "Archiving SD video 522, Best VGM 514 - LocoRoco - Red's Theme's comments (YouTube id GCiOjOMciO...)"
+python downloader.py --youtubeid="GCiOjOMciO" --output="SD0522 Best VGM 514 - LocoRoco - Red's Theme's comments (YT ID GCiOjOMciO).json"
+echo "Archiving SD video 523, Best VGM 515 - Mario Kart: Double Dash!! - Rainbow Road's comments (YouTube id QLsVsiWgTM...)"
+python downloader.py --youtubeid="QLsVsiWgTM" --output="SD0523 Best VGM 515 - Mario Kart: Double Dash!! - Rainbow Road's comments (YT ID QLsVsiWgTM).json"
+echo "Archiving SD video 524, Best VGM 516 - Uninvited - Title Theme's comments (YouTube id Nr2McZBfSm...)"
+python downloader.py --youtubeid="Nr2McZBfSm" --output="SD0524 Best VGM 516 - Uninvited - Title Theme's comments (YT ID Nr2McZBfSm).json"
+echo "Archiving SD video 525, Best VGM 517 - Mega Man 7 - Dr. Wily Stage 3's comments (YouTube id -nOJ6c1umM...)"
+python downloader.py --youtubeid="-nOJ6c1umM" --output="SD0525 Best VGM 517 - Mega Man 7 - Dr. Wily Stage 3's comments (YT ID -nOJ6c1umM).json"
+echo "Archiving SD video 526, Best VGM 518 - Super Paper Mario - Mount Lineland's comments (YouTube id RVBoUZgRG6...)"
+python downloader.py --youtubeid="RVBoUZgRG6" --output="SD0526 Best VGM 518 - Super Paper Mario - Mount Lineland's comments (YT ID RVBoUZgRG6).json"
+echo "Archiving SD video 527, Best VGM 519 - Lost Odyssey - The Capital of Numara's comments (YouTube id TO1kcFmNtT...)"
+python downloader.py --youtubeid="TO1kcFmNtT" --output="SD0527 Best VGM 519 - Lost Odyssey - The Capital of Numara's comments (YT ID TO1kcFmNtT).json"
+echo "Archiving SD video 528, Best VGM 520 - Zelda : Ocarina of Time - Kokiri Forest's comments (YouTube id UC6_FirddS...)"
+python downloader.py --youtubeid="UC6_FirddS" --output="SD0528 Best VGM 520 - Zelda : Ocarina of Time - Kokiri Forest's comments (YT ID UC6_FirddS).json"
+echo "Archiving SD video 529, Best VGM 521 - Emperor: Battle for Dune - Victory is Inevitable's comments (YouTube id 0Fff6en_Cr...)"
+python downloader.py --youtubeid="0Fff6en_Cr" --output="SD0529 Best VGM 521 - Emperor: Battle for Dune - Victory is Inevitable's comments (YT ID 0Fff6en_Cr).json"
+echo "Archiving SD video 530, Best VGM 522 - Pokemon Ruby / Sapphire / Emerald - Rustboro City's comments (YouTube id q5vG69CXgR...)"
+python downloader.py --youtubeid="q5vG69CXgR" --output="SD0530 Best VGM 522 - Pokemon Ruby / Sapphire / Emerald - Rustboro City's comments (YT ID q5vG69CXgR).json"
+echo "Archiving SD video 531, Best VGM 523 - Parasite Eve - Missing Perspective's comments (YouTube id tvjGxtbJpM...)"
+python downloader.py --youtubeid="tvjGxtbJpM" --output="SD0531 Best VGM 523 - Parasite Eve - Missing Perspective's comments (YT ID tvjGxtbJpM).json"
+echo "Archiving SD video 532, Best VGM 524 - Lady Stalker - Fighting Dancer's comments (YouTube id 7X5-xwb6ot...)"
+python downloader.py --youtubeid="7X5-xwb6ot" --output="SD0532 Best VGM 524 - Lady Stalker - Fighting Dancer's comments (YT ID 7X5-xwb6ot).json"
+echo "Archiving SD video 533, Best VGM 525 - Tekken 4 - Touch and Go (Airport Stage)'s comments (YouTube id DIyhbwBfOw...)"
+python downloader.py --youtubeid="DIyhbwBfOw" --output="SD0533 Best VGM 525 - Tekken 4 - Touch and Go (Airport Stage)'s comments (YT ID DIyhbwBfOw).json"
+echo "Archiving SD video 534, Best VGM 526 - Kirby's Adventure - Vegetable Valley's comments (YouTube id 1HOQJZiKbe...)"
+python downloader.py --youtubeid="1HOQJZiKbe" --output="SD0534 Best VGM 526 - Kirby's Adventure - Vegetable Valley's comments (YT ID 1HOQJZiKbe).json"
+echo "Archiving SD video 535, Best VGM 527 - Breath of Fire III - Country Living's comments (YouTube id OqXhJ_eZaP...)"
+python downloader.py --youtubeid="OqXhJ_eZaP" --output="SD0535 Best VGM 527 - Breath of Fire III - Country Living's comments (YT ID OqXhJ_eZaP).json"
+echo "Archiving SD video 536, Best VGM 528 - Seiken Densetsu 3 - Another Winter's comments (YouTube id 20Or4fIOgB...)"
+python downloader.py --youtubeid="20Or4fIOgB" --output="SD0536 Best VGM 528 - Seiken Densetsu 3 - Another Winter's comments (YT ID 20Or4fIOgB).json"
+echo "Archiving SD video 537, Best VGM 529 - Prince of Persia - Healing Ground's comments (YouTube id Wj17uoJLIV...)"
+python downloader.py --youtubeid="Wj17uoJLIV" --output="SD0537 Best VGM 529 - Prince of Persia - Healing Ground's comments (YT ID Wj17uoJLIV).json"
+echo "Archiving SD video 538, SupraDarky - The 3am Song's comments (YouTube id EUu_KhKzHq...)"
+python downloader.py --youtubeid="EUu_KhKzHq" --output="SD0538 SupraDarky - The 3am Song's comments (YT ID EUu_KhKzHq).json"
+echo "Archiving SD video 539, Best VGM 530 - Super Mario Land - Muda Kingdom's comments (YouTube id POAGsegLMn...)"
+python downloader.py --youtubeid="POAGsegLMn" --output="SD0539 Best VGM 530 - Super Mario Land - Muda Kingdom's comments (YT ID POAGsegLMn).json"
+echo "Archiving SD video 540, Best VGM 531 - Senko no Ronde (Wartech) - assemble's comments (YouTube id LkRfePyfoj...)"
+python downloader.py --youtubeid="LkRfePyfoj" --output="SD0540 Best VGM 531 - Senko no Ronde (Wartech) - assemble's comments (YT ID LkRfePyfoj).json"
+echo "Archiving SD video 541, F.E.A.R.: When Music Doesn't Fit (video recording test)'s comments (YouTube id SkwwhQdB4L...)"
+python downloader.py --youtubeid="SkwwhQdB4L" --output="SD0541 F.E.A.R.: When Music Doesn't Fit (video recording test)'s comments (YT ID SkwwhQdB4L).json"
+echo "Archiving SD video 542, Best VGM 532 - Donkey Kong Country 3 - Rockface Rumble's comments (YouTube id RXZ2gTXDwE...)"
+python downloader.py --youtubeid="RXZ2gTXDwE" --output="SD0542 Best VGM 532 - Donkey Kong Country 3 - Rockface Rumble's comments (YT ID RXZ2gTXDwE).json"
+echo "Archiving SD video 543, Best VGM 533 - Legend of Dragoon - Grassy Plains's comments (YouTube id UoEyt7S10M...)"
+python downloader.py --youtubeid="UoEyt7S10M" --output="SD0543 Best VGM 533 - Legend of Dragoon - Grassy Plains's comments (YT ID UoEyt7S10M).json"
+echo "Archiving SD video 544, [Part 1/2] Tribute to Video Game Music (2 Years Anniversary!)'s comments (YouTube id 4azKyHEjEb...)"
+python downloader.py --youtubeid="4azKyHEjEb" --output="SD0544 [Part 1/2] Tribute to Video Game Music (2 Years Anniversary!)'s comments (YT ID 4azKyHEjEb).json"
+echo "Archiving SD video 545, [Part 2/2] Tribute to Video Game Music (2 Years Anniversary!)'s comments (YouTube id XBp7LEnHyH...)"
+python downloader.py --youtubeid="XBp7LEnHyH" --output="SD0545 [Part 2/2] Tribute to Video Game Music (2 Years Anniversary!)'s comments (YT ID XBp7LEnHyH).json"
+echo "Archiving SD video 546, Best VGM 534 - God Hand - Sunset Heroes's comments (YouTube id S0TmwLeUuB...)"
+python downloader.py --youtubeid="S0TmwLeUuB" --output="SD0546 Best VGM 534 - God Hand - Sunset Heroes's comments (YT ID S0TmwLeUuB).json"
+echo "Archiving SD video 547, Best VGM 535 - Shenmue - Shenhua (Dreamcast's 10th Anniversary)'s comments (YouTube id dlZyjOv5G8...)"
+python downloader.py --youtubeid="dlZyjOv5G8" --output="SD0547 Best VGM 535 - Shenmue - Shenhua (Dreamcast's 10th Anniversary)'s comments (YT ID dlZyjOv5G8).json"
+echo "Archiving SD video 548, Best VGM 536 - Ninja Gaiden II - Chaosium Sword (Intro)'s comments (YouTube id v-h3QCB_Pi...)"
+python downloader.py --youtubeid="v-h3QCB_Pi" --output="SD0548 Best VGM 536 - Ninja Gaiden II - Chaosium Sword (Intro)'s comments (YT ID v-h3QCB_Pi).json"
+echo "Archiving SD video 549, Symphonic Fantasies (Square Enix concert) LIVE right now!'s comments (YouTube id Sk8e-742iz...)"
+python downloader.py --youtubeid="Sk8e-742iz" --output="SD0549 Symphonic Fantasies (Square Enix concert) LIVE right now!'s comments (YT ID Sk8e-742iz).json"
+echo "Archiving SD video 550, Best VGM 538 - Ragnarok Online - Prontera City's comments (YouTube id PzkbuitZEj...)"
+python downloader.py --youtubeid="PzkbuitZEj" --output="SD0550 Best VGM 538 - Ragnarok Online - Prontera City's comments (YT ID PzkbuitZEj).json"
+echo "Archiving SD video 551, Best VGM 539 - Boom Blox - Tiki Sacred Honor's comments (YouTube id HyWy1vzcqG...)"
+python downloader.py --youtubeid="HyWy1vzcqG" --output="SD0551 Best VGM 539 - Boom Blox - Tiki Sacred Honor's comments (YT ID HyWy1vzcqG).json"
+echo "Archiving SD video 552, Best VGM 540 - Lufia II - Labyrinth's comments (YouTube id n5L0ZpcDsZ...)"
+python downloader.py --youtubeid="n5L0ZpcDsZ" --output="SD0552 Best VGM 540 - Lufia II - Labyrinth's comments (YT ID n5L0ZpcDsZ).json"
+echo "Archiving SD video 553, Best VGM 541 - Portal - Still Alive's comments (YouTube id aqWw9gLgFR...)"
+python downloader.py --youtubeid="aqWw9gLgFR" --output="SD0553 Best VGM 541 - Portal - Still Alive's comments (YT ID aqWw9gLgFR).json"
+echo "Archiving SD video 554, Best VGM 542 - Diddy Kong Racing - Frosty Village's comments (YouTube id Ef3xB2OP8l...)"
+python downloader.py --youtubeid="Ef3xB2OP8l" --output="SD0554 Best VGM 542 - Diddy Kong Racing - Frosty Village's comments (YT ID Ef3xB2OP8l).json"
+echo "Archiving SD video 555, Best VGM 543 - Breath of Fire - Forest's comments (YouTube id R2yEBE2ueu...)"
+python downloader.py --youtubeid="R2yEBE2ueu" --output="SD0555 Best VGM 543 - Breath of Fire - Forest's comments (YT ID R2yEBE2ueu).json"
+echo "Archiving SD video 556, Best VGM 544 - Soul Blade - The Edge of Soul (Intro)'s comments (YouTube id uYcqP1TWYO...)"
+python downloader.py --youtubeid="uYcqP1TWYO" --output="SD0556 Best VGM 544 - Soul Blade - The Edge of Soul (Intro)'s comments (YT ID uYcqP1TWYO).json"
+echo "Archiving SD video 557, [SD Zelda] Dungeon 2 - Frozen Cavern's comments (YouTube id 2U_TEDjoML...)"
+python downloader.py --youtubeid="2U_TEDjoML" --output="SD0557 [SD Zelda] Dungeon 2 - Frozen Cavern's comments (YT ID 2U_TEDjoML).json"
+echo "Archiving SD video 558, Best VGM 545 - F-Zero GX - ZEN (Aeropolis)'s comments (YouTube id F41PKROUnh...)"
+python downloader.py --youtubeid="F41PKROUnh" --output="SD0558 Best VGM 545 - F-Zero GX - ZEN (Aeropolis)'s comments (YT ID F41PKROUnh).json"
+echo "Archiving SD video 559, Best VGM 547 - Suikoden II - Days Past's comments (YouTube id xzfhOQampf...)"
+python downloader.py --youtubeid="xzfhOQampf" --output="SD0559 Best VGM 547 - Suikoden II - Days Past's comments (YT ID xzfhOQampf).json"
+echo "Archiving SD video 560, Best VGM 548 - Robotrek - Rococo Town's comments (YouTube id ev9G_jTIA-...)"
+python downloader.py --youtubeid="ev9G_jTIA-" --output="SD0560 Best VGM 548 - Robotrek - Rococo Town's comments (YT ID ev9G_jTIA-).json"
+echo "Archiving SD video 561, Best VGM 549 - Okami - Shinshuu Plains's comments (YouTube id umh0xNPh-p...)"
+python downloader.py --youtubeid="umh0xNPh-p" --output="SD0561 Best VGM 549 - Okami - Shinshuu Plains's comments (YT ID umh0xNPh-p).json"
+echo "Archiving SD video 562, Best VGM 550 - Xenosaga II - Omega System's comments (YouTube id 2AzKwVALPJ...)"
+python downloader.py --youtubeid="2AzKwVALPJ" --output="SD0562 Best VGM 550 - Xenosaga II - Omega System's comments (YT ID 2AzKwVALPJ).json"
+echo "Archiving SD video 563, Best VGM 551 - Super Mario Galaxy - Gusty Garden Galaxy's comments (YouTube id UdKzw6lwSu...)"
+python downloader.py --youtubeid="UdKzw6lwSu" --output="SD0563 Best VGM 551 - Super Mario Galaxy - Gusty Garden Galaxy's comments (YT ID UdKzw6lwSu).json"
+echo "Archiving SD video 564, Best VGM 552 - Tintin : Prisoners of the Sun - Stage 8-1 (Prison Cell)'s comments (YouTube id sRLoAqxsSc...)"
+python downloader.py --youtubeid="sRLoAqxsSc" --output="SD0564 Best VGM 552 - Tintin : Prisoners of the Sun - Stage 8-1 (Prison Cell)'s comments (YT ID sRLoAqxsSc).json"
+echo "Archiving SD video 565, Best VGM 553 - Legend of Legaia - Rimuerum's comments (YouTube id XztQyuJ4Ho...)"
+python downloader.py --youtubeid="XztQyuJ4Ho" --output="SD0565 Best VGM 553 - Legend of Legaia - Rimuerum's comments (YT ID XztQyuJ4Ho).json"
+echo "Archiving SD video 566, Best VGM 554 - Shatter - Homelands's comments (YouTube id YYxvaixwyb...)"
+python downloader.py --youtubeid="YYxvaixwyb" --output="SD0566 Best VGM 554 - Shatter - Homelands's comments (YT ID YYxvaixwyb).json"
+echo "Archiving SD video 567, Best VGM 555 - Super Castlevania IV - Dracula Battle's comments (YouTube id AbRWDpruNu...)"
+python downloader.py --youtubeid="AbRWDpruNu" --output="SD0567 Best VGM 555 - Super Castlevania IV - Dracula Battle's comments (YT ID AbRWDpruNu).json"
+echo "Archiving SD video 568, Best VGM 556 - Chibi-Robo - Abandoned Memories (Giga-Robo)'s comments (YouTube id NnvD6RDF-S...)"
+python downloader.py --youtubeid="NnvD6RDF-S" --output="SD0568 Best VGM 556 - Chibi-Robo - Abandoned Memories (Giga-Robo)'s comments (YT ID NnvD6RDF-S).json"
+echo "Archiving SD video 569, Best VGM 558 - The Dark Spire - Underground Floor 1's comments (YouTube id bRAT5LgAl5...)"
+python downloader.py --youtubeid="bRAT5LgAl5" --output="SD0569 Best VGM 558 - The Dark Spire - Underground Floor 1's comments (YT ID bRAT5LgAl5).json"
+echo "Archiving SD video 570, The Dark Spire - Underground Floor 1 (Classic Version)'s comments (YouTube id 9Js1bZ3prH...)"
+python downloader.py --youtubeid="9Js1bZ3prH" --output="SD0570 The Dark Spire - Underground Floor 1 (Classic Version)'s comments (YT ID 9Js1bZ3prH).json"
+echo "Archiving SD video 571, Uncharted 2 Music - Nate's Theme 2.0's comments (YouTube id nkPF5UiDi4...)"
+python downloader.py --youtubeid="nkPF5UiDi4" --output="SD0571 Uncharted 2 Music - Nate's Theme 2.0's comments (YT ID nkPF5UiDi4).json"
+echo "Archiving SD video 572, Uncharted 2 Music - Bustin' Chops's comments (YouTube id Wi3GYa26Pe...)"
+python downloader.py --youtubeid="Wi3GYa26Pe" --output="SD0572 Uncharted 2 Music - Bustin' Chops's comments (YT ID Wi3GYa26Pe).json"
+echo "Archiving SD video 573, Uncharted 2 Music - The City's Secret's comments (YouTube id vckNK19y4r...)"
+python downloader.py --youtubeid="vckNK19y4r" --output="SD0573 Uncharted 2 Music - The City's Secret's comments (YT ID vckNK19y4r).json"
+echo "Archiving SD video 574, Uncharted 2 Music - Reunion's comments (YouTube id uhwB43-UCa...)"
+python downloader.py --youtubeid="uhwB43-UCa" --output="SD0574 Uncharted 2 Music - Reunion's comments (YT ID uhwB43-UCa).json"
+echo "Archiving SD video 575, Uncharted 2 Music -  Breaking and Entering's comments (YouTube id J4gL62XMVh...)"
+python downloader.py --youtubeid="J4gL62XMVh" --output="SD0575 Uncharted 2 Music -  Breaking and Entering's comments (YT ID J4gL62XMVh).json"
+echo "Archiving SD video 576, Uncharted 2 Music - Desperate Times's comments (YouTube id G6TvDxXgPx...)"
+python downloader.py --youtubeid="G6TvDxXgPx" --output="SD0576 Uncharted 2 Music - Desperate Times's comments (YT ID G6TvDxXgPx).json"
+echo "Archiving SD video 577, Uncharted 2 Music - Marco Polo's comments (YouTube id h5e_QvyK6G...)"
+python downloader.py --youtubeid="h5e_QvyK6G" --output="SD0577 Uncharted 2 Music - Marco Polo's comments (YT ID h5e_QvyK6G).json"
+echo "Archiving SD video 578, Uncharted 2 Music - Helicopter and Tank's comments (YouTube id vev8J3mraz...)"
+python downloader.py --youtubeid="vev8J3mraz" --output="SD0578 Uncharted 2 Music - Helicopter and Tank's comments (YT ID vev8J3mraz).json"
+echo "Archiving SD video 579, Uncharted 2 Music - The Monastery's comments (YouTube id -NFMchVBok...)"
+python downloader.py --youtubeid="-NFMchVBok" --output="SD0579 Uncharted 2 Music - The Monastery's comments (YT ID -NFMchVBok).json"
+echo "Archiving SD video 580, Uncharted 2 Music - Refuge's comments (YouTube id TZC2ldgrR4...)"
+python downloader.py --youtubeid="TZC2ldgrR4" --output="SD0580 Uncharted 2 Music - Refuge's comments (YT ID TZC2ldgrR4).json"
+echo "Archiving SD video 581, Uncharted 2 Music - Warzone's comments (YouTube id 2wXoWT4oHD...)"
+python downloader.py --youtubeid="2wXoWT4oHD" --output="SD0581 Uncharted 2 Music - Warzone's comments (YT ID 2wXoWT4oHD).json"
+echo "Archiving SD video 582, Uncharted 2 Music - Train Wrecked's comments (YouTube id 78FvwovgH8...)"
+python downloader.py --youtubeid="78FvwovgH8" --output="SD0582 Uncharted 2 Music - Train Wrecked's comments (YT ID 78FvwovgH8).json"
+echo "Archiving SD video 583, Uncharted 2 Music - Cat and Mouse's comments (YouTube id H_9GOUeSRo...)"
+python downloader.py --youtubeid="H_9GOUeSRo" --output="SD0583 Uncharted 2 Music - Cat and Mouse's comments (YT ID H_9GOUeSRo).json"
+echo "Archiving SD video 584, Uncharted 2 Music - Cornered's comments (YouTube id IlPuxPItpm...)"
+python downloader.py --youtubeid="IlPuxPItpm" --output="SD0584 Uncharted 2 Music - Cornered's comments (YT ID IlPuxPItpm).json"
+echo "Archiving SD video 585, Uncharted 2  Music - The Gates of Shambhala's comments (YouTube id Tg1VmKGtaF...)"
+python downloader.py --youtubeid="Tg1VmKGtaF" --output="SD0585 Uncharted 2  Music - The Gates of Shambhala's comments (YT ID Tg1VmKGtaF).json"
+echo "Archiving SD video 586, Uncharted 2 Music - Broken Paradise's comments (YouTube id iyRHO3MjGA...)"
+python downloader.py --youtubeid="iyRHO3MjGA" --output="SD0586 Uncharted 2 Music - Broken Paradise's comments (YT ID iyRHO3MjGA).json"
+echo "Archiving SD video 587, Uncharted 2 Music - Brutal Combo Mambo's comments (YouTube id BloSZeBPfU...)"
+python downloader.py --youtubeid="BloSZeBPfU" --output="SD0587 Uncharted 2 Music - Brutal Combo Mambo's comments (YT ID BloSZeBPfU).json"
+echo "Archiving SD video 588, Uncharted 2 Music - Among Thieves's comments (YouTube id t0cfZROUrO...)"
+python downloader.py --youtubeid="t0cfZROUrO" --output="SD0588 Uncharted 2 Music - Among Thieves's comments (YT ID t0cfZROUrO).json"
+echo "Archiving SD video 589, Uncharted 2 Music - A Rock and a Hard Place's comments (YouTube id n0FPxQi2xB...)"
+python downloader.py --youtubeid="n0FPxQi2xB" --output="SD0589 Uncharted 2 Music - A Rock and a Hard Place's comments (YT ID n0FPxQi2xB).json"
+echo "Archiving SD video 590, Uncharted 2 Music - The Road to Shambhala (Ending Credits)'s comments (YouTube id jT0jWD-WbO...)"
+python downloader.py --youtubeid="jT0jWD-WbO" --output="SD0590 Uncharted 2 Music - The Road to Shambhala (Ending Credits)'s comments (YT ID jT0jWD-WbO).json"
+echo "Archiving SD video 591, Best VGM 559 - Mega Man 3 - Spark Man Stage's comments (YouTube id 8OFao351gw...)"
+python downloader.py --youtubeid="8OFao351gw" --output="SD0591 Best VGM 559 - Mega Man 3 - Spark Man Stage's comments (YT ID 8OFao351gw).json"
+echo "Archiving SD video 592, Best VGM 560 - Star Ocean 2: The Second Story - We Form in Crystals (Ending Credits)'s comments (YouTube id 0KDjcSaMgf...)"
+python downloader.py --youtubeid="0KDjcSaMgf" --output="SD0592 Best VGM 560 - Star Ocean 2: The Second Story - We Form in Crystals (Ending Credits)'s comments (YT ID 0KDjcSaMgf).json"
+echo "Archiving SD video 593, Best VGM 562 - Elebits - Me and My Little War's comments (YouTube id ElSUKQOF3d...)"
+python downloader.py --youtubeid="ElSUKQOF3d" --output="SD0593 Best VGM 562 - Elebits - Me and My Little War's comments (YT ID ElSUKQOF3d).json"
+echo "Archiving SD video 594, SupraDarky - Plastik Elastik's comments (YouTube id OFikGlKC5l...)"
+python downloader.py --youtubeid="OFikGlKC5l" --output="SD0594 SupraDarky - Plastik Elastik's comments (YT ID OFikGlKC5l).json"
+echo "Archiving SD video 595, Best VGM 563 - Dragon Quest - The Dragonlord (Final Boss)'s comments (YouTube id TXO9vzXnAe...)"
+python downloader.py --youtubeid="TXO9vzXnAe" --output="SD0595 Best VGM 563 - Dragon Quest - The Dragonlord (Final Boss)'s comments (YT ID TXO9vzXnAe).json"
+echo "Archiving SD video 596, Best VGM 564 - Blue Dragon - Cave's comments (YouTube id injXmLzRcB...)"
+python downloader.py --youtubeid="injXmLzRcB" --output="SD0596 Best VGM 564 - Blue Dragon - Cave's comments (YT ID injXmLzRcB).json"
+echo "Archiving SD video 597, Best VGM 565 - Zelda: Link's Awakening - Face Shrine (Level 6)'s comments (YouTube id Z4QunenBEX...)"
+python downloader.py --youtubeid="Z4QunenBEX" --output="SD0597 Best VGM 565 - Zelda: Link's Awakening - Face Shrine (Level 6)'s comments (YT ID Z4QunenBEX).json"
+echo "Archiving SD video 598, Best VGM 566 - Donkey Kong Land - Ancient Beaver Bop's comments (YouTube id tQYCO5rHSQ...)"
+python downloader.py --youtubeid="tQYCO5rHSQ" --output="SD0598 Best VGM 566 - Donkey Kong Land - Ancient Beaver Bop's comments (YT ID tQYCO5rHSQ).json"
+echo "Archiving SD video 599, New Channel Milestone!'s comments (YouTube id EkCb89sYqD...)"
+python downloader.py --youtubeid="EkCb89sYqD" --output="SD0599 New Channel Milestone!'s comments (YT ID EkCb89sYqD).json"
+echo "Archiving SD video 600, Best VGM 567 - Heimdall 2 - To Die's comments (YouTube id PAU7aZ_Pz4...)"
+python downloader.py --youtubeid="PAU7aZ_Pz4" --output="SD0600 Best VGM 567 - Heimdall 2 - To Die's comments (YT ID PAU7aZ_Pz4).json"
+echo "Archiving SD video 601, Best VGM 568 - Tomb Raider - Main Theme's comments (YouTube id Az9XUAcErI...)"
+python downloader.py --youtubeid="Az9XUAcErI" --output="SD0601 Best VGM 568 - Tomb Raider - Main Theme's comments (YT ID Az9XUAcErI).json"
+echo "Archiving SD video 602, Best VGM 569 - Kingdom Hearts - This is Halloween's comments (YouTube id NFsvEFkZHo...)"
+python downloader.py --youtubeid="NFsvEFkZHo" --output="SD0602 Best VGM 569 - Kingdom Hearts - This is Halloween's comments (YT ID NFsvEFkZHo).json"
+echo "Archiving SD video 603, Best VGM 570 - Super Mario World - Ending's comments (YouTube id f0muXjuV6c...)"
+python downloader.py --youtubeid="f0muXjuV6c" --output="SD0603 Best VGM 570 - Super Mario World - Ending's comments (YT ID f0muXjuV6c).json"
+echo "Archiving SD video 604, Torchlight: A Great Diablo Clone's comments (YouTube id l17xXMQA0u...)"
+python downloader.py --youtubeid="l17xXMQA0u" --output="SD0604 Torchlight: A Great Diablo Clone's comments (YT ID l17xXMQA0u).json"
+echo "Archiving SD video 605, Best VGM 571 - Fable - Temple of Light's comments (YouTube id dMSjvBILQR...)"
+python downloader.py --youtubeid="dMSjvBILQR" --output="SD0605 Best VGM 571 - Fable - Temple of Light's comments (YT ID dMSjvBILQR).json"
+echo "Archiving SD video 606, Best VGM 572 - Top Gear Rally - Main Menu's comments (YouTube id oubq22rV9s...)"
+python downloader.py --youtubeid="oubq22rV9s" --output="SD0606 Best VGM 572 - Top Gear Rally - Main Menu's comments (YT ID oubq22rV9s).json"
+echo "Archiving SD video 607, Best VGM 573 - Earthbound - Otherwordly Foe (Battle 10)'s comments (YouTube id 2WYI83Cx9K...)"
+python downloader.py --youtubeid="2WYI83Cx9K" --output="SD0607 Best VGM 573 - Earthbound - Otherwordly Foe (Battle 10)'s comments (YT ID 2WYI83Cx9K).json"
+echo "Archiving SD video 608, Best VGM 574 - SMT : Digital Devil Saga 2 - Karma City's comments (YouTube id t9uUD60LS3...)"
+python downloader.py --youtubeid="t9uUD60LS3" --output="SD0608 Best VGM 574 - SMT : Digital Devil Saga 2 - Karma City's comments (YT ID t9uUD60LS3).json"
+echo "Archiving SD video 609, Best VGM 575 - Skies of Arcadia - Valua City's comments (YouTube id JwSV7nP5wc...)"
+python downloader.py --youtubeid="JwSV7nP5wc" --output="SD0609 Best VGM 575 - Skies of Arcadia - Valua City's comments (YT ID JwSV7nP5wc).json"
+echo "Archiving SD video 610, SupraDarky - Voyage's comments (YouTube id lSAZh9nQAQ...)"
+python downloader.py --youtubeid="lSAZh9nQAQ" --output="SD0610 SupraDarky - Voyage's comments (YT ID lSAZh9nQAQ).json"
+echo "Archiving SD video 611, Best VGM 576 - Baten Kaitos Origins - Raincloud's comments (YouTube id cO1UTkT6lf...)"
+python downloader.py --youtubeid="cO1UTkT6lf" --output="SD0611 Best VGM 576 - Baten Kaitos Origins - Raincloud's comments (YT ID cO1UTkT6lf).json"
+echo "Archiving SD video 612, Best VGM 577 - X-Men vs Street Fighter - Gambit's Theme's comments (YouTube id 2O4aNHy2Dc...)"
+python downloader.py --youtubeid="2O4aNHy2Dc" --output="SD0612 Best VGM 577 - X-Men vs Street Fighter - Gambit's Theme's comments (YT ID 2O4aNHy2Dc).json"
+echo "Archiving SD video 613, Best VGM 578 - Waterworld - Mission Theme 1's comments (YouTube id Sp7xqhunH8...)"
+python downloader.py --youtubeid="Sp7xqhunH8" --output="SD0613 Best VGM 578 - Waterworld - Mission Theme 1's comments (YT ID Sp7xqhunH8).json"
+echo "Archiving SD video 614, Best VGM 579 - Bully - Vendetta Preps's comments (YouTube id IEf1ALD_TC...)"
+python downloader.py --youtubeid="IEf1ALD_TC" --output="SD0614 Best VGM 579 - Bully - Vendetta Preps's comments (YT ID IEf1ALD_TC).json"
+echo "Archiving SD video 615, Best VGM 580 - Sonic the Hedgehog 3 - Ice Cap Zone Act 1's comments (YouTube id CNUgwyd2iI...)"
+python downloader.py --youtubeid="CNUgwyd2iI" --output="SD0615 Best VGM 580 - Sonic the Hedgehog 3 - Ice Cap Zone Act 1's comments (YT ID CNUgwyd2iI).json"
+echo "Archiving SD video 616, Best VGM 581 - Katamari Damacy - Katamari Mambo's comments (YouTube id rXlxR7sH3i...)"
+python downloader.py --youtubeid="rXlxR7sH3i" --output="SD0616 Best VGM 581 - Katamari Damacy - Katamari Mambo's comments (YT ID rXlxR7sH3i).json"
+echo "Archiving SD video 617, Best VGM 583 - New Super Mario Bros Wii - Volcano's comments (YouTube id pmQu1KRUw7...)"
+python downloader.py --youtubeid="pmQu1KRUw7" --output="SD0617 Best VGM 583 - New Super Mario Bros Wii - Volcano's comments (YT ID pmQu1KRUw7).json"
+echo "Archiving SD video 618, Best VGM 584 - Castlevania Curse of Darkness - Mortvia Fountain's comments (YouTube id R5BZKMlqbP...)"
+python downloader.py --youtubeid="R5BZKMlqbP" --output="SD0618 Best VGM 584 - Castlevania Curse of Darkness - Mortvia Fountain's comments (YT ID R5BZKMlqbP).json"
+echo "Archiving SD video 619, Best VGM 585 - The Flintstones - Unused Song 2's comments (YouTube id nBWjVglSVG...)"
+python downloader.py --youtubeid="nBWjVglSVG" --output="SD0619 Best VGM 585 - The Flintstones - Unused Song 2's comments (YT ID nBWjVglSVG).json"
+echo "Archiving SD video 620, Best VGM 586 - Shadow of the Colossus - The Opened Way ~ Battle With the Colossus's comments (YouTube id B1e6VdnjLu...)"
+python downloader.py --youtubeid="B1e6VdnjLu" --output="SD0620 Best VGM 586 - Shadow of the Colossus - The Opened Way ~ Battle With the Colossus's comments (YT ID B1e6VdnjLu).json"
+echo "Archiving SD video 621, Best VGM 587 - Glover - Atlantis Realm, Level 1's comments (YouTube id XLJxqz83uj...)"
+python downloader.py --youtubeid="XLJxqz83uj" --output="SD0621 Best VGM 587 - Glover - Atlantis Realm, Level 1's comments (YT ID XLJxqz83uj).json"
+echo "Archiving SD video 622, Best VGM 588 - Shadow of the Beast - Eerie Forests's comments (YouTube id cpcx0UQt4Y...)"
+python downloader.py --youtubeid="cpcx0UQt4Y" --output="SD0622 Best VGM 588 - Shadow of the Beast - Eerie Forests's comments (YT ID cpcx0UQt4Y).json"
+echo "Archiving SD video 623, Best VGM 590 - Super Mario Kart - Rainbow Road's comments (YouTube id dszJhqoPRf...)"
+python downloader.py --youtubeid="dszJhqoPRf" --output="SD0623 Best VGM 590 - Super Mario Kart - Rainbow Road's comments (YT ID dszJhqoPRf).json"
+echo "Archiving SD video 624, Best VGM 591 - Wild Arms 4 - For the Sake of One Flower's comments (YouTube id novAJAlNKH...)"
+python downloader.py --youtubeid="novAJAlNKH" --output="SD0624 Best VGM 591 - Wild Arms 4 - For the Sake of One Flower's comments (YT ID novAJAlNKH).json"
+echo "Archiving SD video 625, Best VGM 592 - Shadow Hearts III - Alcatraz's comments (YouTube id 0U_7HnAvbR...)"
+python downloader.py --youtubeid="0U_7HnAvbR" --output="SD0625 Best VGM 592 - Shadow Hearts III - Alcatraz's comments (YT ID 0U_7HnAvbR).json"
+echo "Archiving SD video 626, Best VGM 593 - TMNT IV : Turtles in Time - Alleycat Blues's comments (YouTube id b3l5v-QQF4...)"
+python downloader.py --youtubeid="b3l5v-QQF4" --output="SD0626 Best VGM 593 - TMNT IV : Turtles in Time - Alleycat Blues's comments (YT ID b3l5v-QQF4).json"
+echo "Archiving SD video 627, Best VGM 594 - Metal Gear Solid - Mantis' Hymn's comments (YouTube id VVlFM_PDBm...)"
+python downloader.py --youtubeid="VVlFM_PDBm" --output="SD0627 Best VGM 594 - Metal Gear Solid - Mantis' Hymn's comments (YT ID VVlFM_PDBm).json"
+echo "Archiving SD video 628, Best VGM 596 - Silver Surfer - Level 1's comments (YouTube id 4H_0h3n6pM...)"
+python downloader.py --youtubeid="4H_0h3n6pM" --output="SD0628 Best VGM 596 - Silver Surfer - Level 1's comments (YT ID 4H_0h3n6pM).json"
+echo "Archiving SD video 629, Best VGM 597 - Treasure Hunter G - Just Like the Mountain, He Will Not Move's comments (YouTube id gY9jq9-1LT...)"
+python downloader.py --youtubeid="gY9jq9-1LT" --output="SD0629 Best VGM 597 - Treasure Hunter G - Just Like the Mountain, He Will Not Move's comments (YT ID gY9jq9-1LT).json"
+echo "Archiving SD video 630, Etrian Odyssey I&II Super Arrange Album - Cherry Tree Bridge's comments (YouTube id 8gNNDaZH3t...)"
+python downloader.py --youtubeid="8gNNDaZH3t" --output="SD0630 Etrian Odyssey I&II Super Arrange Album - Cherry Tree Bridge's comments (YT ID 8gNNDaZH3t).json"
+echo "Archiving SD video 631, Best VGM 598 - Super Mario RPG - Going Shopping In Seaside Town's comments (YouTube id prc_7w9i_0...)"
+python downloader.py --youtubeid="prc_7w9i_0" --output="SD0631 Best VGM 598 - Super Mario RPG - Going Shopping In Seaside Town's comments (YT ID prc_7w9i_0).json"
+echo "Archiving SD video 632, Best VGM 599 - Streets of Fury - Excuse's comments (YouTube id A4e_sQEMC8...)"
+python downloader.py --youtubeid="A4e_sQEMC8" --output="SD0632 Best VGM 599 - Streets of Fury - Excuse's comments (YT ID A4e_sQEMC8).json"
+echo "Archiving SD video 633, Best VGM 600 - Castlevania - Vampire Killer's comments (YouTube id _Ju6JostT7...)"
+python downloader.py --youtubeid="_Ju6JostT7" --output="SD0633 Best VGM 600 - Castlevania - Vampire Killer's comments (YT ID _Ju6JostT7).json"
+echo "Archiving SD video 634, Best VGM 601 - Ecco the Dolphin : Defender of the Future - Dolphin's Intrigue's comments (YouTube id D2nWuGoRU0...)"
+python downloader.py --youtubeid="D2nWuGoRU0" --output="SD0634 Best VGM 601 - Ecco the Dolphin : Defender of the Future - Dolphin's Intrigue's comments (YT ID D2nWuGoRU0).json"
+echo "Archiving SD video 635, Best VGM 602 - Chrono Trigger - Memories of Green's comments (YouTube id 7m2yOHjObC...)"
+python downloader.py --youtubeid="7m2yOHjObC" --output="SD0635 Best VGM 602 - Chrono Trigger - Memories of Green's comments (YT ID 7m2yOHjObC).json"
+echo "Archiving SD video 636, Best VGM 604 - Silent Hill : Shattered Memories - When You're Gone's comments (YouTube id F7p1agUovz...)"
+python downloader.py --youtubeid="F7p1agUovz" --output="SD0636 Best VGM 604 - Silent Hill : Shattered Memories - When You're Gone's comments (YT ID F7p1agUovz).json"
+echo "Archiving SD video 637, Best VGM 605 - Sonic Unleashed - Dragon Road (Day)'s comments (YouTube id _dsKphN-mE...)"
+python downloader.py --youtubeid="_dsKphN-mE" --output="SD0637 Best VGM 605 - Sonic Unleashed - Dragon Road (Day)'s comments (YT ID _dsKphN-mE).json"
+echo "Archiving SD video 638, Best VGM 606 - Donkey Kong Country 2 - In A Snow-Bound Land's comments (YouTube id oYOdCD4mWs...)"
+python downloader.py --youtubeid="oYOdCD4mWs" --output="SD0638 Best VGM 606 - Donkey Kong Country 2 - In A Snow-Bound Land's comments (YT ID oYOdCD4mWs).json"
+echo "Archiving SD video 639, Best VGM 607 - Metroid Prime - Phendrana Drifts's comments (YouTube id wgAtWoPfBg...)"
+python downloader.py --youtubeid="wgAtWoPfBg" --output="SD0639 Best VGM 607 - Metroid Prime - Phendrana Drifts's comments (YT ID wgAtWoPfBg).json"
+echo "Archiving SD video 640, Best VGM 608 - World of Warcraft : Wrath of the Lich King - Mountains of Thunder (Storm Peaks)'s comments (YouTube id 67nrJieFVI...)"
+python downloader.py --youtubeid="67nrJieFVI" --output="SD0640 Best VGM 608 - World of Warcraft : Wrath of the Lich King - Mountains of Thunder (Storm Peaks)'s comments (YT ID 67nrJieFVI).json"
+echo "Archiving SD video 641, Best VGM 609 - Banjo-Kazooie - Freezeezy Peak's comments (YouTube id cRyIPt01AV...)"
+python downloader.py --youtubeid="cRyIPt01AV" --output="SD0641 Best VGM 609 - Banjo-Kazooie - Freezeezy Peak's comments (YT ID cRyIPt01AV).json"
+echo "Archiving SD video 642, Best VGM 610 - Mega Man 2 - Flash Man Stage's comments (YouTube id coyl_h4_tj...)"
+python downloader.py --youtubeid="coyl_h4_tj" --output="SD0642 Best VGM 610 - Mega Man 2 - Flash Man Stage's comments (YT ID coyl_h4_tj).json"
+echo "Archiving SD video 643, Best VGM 611 - Secret of Evermore - Queen Bluegarden's comments (YouTube id uy2OQ0waaP...)"
+python downloader.py --youtubeid="uy2OQ0waaP" --output="SD0643 Best VGM 611 - Secret of Evermore - Queen Bluegarden's comments (YT ID uy2OQ0waaP).json"
+echo "Archiving SD video 644, Best VGM 612 - Digital Devil Saga - Muladhara's comments (YouTube id AISrz88SJN...)"
+python downloader.py --youtubeid="AISrz88SJN" --output="SD0644 Best VGM 612 - Digital Devil Saga - Muladhara's comments (YT ID AISrz88SJN).json"
+echo "Archiving SD video 645, Best VGM 613 - Zelda : A Link to the Past - Lost Woods (Forest)'s comments (YouTube id sx6L5b-ACV...)"
+python downloader.py --youtubeid="sx6L5b-ACV" --output="SD0645 Best VGM 613 - Zelda : A Link to the Past - Lost Woods (Forest)'s comments (YT ID sx6L5b-ACV).json"
+echo "Archiving SD video 646, Best VGM 614 - Shatter - Kinetic Harvest's comments (YouTube id UoBLfXPlyP...)"
+python downloader.py --youtubeid="UoBLfXPlyP" --output="SD0646 Best VGM 614 - Shatter - Kinetic Harvest's comments (YT ID UoBLfXPlyP).json"
+echo "Archiving SD video 647, Best VGM 615 - Battletoads & Double Dragon - Rat Ship (Stage 4)'s comments (YouTube id 4axwWk4dfe...)"
+python downloader.py --youtubeid="4axwWk4dfe" --output="SD0647 Best VGM 615 - Battletoads & Double Dragon - Rat Ship (Stage 4)'s comments (YT ID 4axwWk4dfe).json"
+echo "Archiving SD video 648, Shadow Hearts Arrange Tracks - Twilight Street's comments (YouTube id EvhLzvpwxZ...)"
+python downloader.py --youtubeid="EvhLzvpwxZ" --output="SD0648 Shadow Hearts Arrange Tracks - Twilight Street's comments (YT ID EvhLzvpwxZ).json"
+echo "Archiving SD video 649, Best VGM 617 - Shatterhand - Area C (Submarine)'s comments (YouTube id IVCQ-kau7g...)"
+python downloader.py --youtubeid="IVCQ-kau7g" --output="SD0649 Best VGM 617 - Shatterhand - Area C (Submarine)'s comments (YT ID IVCQ-kau7g).json"
+echo "Archiving SD video 650, Best VGM 618 - Plok - Creepy Crag's comments (YouTube id 7OHV_ByQII...)"
+python downloader.py --youtubeid="7OHV_ByQII" --output="SD0650 Best VGM 618 - Plok - Creepy Crag's comments (YT ID 7OHV_ByQII).json"
+echo "Archiving SD video 651, Best VGM 619 - 3D Dot Game Heroes - Wilderness's comments (YouTube id _gmeGnmyn3...)"
+python downloader.py --youtubeid="_gmeGnmyn3" --output="SD0651 Best VGM 619 - 3D Dot Game Heroes - Wilderness's comments (YT ID _gmeGnmyn3).json"
+echo "Archiving SD video 652, Best VGM 620 - Chrono Cross - Home Village Arni's comments (YouTube id mSXFiU0mqi...)"
+python downloader.py --youtubeid="mSXFiU0mqi" --output="SD0652 Best VGM 620 - Chrono Cross - Home Village Arni's comments (YT ID mSXFiU0mqi).json"
+echo "Archiving SD video 653, Best VGM 621 - Illusion of Gaia - In The Earthen Womb's comments (YouTube id m9kEp_sNLJ...)"
+python downloader.py --youtubeid="m9kEp_sNLJ" --output="SD0653 Best VGM 621 - Illusion of Gaia - In The Earthen Womb's comments (YT ID m9kEp_sNLJ).json"
+echo "Archiving SD video 654, Best VGM 622 - Xenosaga III - Godsibb's comments (YouTube id n10VyIRJj5...)"
+python downloader.py --youtubeid="n10VyIRJj5" --output="SD0654 Best VGM 622 - Xenosaga III - Godsibb's comments (YT ID n10VyIRJj5).json"
+echo "Archiving SD video 655, Best VGM 623 - Super Mario Land 2 - Athletic's comments (YouTube id mzFGgwKMOK...)"
+python downloader.py --youtubeid="mzFGgwKMOK" --output="SD0655 Best VGM 623 - Super Mario Land 2 - Athletic's comments (YT ID mzFGgwKMOK).json"
+echo "Archiving SD video 656, Best VGM 624 - Nostalgia - Tokyo's comments (YouTube id t97-JQtcpR...)"
+python downloader.py --youtubeid="t97-JQtcpR" --output="SD0656 Best VGM 624 - Nostalgia - Tokyo's comments (YT ID t97-JQtcpR).json"
+echo "Archiving SD video 657, Best VGM 625 - Wild Arms - Migrant Bird of the Wilderness (Rudy's Theme / Overworld)'s comments (YouTube id DSOvrM20tM...)"
+python downloader.py --youtubeid="DSOvrM20tM" --output="SD0657 Best VGM 625 - Wild Arms - Migrant Bird of the Wilderness (Rudy's Theme / Overworld)'s comments (YT ID DSOvrM20tM).json"
+echo "Archiving SD video 658, Best VGM 626 - Romancing Saga: Minstrel Song - Minuet (Opening)'s comments (YouTube id cYV7Ph-qvv...)"
+python downloader.py --youtubeid="cYV7Ph-qvv" --output="SD0658 Best VGM 626 - Romancing Saga: Minstrel Song - Minuet (Opening)'s comments (YT ID cYV7Ph-qvv).json"
+echo "Archiving SD video 659, Best VGM 628 - Ace Combat 6 - The Liberation of Gracemeria's comments (YouTube id JgGPRcUgGN...)"
+python downloader.py --youtubeid="JgGPRcUgGN" --output="SD0659 Best VGM 628 - Ace Combat 6 - The Liberation of Gracemeria's comments (YT ID JgGPRcUgGN).json"
+echo "Archiving SD video 660, SupraDarky - This Is It, I Had A Good Life's comments (YouTube id xKPBTkeJIy...)"
+python downloader.py --youtubeid="xKPBTkeJIy" --output="SD0660 SupraDarky - This Is It, I Had A Good Life's comments (YT ID xKPBTkeJIy).json"
+echo "Archiving SD video 661, Best VGM 629 - F-Zero - Mute City's comments (YouTube id wXSFR4tDIU...)"
+python downloader.py --youtubeid="wXSFR4tDIU" --output="SD0661 Best VGM 629 - F-Zero - Mute City's comments (YT ID wXSFR4tDIU).json"
+echo "Archiving SD video 662, Best VGM 630 - Super Adventure Island - Essential Vitamins (Underwater Stages)'s comments (YouTube id sxcTW6DlNq...)"
+python downloader.py --youtubeid="sxcTW6DlNq" --output="SD0662 Best VGM 630 - Super Adventure Island - Essential Vitamins (Underwater Stages)'s comments (YT ID sxcTW6DlNq).json"
+echo "Archiving SD video 663, Best VGM 631 - Trine - Fangle Forest's comments (YouTube id rcnkZCiwKP...)"
+python downloader.py --youtubeid="rcnkZCiwKP" --output="SD0663 Best VGM 631 - Trine - Fangle Forest's comments (YT ID rcnkZCiwKP).json"
+echo "Archiving SD video 664, Best VGM 632 - Balloon Fight - Main Theme's comments (YouTube id YL5Q4GybKW...)"
+python downloader.py --youtubeid="YL5Q4GybKW" --output="SD0664 Best VGM 632 - Balloon Fight - Main Theme's comments (YT ID YL5Q4GybKW).json"
+echo "Archiving SD video 665, Best VGM 633 - Mother 3 - Hippo's comments (YouTube id RkDusZ10M4...)"
+python downloader.py --youtubeid="RkDusZ10M4" --output="SD0665 Best VGM 633 - Mother 3 - Hippo's comments (YT ID RkDusZ10M4).json"
+echo "Archiving SD video 666, Best VGM 634 - Mana Khemia - Nefertiti's comments (YouTube id DPO2XhA5F3...)"
+python downloader.py --youtubeid="DPO2XhA5F3" --output="SD0666 Best VGM 634 - Mana Khemia - Nefertiti's comments (YT ID DPO2XhA5F3).json"
+echo "Archiving SD video 667, Best VGM 635 - Zelda : Ocarina of Time - Water Temple's comments (YouTube id SwVfsXvFbn...)"
+python downloader.py --youtubeid="SwVfsXvFbn" --output="SD0667 Best VGM 635 - Zelda : Ocarina of Time - Water Temple's comments (YT ID SwVfsXvFbn).json"
+echo "Archiving SD video 668, Best VGM 636 - Phantasy Star Portable 2 - Fly to Universe's comments (YouTube id EeGhYL_8wt...)"
+python downloader.py --youtubeid="EeGhYL_8wt" --output="SD0668 Best VGM 636 - Phantasy Star Portable 2 - Fly to Universe's comments (YT ID EeGhYL_8wt).json"
+echo "Archiving SD video 669, Best VGM 637 - Emil Chronicle Online - Under the Pressure's comments (YouTube id 2gKlqJXIDV...)"
+python downloader.py --youtubeid="2gKlqJXIDV" --output="SD0669 Best VGM 637 - Emil Chronicle Online - Under the Pressure's comments (YT ID 2gKlqJXIDV).json"
+echo "Archiving SD video 670, Best VGM 638 - Bomberman Quest - Field Zone's comments (YouTube id SzksdwLmxm...)"
+python downloader.py --youtubeid="SzksdwLmxm" --output="SD0670 Best VGM 638 - Bomberman Quest - Field Zone's comments (YT ID SzksdwLmxm).json"
+echo "Archiving SD video 671, Best VGM 640 - Enthusia Professional Racing - AWAKENING ~ Nürburgring Suite's comments (YouTube id CBm1yaZOrB...)"
+python downloader.py --youtubeid="CBm1yaZOrB" --output="SD0671 Best VGM 640 - Enthusia Professional Racing - AWAKENING ~ Nürburgring Suite's comments (YT ID CBm1yaZOrB).json"
+echo "Archiving SD video 672, Best VGM 641 - Mario & Luigi : Bowser's Inside Story - Final Boss's comments (YouTube id szxxAefjpX...)"
+python downloader.py --youtubeid="szxxAefjpX" --output="SD0672 Best VGM 641 - Mario & Luigi : Bowser's Inside Story - Final Boss's comments (YT ID szxxAefjpX).json"
+echo "Archiving SD video 673, Best VGM 642 - Journey to Silius - Stage 3 (Headquarters)'s comments (YouTube id EL_jBUYPi8...)"
+python downloader.py --youtubeid="EL_jBUYPi8" --output="SD0673 Best VGM 642 - Journey to Silius - Stage 3 (Headquarters)'s comments (YT ID EL_jBUYPi8).json"
+echo "Archiving SD video 674, Best VGM 643 - No More Heroes 2 - Philistine (Duel Against Ranked #4: Margaret)'s comments (YouTube id CYjYCaqshj...)"
+python downloader.py --youtubeid="CYjYCaqshj" --output="SD0674 Best VGM 643 - No More Heroes 2 - Philistine (Duel Against Ranked #4: Margaret)'s comments (YT ID CYjYCaqshj).json"
+echo "Archiving SD video 675, Best VGM 644 - Dragon Quest III - Heavenly Flight's comments (YouTube id Z41vcQERnQ...)"
+python downloader.py --youtubeid="Z41vcQERnQ" --output="SD0675 Best VGM 644 - Dragon Quest III - Heavenly Flight's comments (YT ID Z41vcQERnQ).json"
+echo "Archiving SD video 676, Best VGM 645 - Ragnarok Online - Geffen City's comments (YouTube id FQioui9Yei...)"
+python downloader.py --youtubeid="FQioui9Yei" --output="SD0676 Best VGM 645 - Ragnarok Online - Geffen City's comments (YT ID FQioui9Yei).json"
+echo "Archiving SD video 677, Best VGM 646 - Asterix - Egypt's comments (YouTube id mG1D80dMhK...)"
+python downloader.py --youtubeid="mG1D80dMhK" --output="SD0677 Best VGM 646 - Asterix - Egypt's comments (YT ID mG1D80dMhK).json"
+echo "Archiving SD video 678, Best VGM 647 - Disgaea : Hour of Darkness - Running Fire's comments (YouTube id acAAz1MR_Z...)"
+python downloader.py --youtubeid="acAAz1MR_Z" --output="SD0678 Best VGM 647 - Disgaea : Hour of Darkness - Running Fire's comments (YT ID acAAz1MR_Z).json"
+echo "Archiving SD video 679, Best VGM 648 - Suikoden III - Bine Del Zecks's comments (YouTube id lLniW316mU...)"
+python downloader.py --youtubeid="lLniW316mU" --output="SD0679 Best VGM 648 - Suikoden III - Bine Del Zecks's comments (YT ID lLniW316mU).json"
+echo "Archiving SD video 680, Best VGM 649 - Super Mario Bros 3 - Overworld's comments (YouTube id W_t9udYAsB...)"
+python downloader.py --youtubeid="W_t9udYAsB" --output="SD0680 Best VGM 649 - Super Mario Bros 3 - Overworld's comments (YT ID W_t9udYAsB).json"
+echo "Archiving SD video 681, Best VGM 650 - Kirby 64 : The Crystal Shards - Factory Investigation's comments (YouTube id dWiHtzP-bc...)"
+python downloader.py --youtubeid="dWiHtzP-bc" --output="SD0681 Best VGM 650 - Kirby 64 : The Crystal Shards - Factory Investigation's comments (YT ID dWiHtzP-bc).json"
+echo "Archiving SD video 682, Best VGM 651 - Tsugunai - Early Afternoon In The Village's comments (YouTube id Z49Lxg65UO...)"
+python downloader.py --youtubeid="Z49Lxg65UO" --output="SD0682 Best VGM 651 - Tsugunai - Early Afternoon In The Village's comments (YT ID Z49Lxg65UO).json"
+echo "Archiving SD video 683, Best VGM 652 - Mega Man 10 - Abandoned Memory (Dr. Wily Stage 1)'s comments (YouTube id 1ALDFlUYdc...)"
+python downloader.py --youtubeid="1ALDFlUYdc" --output="SD0683 Best VGM 652 - Mega Man 10 - Abandoned Memory (Dr. Wily Stage 1)'s comments (YT ID 1ALDFlUYdc).json"
+echo "Archiving SD video 684, Best VGM 654 - Arcana - Decisive Battle's comments (YouTube id Kk0QDbYvtA...)"
+python downloader.py --youtubeid="Kk0QDbYvtA" --output="SD0684 Best VGM 654 - Arcana - Decisive Battle's comments (YT ID Kk0QDbYvtA).json"
+echo "Archiving SD video 685, Best VGM 655 - Pokemon XD : Gale of Darkness - Miror B! Battle!'s comments (YouTube id 4GTm-jHQm9...)"
+python downloader.py --youtubeid="4GTm-jHQm9" --output="SD0685 Best VGM 655 - Pokemon XD : Gale of Darkness - Miror B! Battle!'s comments (YT ID 4GTm-jHQm9).json"
+echo "Archiving SD video 686, Best VGM 656 - F-Zero GX - Baba's Theme's comments (YouTube id Q27un903ps...)"
+python downloader.py --youtubeid="Q27un903ps" --output="SD0686 Best VGM 656 - F-Zero GX - Baba's Theme's comments (YT ID Q27un903ps).json"
+echo "Archiving SD video 687, Best VGM 657 - Terranigma - Evergreen Forest's comments (YouTube id NL0AZ-oAra...)"
+python downloader.py --youtubeid="NL0AZ-oAra" --output="SD0687 Best VGM 657 - Terranigma - Evergreen Forest's comments (YT ID NL0AZ-oAra).json"
+echo "Archiving SD video 688, Best VGM 658 - Metal Gear 2 - Theme of Solid Snake's comments (YouTube id KX57tzysYQ...)"
+python downloader.py --youtubeid="KX57tzysYQ" --output="SD0688 Best VGM 658 - Metal Gear 2 - Theme of Solid Snake's comments (YT ID KX57tzysYQ).json"
+echo "Archiving SD video 689, Best VGM 659 - FFCC : The Crystal Bearers - Ruins's comments (YouTube id 0Fbgho32K4...)"
+python downloader.py --youtubeid="0Fbgho32K4" --output="SD0689 Best VGM 659 - FFCC : The Crystal Bearers - Ruins's comments (YT ID 0Fbgho32K4).json"
+echo "Archiving SD video 690, Best VGM 660 - Skyblazer - Lair of Kharyon's comments (YouTube id YnQ9nrcp_C...)"
+python downloader.py --youtubeid="YnQ9nrcp_C" --output="SD0690 Best VGM 660 - Skyblazer - Lair of Kharyon's comments (YT ID YnQ9nrcp_C).json"
+echo "Archiving SD video 691, Best VGM 661 - Castlevania : Portrait of Ruin - In Search of the Secret Spell's comments (YouTube id WBawD9gcEC...)"
+python downloader.py --youtubeid="WBawD9gcEC" --output="SD0691 Best VGM 661 - Castlevania : Portrait of Ruin - In Search of the Secret Spell's comments (YT ID WBawD9gcEC).json"
+echo "Archiving SD video 692, King's Valley II - The Next Pyramid's comments (YouTube id Y_jJ4lnksT...)"
+python downloader.py --youtubeid="Y_jJ4lnksT" --output="SD0692 King's Valley II - The Next Pyramid's comments (YT ID Y_jJ4lnksT).json"
+echo "Archiving SD video 693, Best VGM 662 - Kingdom Hearts II - Darkness of the Unknown's comments (YouTube id 4Rh6wmLE8F...)"
+python downloader.py --youtubeid="4Rh6wmLE8F" --output="SD0693 Best VGM 662 - Kingdom Hearts II - Darkness of the Unknown's comments (YT ID 4Rh6wmLE8F).json"
+echo "Archiving SD video 694, Best VGM 663 - Sonic Rush - Wrapped in Black's comments (YouTube id wEkfscyZEf...)"
+python downloader.py --youtubeid="wEkfscyZEf" --output="SD0694 Best VGM 663 - Sonic Rush - Wrapped in Black's comments (YT ID wEkfscyZEf).json"
+echo "Archiving SD video 695, Best VGM 664 - Crystalis - Wild Fields's comments (YouTube id CksHdwwG1y...)"
+python downloader.py --youtubeid="CksHdwwG1y" --output="SD0695 Best VGM 664 - Crystalis - Wild Fields's comments (YT ID CksHdwwG1y).json"
+echo "Archiving SD video 696, The Most Inspirational VGM of All Time's comments (YouTube id yz4h9a7VxB...)"
+python downloader.py --youtubeid="yz4h9a7VxB" --output="SD0696 The Most Inspirational VGM of All Time's comments (YT ID yz4h9a7VxB).json"
+echo "Archiving SD video 697, Best VGM 665 - Metroid Prime Hunters - Deep Arcterra's comments (YouTube id ZuM618JZgw...)"
+python downloader.py --youtubeid="ZuM618JZgw" --output="SD0697 Best VGM 665 - Metroid Prime Hunters - Deep Arcterra's comments (YT ID ZuM618JZgw).json"
+echo "Archiving SD video 698, Best VGM 666 - Doom - E1M1 ~ At Doom's Gate's comments (YouTube id Ft-qnOD77V...)"
+python downloader.py --youtubeid="Ft-qnOD77V" --output="SD0698 Best VGM 666 - Doom - E1M1 ~ At Doom's Gate's comments (YT ID Ft-qnOD77V).json"
+echo "Archiving SD video 699, Best VGM 667 - JESUS : Kyoufu no Bio Monster - Main Theme's comments (YouTube id 476siHQiW0...)"
+python downloader.py --youtubeid="476siHQiW0" --output="SD0699 Best VGM 667 - JESUS : Kyoufu no Bio Monster - Main Theme's comments (YT ID 476siHQiW0).json"
+echo "Archiving SD video 700, Best VGM 668 - Wild Arms 2 - Town Where the West Wind Blows's comments (YouTube id nj2d8U-CO9...)"
+python downloader.py --youtubeid="nj2d8U-CO9" --output="SD0700 Best VGM 668 - Wild Arms 2 - Town Where the West Wind Blows's comments (YT ID nj2d8U-CO9).json"
+echo "Archiving SD video 701, Best VGM 669 - Panzer Dragoon Saga - Sora Mi Areru Ec Sancitu's comments (YouTube id JS8vCLXX5P...)"
+python downloader.py --youtubeid="JS8vCLXX5P" --output="SD0701 Best VGM 669 - Panzer Dragoon Saga - Sora Mi Areru Ec Sancitu's comments (YT ID JS8vCLXX5P).json"
+echo "Archiving SD video 702, Best VGM 670 - Earthbound - Onett's comments (YouTube id GC99a8VRsI...)"
+python downloader.py --youtubeid="GC99a8VRsI" --output="SD0702 Best VGM 670 - Earthbound - Onett's comments (YT ID GC99a8VRsI).json"
+echo "Archiving SD video 703, Best VGM 671 - Last Bible III - Field Theme 1's comments (YouTube id u6Fa28hef7...)"
+python downloader.py --youtubeid="u6Fa28hef7" --output="SD0703 Best VGM 671 - Last Bible III - Field Theme 1's comments (YT ID u6Fa28hef7).json"
+echo "Archiving SD video 704, Best VGM 672 - The Neverhood - Klaymen's Theme's comments (YouTube id BfVmj3QGQD...)"
+python downloader.py --youtubeid="BfVmj3QGQD" --output="SD0704 Best VGM 672 - The Neverhood - Klaymen's Theme's comments (YT ID BfVmj3QGQD).json"
+echo "Archiving SD video 705, Best VGM 674 - Yoshi's Story - On The Beach's comments (YouTube id h5iAyksrXg...)"
+python downloader.py --youtubeid="h5iAyksrXg" --output="SD0705 Best VGM 674 - Yoshi's Story - On The Beach's comments (YT ID h5iAyksrXg).json"
+echo "Archiving SD video 706, Best VGM 675 - Threads of Fate - Passing Through the Forest's comments (YouTube id bFk3mS6VVs...)"
+python downloader.py --youtubeid="bFk3mS6VVs" --output="SD0706 Best VGM 675 - Threads of Fate - Passing Through the Forest's comments (YT ID bFk3mS6VVs).json"
+echo "Archiving SD video 707, Best VGM 676 - Tetris - Type B's comments (YouTube id a5WtWa8lL7...)"
+python downloader.py --youtubeid="a5WtWa8lL7" --output="SD0707 Best VGM 676 - Tetris - Type B's comments (YT ID a5WtWa8lL7).json"
+echo "Archiving SD video 708, Best VGM 677 - Atelier Iris 2 : The Azoth of Destiny - To the Underground Tunnel's comments (YouTube id kNgI7N5k5Z...)"
+python downloader.py --youtubeid="kNgI7N5k5Z" --output="SD0708 Best VGM 677 - Atelier Iris 2 : The Azoth of Destiny - To the Underground Tunnel's comments (YT ID kNgI7N5k5Z).json"
+echo "Archiving SD video 709, Best VGM 678 - Lufia - Boss Fight's comments (YouTube id wBUVdh4mVD...)"
+python downloader.py --youtubeid="wBUVdh4mVD" --output="SD0709 Best VGM 678 - Lufia - Boss Fight's comments (YT ID wBUVdh4mVD).json"
+echo "Archiving SD video 710, Best VGM 679 - Lost Odyssey - The Wanderer of Darkness's comments (YouTube id sVnly-OASs...)"
+python downloader.py --youtubeid="sVnly-OASs" --output="SD0710 Best VGM 679 - Lost Odyssey - The Wanderer of Darkness's comments (YT ID sVnly-OASs).json"
+echo "Archiving SD video 711, Best VGM 681 - Deus Ex - Underworld (NYC Bar)'s comments (YouTube id Qnz_S0QgaL...)"
+python downloader.py --youtubeid="Qnz_S0QgaL" --output="SD0711 Best VGM 681 - Deus Ex - Underworld (NYC Bar)'s comments (YT ID Qnz_S0QgaL).json"
+echo "Archiving SD video 712, Best VGM 682 - Zelda : Wind Waker - Outset Island's comments (YouTube id dylldXUC20...)"
+python downloader.py --youtubeid="dylldXUC20" --output="SD0712 Best VGM 682 - Zelda : Wind Waker - Outset Island's comments (YT ID dylldXUC20).json"
+echo "Archiving SD video 713, Best VGM 683 - Legendary Wings - Stage 3's comments (YouTube id mngXThXnpw...)"
+python downloader.py --youtubeid="mngXThXnpw" --output="SD0713 Best VGM 683 - Legendary Wings - Stage 3's comments (YT ID mngXThXnpw).json"
+echo "Archiving SD video 714, Best VGM 684 - Donkey Kong Country - Gang-Plank Galleon's comments (YouTube id gLu7Bh0lTP...)"
+python downloader.py --youtubeid="gLu7Bh0lTP" --output="SD0714 Best VGM 684 - Donkey Kong Country - Gang-Plank Galleon's comments (YT ID gLu7Bh0lTP).json"
+echo "Archiving SD video 715, Best VGM 685 - Heimdall 2 - Reflections's comments (YouTube id 3lhiseKpDD...)"
+python downloader.py --youtubeid="3lhiseKpDD" --output="SD0715 Best VGM 685 - Heimdall 2 - Reflections's comments (YT ID 3lhiseKpDD).json"
+echo "Archiving SD video 716, Elfen Lied - Lilium's comments (YouTube id nwEkcGdmot...)"
+python downloader.py --youtubeid="nwEkcGdmot" --output="SD0716 Elfen Lied - Lilium's comments (YT ID nwEkcGdmot).json"
+echo "Archiving SD video 717, Best VGM 686 - Super Mario RPG - Welcome to Booster's Tower's comments (YouTube id MthR2dXqWH...)"
+python downloader.py --youtubeid="MthR2dXqWH" --output="SD0717 Best VGM 686 - Super Mario RPG - Welcome to Booster's Tower's comments (YT ID MthR2dXqWH).json"
+echo "Archiving SD video 718, Best VGM 687 - Magna Carta : Tears of Blood - The Poet of Efort's comments (YouTube id n9QNuhs__8...)"
+python downloader.py --youtubeid="n9QNuhs__8" --output="SD0718 Best VGM 687 - Magna Carta : Tears of Blood - The Poet of Efort's comments (YT ID n9QNuhs__8).json"
+echo "Archiving SD video 719, Best VGM 688 - Parasite Eve - U.B. (Final Battle)'s comments (YouTube id dfykPUgPns...)"
+python downloader.py --youtubeid="dfykPUgPns" --output="SD0719 Best VGM 688 - Parasite Eve - U.B. (Final Battle)'s comments (YT ID dfykPUgPns).json"
+echo "Archiving SD video 720, Best VGM 689 - Conker's Bad Fur Day - Sloprano (The Great Mighty Poo)'s comments (YouTube id fexAY_t4N8...)"
+python downloader.py --youtubeid="fexAY_t4N8" --output="SD0720 Best VGM 689 - Conker's Bad Fur Day - Sloprano (The Great Mighty Poo)'s comments (YT ID fexAY_t4N8).json"
+echo "Archiving SD video 721, Best VGM 691 - Guilty Gear XX Reload (Korean Version) - In the Arms of Death (Testament's Theme)'s comments (YouTube id wE8p0WBW4z...)"
+python downloader.py --youtubeid="wE8p0WBW4z" --output="SD0721 Best VGM 691 - Guilty Gear XX Reload (Korean Version) - In the Arms of Death (Testament's Theme)'s comments (YT ID wE8p0WBW4z).json"
+echo "Archiving SD video 722, Best VGM 692 - Sands of Destruction - Fallenmine's comments (YouTube id 16sK7JwZ9n...)"
+python downloader.py --youtubeid="16sK7JwZ9n" --output="SD0722 Best VGM 692 - Sands of Destruction - Fallenmine's comments (YT ID 16sK7JwZ9n).json"
+echo "Archiving SD video 723, Best VGM 693 - Mario Kart 64 - Staff Roll's comments (YouTube id VdYkebbduH...)"
+python downloader.py --youtubeid="VdYkebbduH" --output="SD0723 Best VGM 693 - Mario Kart 64 - Staff Roll's comments (YT ID VdYkebbduH).json"
+echo "Archiving SD video 724, Best VGM 694 - 3D Dot Game Heroes - Water Temple's comments (YouTube id 70oTg2go0X...)"
+python downloader.py --youtubeid="70oTg2go0X" --output="SD0724 Best VGM 694 - 3D Dot Game Heroes - Water Temple's comments (YT ID 70oTg2go0X).json"
+echo "Archiving SD video 725, Best VGM 695 - NieR - The Wretched Automatons (Junk Heap)'s comments (YouTube id _ttw1JCEiZ...)"
+python downloader.py --youtubeid="_ttw1JCEiZ" --output="SD0725 Best VGM 695 - NieR - The Wretched Automatons (Junk Heap)'s comments (YT ID _ttw1JCEiZ).json"
+echo "Archiving SD video 726, Best VGM 696 - Castlevania III - Mad Forest's comments (YouTube id VpyUtWCMrb...)"
+python downloader.py --youtubeid="VpyUtWCMrb" --output="SD0726 Best VGM 696 - Castlevania III - Mad Forest's comments (YT ID VpyUtWCMrb).json"
+echo "Archiving SD video 727, Best VGM 697 - Street Racer - Title Theme's comments (YouTube id 5pQMJEzNwt...)"
+python downloader.py --youtubeid="5pQMJEzNwt" --output="SD0727 Best VGM 697 - Street Racer - Title Theme's comments (YT ID 5pQMJEzNwt).json"
+echo "Archiving SD video 728, Best VGM 698 - Shin Megami Tensei Nocturne - Musubi's comments (YouTube id wFJYhWhioP...)"
+python downloader.py --youtubeid="wFJYhWhioP" --output="SD0728 Best VGM 698 - Shin Megami Tensei Nocturne - Musubi's comments (YT ID wFJYhWhioP).json"
+echo "Archiving SD video 729, Best VGM 699 - Katamari Damacy - The Moon and the Prince's comments (YouTube id h_suLF-Qy5...)"
+python downloader.py --youtubeid="h_suLF-Qy5" --output="SD0729 Best VGM 699 - Katamari Damacy - The Moon and the Prince's comments (YT ID h_suLF-Qy5).json"
+echo "Archiving SD video 730, Best VGM 700 - Mega Man 2 - Intro Theme's comments (YouTube id heD3Rzhrna...)"
+python downloader.py --youtubeid="heD3Rzhrna" --output="SD0730 Best VGM 700 - Mega Man 2 - Intro Theme's comments (YT ID heD3Rzhrna).json"
+echo "Archiving SD video 731, SD Original Songs [200X-2009]'s comments (YouTube id CowhS2eBBK...)"
+python downloader.py --youtubeid="CowhS2eBBK" --output="SD0731 SD Original Songs [200X-2009]'s comments (YT ID CowhS2eBBK).json"
+echo "Archiving SD video 732, Best VGM 701 - Super Mario Galaxy 2 - Sky Island / Sky Station Galaxy 1's comments (YouTube id FCB7Dhm8Ru...)"
+python downloader.py --youtubeid="FCB7Dhm8Ru" --output="SD0732 Best VGM 701 - Super Mario Galaxy 2 - Sky Island / Sky Station Galaxy 1's comments (YT ID FCB7Dhm8Ru).json"
+echo "Archiving SD video 733, Best VGM 703 - Michael Jackson's Moonwalker - Billie Jean (Caverns)'s comments (YouTube id LpxUHj-a_U...)"
+python downloader.py --youtubeid="LpxUHj-a_U" --output="SD0733 Best VGM 703 - Michael Jackson's Moonwalker - Billie Jean (Caverns)'s comments (YT ID LpxUHj-a_U).json"
+echo "Archiving SD video 734, Best VGM 704 - Chrono Trigger - Tyrano's Lair's comments (YouTube id reOJi31i9J...)"
+python downloader.py --youtubeid="reOJi31i9J" --output="SD0734 Best VGM 704 - Chrono Trigger - Tyrano's Lair's comments (YT ID reOJi31i9J).json"
+echo "Archiving SD video 735, Best VGM 705 - Emil Chronicle Online - The Last Haven's comments (YouTube id 6uo5ripzKw...)"
+python downloader.py --youtubeid="6uo5ripzKw" --output="SD0735 Best VGM 705 - Emil Chronicle Online - The Last Haven's comments (YT ID 6uo5ripzKw).json"
+echo "Archiving SD video 736, Best VGM 706 - The Smurfs - The Swamps's comments (YouTube id 13Uk8RB6kz...)"
+python downloader.py --youtubeid="13Uk8RB6kz" --output="SD0736 Best VGM 706 - The Smurfs - The Swamps's comments (YT ID 13Uk8RB6kz).json"
+echo "Archiving SD video 737, Best VGM 707 - Tales of Symphonia : Dawn of the New World - Desert Flower (Triet)'s comments (YouTube id ZJjaiYyES4...)"
+python downloader.py --youtubeid="ZJjaiYyES4" --output="SD0737 Best VGM 707 - Tales of Symphonia : Dawn of the New World - Desert Flower (Triet)'s comments (YT ID ZJjaiYyES4).json"
+echo "Archiving SD video 738, Best VGM 708 - Dark Cloud 2 - Lunatic Wisdom Laboratory's comments (YouTube id 745hAPheAC...)"
+python downloader.py --youtubeid="745hAPheAC" --output="SD0738 Best VGM 708 - Dark Cloud 2 - Lunatic Wisdom Laboratory's comments (YT ID 745hAPheAC).json"
+echo "Archiving SD video 739, Best VGM 709 - VVVVVV - Popular Potpourri's comments (YouTube id E99qxCMb05...)"
+python downloader.py --youtubeid="E99qxCMb05" --output="SD0739 Best VGM 709 - VVVVVV - Popular Potpourri's comments (YT ID E99qxCMb05).json"
+echo "Archiving SD video 740, Best VGM 710 - Cave Story - Moonsong (Outer Wall)'s comments (YouTube id Yx-m8z-cbz...)"
+python downloader.py --youtubeid="Yx-m8z-cbz" --output="SD0740 Best VGM 710 - Cave Story - Moonsong (Outer Wall)'s comments (YT ID Yx-m8z-cbz).json"
+echo "Archiving SD video 741, Best VGM 711 - Deathsmiles IIX - Inside the White Darkness (Field E)'s comments (YouTube id b0kqwEbkSa...)"
+python downloader.py --youtubeid="b0kqwEbkSa" --output="SD0741 Best VGM 711 - Deathsmiles IIX - Inside the White Darkness (Field E)'s comments (YT ID b0kqwEbkSa).json"
+echo "Archiving SD video 742, Best VGM 712 - Zelda : Twilight Princess - Midna's Desperate Hour's comments (YouTube id Ff_r_6N8PI...)"
+python downloader.py --youtubeid="Ff_r_6N8PI" --output="SD0742 Best VGM 712 - Zelda : Twilight Princess - Midna's Desperate Hour's comments (YT ID Ff_r_6N8PI).json"
+echo "Archiving SD video 743, Best VGM 713 - Crusader of Centy - Root Temple's comments (YouTube id IS-bZp4WW4...)"
+python downloader.py --youtubeid="IS-bZp4WW4" --output="SD0743 Best VGM 713 - Crusader of Centy - Root Temple's comments (YT ID IS-bZp4WW4).json"
+echo "Archiving SD video 744, Best VGM 714 - Xenogears - Shevat, The Wind is Calling's comments (YouTube id loh0SQ_SF2...)"
+python downloader.py --youtubeid="loh0SQ_SF2" --output="SD0744 Best VGM 714 - Xenogears - Shevat, The Wind is Calling's comments (YT ID loh0SQ_SF2).json"
+echo "Archiving SD video 745, Best VGM 715 - Mega Man X3 - Blast Hornet Stage's comments (YouTube id GWaooxrlse...)"
+python downloader.py --youtubeid="GWaooxrlse" --output="SD0745 Best VGM 715 - Mega Man X3 - Blast Hornet Stage's comments (YT ID GWaooxrlse).json"
+echo "Archiving SD video 746, Best VGM 716 - Grandia - Mullen's comments (YouTube id s-kTMBeDy4...)"
+python downloader.py --youtubeid="s-kTMBeDy4" --output="SD0746 Best VGM 716 - Grandia - Mullen's comments (YT ID s-kTMBeDy4).json"
+echo "Archiving SD video 747, Best VGM 717 - Xenoblade Chronicles - Parting, and...'s comments (YouTube id LQ0uDk5i_s...)"
+python downloader.py --youtubeid="LQ0uDk5i_s" --output="SD0747 Best VGM 717 - Xenoblade Chronicles - Parting, and...'s comments (YT ID LQ0uDk5i_s).json"
+echo "Archiving SD video 748, Best VGM 718 - Donkey Kong Country 2 - Mining Melancholy's comments (YouTube id ZgvsIvHJTd...)"
+python downloader.py --youtubeid="ZgvsIvHJTd" --output="SD0748 Best VGM 718 - Donkey Kong Country 2 - Mining Melancholy's comments (YT ID ZgvsIvHJTd).json"
+echo "Archiving SD video 749, Best VGM 719 - Skies of Arcadia - Uninhabited Island's comments (YouTube id kEA-4iS0sc...)"
+python downloader.py --youtubeid="kEA-4iS0sc" --output="SD0749 Best VGM 719 - Skies of Arcadia - Uninhabited Island's comments (YT ID kEA-4iS0sc).json"
+echo "Archiving SD video 750, Best VGM 720 - Paper Mario: The Thousand Year Door - Event Battle's comments (YouTube id cMxOAeESte...)"
+python downloader.py --youtubeid="cMxOAeESte" --output="SD0750 Best VGM 720 - Paper Mario: The Thousand Year Door - Event Battle's comments (YT ID cMxOAeESte).json"
+echo "Archiving SD video 751, Best VGM 721 - Super Street Fighter IV - Vega's Theme's comments (YouTube id V4tmMcpWm_...)"
+python downloader.py --youtubeid="V4tmMcpWm_" --output="SD0751 Best VGM 721 - Super Street Fighter IV - Vega's Theme's comments (YT ID V4tmMcpWm_).json"
+echo "Archiving SD video 752, Best VGM 722 - Bionic Commando - Area 1's comments (YouTube id U_Ox-uIbal...)"
+python downloader.py --youtubeid="U_Ox-uIbal" --output="SD0752 Best VGM 722 - Bionic Commando - Area 1's comments (YT ID U_Ox-uIbal).json"
+echo "Archiving SD video 753, Best VGM 724 - Granado Espada - Ni Miedo's comments (YouTube id wuFKdtvNOp...)"
+python downloader.py --youtubeid="wuFKdtvNOp" --output="SD0753 Best VGM 724 - Granado Espada - Ni Miedo's comments (YT ID wuFKdtvNOp).json"
+echo "Archiving SD video 754, Best VGM 725 - Super Metroid - Brinstar ~ Red Soil's comments (YouTube id 6fA_EQBPB9...)"
+python downloader.py --youtubeid="6fA_EQBPB9" --output="SD0754 Best VGM 725 - Super Metroid - Brinstar ~ Red Soil's comments (YT ID 6fA_EQBPB9).json"
+echo "Archiving SD video 755, Metroid Prime 2 Echoes - Torvus Bog (Submerged Temple)'s comments (YouTube id h3hLx-FVgK...)"
+python downloader.py --youtubeid="h3hLx-FVgK" --output="SD0755 Metroid Prime 2 Echoes - Torvus Bog (Submerged Temple)'s comments (YT ID h3hLx-FVgK).json"
+echo "Archiving SD video 756, Best VGM 726 - The Violinist of Hameln - Inside the Crimson Castle's comments (YouTube id Z9UnlYHogT...)"
+python downloader.py --youtubeid="Z9UnlYHogT" --output="SD0756 Best VGM 726 - The Violinist of Hameln - Inside the Crimson Castle's comments (YT ID Z9UnlYHogT).json"
+echo "Archiving SD video 757, 10,000 Subs + Channel Stats [2010]'s comments (YouTube id SAMWFXKpCQ...)"
+python downloader.py --youtubeid="SAMWFXKpCQ" --output="SD0757 10,000 Subs + Channel Stats [2010]'s comments (YT ID SAMWFXKpCQ).json"
+echo "Archiving SD video 758, Best VGM 727 - Wild Arms 4 - Port Ailinton's comments (YouTube id 6R8jGeVw-9...)"
+python downloader.py --youtubeid="6R8jGeVw-9" --output="SD0758 Best VGM 727 - Wild Arms 4 - Port Ailinton's comments (YT ID 6R8jGeVw-9).json"
+echo "Archiving SD video 759, Best VGM 728 - Legend of Mana - The Wind Sings a Journey's comments (YouTube id ZW-eiSBpG8...)"
+python downloader.py --youtubeid="ZW-eiSBpG8" --output="SD0759 Best VGM 728 - Legend of Mana - The Wind Sings a Journey's comments (YT ID ZW-eiSBpG8).json"
+echo "Archiving SD video 760, Best VGM 729 - Kingdom Hearts : Birth By Sleep - Dearly Beloved's comments (YouTube id f2XcqUwycv...)"
+python downloader.py --youtubeid="f2XcqUwycv" --output="SD0760 Best VGM 729 - Kingdom Hearts : Birth By Sleep - Dearly Beloved's comments (YT ID f2XcqUwycv).json"
+echo "Archiving SD video 761, Best VGM 730 - Luigi's Mansion - Main Theme's comments (YouTube id SrINCHeDeG...)"
+python downloader.py --youtubeid="SrINCHeDeG" --output="SD0761 Best VGM 730 - Luigi's Mansion - Main Theme's comments (YT ID SrINCHeDeG).json"
+echo "Archiving SD video 762, Best VGM 731 - Nostalgia - Hanging Gardens of Babylon's comments (YouTube id kyaC_jSV_f...)"
+python downloader.py --youtubeid="kyaC_jSV_f" --output="SD0762 Best VGM 731 - Nostalgia - Hanging Gardens of Babylon's comments (YT ID kyaC_jSV_f).json"
+echo "Archiving SD video 763, Best VGM 732 - Suikoden II - Heart-Softening Theme 3's comments (YouTube id xFUvAJTiSH...)"
+python downloader.py --youtubeid="xFUvAJTiSH" --output="SD0763 Best VGM 732 - Suikoden II - Heart-Softening Theme 3's comments (YT ID xFUvAJTiSH).json"
+echo "Archiving SD video 764, Best VGM 733 - NeoTokyo - Tin Soldiers's comments (YouTube id Nw7bbb1mNH...)"
+python downloader.py --youtubeid="Nw7bbb1mNH" --output="SD0764 Best VGM 733 - NeoTokyo - Tin Soldiers's comments (YT ID Nw7bbb1mNH).json"
+echo "Archiving SD video 765, Best VGM 734 - Zelda II : The Adventure of Link - Title Theme's comments (YouTube id sUc3p5sojm...)"
+python downloader.py --youtubeid="sUc3p5sojm" --output="SD0765 Best VGM 734 - Zelda II : The Adventure of Link - Title Theme's comments (YT ID sUc3p5sojm).json"
+echo "Archiving SD video 766, Best VGM 735 - Dragon Quest IX - Heaven's Prayer (The Observatory)'s comments (YouTube id myjd1MnZx5...)"
+python downloader.py --youtubeid="myjd1MnZx5" --output="SD0766 Best VGM 735 - Dragon Quest IX - Heaven's Prayer (The Observatory)'s comments (YT ID myjd1MnZx5).json"
+echo "Archiving SD video 767, Best VGM 736 - Mass Effect - Galaxy Map's comments (YouTube id XCfYHd-9Sz...)"
+python downloader.py --youtubeid="XCfYHd-9Sz" --output="SD0767 Best VGM 736 - Mass Effect - Galaxy Map's comments (YT ID XCfYHd-9Sz).json"
+echo "Archiving SD video 768, Best VGM 737 - Chip 'n Dale : Rescue Rangers - Happy Cat Factory (Stage J)'s comments (YouTube id njoqMF6xeb...)"
+python downloader.py --youtubeid="njoqMF6xeb" --output="SD0768 Best VGM 737 - Chip 'n Dale : Rescue Rangers - Happy Cat Factory (Stage J)'s comments (YT ID njoqMF6xeb).json"
+echo "Archiving SD video 769, Best VGM 738 - Resident Evil REmake - Safe Haven's comments (YouTube id pOK5gWEnEP...)"
+python downloader.py --youtubeid="pOK5gWEnEP" --output="SD0769 Best VGM 738 - Resident Evil REmake - Safe Haven's comments (YT ID pOK5gWEnEP).json"
+echo "Archiving SD video 770, Best VGM 739 - ICO - Heal (Save Point)'s comments (YouTube id xKxhEqH7UU...)"
+python downloader.py --youtubeid="xKxhEqH7UU" --output="SD0770 Best VGM 739 - ICO - Heal (Save Point)'s comments (YT ID xKxhEqH7UU).json"
+echo "Archiving SD video 771, Best VGM 740 - Pokemon Diamond / Pearl / Platinum - Galactic Boss Cyrus's comments (YouTube id cvpGCTUGi8...)"
+python downloader.py --youtubeid="cvpGCTUGi8" --output="SD0771 Best VGM 740 - Pokemon Diamond / Pearl / Platinum - Galactic Boss Cyrus's comments (YT ID cvpGCTUGi8).json"
+echo "Archiving SD video 772, Best VGM 741 - Super Mario Sunshine - Underwater Exploration's comments (YouTube id s_Z71tcVVV...)"
+python downloader.py --youtubeid="s_Z71tcVVV" --output="SD0772 Best VGM 741 - Super Mario Sunshine - Underwater Exploration's comments (YT ID s_Z71tcVVV).json"
+echo "Archiving SD video 773, Best VGM 742 - Outlaws - Anna's Theme's comments (YouTube id rhaQM_Vpik...)"
+python downloader.py --youtubeid="rhaQM_Vpik" --output="SD0773 Best VGM 742 - Outlaws - Anna's Theme's comments (YT ID rhaQM_Vpik).json"
+echo "Archiving SD video 774, Best VGM 743 - Mega Man 6 - Dr. Wily Stages's comments (YouTube id HHun7iYtbF...)"
+python downloader.py --youtubeid="HHun7iYtbF" --output="SD0774 Best VGM 743 - Mega Man 6 - Dr. Wily Stages's comments (YT ID HHun7iYtbF).json"
+echo "Archiving SD video 775, Best VGM 744 - Arc the Lad - Theme of Arc the Lad's comments (YouTube id M4FN0sBxFo...)"
+python downloader.py --youtubeid="M4FN0sBxFo" --output="SD0775 Best VGM 744 - Arc the Lad - Theme of Arc the Lad's comments (YT ID M4FN0sBxFo).json"
+echo "Archiving SD video 776, Best VGM 745 - Secret of Evermore - Fire Eyes's comments (YouTube id QXd1P54rIz...)"
+python downloader.py --youtubeid="QXd1P54rIz" --output="SD0776 Best VGM 745 - Secret of Evermore - Fire Eyes's comments (YT ID QXd1P54rIz).json"
+echo "Archiving SD video 777, SupraDarky - Adrift's comments (YouTube id a5aUsFk1LK...)"
+python downloader.py --youtubeid="a5aUsFk1LK" --output="SD0777 SupraDarky - Adrift's comments (YT ID a5aUsFk1LK).json"
+echo "Archiving SD video 778, Best VGM 746 - Parasite Eve II - Distorted Evolution (Final Battle)'s comments (YouTube id Jgm24MNQig...)"
+python downloader.py --youtubeid="Jgm24MNQig" --output="SD0778 Best VGM 746 - Parasite Eve II - Distorted Evolution (Final Battle)'s comments (YT ID Jgm24MNQig).json"
+echo "Archiving SD video 779, Best VGM 747 - Ristar - Break Silence (Round 2-2)'s comments (YouTube id 5WSE5sLUTn...)"
+python downloader.py --youtubeid="5WSE5sLUTn" --output="SD0779 Best VGM 747 - Ristar - Break Silence (Round 2-2)'s comments (YT ID 5WSE5sLUTn).json"
+echo "Archiving SD video 780, Best VGM 748 - Tekken 6 - Yodeling in Meadow Hill (Hidden Retreat)'s comments (YouTube id dG4ZCzodq4...)"
+python downloader.py --youtubeid="dG4ZCzodq4" --output="SD0780 Best VGM 748 - Tekken 6 - Yodeling in Meadow Hill (Hidden Retreat)'s comments (YT ID dG4ZCzodq4).json"
+echo "Archiving SD video 781, Best VGM 749 - Kirby's Dream Land - Green Greens's comments (YouTube id Y9a5VahqzO...)"
+python downloader.py --youtubeid="Y9a5VahqzO" --output="SD0781 Best VGM 749 - Kirby's Dream Land - Green Greens's comments (YT ID Y9a5VahqzO).json"
+echo "Archiving SD video 782, Best VGM 751 - Tomb Raider II - Main Theme's comments (YouTube id 8gGv1TdQaM...)"
+python downloader.py --youtubeid="8gGv1TdQaM" --output="SD0782 Best VGM 751 - Tomb Raider II - Main Theme's comments (YT ID 8gGv1TdQaM).json"
+echo "Archiving SD video 783, Best VGM 752 - Klonoa - Untamed Heart (Vision 6-1)'s comments (YouTube id 2NGWhKhMoj...)"
+python downloader.py --youtubeid="2NGWhKhMoj" --output="SD0783 Best VGM 752 - Klonoa - Untamed Heart (Vision 6-1)'s comments (YT ID 2NGWhKhMoj).json"
+echo "Archiving SD video 784, Best VGM 753 - Zelda: Link's Awakening - Eagle Tower (Level 7)'s comments (YouTube id iFa5bIrsWb...)"
+python downloader.py --youtubeid="iFa5bIrsWb" --output="SD0784 Best VGM 753 - Zelda: Link's Awakening - Eagle Tower (Level 7)'s comments (YT ID iFa5bIrsWb).json"
+echo "Archiving SD video 785, Best VGM 754 - Romancing Saga: Minstrel Song - A Challenge to God ~Four Guardian Kings Battle~'s comments (YouTube id vgD6IngCty...)"
+python downloader.py --youtubeid="vgD6IngCty" --output="SD0785 Best VGM 754 - Romancing Saga: Minstrel Song - A Challenge to God ~Four Guardian Kings Battle~'s comments (YT ID vgD6IngCty).json"
+echo "Archiving SD video 786, Best VGM 755 - StarFighter 3000 - Floating's comments (YouTube id -czsPXU_Sn...)"
+python downloader.py --youtubeid="-czsPXU_Sn" --output="SD0786 Best VGM 755 - StarFighter 3000 - Floating's comments (YT ID -czsPXU_Sn).json"
+echo "Archiving SD video 787, Best VGM 756 - Scott Pilgrim vs the World - Another Winter's comments (YouTube id Wqv5wxKDSI...)"
+python downloader.py --youtubeid="Wqv5wxKDSI" --output="SD0787 Best VGM 756 - Scott Pilgrim vs the World - Another Winter's comments (YT ID Wqv5wxKDSI).json"
+echo "Archiving SD video 788, Best VGM 757 - Castlevania: Symphony of the Night - Crystal Teardrops (Underground Caverns)'s comments (YouTube id cmyK3FdTu_...)"
+python downloader.py --youtubeid="cmyK3FdTu_" --output="SD0788 Best VGM 757 - Castlevania: Symphony of the Night - Crystal Teardrops (Underground Caverns)'s comments (YT ID cmyK3FdTu_).json"
+echo "Archiving SD video 789, Best VGM 758 - Dark Void - Main Theme's comments (YouTube id 554IOtmsav...)"
+python downloader.py --youtubeid="554IOtmsav" --output="SD0789 Best VGM 758 - Dark Void - Main Theme's comments (YT ID 554IOtmsav).json"
+echo "Archiving SD video 790, Dark Void Zero - Main Theme's comments (YouTube id VicarY7Vf6...)"
+python downloader.py --youtubeid="VicarY7Vf6" --output="SD0790 Dark Void Zero - Main Theme's comments (YT ID VicarY7Vf6).json"
+echo "Archiving SD video 791, Best VGM 759 - Mario & Luigi : Partners in Time - Thwomp Volcano's comments (YouTube id 5Em0e5SdYs...)"
+python downloader.py --youtubeid="5Em0e5SdYs" --output="SD0791 Best VGM 759 - Mario & Luigi : Partners in Time - Thwomp Volcano's comments (YT ID 5Em0e5SdYs).json"
+echo "Archiving SD video 792, Best VGM 760 - Pop'n Music 12: Iroha - Magical Voice Shower's comments (YouTube id 9QVLuksB-d...)"
+python downloader.py --youtubeid="9QVLuksB-d" --output="SD0792 Best VGM 760 - Pop'n Music 12: Iroha - Magical Voice Shower's comments (YT ID 9QVLuksB-d).json"
+echo "Archiving SD video 793, Best VGM 761 - Mother (EarthBound Beginnings) - Bein' Friends's comments (YouTube id XnHysmcf31...)"
+python downloader.py --youtubeid="XnHysmcf31" --output="SD0793 Best VGM 761 - Mother (EarthBound Beginnings) - Bein' Friends's comments (YT ID XnHysmcf31).json"
+echo "Archiving SD video 794, Best VGM 763 - Wangan Midnight Maximum Tune 3 - Evil Association's comments (YouTube id wPCmweLoa8...)"
+python downloader.py --youtubeid="wPCmweLoa8" --output="SD0794 Best VGM 763 - Wangan Midnight Maximum Tune 3 - Evil Association's comments (YT ID wPCmweLoa8).json"
+echo "Archiving SD video 795, Best VGM 764 - Dragon Quest III - Dungeon's comments (YouTube id rY3n4qQZTW...)"
+python downloader.py --youtubeid="rY3n4qQZTW" --output="SD0795 Best VGM 764 - Dragon Quest III - Dungeon's comments (YT ID rY3n4qQZTW).json"
+echo "Archiving SD video 796, Dragon Quest III Symphonic Suite - Dungeon's comments (YouTube id u4mU3HuESI...)"
+python downloader.py --youtubeid="u4mU3HuESI" --output="SD0796 Dragon Quest III Symphonic Suite - Dungeon's comments (YT ID u4mU3HuESI).json"
+echo "Archiving SD video 797, Dragon Quest III Symphonic Suite - Heavenly Flight's comments (YouTube id JBK7BZo2FQ...)"
+python downloader.py --youtubeid="JBK7BZo2FQ" --output="SD0797 Dragon Quest III Symphonic Suite - Heavenly Flight's comments (YT ID JBK7BZo2FQ).json"
+echo "Archiving SD video 798, Dragon Quest Symphonic Suite - The Dragonlord (Final Boss)'s comments (YouTube id wMvRLHgDvn...)"
+python downloader.py --youtubeid="wMvRLHgDvn" --output="SD0798 Dragon Quest Symphonic Suite - The Dragonlord (Final Boss)'s comments (YT ID wMvRLHgDvn).json"
+echo "Archiving SD video 799, Dragon Quest II Symphonic Suite - Overworld (Theme 2)'s comments (YouTube id qpkdrtlC9w...)"
+python downloader.py --youtubeid="qpkdrtlC9w" --output="SD0799 Dragon Quest II Symphonic Suite - Overworld (Theme 2)'s comments (YT ID qpkdrtlC9w).json"
+echo "Archiving SD video 800, [Super Smash Bros. Ultimate] Dragon Quest IV Symphonic Suite - Wagon Wheel's March's comments (YouTube id qA6IfcvX_b...)"
+python downloader.py --youtubeid="qA6IfcvX_b" --output="SD0800 [Super Smash Bros. Ultimate] Dragon Quest IV Symphonic Suite - Wagon Wheel's March's comments (YT ID qA6IfcvX_b).json"
+echo "Archiving SD video 801, Dragon Quest IV Symphonic Suite - Castle's comments (YouTube id P3DFJ5MWd7...)"
+python downloader.py --youtubeid="P3DFJ5MWd7" --output="SD0801 Dragon Quest IV Symphonic Suite - Castle's comments (YT ID P3DFJ5MWd7).json"
+echo "Archiving SD video 802, Dragon Quest VI Symphonic Suite - Overworld & Dream World's comments (YouTube id gF9FWN2mC1...)"
+python downloader.py --youtubeid="gF9FWN2mC1" --output="SD0802 Dragon Quest VI Symphonic Suite - Overworld & Dream World's comments (YT ID gF9FWN2mC1).json"
+echo "Archiving SD video 803, Dragon Quest IX Symphonic Suite - The Observatory (Angelic Land)'s comments (YouTube id Mowxn3woS5...)"
+python downloader.py --youtubeid="Mowxn3woS5" --output="SD0803 Dragon Quest IX Symphonic Suite - The Observatory (Angelic Land)'s comments (YT ID Mowxn3woS5).json"
+echo "Archiving SD video 804, Dragon Quest V Symphonic Suite - Tower of Death's comments (YouTube id s4afDYEh7M...)"
+python downloader.py --youtubeid="s4afDYEh7M" --output="SD0804 Dragon Quest V Symphonic Suite - Tower of Death's comments (YT ID s4afDYEh7M).json"
+echo "Archiving SD video 805, Best VGM 765 - Total Distortion - You Are Dead (Game Over)'s comments (YouTube id xgn1eHG_lr...)"
+python downloader.py --youtubeid="xgn1eHG_lr" --output="SD0805 Best VGM 765 - Total Distortion - You Are Dead (Game Over)'s comments (YT ID xgn1eHG_lr).json"
+echo "Archiving SD video 806, Best VGM 766 - Battletoads & Double Dragon - Robo Manus (Stage 5)'s comments (YouTube id tnAXbjXucP...)"
+python downloader.py --youtubeid="tnAXbjXucP" --output="SD0806 Best VGM 766 - Battletoads & Double Dragon - Robo Manus (Stage 5)'s comments (YT ID tnAXbjXucP).json"
+echo "Archiving SD video 807, Quick Update's comments (YouTube id 2sGqQITAuA...)"
+python downloader.py --youtubeid="2sGqQITAuA" --output="SD0807 Quick Update's comments (YT ID 2sGqQITAuA).json"
+echo "Archiving SD video 808, Tribute to Video Game Music (3 Years Anniversary!)'s comments (YouTube id 9RpdJnC2u8...)"
+python downloader.py --youtubeid="9RpdJnC2u8" --output="SD0808 Tribute to Video Game Music (3 Years Anniversary!)'s comments (YT ID 9RpdJnC2u8).json"
+echo "Archiving SD video 809, Best VGM 767 - Zelda : Majora's Mask - Last Day's comments (YouTube id p-dor7Fj3G...)"
+python downloader.py --youtubeid="p-dor7Fj3G" --output="SD0809 Best VGM 767 - Zelda : Majora's Mask - Last Day's comments (YT ID p-dor7Fj3G).json"
+echo "Archiving SD video 810, Best VGM 768 - Galactic Pinball - MOONMAN's Fandango's comments (YouTube id Gt-QIiYkAO...)"
+python downloader.py --youtubeid="Gt-QIiYkAO" --output="SD0810 Best VGM 768 - Galactic Pinball - MOONMAN's Fandango's comments (YT ID Gt-QIiYkAO).json"
+echo "Archiving SD video 811, Best VGM 769 - Emil Chronicle Online - Song for Battle's comments (YouTube id seaPEjQkn7...)"
+python downloader.py --youtubeid="seaPEjQkn7" --output="SD0811 Best VGM 769 - Emil Chronicle Online - Song for Battle's comments (YT ID seaPEjQkn7).json"
+echo "Archiving SD video 812, Best VGM 770 - Bubble Bobble - Main Theme's comments (YouTube id XZEuJnSFz9...)"
+python downloader.py --youtubeid="XZEuJnSFz9" --output="SD0812 Best VGM 770 - Bubble Bobble - Main Theme's comments (YT ID XZEuJnSFz9).json"
+echo "Archiving SD video 813, Best VGM 771 - Super Monkey Ball 2 - Boiling Pot's comments (YouTube id FR-TFI71s6...)"
+python downloader.py --youtubeid="FR-TFI71s6" --output="SD0813 Best VGM 771 - Super Monkey Ball 2 - Boiling Pot's comments (YT ID FR-TFI71s6).json"
+echo "Archiving SD video 814, Best VGM 772 - Ape Escape - The Hot Spring's comments (YouTube id zCP7hfY8LP...)"
+python downloader.py --youtubeid="zCP7hfY8LP" --output="SD0814 Best VGM 772 - Ape Escape - The Hot Spring's comments (YT ID zCP7hfY8LP).json"
+echo "Archiving SD video 815, Best VGM 773 - Donkey Kong 64 - The Monkey Rap (Intro)'s comments (YouTube id 0F0ONH92Oo...)"
+python downloader.py --youtubeid="0F0ONH92Oo" --output="SD0815 Best VGM 773 - Donkey Kong 64 - The Monkey Rap (Intro)'s comments (YT ID 0F0ONH92Oo).json"
+echo "Archiving SD video 816, Best VGM 774 - Earthbound - Twoson's comments (YouTube id X3rxfNjBGq...)"
+python downloader.py --youtubeid="X3rxfNjBGq" --output="SD0816 Best VGM 774 - Earthbound - Twoson's comments (YT ID X3rxfNjBGq).json"
+echo "Archiving SD video 817, Best VGM 775 - Infinite Undiscovery - Forbidden Ground's comments (YouTube id euk6wHmRBN...)"
+python downloader.py --youtubeid="euk6wHmRBN" --output="SD0817 Best VGM 775 - Infinite Undiscovery - Forbidden Ground's comments (YT ID euk6wHmRBN).json"
+echo "Archiving SD video 818, SupraDarky - Inside Your Dreams's comments (YouTube id DF7NkDTiDq...)"
+python downloader.py --youtubeid="DF7NkDTiDq" --output="SD0818 SupraDarky - Inside Your Dreams's comments (YT ID DF7NkDTiDq).json"
+echo "Archiving SD video 819, Best VGM 776 - Castle Crashers - Barbarian Boss Theme's comments (YouTube id ixE9HlQv7v...)"
+python downloader.py --youtubeid="ixE9HlQv7v" --output="SD0819 Best VGM 776 - Castle Crashers - Barbarian Boss Theme's comments (YT ID ixE9HlQv7v).json"
+echo "Archiving SD video 820, Best VGM 777 - Pokemon Silver / Gold / Crystal - Radio ~ Lucky Channel / Game Corner's comments (YouTube id j16ZcZf9Xz...)"
+python downloader.py --youtubeid="j16ZcZf9Xz" --output="SD0820 Best VGM 777 - Pokemon Silver / Gold / Crystal - Radio ~ Lucky Channel / Game Corner's comments (YT ID j16ZcZf9Xz).json"
+echo "Archiving SD video 821, Best VGM 779 - Beyond Good & Evil - Hyllian Suite's comments (YouTube id p48dpXQixg...)"
+python downloader.py --youtubeid="p48dpXQixg" --output="SD0821 Best VGM 779 - Beyond Good & Evil - Hyllian Suite's comments (YT ID p48dpXQixg).json"
+echo "Archiving SD video 822, Best VGM 780 - Super Castlevania IV - Simon Belmont's Theme's comments (YouTube id pQVuAGSKof...)"
+python downloader.py --youtubeid="pQVuAGSKof" --output="SD0822 Best VGM 780 - Super Castlevania IV - Simon Belmont's Theme's comments (YT ID pQVuAGSKof).json"
+echo "Archiving SD video 823, Best VGM 781 - Persona 3 Portable - Time's comments (YouTube id JzPKClyQ1r...)"
+python downloader.py --youtubeid="JzPKClyQ1r" --output="SD0823 Best VGM 781 - Persona 3 Portable - Time's comments (YT ID JzPKClyQ1r).json"
+echo "Archiving SD video 824, Best VGM 782 - Machinarium - The Robot Band Song's comments (YouTube id UHAEjRndMw...)"
+python downloader.py --youtubeid="UHAEjRndMw" --output="SD0824 Best VGM 782 - Machinarium - The Robot Band Song's comments (YT ID UHAEjRndMw).json"
+echo "Archiving SD video 825, Best VGM 783 - Mega Man 10 - Cybersheep's Dream (Sheep Man Stage)'s comments (YouTube id 7JIkz4g0dQ...)"
+python downloader.py --youtubeid="7JIkz4g0dQ" --output="SD0825 Best VGM 783 - Mega Man 10 - Cybersheep's Dream (Sheep Man Stage)'s comments (YT ID 7JIkz4g0dQ).json"
+echo "Archiving SD video 826, Best VGM 784 - Legaia 2 - Tanza's comments (YouTube id QZiTBVot5x...)"
+python downloader.py --youtubeid="QZiTBVot5x" --output="SD0826 Best VGM 784 - Legaia 2 - Tanza's comments (YT ID QZiTBVot5x).json"
+echo "Archiving SD video 827, Best VGM 785 - The Magical Quest starring Mickey Mouse - Dark Forest's comments (YouTube id 14-tduXVhN...)"
+python downloader.py --youtubeid="14-tduXVhN" --output="SD0827 Best VGM 785 - The Magical Quest starring Mickey Mouse - Dark Forest's comments (YT ID 14-tduXVhN).json"
+echo "Archiving SD video 828, Best VGM 786 - Kirby's Epic Yarn - Cool Cave's comments (YouTube id qs3lqJnkMX...)"
+python downloader.py --youtubeid="qs3lqJnkMX" --output="SD0828 Best VGM 786 - Kirby's Epic Yarn - Cool Cave's comments (YT ID qs3lqJnkMX).json"
+echo "Archiving SD video 829, Best VGM 787 - Pokemon Black / White - Route 10's comments (YouTube id _Gnu2AttTP...)"
+python downloader.py --youtubeid="_Gnu2AttTP" --output="SD0829 Best VGM 787 - Pokemon Black / White - Route 10's comments (YT ID _Gnu2AttTP).json"
+echo "Archiving SD video 830, Best VGM 788 - Bayonetta - After Burner (Climax Mix)'s comments (YouTube id N74vegXRMN...)"
+python downloader.py --youtubeid="N74vegXRMN" --output="SD0830 Best VGM 788 - Bayonetta - After Burner (Climax Mix)'s comments (YT ID N74vegXRMN).json"
+echo "Archiving SD video 831, Best VGM 789 - Minecraft - Cat's comments (YouTube id moDNdAfZkw...)"
+python downloader.py --youtubeid="moDNdAfZkw" --output="SD0831 Best VGM 789 - Minecraft - Cat's comments (YT ID moDNdAfZkw).json"
+echo "Archiving SD video 832, Best VGM 790 - Super Mario RPG - Beware the Forest's Mushrooms's comments (YouTube id lPFndohdCu...)"
+python downloader.py --youtubeid="lPFndohdCu" --output="SD0832 Best VGM 790 - Super Mario RPG - Beware the Forest's Mushrooms's comments (YT ID lPFndohdCu).json"
+echo "Archiving SD video 833, Best VGM 791 - Batman: Return of the Joker - Ending's comments (YouTube id gDL6uizljV...)"
+python downloader.py --youtubeid="gDL6uizljV" --output="SD0833 Best VGM 791 - Batman: Return of the Joker - Ending's comments (YT ID gDL6uizljV).json"
+echo "Archiving SD video 834, Best VGM 792 - Star Ocean 2: The Second Story - Weathercock's comments (YouTube id -Q-S4wQOcr...)"
+python downloader.py --youtubeid="-Q-S4wQOcr" --output="SD0834 Best VGM 792 - Star Ocean 2: The Second Story - Weathercock's comments (YT ID -Q-S4wQOcr).json"
+echo "Archiving SD video 835, Best VGM 793 - Heroes of Might and Magic III - Rampart Town's comments (YouTube id HijQBbE0Wi...)"
+python downloader.py --youtubeid="HijQBbE0Wi" --output="SD0835 Best VGM 793 - Heroes of Might and Magic III - Rampart Town's comments (YT ID HijQBbE0Wi).json"
+echo "Archiving SD video 836, Best VGM 794 - Zelda : Ocarina of Time - Zora's Domain's comments (YouTube id Yh0LHDiWJN...)"
+python downloader.py --youtubeid="Yh0LHDiWJN" --output="SD0836 Best VGM 794 - Zelda : Ocarina of Time - Zora's Domain's comments (YT ID Yh0LHDiWJN).json"
+echo "Archiving SD video 837, Best VGM 795 - LOST CHILD - Deserter's comments (YouTube id iDVMfUFs_j...)"
+python downloader.py --youtubeid="iDVMfUFs_j" --output="SD0837 Best VGM 795 - LOST CHILD - Deserter's comments (YT ID iDVMfUFs_j).json"
+echo "Archiving SD video 838, Best VGM 796 - Ragnarok Online - Labyrinth's comments (YouTube id B_ed-ZF9yR...)"
+python downloader.py --youtubeid="B_ed-ZF9yR" --output="SD0838 Best VGM 796 - Ragnarok Online - Labyrinth's comments (YT ID B_ed-ZF9yR).json"
+echo "Archiving SD video 839, Best VGM 797 - Deathsmiles - Burning Halloween Town's comments (YouTube id h2AhfGXAPt...)"
+python downloader.py --youtubeid="h2AhfGXAPt" --output="SD0839 Best VGM 797 - Deathsmiles - Burning Halloween Town's comments (YT ID h2AhfGXAPt).json"
+echo "Archiving SD video 840, Best VGM 799 - The Green Lantern - High Score's comments (YouTube id 57aCSLmg9h...)"
+python downloader.py --youtubeid="57aCSLmg9h" --output="SD0840 Best VGM 799 - The Green Lantern - High Score's comments (YT ID 57aCSLmg9h).json"
+echo "Archiving SD video 841, Best VGM 800 - Sonic the Hedgehog - Green Hill Zone's comments (YouTube id Y8Z8C0kziM...)"
+python downloader.py --youtubeid="Y8Z8C0kziM" --output="SD0841 Best VGM 800 - Sonic the Hedgehog - Green Hill Zone's comments (YT ID Y8Z8C0kziM).json"
+echo "Archiving SD video 842, SupraDarky - Driftin''s comments (YouTube id vEp6oCiRMx...)"
+python downloader.py --youtubeid="vEp6oCiRMx" --output="SD0842 SupraDarky - Driftin''s comments (YT ID vEp6oCiRMx).json"
+echo "Archiving SD video 843, Best VGM 801 - Wild Arms - The Princess-Sorceress' Feelings's comments (YouTube id x9S3GnJ3_W...)"
+python downloader.py --youtubeid="x9S3GnJ3_W" --output="SD0843 Best VGM 801 - Wild Arms - The Princess-Sorceress' Feelings's comments (YT ID x9S3GnJ3_W).json"
+echo "Archiving SD video 844, Best VGM 802 - ActRaiser - Birth of the People (Town)'s comments (YouTube id rz_aiHo3aJ...)"
+python downloader.py --youtubeid="rz_aiHo3aJ" --output="SD0844 Best VGM 802 - ActRaiser - Birth of the People (Town)'s comments (YT ID rz_aiHo3aJ).json"
+echo "Archiving SD video 845, Best VGM 803 - Dr. Mario - Fever's comments (YouTube id NP3EK1Kr1s...)"
+python downloader.py --youtubeid="NP3EK1Kr1s" --output="SD0845 Best VGM 803 - Dr. Mario - Fever's comments (YT ID NP3EK1Kr1s).json"
+echo "Archiving SD video 846, Best VGM 804 - Blue Dragon - The Ruined Village's comments (YouTube id tzi9trLh9P...)"
+python downloader.py --youtubeid="tzi9trLh9P" --output="SD0846 Best VGM 804 - Blue Dragon - The Ruined Village's comments (YT ID tzi9trLh9P).json"
+echo "Archiving SD video 847, Best VGM 805 - Phoenix Wright: Ace Attorney - Cornered's comments (YouTube id 8zY_4-MBuI...)"
+python downloader.py --youtubeid="8zY_4-MBuI" --output="SD0847 Best VGM 805 - Phoenix Wright: Ace Attorney - Cornered's comments (YT ID 8zY_4-MBuI).json"
+echo "Archiving SD video 848, Best VGM 806 - Cheetahmen II - Main Theme's comments (YouTube id BkmbbZZOgK...)"
+python downloader.py --youtubeid="BkmbbZZOgK" --output="SD0848 Best VGM 806 - Cheetahmen II - Main Theme's comments (YT ID BkmbbZZOgK).json"
+echo "Archiving SD video 849, Best VGM 807 - Gran Turismo 4 - Horizon's comments (YouTube id QuSSx8dmAX...)"
+python downloader.py --youtubeid="QuSSx8dmAX" --output="SD0849 Best VGM 807 - Gran Turismo 4 - Horizon's comments (YT ID QuSSx8dmAX).json"
+echo "Archiving SD video 850, Best VGM 809 - Donkey Kong Country - DK Island Swing's comments (YouTube id UZ9Z0YwFky...)"
+python downloader.py --youtubeid="UZ9Z0YwFky" --output="SD0850 Best VGM 809 - Donkey Kong Country - DK Island Swing's comments (YT ID UZ9Z0YwFky).json"
+echo "Archiving SD video 851, Best VGM 810 - Prop Cycle - Cliff Rock's comments (YouTube id x0wxJHbcDY...)"
+python downloader.py --youtubeid="x0wxJHbcDY" --output="SD0851 Best VGM 810 - Prop Cycle - Cliff Rock's comments (YT ID x0wxJHbcDY).json"
+echo "Archiving SD video 852, SupraDarky - Mid Sleep's comments (YouTube id 8Ly4VGHz4T...)"
+python downloader.py --youtubeid="8Ly4VGHz4T" --output="SD0852 SupraDarky - Mid Sleep's comments (YT ID 8Ly4VGHz4T).json"
+echo "Archiving SD video 853, Best VGM 811 - Super Mario Bros - Underwater Theme's comments (YouTube id TBx-8jqiGf...)"
+python downloader.py --youtubeid="TBx-8jqiGf" --output="SD0853 Best VGM 811 - Super Mario Bros - Underwater Theme's comments (YT ID TBx-8jqiGf).json"
+echo "Archiving SD video 854, Best VGM 812 - Opoona - Holy Island (Sanctuary)'s comments (YouTube id O0fQlDmSSv...)"
+python downloader.py --youtubeid="O0fQlDmSSv" --output="SD0854 Best VGM 812 - Opoona - Holy Island (Sanctuary)'s comments (YT ID O0fQlDmSSv).json"
+echo "Archiving SD video 855, Best VGM 813 - Castlevania : Dawn of Sorrow - Subterranean Hell's comments (YouTube id 4fMd_2XeXL...)"
+python downloader.py --youtubeid="4fMd_2XeXL" --output="SD0855 Best VGM 813 - Castlevania : Dawn of Sorrow - Subterranean Hell's comments (YT ID 4fMd_2XeXL).json"
+echo "Archiving SD video 856, Best VGM 814 - Shatter - Freon World's comments (YouTube id Se-9zpPonw...)"
+python downloader.py --youtubeid="Se-9zpPonw" --output="SD0856 Best VGM 814 - Shatter - Freon World's comments (YT ID Se-9zpPonw).json"
+echo "Archiving SD video 857, Best VGM 815 - Star Fox - Fortuna's comments (YouTube id ye960O2B3A...)"
+python downloader.py --youtubeid="ye960O2B3A" --output="SD0857 Best VGM 815 - Star Fox - Fortuna's comments (YT ID ye960O2B3A).json"
+echo "Archiving SD video 858, Best VGM 816 - Massive Assault - Wasserland's comments (YouTube id q8ZKmxmWqh...)"
+python downloader.py --youtubeid="q8ZKmxmWqh" --output="SD0858 Best VGM 816 - Massive Assault - Wasserland's comments (YT ID q8ZKmxmWqh).json"
+echo "Archiving SD video 859, Best VGM 817 - NieR - Temple of Drifting Sands's comments (YouTube id 8pJ4Q7L9rB...)"
+python downloader.py --youtubeid="8pJ4Q7L9rB" --output="SD0859 Best VGM 817 - NieR - Temple of Drifting Sands's comments (YT ID 8pJ4Q7L9rB).json"
+echo "Archiving SD video 860, Best VGM 818 - Mother 3 - Love Theme's comments (YouTube id gVGhVofDPb...)"
+python downloader.py --youtubeid="gVGhVofDPb" --output="SD0860 Best VGM 818 - Mother 3 - Love Theme's comments (YT ID gVGhVofDPb).json"
+echo "Archiving SD video 861, Mother 3 Piano - Love Theme (S. Itoi Website Version)'s comments (YouTube id lojAcLV8is...)"
+python downloader.py --youtubeid="lojAcLV8is" --output="SD0861 Mother 3 Piano - Love Theme (S. Itoi Website Version)'s comments (YT ID lojAcLV8is).json"
+echo "Archiving SD video 862, Best VGM 819 - Zelda : Twilight Princess - Kakariko is Saved's comments (YouTube id 7F3KhzpImm...)"
+python downloader.py --youtubeid="7F3KhzpImm" --output="SD0862 Best VGM 819 - Zelda : Twilight Princess - Kakariko is Saved's comments (YT ID 7F3KhzpImm).json"
+echo "Archiving SD video 863, Best VGM 820 - DuckTales - Transylvania's comments (YouTube id FrhLXDBP-2...)"
+python downloader.py --youtubeid="FrhLXDBP-2" --output="SD0863 Best VGM 820 - DuckTales - Transylvania's comments (YT ID FrhLXDBP-2).json"
+echo "Archiving SD video 864, Best VGM 821 - I.Q. : Intelligent Qube - Healing Light's comments (YouTube id nUiZp8hb42...)"
+python downloader.py --youtubeid="nUiZp8hb42" --output="SD0864 Best VGM 821 - I.Q. : Intelligent Qube - Healing Light's comments (YT ID nUiZp8hb42).json"
+echo "Archiving SD video 865, Best VGM 822 - Mega Man ZX - Cinq Ville ~ C'est Notre Espoir (Area D ~ Highway)'s comments (YouTube id Y_RoEPwYLu...)"
+python downloader.py --youtubeid="Y_RoEPwYLu" --output="SD0865 Best VGM 822 - Mega Man ZX - Cinq Ville ~ C'est Notre Espoir (Area D ~ Highway)'s comments (YT ID Y_RoEPwYLu).json"
+echo "Archiving SD video 866, Best VGM 823 - Sonic Colors - Planet Wisp Map's comments (YouTube id 1agK890Ymv...)"
+python downloader.py --youtubeid="1agK890Ymv" --output="SD0866 Best VGM 823 - Sonic Colors - Planet Wisp Map's comments (YT ID 1agK890Ymv).json"
+echo "Archiving SD video 867, Best VGM 824 - Ar Tonelico - Valkyrja's comments (YouTube id fcJLdQZ4F8...)"
+python downloader.py --youtubeid="fcJLdQZ4F8" --output="SD0867 Best VGM 824 - Ar Tonelico - Valkyrja's comments (YT ID fcJLdQZ4F8).json"
+echo "Archiving SD video 868, [SD Zelda] Dungeon 3 - Volcano's Castle's comments (YouTube id CBZq9IwTzH...)"
+python downloader.py --youtubeid="CBZq9IwTzH" --output="SD0868 [SD Zelda] Dungeon 3 - Volcano's Castle's comments (YT ID CBZq9IwTzH).json"
+echo "Archiving SD video 869, Best VGM 825 - Chrono Trigger - Frog's Theme's comments (YouTube id WYRFMUNIUV...)"
+python downloader.py --youtubeid="WYRFMUNIUV" --output="SD0869 Best VGM 825 - Chrono Trigger - Frog's Theme's comments (YT ID WYRFMUNIUV).json"
+echo "Archiving SD video 870, Best VGM 826 - Resident Evil 4 - Serenity's comments (YouTube id NVRgpAmkmP...)"
+python downloader.py --youtubeid="NVRgpAmkmP" --output="SD0870 Best VGM 826 - Resident Evil 4 - Serenity's comments (YT ID NVRgpAmkmP).json"
+echo "Archiving SD video 871, Best VGM 827 - We ♥ Katamari - Disco ★ Prince's comments (YouTube id LGLW3qgiiB...)"
+python downloader.py --youtubeid="LGLW3qgiiB" --output="SD0871 Best VGM 827 - We ♥ Katamari - Disco ★ Prince's comments (YT ID LGLW3qgiiB).json"
+echo "Archiving SD video 872, Best VGM 829 - Pokemon Diamond / Pearl / Platinum - Snowpoint City (Midday)'s comments (YouTube id v02ZFogqSS...)"
+python downloader.py --youtubeid="v02ZFogqSS" --output="SD0872 Best VGM 829 - Pokemon Diamond / Pearl / Platinum - Snowpoint City (Midday)'s comments (YT ID v02ZFogqSS).json"
+echo "Archiving SD video 873, Best VGM 830 - Earthbound - Snowman's comments (YouTube id _j8AXugAZC...)"
+python downloader.py --youtubeid="_j8AXugAZC" --output="SD0873 Best VGM 830 - Earthbound - Snowman's comments (YT ID _j8AXugAZC).json"
+echo "Archiving SD video 874, Mother - Snowman's comments (YouTube id tkCwMIU_DL...)"
+python downloader.py --youtubeid="tkCwMIU_DL" --output="SD0874 Mother - Snowman's comments (YT ID tkCwMIU_DL).json"
+echo "Archiving SD video 875, Mother 3 - Snowman's comments (YouTube id 1bxhePu-Wo...)"
+python downloader.py --youtubeid="1bxhePu-Wo" --output="SD0875 Mother 3 - Snowman's comments (YT ID 1bxhePu-Wo).json"
+echo "Archiving SD video 876, Best VGM 831 - Emil Chronicle Online - Alone in the Snowstorm's comments (YouTube id BVLMdQfxzo...)"
+python downloader.py --youtubeid="BVLMdQfxzo" --output="SD0876 Best VGM 831 - Emil Chronicle Online - Alone in the Snowstorm's comments (YT ID BVLMdQfxzo).json"
+echo "Archiving SD video 877, Best VGM 832 - Mario Kart 64 - Sherbet Land's comments (YouTube id SNYFdanknt...)"
+python downloader.py --youtubeid="SNYFdanknt" --output="SD0877 Best VGM 832 - Mario Kart 64 - Sherbet Land's comments (YT ID SNYFdanknt).json"
+echo "Archiving SD video 878, Best VGM 833 - Trauma Team - Anyway Let's Begin The Diagnosis's comments (YouTube id acLncvJ9wH...)"
+python downloader.py --youtubeid="acLncvJ9wH" --output="SD0878 Best VGM 833 - Trauma Team - Anyway Let's Begin The Diagnosis's comments (YT ID acLncvJ9wH).json"
+echo "Archiving SD video 879, Best VGM 835 - The Witcher - The Dike (Vizima Outskirts)'s comments (YouTube id Xpwy4RtRA1...)"
+python downloader.py --youtubeid="Xpwy4RtRA1" --output="SD0879 Best VGM 835 - The Witcher - The Dike (Vizima Outskirts)'s comments (YT ID Xpwy4RtRA1).json"
+echo "Archiving SD video 880, Best VGM 836 - Tintin : Prisoners of the Sun - Stage 4-1 (Aboard the Pachacamac)'s comments (YouTube id Xv_VYdKzO3...)"
+python downloader.py --youtubeid="Xv_VYdKzO3" --output="SD0880 Best VGM 836 - Tintin : Prisoners of the Sun - Stage 4-1 (Aboard the Pachacamac)'s comments (YT ID Xv_VYdKzO3).json"
+echo "Archiving SD video 881, Best VGM 837 - Braid - Tell It By Heart's comments (YouTube id ietzDT5lOp...)"
+python downloader.py --youtubeid="ietzDT5lOp" --output="SD0881 Best VGM 837 - Braid - Tell It By Heart's comments (YT ID ietzDT5lOp).json"
+echo "Archiving SD video 882, Best VGM 838 - Zelda : Spirit Tracks - In the Fields's comments (YouTube id AWB3tT7e3D...)"
+python downloader.py --youtubeid="AWB3tT7e3D" --output="SD0882 Best VGM 838 - Zelda : Spirit Tracks - In the Fields's comments (YT ID AWB3tT7e3D).json"
+echo "Archiving SD video 883, Best VGM 839 - Jurassic Park 2 - Dark Jungle's comments (YouTube id cjrh4Ycvpt...)"
+python downloader.py --youtubeid="cjrh4Ycvpt" --output="SD0883 Best VGM 839 - Jurassic Park 2 - Dark Jungle's comments (YT ID cjrh4Ycvpt).json"
+echo "Archiving SD video 884, Best VGM 840 - Halo 3 ODST - Bits and Pieces (Short Version)'s comments (YouTube id 8urO2Nlhdi...)"
+python downloader.py --youtubeid="8urO2Nlhdi" --output="SD0884 Best VGM 840 - Halo 3 ODST - Bits and Pieces (Short Version)'s comments (YT ID 8urO2Nlhdi).json"
+echo "Archiving SD video 885, Best VGM 841 - Breath of Fire II - The Whale Song's comments (YouTube id XelC_ns-vr...)"
+python downloader.py --youtubeid="XelC_ns-vr" --output="SD0885 Best VGM 841 - Breath of Fire II - The Whale Song's comments (YT ID XelC_ns-vr).json"
+echo "Archiving SD video 886, Best VGM 842 - Jazz Jackrabbit 2 - Streetwize's comments (YouTube id n5eb_qUg5r...)"
+python downloader.py --youtubeid="n5eb_qUg5r" --output="SD0886 Best VGM 842 - Jazz Jackrabbit 2 - Streetwize's comments (YT ID n5eb_qUg5r).json"
+echo "Archiving SD video 887, Best VGM 843 - Super Mario Galaxy 2 - Square Timber / Puzzle Plank Galaxy's comments (YouTube id SAWxsyvWcq...)"
+python downloader.py --youtubeid="SAWxsyvWcq" --output="SD0887 Best VGM 843 - Super Mario Galaxy 2 - Square Timber / Puzzle Plank Galaxy's comments (YT ID SAWxsyvWcq).json"
+echo "Archiving SD video 888, Best VGM 844 - Suikoden II - Reminiscence's comments (YouTube id V07qVpXUhc...)"
+python downloader.py --youtubeid="V07qVpXUhc" --output="SD0888 Best VGM 844 - Suikoden II - Reminiscence's comments (YT ID V07qVpXUhc).json"
+echo "Archiving SD video 889, Best VGM 845 - Namco x Capcom - Facing the Wind's comments (YouTube id XJllrwZzWw...)"
+python downloader.py --youtubeid="XJllrwZzWw" --output="SD0889 Best VGM 845 - Namco x Capcom - Facing the Wind's comments (YT ID XJllrwZzWw).json"
+echo "Archiving SD video 890, Best VGM 846 - Metroid Prime - Tallon Overworld's comments (YouTube id j_EH4xCh1_...)"
+python downloader.py --youtubeid="j_EH4xCh1_" --output="SD0890 Best VGM 846 - Metroid Prime - Tallon Overworld's comments (YT ID j_EH4xCh1_).json"
+echo "Archiving SD video 891, Best VGM 847 - Pop'n Music GB - Texas Gunman's comments (YouTube id rLuP2pUwK8...)"
+python downloader.py --youtubeid="rLuP2pUwK8" --output="SD0891 Best VGM 847 - Pop'n Music GB - Texas Gunman's comments (YT ID rLuP2pUwK8).json"
+echo "Archiving SD video 892, Best VGM 848 - Digital Devil Saga - Svadhisthana's comments (YouTube id am5TVpGwHd...)"
+python downloader.py --youtubeid="am5TVpGwHd" --output="SD0892 Best VGM 848 - Digital Devil Saga - Svadhisthana's comments (YT ID am5TVpGwHd).json"
+echo "Archiving SD video 893, Best VGM 849 - Mega Man 9 - Thunder Tornado (Tornado Man Stage)'s comments (YouTube id LpO2ar64UG...)"
+python downloader.py --youtubeid="LpO2ar64UG" --output="SD0893 Best VGM 849 - Mega Man 9 - Thunder Tornado (Tornado Man Stage)'s comments (YT ID LpO2ar64UG).json"
+echo "Archiving SD video 894, Best VGM 850 - Killer Instinct - The Instinct (Main Theme)'s comments (YouTube id hV3Ktwm356...)"
+python downloader.py --youtubeid="hV3Ktwm356" --output="SD0894 Best VGM 850 - Killer Instinct - The Instinct (Main Theme)'s comments (YT ID hV3Ktwm356).json"
+echo "Archiving SD video 895, Best VGM 851 - Megalomachia 2 - Chaos Crawler's comments (YouTube id Lj8ouSLvqz...)"
+python downloader.py --youtubeid="Lj8ouSLvqz" --output="SD0895 Best VGM 851 - Megalomachia 2 - Chaos Crawler's comments (YT ID Lj8ouSLvqz).json"
+echo "Archiving SD video 896, Best VGM 852 - Alundra - Kline's Dream's comments (YouTube id mr1anFEQV9...)"
+python downloader.py --youtubeid="mr1anFEQV9" --output="SD0896 Best VGM 852 - Alundra - Kline's Dream's comments (YT ID mr1anFEQV9).json"
+echo "Archiving SD video 897, Best VGM 854 - Wild Arms 5 - A Muzzle Dancing in Hatred  (Fire Tower)'s comments (YouTube id bviyWo7xpu...)"
+python downloader.py --youtubeid="bviyWo7xpu" --output="SD0897 Best VGM 854 - Wild Arms 5 - A Muzzle Dancing in Hatred  (Fire Tower)'s comments (YT ID bviyWo7xpu).json"
+echo "Archiving SD video 898, Best VGM 855 - Brave Fencer Musashi - The White Cloud in the Sky's comments (YouTube id pbmKt4bb5c...)"
+python downloader.py --youtubeid="pbmKt4bb5c" --output="SD0898 Best VGM 855 - Brave Fencer Musashi - The White Cloud in the Sky's comments (YT ID pbmKt4bb5c).json"
+echo "Archiving SD video 899, Best VGM 856 - VVVVVV - Potential for Anything's comments (YouTube id tKmmcOH2xa...)"
+python downloader.py --youtubeid="tKmmcOH2xa" --output="SD0899 Best VGM 856 - VVVVVV - Potential for Anything's comments (YT ID tKmmcOH2xa).json"
+echo "Archiving SD video 900, Best VGM 857 - Super Mario Land - Birabuto Kingdom's comments (YouTube id 6GWxoOc3TF...)"
+python downloader.py --youtubeid="6GWxoOc3TF" --output="SD0900 Best VGM 857 - Super Mario Land - Birabuto Kingdom's comments (YT ID 6GWxoOc3TF).json"
+echo "Archiving SD video 901, Best VGM 858 - Crash Bandicoot - Hog Wild, Whole Hog's comments (YouTube id 3q_o-86lmc...)"
+python downloader.py --youtubeid="3q_o-86lmc" --output="SD0901 Best VGM 858 - Crash Bandicoot - Hog Wild, Whole Hog's comments (YT ID 3q_o-86lmc).json"
+echo "Archiving SD video 902, Best VGM 859 - Spyro : Year of the Dragon - Molten Crater's comments (YouTube id 4a767iv9Va...)"
+python downloader.py --youtubeid="4a767iv9Va" --output="SD0902 Best VGM 859 - Spyro : Year of the Dragon - Molten Crater's comments (YT ID 4a767iv9Va).json"
+echo "Archiving SD video 903, Best VGM 860 - Ogre Battle 64 - Decisive's comments (YouTube id cHfgcOHSTs...)"
+python downloader.py --youtubeid="cHfgcOHSTs" --output="SD0903 Best VGM 860 - Ogre Battle 64 - Decisive's comments (YT ID cHfgcOHSTs).json"
+echo "Archiving SD video 904, Best VGM 861 - Castlevania : Lords of Shadow - Waterfalls of Agharta's comments (YouTube id 6AZLmFaSpR...)"
+python downloader.py --youtubeid="6AZLmFaSpR" --output="SD0904 Best VGM 861 - Castlevania : Lords of Shadow - Waterfalls of Agharta's comments (YT ID 6AZLmFaSpR).json"
+echo "Archiving SD video 905, Super Castlevania IV - Waterfalls's comments (YouTube id vODqf94wrM...)"
+python downloader.py --youtubeid="vODqf94wrM" --output="SD0905 Super Castlevania IV - Waterfalls's comments (YT ID vODqf94wrM).json"
+echo "Archiving SD video 906, Best VGM 862 - Seiken Densetsu 3 - Where Angels Fear to Tread's comments (YouTube id xuCzPu3tHz...)"
+python downloader.py --youtubeid="xuCzPu3tHz" --output="SD0906 Best VGM 862 - Seiken Densetsu 3 - Where Angels Fear to Tread's comments (YT ID xuCzPu3tHz).json"
+echo "Archiving SD video 907, Best VGM 863 - The Smurfs - The Mountains's comments (YouTube id 8ZjZXguqmK...)"
+python downloader.py --youtubeid="8ZjZXguqmK" --output="SD0907 Best VGM 863 - The Smurfs - The Mountains's comments (YT ID 8ZjZXguqmK).json"
+echo "Archiving SD video 908, Best VGM 865 - Xenoblade Chronicles - Gaur Plains's comments (YouTube id y6UhV3E2H6...)"
+python downloader.py --youtubeid="y6UhV3E2H6" --output="SD0908 Best VGM 865 - Xenoblade Chronicles - Gaur Plains's comments (YT ID y6UhV3E2H6).json"
+echo "Archiving SD video 909, Best VGM 866 - Dreamfall : The Longest Journey - The Hospital Room's comments (YouTube id Sw9BfnRv8I...)"
+python downloader.py --youtubeid="Sw9BfnRv8I" --output="SD0909 Best VGM 866 - Dreamfall : The Longest Journey - The Hospital Room's comments (YT ID Sw9BfnRv8I).json"
+echo "Archiving SD video 910, Best VGM 867 - Zelda : A Link to the Past - Dark World Dungeon's comments (YouTube id p5ObFGkl_-...)"
+python downloader.py --youtubeid="p5ObFGkl_-" --output="SD0910 Best VGM 867 - Zelda : A Link to the Past - Dark World Dungeon's comments (YT ID p5ObFGkl_-).json"
+echo "Archiving SD video 911, Best VGM 868 - Dragon Quest VI - Village's comments (YouTube id aObuQqkoa-...)"
+python downloader.py --youtubeid="aObuQqkoa-" --output="SD0911 Best VGM 868 - Dragon Quest VI - Village's comments (YT ID aObuQqkoa-).json"
+echo "Archiving SD video 912, Dragon Quest VI Symphonic Suite - Village's comments (YouTube id z4YQyMvORD...)"
+python downloader.py --youtubeid="z4YQyMvORD" --output="SD0912 Dragon Quest VI Symphonic Suite - Village's comments (YT ID z4YQyMvORD).json"
+echo "Archiving SD video 913, Best VGM 869 - Wangan Midnight Maximum Tune 3 - Feel the Moment's comments (YouTube id 8lmjoPgEWb...)"
+python downloader.py --youtubeid="8lmjoPgEWb" --output="SD0913 Best VGM 869 - Wangan Midnight Maximum Tune 3 - Feel the Moment's comments (YT ID 8lmjoPgEWb).json"
+echo "Archiving SD video 914, Best VGM 870 - La-Mulana - Curse of IRON PIPE's comments (YouTube id OXWqqshHuY...)"
+python downloader.py --youtubeid="OXWqqshHuY" --output="SD0914 Best VGM 870 - La-Mulana - Curse of IRON PIPE's comments (YT ID OXWqqshHuY).json"
+echo "Archiving SD video 915, Best VGM 871 - Advance Wars DS - That's a Wrap! (Credits)'s comments (YouTube id -IsFD_jw6l...)"
+python downloader.py --youtubeid="-IsFD_jw6l" --output="SD0915 Best VGM 871 - Advance Wars DS - That's a Wrap! (Credits)'s comments (YT ID -IsFD_jw6l).json"
+echo "Archiving SD video 916, Best VGM 872 - The Legend of Zelda - Intro (Series' 25th Anniversary)'s comments (YouTube id 6IadffCqEQ...)"
+python downloader.py --youtubeid="6IadffCqEQ" --output="SD0916 Best VGM 872 - The Legend of Zelda - Intro (Series' 25th Anniversary)'s comments (YT ID 6IadffCqEQ).json"
+echo "Archiving SD video 917, Best VGM 873 - Goldeneye - Frigate La Fayette, Monte Carlo's comments (YouTube id KZA1PegcwI...)"
+python downloader.py --youtubeid="KZA1PegcwI" --output="SD0917 Best VGM 873 - Goldeneye - Frigate La Fayette, Monte Carlo's comments (YT ID KZA1PegcwI).json"
+echo "Archiving SD video 918, Best VGM 874 - Super Street Fighter II - Guile's Theme's comments (YouTube id xY86oDk6Ce...)"
+python downloader.py --youtubeid="xY86oDk6Ce" --output="SD0918 Best VGM 874 - Super Street Fighter II - Guile's Theme's comments (YT ID xY86oDk6Ce).json"
+echo "Archiving SD video 919, Best VGM 875 - Tekken 2 - Morning Field (Jun's Theme)'s comments (YouTube id O1Ysg-0v7a...)"
+python downloader.py --youtubeid="O1Ysg-0v7a" --output="SD0919 Best VGM 875 - Tekken 2 - Morning Field (Jun's Theme)'s comments (YT ID O1Ysg-0v7a).json"
+echo "Archiving SD video 920, Best VGM 877 - Contact - Ending C's comments (YouTube id QkgA1qgTsd...)"
+python downloader.py --youtubeid="QkgA1qgTsd" --output="SD0920 Best VGM 877 - Contact - Ending C's comments (YT ID QkgA1qgTsd).json"
+echo "Archiving SD video 921, [SD Zelda] Dungeon 4 - Forest of Forgotten Memories's comments (YouTube id YzZ4DaAfMe...)"
+python downloader.py --youtubeid="YzZ4DaAfMe" --output="SD0921 [SD Zelda] Dungeon 4 - Forest of Forgotten Memories's comments (YT ID YzZ4DaAfMe).json"
+echo "Archiving SD video 922, Best VGM 878 - Thunder Spirits - Hunger Made Them Desperate's comments (YouTube id 4ugpeNkSyM...)"
+python downloader.py --youtubeid="4ugpeNkSyM" --output="SD0922 Best VGM 878 - Thunder Spirits - Hunger Made Them Desperate's comments (YT ID 4ugpeNkSyM).json"
+echo "Archiving SD video 923, Best VGM 879 - Persona 3 - Memories of the City's comments (YouTube id _i9LIgKpgk...)"
+python downloader.py --youtubeid="_i9LIgKpgk" --output="SD0923 Best VGM 879 - Persona 3 - Memories of the City's comments (YT ID _i9LIgKpgk).json"
+echo "Archiving SD video 924, Best VGM 880 - Xenogears - Daijiru, City Of The Burning Sands's comments (YouTube id MhjEEbyuJM...)"
+python downloader.py --youtubeid="MhjEEbyuJM" --output="SD0924 Best VGM 880 - Xenogears - Daijiru, City Of The Burning Sands's comments (YT ID MhjEEbyuJM).json"
+echo "Archiving SD video 925, Best VGM 881 - Double Dragon - Arrival of the Black Warriors (Stage 1)'s comments (YouTube id pxcx_BACNQ...)"
+python downloader.py --youtubeid="pxcx_BACNQ" --output="SD0925 Best VGM 881 - Double Dragon - Arrival of the Black Warriors (Stage 1)'s comments (YT ID pxcx_BACNQ).json"
+echo "Archiving SD video 926, Double Dragon Original Sound - Arrival of the Black Warriors (Stage 1)'s comments (YouTube id f6PZ7KDDMZ...)"
+python downloader.py --youtubeid="f6PZ7KDDMZ" --output="SD0926 Double Dragon Original Sound - Arrival of the Black Warriors (Stage 1)'s comments (YT ID f6PZ7KDDMZ).json"
+echo "Archiving SD video 927, Best VGM 882 - Baten Kaitos Origins - The Broken Manas and My One and Only's comments (YouTube id aDbohXp2oE...)"
+python downloader.py --youtubeid="aDbohXp2oE" --output="SD0927 Best VGM 882 - Baten Kaitos Origins - The Broken Manas and My One and Only's comments (YT ID aDbohXp2oE).json"
+echo "Archiving SD video 928, Best VGM 883 - Diablo II - Rogue Encampment's comments (YouTube id 9sVb_cb7Sk...)"
+python downloader.py --youtubeid="9sVb_cb7Sk" --output="SD0928 Best VGM 883 - Diablo II - Rogue Encampment's comments (YT ID 9sVb_cb7Sk).json"
+echo "Archiving SD video 929, Best VGM 884 - Deadly Premonition - Life is Beautiful's comments (YouTube id vbzmtIEujz...)"
+python downloader.py --youtubeid="vbzmtIEujz" --output="SD0929 Best VGM 884 - Deadly Premonition - Life is Beautiful's comments (YT ID vbzmtIEujz).json"
+echo "Archiving SD video 930, Best VGM 885 - Super Mario Kart - Koopa Beach's comments (YouTube id 8IP_IsXL7b...)"
+python downloader.py --youtubeid="8IP_IsXL7b" --output="SD0930 Best VGM 885 - Super Mario Kart - Koopa Beach's comments (YT ID 8IP_IsXL7b).json"
+echo "Archiving SD video 931, Best VGM 886 - Western Lords - Devil Mountain's comments (YouTube id FJ976LQSY-...)"
+python downloader.py --youtubeid="FJ976LQSY-" --output="SD0931 Best VGM 886 - Western Lords - Devil Mountain's comments (YT ID FJ976LQSY-).json"
+echo "Archiving SD video 932, Best VGM 887 - Castlevania : Bloodlines - Iron Blue Intention (Stage 4)'s comments (YouTube id U9z3oWS0Qo...)"
+python downloader.py --youtubeid="U9z3oWS0Qo" --output="SD0932 Best VGM 887 - Castlevania : Bloodlines - Iron Blue Intention (Stage 4)'s comments (YT ID U9z3oWS0Qo).json"
+echo "Archiving SD video 933, Best VGM 888 - Deus Ex - Main Theme's comments (YouTube id XxMf4BdVq_...)"
+python downloader.py --youtubeid="XxMf4BdVq_" --output="SD0933 Best VGM 888 - Deus Ex - Main Theme's comments (YT ID XxMf4BdVq_).json"
+echo "Archiving SD video 934, Best VGM 889 - Chrono Trigger - Peaceful Days's comments (YouTube id 0Lo8Q5tL0W...)"
+python downloader.py --youtubeid="0Lo8Q5tL0W" --output="SD0934 Best VGM 889 - Chrono Trigger - Peaceful Days's comments (YT ID 0Lo8Q5tL0W).json"
+echo "Archiving SD video 935, Death Note - Rem's comments (YouTube id _tpWNgVSsQ...)"
+python downloader.py --youtubeid="_tpWNgVSsQ" --output="SD0935 Death Note - Rem's comments (YT ID _tpWNgVSsQ).json"
+echo "Archiving SD video 936, Best VGM 890 - Mr. Nutz - Clouds's comments (YouTube id GIhf0yU94q...)"
+python downloader.py --youtubeid="GIhf0yU94q" --output="SD0936 Best VGM 890 - Mr. Nutz - Clouds's comments (YT ID GIhf0yU94q).json"
+echo "Archiving SD video 937, Best VGM 891 - Blast Corps - Echo Marches / Havoc District's comments (YouTube id 46WQk6Qvne...)"
+python downloader.py --youtubeid="46WQk6Qvne" --output="SD0937 Best VGM 891 - Blast Corps - Echo Marches / Havoc District's comments (YT ID 46WQk6Qvne).json"
+echo "Archiving SD video 938, Best VGM 892 - Jets 'N' Guns - Shop Music's comments (YouTube id dGzGSapPGL...)"
+python downloader.py --youtubeid="dGzGSapPGL" --output="SD0938 Best VGM 892 - Jets 'N' Guns - Shop Music's comments (YT ID dGzGSapPGL).json"
+echo "Archiving SD video 939, Best CM 01 - Johann Sebastian Bach - Air on the G String's comments (YouTube id BmKWwQ6R5u...)"
+python downloader.py --youtubeid="BmKWwQ6R5u" --output="SD0939 Best CM 01 - Johann Sebastian Bach - Air on the G String's comments (YT ID BmKWwQ6R5u).json"
+echo "Archiving SD video 940, Dragon Quest II Symphonic Suite - Chateau's comments (YouTube id 60FoWZsxoi...)"
+python downloader.py --youtubeid="60FoWZsxoi" --output="SD0940 Dragon Quest II Symphonic Suite - Chateau's comments (YT ID 60FoWZsxoi).json"
+echo "Archiving SD video 941, Best VGM 893 - Dragon Quest II - Chateau's comments (YouTube id _RHmWJyCsA...)"
+python downloader.py --youtubeid="_RHmWJyCsA" --output="SD0941 Best VGM 893 - Dragon Quest II - Chateau's comments (YT ID _RHmWJyCsA).json"
+echo "Archiving SD video 942, Best VGM 894 - Zelda : Wind Waker - Staff Roll's comments (YouTube id 8xWWLSlQPe...)"
+python downloader.py --youtubeid="8xWWLSlQPe" --output="SD0942 Best VGM 894 - Zelda : Wind Waker - Staff Roll's comments (YT ID 8xWWLSlQPe).json"
+echo "Archiving SD video 943, Best VGM 895 - Elvandia Story - Title's comments (YouTube id 29dJ6XlsMd...)"
+python downloader.py --youtubeid="29dJ6XlsMd" --output="SD0943 Best VGM 895 - Elvandia Story - Title's comments (YT ID 29dJ6XlsMd).json"
+echo "Archiving SD video 944, Best VGM 896 - Pilotwings Resort - Hang Glider's comments (YouTube id gIlGulCdwB...)"
+python downloader.py --youtubeid="gIlGulCdwB" --output="SD0944 Best VGM 896 - Pilotwings Resort - Hang Glider's comments (YT ID gIlGulCdwB).json"
+echo "Archiving SD video 945, Best VGM 897 - NeoTokyo - Annul's comments (YouTube id RSlUnXWm9h...)"
+python downloader.py --youtubeid="RSlUnXWm9h" --output="SD0945 Best VGM 897 - NeoTokyo - Annul's comments (YT ID RSlUnXWm9h).json"
+echo "Archiving SD video 946, Best VGM 898 - Lufia II - The Turret Forgotten's comments (YouTube id Zn8GP0TifC...)"
+python downloader.py --youtubeid="Zn8GP0TifC" --output="SD0946 Best VGM 898 - Lufia II - The Turret Forgotten's comments (YT ID Zn8GP0TifC).json"
+echo "Archiving SD video 947, Best VGM 899 - Lunar : Eternal Blue - The Last Battle's comments (YouTube id Su5Z-NHGXL...)"
+python downloader.py --youtubeid="Su5Z-NHGXL" --output="SD0947 Best VGM 899 - Lunar : Eternal Blue - The Last Battle's comments (YT ID Su5Z-NHGXL).json"
+echo "Archiving SD video 948, Best VGM 900 - Metroid - Title Theme's comments (YouTube id eKiz8PrTvS...)"
+python downloader.py --youtubeid="eKiz8PrTvS" --output="SD0948 Best VGM 900 - Metroid - Title Theme's comments (YT ID eKiz8PrTvS).json"
+echo "Archiving SD video 949, Best VGM 901 - Ragnarok Online 2 : The Gate of the World - Swamper's comments (YouTube id qnJDEN-JOz...)"
+python downloader.py --youtubeid="qnJDEN-JOz" --output="SD0949 Best VGM 901 - Ragnarok Online 2 : The Gate of the World - Swamper's comments (YT ID qnJDEN-JOz).json"
+echo "Archiving SD video 950, Best VGM 902 - Castlevania : Dawn of Sorrow - After the Battle ~Blue Recollection~'s comments (YouTube id 1DFIYMTnlz...)"
+python downloader.py --youtubeid="1DFIYMTnlz" --output="SD0950 Best VGM 902 - Castlevania : Dawn of Sorrow - After the Battle ~Blue Recollection~'s comments (YT ID 1DFIYMTnlz).json"
+echo "Archiving SD video 951, Best VGM 904 - Okamiden - Yakushi Village's comments (YouTube id E3PKlQUYNT...)"
+python downloader.py --youtubeid="E3PKlQUYNT" --output="SD0951 Best VGM 904 - Okamiden - Yakushi Village's comments (YT ID E3PKlQUYNT).json"
+echo "Archiving SD video 952, Best VGM 905 - Parasite Eve : The 3rd Birthday - Investigation of the Past's comments (YouTube id 6JdMvEBtFS...)"
+python downloader.py --youtubeid="6JdMvEBtFS" --output="SD0952 Best VGM 905 - Parasite Eve : The 3rd Birthday - Investigation of the Past's comments (YT ID 6JdMvEBtFS).json"
+echo "Archiving SD video 953, Best VGM 906 - Spanky's Quest - City's comments (YouTube id rd3QIW5ds4...)"
+python downloader.py --youtubeid="rd3QIW5ds4" --output="SD0953 Best VGM 906 - Spanky's Quest - City's comments (YT ID rd3QIW5ds4).json"
+echo "Archiving SD video 954, Best VGM 907 - Mushihimesama Futari - On the Verge of Madness ~ Stage 5's comments (YouTube id T9kK9McaCo...)"
+python downloader.py --youtubeid="T9kK9McaCo" --output="SD0954 Best VGM 907 - Mushihimesama Futari - On the Verge of Madness ~ Stage 5's comments (YT ID T9kK9McaCo).json"
+echo "Archiving SD video 955, Best VGM 908 - Wild Arms 5 - The Street Corner at Sunset's comments (YouTube id XKeXXWBYTk...)"
+python downloader.py --youtubeid="XKeXXWBYTk" --output="SD0955 Best VGM 908 - Wild Arms 5 - The Street Corner at Sunset's comments (YT ID XKeXXWBYTk).json"
+echo "Archiving SD video 956, Best VGM 909 - Rollercoaster Tycoon 3 - Summer Air's comments (YouTube id 6AuCTNAJz_...)"
+python downloader.py --youtubeid="6AuCTNAJz_" --output="SD0956 Best VGM 909 - Rollercoaster Tycoon 3 - Summer Air's comments (YT ID 6AuCTNAJz_).json"
+echo "Archiving SD video 957, Best VGM 910 - Earthbound - Threed ~ Free At Last's comments (YouTube id mPhy1ylhj7...)"
+python downloader.py --youtubeid="mPhy1ylhj7" --output="SD0957 Best VGM 910 - Earthbound - Threed ~ Free At Last's comments (YT ID mPhy1ylhj7).json"
+echo "Archiving SD video 958, Best VGM 911 - OutRun2 - Splash Wave's comments (YouTube id NGJp1-tPT5...)"
+python downloader.py --youtubeid="NGJp1-tPT5" --output="SD0958 Best VGM 911 - OutRun2 - Splash Wave's comments (YT ID NGJp1-tPT5).json"
+echo "Archiving SD video 959, Best VGM 912 - Super Mario 64 - Ultimate Koopa's comments (YouTube id Ubu3U44i5I...)"
+python downloader.py --youtubeid="Ubu3U44i5I" --output="SD0959 Best VGM 912 - Super Mario 64 - Ultimate Koopa's comments (YT ID Ubu3U44i5I).json"
+echo "Archiving SD video 960, Best VGM 913 - Eternal Champions - Character Bios's comments (YouTube id DZQ1P_oafJ...)"
+python downloader.py --youtubeid="DZQ1P_oafJ" --output="SD0960 Best VGM 913 - Eternal Champions - Character Bios's comments (YT ID DZQ1P_oafJ).json"
+echo "Archiving SD video 961, Best VGM 914 - Mega Man 2 - Metal Man Stage's comments (YouTube id jXGaW3dKaH...)"
+python downloader.py --youtubeid="jXGaW3dKaH" --output="SD0961 Best VGM 914 - Mega Man 2 - Metal Man Stage's comments (YT ID jXGaW3dKaH).json"
+echo "Archiving SD video 962, Best VGM 915 - Legend of Mana - Hometown Domina's comments (YouTube id ki_ralGwQN...)"
+python downloader.py --youtubeid="ki_ralGwQN" --output="SD0962 Best VGM 915 - Legend of Mana - Hometown Domina's comments (YT ID ki_ralGwQN).json"
+echo "Archiving SD video 963, Best VGM 916 - Perfect Dark - Alien Conflict's comments (YouTube id wPZgCJwBSg...)"
+python downloader.py --youtubeid="wPZgCJwBSg" --output="SD0963 Best VGM 916 - Perfect Dark - Alien Conflict's comments (YT ID wPZgCJwBSg).json"
+echo "Archiving SD video 964, Best VGM 917 - Mass Effect 2 - Suicide Mission's comments (YouTube id AkKMlbmq6m...)"
+python downloader.py --youtubeid="AkKMlbmq6m" --output="SD0964 Best VGM 917 - Mass Effect 2 - Suicide Mission's comments (YT ID AkKMlbmq6m).json"
+echo "Archiving SD video 965, Best VGM 918 - Tales of Graces - Crush that Steel!'s comments (YouTube id 1s7lAVqC0P...)"
+python downloader.py --youtubeid="1s7lAVqC0P" --output="SD0965 Best VGM 918 - Tales of Graces - Crush that Steel!'s comments (YT ID 1s7lAVqC0P).json"
+echo "Archiving SD video 966, Best VGM 920 - Zelda II : The Adventure of Link - Town's comments (YouTube id pETxZAqgYg...)"
+python downloader.py --youtubeid="pETxZAqgYg" --output="SD0966 Best VGM 920 - Zelda II : The Adventure of Link - Town's comments (YT ID pETxZAqgYg).json"
+echo "Archiving SD video 967, Best VGM 921 - Soul Calibur II - Raise Thy Sword (Nightmare's Theme)'s comments (YouTube id Z-LAcjwV74...)"
+python downloader.py --youtubeid="Z-LAcjwV74" --output="SD0967 Best VGM 921 - Soul Calibur II - Raise Thy Sword (Nightmare's Theme)'s comments (YT ID Z-LAcjwV74).json"
+echo "Archiving SD video 968, Best VGM 922 - Plok - Creepy Forest's comments (YouTube id YzELBO_3Hz...)"
+python downloader.py --youtubeid="YzELBO_3Hz" --output="SD0968 Best VGM 922 - Plok - Creepy Forest's comments (YT ID YzELBO_3Hz).json"
+echo "Archiving SD video 969, Best VGM 923 - Astal - The Crystal Palace's comments (YouTube id vCqkxI9eu4...)"
+python downloader.py --youtubeid="vCqkxI9eu4" --output="SD0969 Best VGM 923 - Astal - The Crystal Palace's comments (YT ID vCqkxI9eu4).json"
+echo "Archiving SD video 970, Best VGM 924 - Donkey Kong Country - Ice Cave Chant's comments (YouTube id CoQrXSc_PP...)"
+python downloader.py --youtubeid="CoQrXSc_PP" --output="SD0970 Best VGM 924 - Donkey Kong Country - Ice Cave Chant's comments (YT ID CoQrXSc_PP).json"
+echo "Archiving SD video 971, Best VGM 925 - Machinarium - By The Wall's comments (YouTube id _OM5A6JwHi...)"
+python downloader.py --youtubeid="_OM5A6JwHi" --output="SD0971 Best VGM 925 - Machinarium - By The Wall's comments (YT ID _OM5A6JwHi).json"
+echo "Archiving SD video 972, Best VGM 926 - Sonic Colors - Aquarium Park Act 1's comments (YouTube id 1gZaH16gqg...)"
+python downloader.py --youtubeid="1gZaH16gqg" --output="SD0972 Best VGM 926 - Sonic Colors - Aquarium Park Act 1's comments (YT ID 1gZaH16gqg).json"
+echo "Archiving SD video 973, Best VGM 927 - SimCity 4 - Epicentre's comments (YouTube id 02VD6G-JD4...)"
+python downloader.py --youtubeid="02VD6G-JD4" --output="SD0973 Best VGM 927 - SimCity 4 - Epicentre's comments (YT ID 02VD6G-JD4).json"
+echo "Archiving SD video 974, Best VGM 928 - Lethal Weapon - Mission 4's comments (YouTube id a8hAxP__AK...)"
+python downloader.py --youtubeid="a8hAxP__AK" --output="SD0974 Best VGM 928 - Lethal Weapon - Mission 4's comments (YT ID a8hAxP__AK).json"
+echo "Archiving SD video 975, Best VGM 929 - Dragon Quest VIII - Overture (Series' 25th Anniversary)'s comments (YouTube id dyFj_MfRg3...)"
+python downloader.py --youtubeid="dyFj_MfRg3" --output="SD0975 Best VGM 929 - Dragon Quest VIII - Overture (Series' 25th Anniversary)'s comments (YT ID dyFj_MfRg3).json"
+echo "Archiving SD video 976, Best VGM 931 - Breath of Fire IV - Truth and Dreams's comments (YouTube id pgacxbSdOb...)"
+python downloader.py --youtubeid="pgacxbSdOb" --output="SD0976 Best VGM 931 - Breath of Fire IV - Truth and Dreams's comments (YT ID pgacxbSdOb).json"
+echo "Archiving SD video 977, Best VGM 932 - Punch-Out!! - Fight Music's comments (YouTube id 1R1-hXIeiK...)"
+python downloader.py --youtubeid="1R1-hXIeiK" --output="SD0977 Best VGM 932 - Punch-Out!! - Fight Music's comments (YT ID 1R1-hXIeiK).json"
+echo "Archiving SD video 978, Best VGM 933 - Ristar - Ice Scream (Round 5-2)'s comments (YouTube id 01n8imWdT6...)"
+python downloader.py --youtubeid="01n8imWdT6" --output="SD0978 Best VGM 933 - Ristar - Ice Scream (Round 5-2)'s comments (YT ID 01n8imWdT6).json"
+echo "Archiving SD video 979, Best VGM 934 - Radical Dreamers - Star Stealing Girl's comments (YouTube id u3S8CGo_kl...)"
+python downloader.py --youtubeid="u3S8CGo_kl" --output="SD0979 Best VGM 934 - Radical Dreamers - Star Stealing Girl's comments (YT ID u3S8CGo_kl).json"
+echo "Archiving SD video 980, Chrono Cross - Star Stealing Girl's comments (YouTube id 7GFGSzlNZB...)"
+python downloader.py --youtubeid="7GFGSzlNZB" --output="SD0980 Chrono Cross - Star Stealing Girl's comments (YT ID 7GFGSzlNZB).json"
+echo "Archiving SD video 981, Best VGM 935 - Arc the Lad IV : Twilight of the Spirits - Ordeal's comments (YouTube id 2qDajCHTkW...)"
+python downloader.py --youtubeid="2qDajCHTkW" --output="SD0981 Best VGM 935 - Arc the Lad IV : Twilight of the Spirits - Ordeal's comments (YT ID 2qDajCHTkW).json"
+echo "Archiving SD video 982, Best VGM 936 - Pokemon - Last Battle (vs Rival)'s comments (YouTube id lFOBRmPK-Q...)"
+python downloader.py --youtubeid="lFOBRmPK-Q" --output="SD0982 Best VGM 936 - Pokemon - Last Battle (vs Rival)'s comments (YT ID lFOBRmPK-Q).json"
+echo "Archiving SD video 983, Best VGM 937 - TimeSplitters 2 - Chicago's comments (YouTube id bDH8AIok0I...)"
+python downloader.py --youtubeid="bDH8AIok0I" --output="SD0983 Best VGM 937 - TimeSplitters 2 - Chicago's comments (YT ID bDH8AIok0I).json"
+echo "Archiving SD video 984, Best VGM 938 - Wave Race 64 - Main Theme's comments (YouTube id e9uvCvvlMn...)"
+python downloader.py --youtubeid="e9uvCvvlMn" --output="SD0984 Best VGM 938 - Wave Race 64 - Main Theme's comments (YT ID e9uvCvvlMn).json"
+echo "Archiving SD video 985, Best VGM 939 - Kingdom Hearts - Destati's comments (YouTube id zLXJ6l4Gxs...)"
+python downloader.py --youtubeid="zLXJ6l4Gxs" --output="SD0985 Best VGM 939 - Kingdom Hearts - Destati's comments (YT ID zLXJ6l4Gxs).json"
+echo "Archiving SD video 986, Best VGM 940 - Pikmin - The Forest Navel's comments (YouTube id rZ2sNdqELM...)"
+python downloader.py --youtubeid="rZ2sNdqELM" --output="SD0986 Best VGM 940 - Pikmin - The Forest Navel's comments (YT ID rZ2sNdqELM).json"
+echo "Archiving SD video 987, Best VGM 942 - Super Meat Boy - Can o' Salt's comments (YouTube id Nw5cfSRvFS...)"
+python downloader.py --youtubeid="Nw5cfSRvFS" --output="SD0987 Best VGM 942 - Super Meat Boy - Can o' Salt's comments (YT ID Nw5cfSRvFS).json"
+echo "Archiving SD video 988, Best VGM 943 - Super Mario World - Overworld's comments (YouTube id hMd5T_RlE_...)"
+python downloader.py --youtubeid="hMd5T_RlE_" --output="SD0988 Best VGM 943 - Super Mario World - Overworld's comments (YT ID hMd5T_RlE_).json"
+echo "Archiving SD video 989, Best VGM 944 - Ridge Racer Type 4 - Move Me's comments (YouTube id elvSWFGFOQ...)"
+python downloader.py --youtubeid="elvSWFGFOQ" --output="SD0989 Best VGM 944 - Ridge Racer Type 4 - Move Me's comments (YT ID elvSWFGFOQ).json"
+echo "Archiving SD video 990, Best VGM 945 - Zelda : Ocarina of Time - Title Theme's comments (YouTube id BSVBfElvom...)"
+python downloader.py --youtubeid="BSVBfElvom" --output="SD0990 Best VGM 945 - Zelda : Ocarina of Time - Title Theme's comments (YT ID BSVBfElvom).json"
+echo "Archiving SD video 991, Best VGM 946 - Shining Hearts - Seashore Wind's comments (YouTube id zojcLdL7UT...)"
+python downloader.py --youtubeid="zojcLdL7UT" --output="SD0991 Best VGM 946 - Shining Hearts - Seashore Wind's comments (YT ID zojcLdL7UT).json"
+echo "Archiving SD video 992, Best VGM 947 - Metroid Prime 2 : Echoes - Torvus Bog's comments (YouTube id zO9y6EH6jV...)"
+python downloader.py --youtubeid="zO9y6EH6jV" --output="SD0992 Best VGM 947 - Metroid Prime 2 : Echoes - Torvus Bog's comments (YT ID zO9y6EH6jV).json"
+echo "Archiving SD video 993, Best VGM 948 - Marvel vs Capcom 3 - Theme of Dr. Doom's comments (YouTube id sl22D3F195...)"
+python downloader.py --youtubeid="sl22D3F195" --output="SD0993 Best VGM 948 - Marvel vs Capcom 3 - Theme of Dr. Doom's comments (YT ID sl22D3F195).json"
+echo "Archiving SD video 994, Best VGM 949 - Ace Combat 5 : The Unsung War - White Bird (Part II)'s comments (YouTube id rADeZTd9qB...)"
+python downloader.py --youtubeid="rADeZTd9qB" --output="SD0994 Best VGM 949 - Ace Combat 5 : The Unsung War - White Bird (Part II)'s comments (YT ID rADeZTd9qB).json"
+echo "Archiving SD video 995, SupraDarky - Electronic City's comments (YouTube id V42HQvXXv4...)"
+python downloader.py --youtubeid="V42HQvXXv4" --output="SD0995 SupraDarky - Electronic City's comments (YT ID V42HQvXXv4).json"
+echo "Archiving SD video 996, Best VGM 950 - Super Castlevania IV - Treasury Room's comments (YouTube id h4VF0mL35a...)"
+python downloader.py --youtubeid="h4VF0mL35a" --output="SD0996 Best VGM 950 - Super Castlevania IV - Treasury Room's comments (YT ID h4VF0mL35a).json"
+echo "Archiving SD video 997, Best VGM 951 - The Guardian Legend - Forest Labyrinth's comments (YouTube id QYnrEDKTB-...)"
+python downloader.py --youtubeid="QYnrEDKTB-" --output="SD0997 Best VGM 951 - The Guardian Legend - Forest Labyrinth's comments (YT ID QYnrEDKTB-).json"
+echo "Archiving SD video 998, Best VGM 952 - Grandia II - Fight!! Ver.1's comments (YouTube id uxETfaBcSY...)"
+python downloader.py --youtubeid="uxETfaBcSY" --output="SD0998 Best VGM 952 - Grandia II - Fight!! Ver.1's comments (YT ID uxETfaBcSY).json"
+echo "Archiving SD video 999, Best VGM 953 - Umineko no Naku Koro ni - dreamenddischarger's comments (YouTube id 3vYAXZs8pF...)"
+python downloader.py --youtubeid="3vYAXZs8pF" --output="SD0999 Best VGM 953 - Umineko no Naku Koro ni - dreamenddischarger's comments (YT ID 3vYAXZs8pF).json"
+echo "Archiving SD video 1000, Best VGM 954 - Mega Man 3 - Top Man Stage's comments (YouTube id OYr-B_KWM5...)"
+python downloader.py --youtubeid="OYr-B_KWM5" --output="SD1000 Best VGM 954 - Mega Man 3 - Top Man Stage's comments (YT ID OYr-B_KWM5).json"
+echo "Archiving SD video 1001, Best VGM 955 - Croc 2 - The Mine's comments (YouTube id H3fQtYVwpx...)"
+python downloader.py --youtubeid="H3fQtYVwpx" --output="SD1001 Best VGM 955 - Croc 2 - The Mine's comments (YT ID H3fQtYVwpx).json"
+echo "Archiving SD video 1002, Best VGM 956 - Cladun : This is an RPG - Knight of a Foreign Country's comments (YouTube id R6BoWeWh2F...)"
+python downloader.py --youtubeid="R6BoWeWh2F" --output="SD1002 Best VGM 956 - Cladun : This is an RPG - Knight of a Foreign Country's comments (YT ID R6BoWeWh2F).json"
+echo "Archiving SD video 1003, Best VGM 957 - Super Mario RPG - The Road is Full of Dangers's comments (YouTube id ytp_EVRf8_...)"
+python downloader.py --youtubeid="ytp_EVRf8_" --output="SD1003 Best VGM 957 - Super Mario RPG - The Road is Full of Dangers's comments (YT ID ytp_EVRf8_).json"
+echo "Archiving SD video 1004, Best VGM 958 - Pop'n Music 7 - Twilight Gloom's comments (YouTube id d0akzKhBl2...)"
+python downloader.py --youtubeid="d0akzKhBl2" --output="SD1004 Best VGM 958 - Pop'n Music 7 - Twilight Gloom's comments (YT ID d0akzKhBl2).json"
+echo "Archiving SD video 1005, Best VGM 960 - Xenosaga II - Old Miltia (Submerged City)'s comments (YouTube id 3Y8toBvkRp...)"
+python downloader.py --youtubeid="3Y8toBvkRp" --output="SD1005 Best VGM 960 - Xenosaga II - Old Miltia (Submerged City)'s comments (YT ID 3Y8toBvkRp).json"
+echo "Archiving SD video 1006, Best VGM 961 - Terraria - Underground's comments (YouTube id 4HHlWg5iZD...)"
+python downloader.py --youtubeid="4HHlWg5iZD" --output="SD1006 Best VGM 961 - Terraria - Underground's comments (YT ID 4HHlWg5iZD).json"
+echo "Archiving SD video 1007, Best VGM 962 - Super Smash Bros. Brawl - Main Theme's comments (YouTube id e6cvikWAAE...)"
+python downloader.py --youtubeid="e6cvikWAAE" --output="SD1007 Best VGM 962 - Super Smash Bros. Brawl - Main Theme's comments (YT ID e6cvikWAAE).json"
+echo "Archiving SD video 1008, Best VGM 963 - MediEvil - The Haunted Ruins's comments (YouTube id K_jigRSuN-...)"
+python downloader.py --youtubeid="K_jigRSuN-" --output="SD1008 Best VGM 963 - MediEvil - The Haunted Ruins's comments (YT ID K_jigRSuN-).json"
+echo "Archiving SD video 1009, Best VGM 964 - Chrono Trigger - Schala's Theme's comments (YouTube id R1DRTdnR0q...)"
+python downloader.py --youtubeid="R1DRTdnR0q" --output="SD1009 Best VGM 964 - Chrono Trigger - Schala's Theme's comments (YT ID R1DRTdnR0q).json"
+echo "Archiving SD video 1010, Best VGM 965 - The Smurfs' Nightmare - Another World (The Mysterious Planet)'s comments (YouTube id LlokRNcURK...)"
+python downloader.py --youtubeid="LlokRNcURK" --output="SD1010 Best VGM 965 - The Smurfs' Nightmare - Another World (The Mysterious Planet)'s comments (YT ID LlokRNcURK).json"
+echo "Archiving SD video 1011, Alberto Jose Gonzalez - Another World's comments (YouTube id Y6B5CRwbth...)"
+python downloader.py --youtubeid="Y6B5CRwbth" --output="SD1011 Alberto Jose Gonzalez - Another World's comments (YT ID Y6B5CRwbth).json"
+echo "Archiving SD video 1012, Best VGM 966 - King of Fighters 2002 Unlimited Match - Ж  (Nameless' Theme)'s comments (YouTube id ARTuLmKjA7...)"
+python downloader.py --youtubeid="ARTuLmKjA7" --output="SD1012 Best VGM 966 - King of Fighters 2002 Unlimited Match - Ж  (Nameless' Theme)'s comments (YT ID ARTuLmKjA7).json"
+echo "Archiving SD video 1013, Best VGM 967 - Catherine - It's a Golden Show's comments (YouTube id 2bd4NId7Gi...)"
+python downloader.py --youtubeid="2bd4NId7Gi" --output="SD1013 Best VGM 967 - Catherine - It's a Golden Show's comments (YT ID 2bd4NId7Gi).json"
+echo "Archiving SD video 1014, Best VGM 968 - Zelda : Majora's Mask - Clock Town, First Day's comments (YouTube id X8CGqt3N4G...)"
+python downloader.py --youtubeid="X8CGqt3N4G" --output="SD1014 Best VGM 968 - Zelda : Majora's Mask - Clock Town, First Day's comments (YT ID X8CGqt3N4G).json"
+echo "Archiving SD video 1015, Best VGM 970 - Eternal Darkness - Black Rose's comments (YouTube id mbPpGeTPbj...)"
+python downloader.py --youtubeid="mbPpGeTPbj" --output="SD1015 Best VGM 970 - Eternal Darkness - Black Rose's comments (YT ID mbPpGeTPbj).json"
+echo "Archiving SD video 1016, Best VGM 971 - Super Bonk - Twilight Space's comments (YouTube id YJcuMHvodN...)"
+python downloader.py --youtubeid="YJcuMHvodN" --output="SD1016 Best VGM 971 - Super Bonk - Twilight Space's comments (YT ID YJcuMHvodN).json"
+echo "Archiving SD video 1017, Best VGM 972 - Emil Chronicle Online - Over the Infinite Helix's comments (YouTube id 0_8CS1mrfF...)"
+python downloader.py --youtubeid="0_8CS1mrfF" --output="SD1017 Best VGM 972 - Emil Chronicle Online - Over the Infinite Helix's comments (YT ID 0_8CS1mrfF).json"
+echo "Archiving SD video 1018, Best VGM 973 - Super Mario Galaxy 2 - Magma Monster / Melty Monster Galaxy's comments (YouTube id QtW1BBAufv...)"
+python downloader.py --youtubeid="QtW1BBAufv" --output="SD1018 Best VGM 973 - Super Mario Galaxy 2 - Magma Monster / Melty Monster Galaxy's comments (YT ID QtW1BBAufv).json"
+echo "Archiving SD video 1019, Best VGM 974 - Katamari Damacy - Katamari Stars's comments (YouTube id fjNJqcuFD-...)"
+python downloader.py --youtubeid="fjNJqcuFD-" --output="SD1019 Best VGM 974 - Katamari Damacy - Katamari Stars's comments (YT ID fjNJqcuFD-).json"
+echo "Archiving SD video 1020, Best VGM 975 - Lunar : Dragon Song - Battle Against Dragons (Trials)'s comments (YouTube id Q1TnrjE909...)"
+python downloader.py --youtubeid="Q1TnrjE909" --output="SD1020 Best VGM 975 - Lunar : Dragon Song - Battle Against Dragons (Trials)'s comments (YT ID Q1TnrjE909).json"
+echo "Archiving SD video 1021, Best VGM 976 - Super Dodge Ball - Opposition Match Theme's comments (YouTube id bO2wTaoCgu...)"
+python downloader.py --youtubeid="bO2wTaoCgu" --output="SD1021 Best VGM 976 - Super Dodge Ball - Opposition Match Theme's comments (YT ID bO2wTaoCgu).json"
+echo "Archiving SD video 1022, Best VGM 977 - Golden Sun - Vale's comments (YouTube id XMc9xjrnyS...)"
+python downloader.py --youtubeid="XMc9xjrnyS" --output="SD1022 Best VGM 977 - Golden Sun - Vale's comments (YT ID XMc9xjrnyS).json"
+echo "Archiving SD video 1023, Best VGM 978 - Torchlight - Town's comments (YouTube id ccHauz5l5K...)"
+python downloader.py --youtubeid="ccHauz5l5K" --output="SD1023 Best VGM 978 - Torchlight - Town's comments (YT ID ccHauz5l5K).json"
+echo "Archiving SD video 1024, Best VGM 979 - Metroid - Brinstar (Series' 25th Anniversary)'s comments (YouTube id ML-kTPHnwK...)"
+python downloader.py --youtubeid="ML-kTPHnwK" --output="SD1024 Best VGM 979 - Metroid - Brinstar (Series' 25th Anniversary)'s comments (YT ID ML-kTPHnwK).json"
+echo "Archiving SD video 1025, Best VGM 980 - Wild Arms 2 - First Opening - You'll Never Be Alone's comments (YouTube id ft5DP1h8js...)"
+python downloader.py --youtubeid="ft5DP1h8js" --output="SD1025 Best VGM 980 - Wild Arms 2 - First Opening - You'll Never Be Alone's comments (YT ID ft5DP1h8js).json"
+echo "Archiving SD video 1026, Best VGM 981 - Valkyria Chronicles 3 - Damn It !'s comments (YouTube id dSwUFI18s7...)"
+python downloader.py --youtubeid="dSwUFI18s7" --output="SD1026 Best VGM 981 - Valkyria Chronicles 3 - Damn It !'s comments (YT ID dSwUFI18s7).json"
+echo "Archiving SD video 1027, Best VGM 982 - Crystal Beans from Dungeon Explorer - Floating Tower's comments (YouTube id VfvadCcVXC...)"
+python downloader.py --youtubeid="VfvadCcVXC" --output="SD1027 Best VGM 982 - Crystal Beans from Dungeon Explorer - Floating Tower's comments (YT ID VfvadCcVXC).json"
+echo "Archiving SD video 1028, Best VGM 983 - Minecraft - Sweden (Calm 3)'s comments (YouTube id -GouzQ8y5C...)"
+python downloader.py --youtubeid="-GouzQ8y5C" --output="SD1028 Best VGM 983 - Minecraft - Sweden (Calm 3)'s comments (YT ID -GouzQ8y5C).json"
+echo "Archiving SD video 1029, Best VGM 984 - Xenoblade Chronicles - Snowy Valak Mountain ~ Night's comments (YouTube id roRsBf_kQp...)"
+python downloader.py --youtubeid="roRsBf_kQp" --output="SD1029 Best VGM 984 - Xenoblade Chronicles - Snowy Valak Mountain ~ Night's comments (YT ID roRsBf_kQp).json"
+echo "Archiving SD video 1030, Best VGM 985 - The Last Story - Timbre of the City's comments (YouTube id -LLr-88UG1...)"
+python downloader.py --youtubeid="-LLr-88UG1" --output="SD1030 Best VGM 985 - The Last Story - Timbre of the City's comments (YT ID -LLr-88UG1).json"
+echo "Archiving SD video 1031, Best VGM 986 - Pandora's Tower - Final Boss's comments (YouTube id feZJtZnevA...)"
+python downloader.py --youtubeid="feZJtZnevA" --output="SD1031 Best VGM 986 - Pandora's Tower - Final Boss's comments (YT ID feZJtZnevA).json"
+echo "Archiving SD video 1032, SupraDarky - Trippin''s comments (YouTube id y2ZrrKgzbo...)"
+python downloader.py --youtubeid="y2ZrrKgzbo" --output="SD1032 SupraDarky - Trippin''s comments (YT ID y2ZrrKgzbo).json"
+echo "Archiving SD video 1033, SupraDarky - Frrozzen Echoes's comments (YouTube id 17W3t5cERn...)"
+python downloader.py --youtubeid="17W3t5cERn" --output="SD1033 SupraDarky - Frrozzen Echoes's comments (YT ID 17W3t5cERn).json"
+echo "Archiving SD video 1034, Best VGM 987 - Child of Eden - Evolution's comments (YouTube id ZrDAjeoPR7...)"
+python downloader.py --youtubeid="ZrDAjeoPR7" --output="SD1034 Best VGM 987 - Child of Eden - Evolution's comments (YT ID ZrDAjeoPR7).json"
+echo "Archiving SD video 1035, Best VGM 988 - Digital : A Love Story - Paper Dolls's comments (YouTube id 1_8u5eDjEw...)"
+python downloader.py --youtubeid="1_8u5eDjEw" --output="SD1035 Best VGM 988 - Digital : A Love Story - Paper Dolls's comments (YT ID 1_8u5eDjEw).json"
+echo "Archiving SD video 1036, Best VGM 989 - Donkey Kong Land - Track Attack (Clouds)'s comments (YouTube id S3k1zdbBhR...)"
+python downloader.py --youtubeid="S3k1zdbBhR" --output="SD1036 Best VGM 989 - Donkey Kong Land - Track Attack (Clouds)'s comments (YT ID S3k1zdbBhR).json"
+echo "Archiving SD video 1037, Best VGM 990 - Secret of Evermore - Horace's comments (YouTube id EHAbZoBjQE...)"
+python downloader.py --youtubeid="EHAbZoBjQE" --output="SD1037 Best VGM 990 - Secret of Evermore - Horace's comments (YT ID EHAbZoBjQE).json"
+echo "Archiving SD video 1038, Best VGM 991 - Breath of Death VII - Graves (Parameter)'s comments (YouTube id WLorUNfzJy...)"
+python downloader.py --youtubeid="WLorUNfzJy" --output="SD1038 Best VGM 991 - Breath of Death VII - Graves (Parameter)'s comments (YT ID WLorUNfzJy).json"
+echo "Archiving SD video 1039, Best VGM 992 - La Pucelle : Tactics - Solitaire's comments (YouTube id m2q8wtFHby...)"
+python downloader.py --youtubeid="m2q8wtFHby" --output="SD1039 Best VGM 992 - La Pucelle : Tactics - Solitaire's comments (YT ID m2q8wtFHby).json"
+echo "Archiving SD video 1040, Best VGM 993 - Jets 'N' Guns - Koala In The Spider's Web's comments (YouTube id 1CJ69ZxnVO...)"
+python downloader.py --youtubeid="1CJ69ZxnVO" --output="SD1040 Best VGM 993 - Jets 'N' Guns - Koala In The Spider's Web's comments (YT ID 1CJ69ZxnVO).json"
+echo "Archiving SD video 1041, Best VGM 995 - Zelda : Twilight Princess - Don't Want You No More (Orchestra Piece #1)'s comments (YouTube id S87W-Rnag1...)"
+python downloader.py --youtubeid="S87W-Rnag1" --output="SD1041 Best VGM 995 - Zelda : Twilight Princess - Don't Want You No More (Orchestra Piece #1)'s comments (YT ID S87W-Rnag1).json"
+echo "Archiving SD video 1042, Best VGM 996 - Tower of Heaven - Indignant Divinity's comments (YouTube id 9v_B9wv_qT...)"
+python downloader.py --youtubeid="9v_B9wv_qT" --output="SD1042 Best VGM 996 - Tower of Heaven - Indignant Divinity's comments (YT ID 9v_B9wv_qT).json"
+echo "Archiving SD video 1043, Send Me Your VG Related Photo for Best VGM 1000 !'s comments (YouTube id sh77w1M4h1...)"
+python downloader.py --youtubeid="sh77w1M4h1" --output="SD1043 Send Me Your VG Related Photo for Best VGM 1000 !'s comments (YT ID sh77w1M4h1).json"
+echo "Archiving SD video 1044, Best VGM 997 - Sakura Taisen : Atsuki Chishio Ni - Main Theme's comments (YouTube id WeVAeMWeFN...)"
+python downloader.py --youtubeid="WeVAeMWeFN" --output="SD1044 Best VGM 997 - Sakura Taisen : Atsuki Chishio Ni - Main Theme's comments (YT ID WeVAeMWeFN).json"
+echo "Archiving SD video 1045, Best VGM 998 - E.T. : Return to the Green Planet - Return to the Village's comments (YouTube id 1RBvXjg_QA...)"
+python downloader.py --youtubeid="1RBvXjg_QA" --output="SD1045 Best VGM 998 - E.T. : Return to the Green Planet - Return to the Village's comments (YT ID 1RBvXjg_QA).json"
+echo "Archiving SD video 1046, Best VGM 999 - Super Mario 64 - Cave Dungeon's comments (YouTube id nuXnaXgt2M...)"
+python downloader.py --youtubeid="nuXnaXgt2M" --output="SD1046 Best VGM 999 - Super Mario 64 - Cave Dungeon's comments (YT ID nuXnaXgt2M).json"
+echo "Archiving SD video 1047, The Deadline is Tomorrow !'s comments (YouTube id DRN7inTDMG...)"
+python downloader.py --youtubeid="DRN7inTDMG" --output="SD1047 The Deadline is Tomorrow !'s comments (YT ID DRN7inTDMG).json"
+echo "Archiving SD video 1048, Best VGM 1000 - Earthbound - Smiles and Tears's comments (YouTube id jaG1I-7dYv...)"
+python downloader.py --youtubeid="jaG1I-7dYv" --output="SD1048 Best VGM 1000 - Earthbound - Smiles and Tears's comments (YT ID jaG1I-7dYv).json"
+echo "Archiving SD video 1049, I Now Have Twitter !'s comments (YouTube id 8vBd21GN-y...)"
+python downloader.py --youtubeid="8vBd21GN-y" --output="SD1049 I Now Have Twitter !'s comments (YT ID 8vBd21GN-y).json"
+echo "Archiving SD video 1050, Tribute to Video Game Music (4 Years Anniversary!)'s comments (YouTube id uq4ifSc7MS...)"
+python downloader.py --youtubeid="uq4ifSc7MS" --output="SD1050 Tribute to Video Game Music (4 Years Anniversary!)'s comments (YT ID uq4ifSc7MS).json"
+echo "Archiving SD video 1051, Best VGM 1001 - Wild Arms Alter Code F - Town Theme's comments (YouTube id -TG5VLGPdR...)"
+python downloader.py --youtubeid="-TG5VLGPdR" --output="SD1051 Best VGM 1001 - Wild Arms Alter Code F - Town Theme's comments (YT ID -TG5VLGPdR).json"
+echo "Archiving SD video 1052, Best VGM 1002 - Chrono Cross - Dead Sea's comments (YouTube id e-r3yVxzwe...)"
+python downloader.py --youtubeid="e-r3yVxzwe" --output="SD1052 Best VGM 1002 - Chrono Cross - Dead Sea's comments (YT ID e-r3yVxzwe).json"
+echo "Archiving SD video 1053, Best VGM 1003 - Mega Man & Bass - Museum (Opening Stage)'s comments (YouTube id 52f2DQl8eG...)"
+python downloader.py --youtubeid="52f2DQl8eG" --output="SD1053 Best VGM 1003 - Mega Man & Bass - Museum (Opening Stage)'s comments (YT ID 52f2DQl8eG).json"
+echo "Archiving SD video 1054, Best VGM 1004 - Spyro : A Hero's Tail - Cloudy Domain's comments (YouTube id _thDGKkVgI...)"
+python downloader.py --youtubeid="_thDGKkVgI" --output="SD1054 Best VGM 1004 - Spyro : A Hero's Tail - Cloudy Domain's comments (YT ID _thDGKkVgI).json"
+echo "Archiving SD video 1055, Best VGM 1005 - Nintendo World Cup - Multiplayer Match's comments (YouTube id TVKAMsRwIU...)"
+python downloader.py --youtubeid="TVKAMsRwIU" --output="SD1055 Best VGM 1005 - Nintendo World Cup - Multiplayer Match's comments (YT ID TVKAMsRwIU).json"
+echo "Archiving SD video 1056, Best VGM 1007 - Cthulhu Saves the World - Existence Collapses (Final Boss)'s comments (YouTube id ooohjN5k5Q...)"
+python downloader.py --youtubeid="ooohjN5k5Q" --output="SD1056 Best VGM 1007 - Cthulhu Saves the World - Existence Collapses (Final Boss)'s comments (YT ID ooohjN5k5Q).json"
+echo "Archiving SD video 1057, Best VGM 1008 - Castlevania - Heart of Fire's comments (YouTube id r5A1MkzCX-...)"
+python downloader.py --youtubeid="r5A1MkzCX-" --output="SD1057 Best VGM 1008 - Castlevania - Heart of Fire's comments (YT ID r5A1MkzCX-).json"
+echo "Archiving SD video 1058, Best VGM 1009 - Ms. Pac-Man Maze Madness - Haunted Halloween's comments (YouTube id 4RPbxVl6z5...)"
+python downloader.py --youtubeid="4RPbxVl6z5" --output="SD1058 Best VGM 1009 - Ms. Pac-Man Maze Madness - Haunted Halloween's comments (YT ID 4RPbxVl6z5).json"
+echo "Archiving SD video 1059, Best VGM 1010 - Kirby's Epic Yarn - Dark Manor's comments (YouTube id BMpvrfwD7H...)"
+python downloader.py --youtubeid="BMpvrfwD7H" --output="SD1059 Best VGM 1010 - Kirby's Epic Yarn - Dark Manor's comments (YT ID BMpvrfwD7H).json"
+echo "Archiving SD video 1060, Best VGM 1011 - Dragon Quest V - Monsters in the Dungeon's comments (YouTube id 7RDRhAKsLH...)"
+python downloader.py --youtubeid="7RDRhAKsLH" --output="SD1060 Best VGM 1011 - Dragon Quest V - Monsters in the Dungeon's comments (YT ID 7RDRhAKsLH).json"
+echo "Archiving SD video 1061, Best VGM 1012 - Pop'n Music 2 - Don't Disturb's comments (YouTube id ucXYUeyQ6i...)"
+python downloader.py --youtubeid="ucXYUeyQ6i" --output="SD1061 Best VGM 1012 - Pop'n Music 2 - Don't Disturb's comments (YT ID ucXYUeyQ6i).json"
+echo "Archiving SD video 1062, Best VGM 1013 - Assassin's Creed II - Earth's comments (YouTube id MffE4TpsHt...)"
+python downloader.py --youtubeid="MffE4TpsHt" --output="SD1062 Best VGM 1013 - Assassin's Creed II - Earth's comments (YT ID MffE4TpsHt).json"
+echo "Archiving SD video 1063, Dragon Quest V Symphonic Suite - Monsters in the Dungeon's comments (YouTube id sNqZidSXMV...)"
+python downloader.py --youtubeid="sNqZidSXMV" --output="SD1063 Dragon Quest V Symphonic Suite - Monsters in the Dungeon's comments (YT ID sNqZidSXMV).json"
+echo "Archiving SD video 1064, Best VGM 1014 - Secret of Mana - Meridian Dance's comments (YouTube id 8qy4-VeSnY...)"
+python downloader.py --youtubeid="8qy4-VeSnY" --output="SD1064 Best VGM 1014 - Secret of Mana - Meridian Dance's comments (YT ID 8qy4-VeSnY).json"
+echo "Archiving SD video 1065, Best VGM 1015 - Lode Runner 3-D - Bonus Stage's comments (YouTube id C8aVq5yQPD...)"
+python downloader.py --youtubeid="C8aVq5yQPD" --output="SD1065 Best VGM 1015 - Lode Runner 3-D - Bonus Stage's comments (YT ID C8aVq5yQPD).json"
+echo "Archiving SD video 1066, Best VGM 1016 - NieR - Grandma's comments (YouTube id MTThoxoAVo...)"
+python downloader.py --youtubeid="MTThoxoAVo" --output="SD1066 Best VGM 1016 - NieR - Grandma's comments (YT ID MTThoxoAVo).json"
+echo "Archiving SD video 1067, Best VGM 1017 - SpaceChem - A New World's comments (YouTube id zawNmXL36z...)"
+python downloader.py --youtubeid="zawNmXL36z" --output="SD1067 Best VGM 1017 - SpaceChem - A New World's comments (YT ID zawNmXL36z).json"
+echo "Archiving SD video 1068, Best VGM 1018 - Super Adventure Island - Dark Castle of Living Things's comments (YouTube id Os2q1_Pkgz...)"
+python downloader.py --youtubeid="Os2q1_Pkgz" --output="SD1068 Best VGM 1018 - Super Adventure Island - Dark Castle of Living Things's comments (YT ID Os2q1_Pkgz).json"
+echo "Archiving SD video 1069, Best VGM 1019 - Sonic Triple Trouble - Sunset Park Act 3's comments (YouTube id ny2ludAFSt...)"
+python downloader.py --youtubeid="ny2ludAFSt" --output="SD1069 Best VGM 1019 - Sonic Triple Trouble - Sunset Park Act 3's comments (YT ID ny2ludAFSt).json"
+echo "Archiving SD video 1070, Best VGM 1020 - Unreal Tournament 2003 & 2004 - Level 5's comments (YouTube id 8IVlnImPqQ...)"
+python downloader.py --youtubeid="8IVlnImPqQ" --output="SD1070 Best VGM 1020 - Unreal Tournament 2003 & 2004 - Level 5's comments (YT ID 8IVlnImPqQ).json"
+echo "Archiving SD video 1071, Best VGM 1022 - Equinox - Atlena (Short Version)'s comments (YouTube id v_9EdBLmHc...)"
+python downloader.py --youtubeid="v_9EdBLmHc" --output="SD1071 Best VGM 1022 - Equinox - Atlena (Short Version)'s comments (YT ID v_9EdBLmHc).json"
+echo "Archiving SD video 1072, SupraDarky - Fuzion's comments (YouTube id SS_04BIqeN...)"
+python downloader.py --youtubeid="SS_04BIqeN" --output="SD1072 SupraDarky - Fuzion's comments (YT ID SS_04BIqeN).json"
+echo "Archiving SD video 1073, Best VGM 1023 - Threads of Fate - Rasdan's comments (YouTube id 16e2Okdc-P...)"
+python downloader.py --youtubeid="16e2Okdc-P" --output="SD1073 Best VGM 1023 - Threads of Fate - Rasdan's comments (YT ID 16e2Okdc-P).json"
+echo "Archiving SD video 1074, Best VGM 1024 - Dark Souls - Great Grey Wolf Sif's comments (YouTube id zsuBQNO7tp...)"
+python downloader.py --youtubeid="zsuBQNO7tp" --output="SD1074 Best VGM 1024 - Dark Souls - Great Grey Wolf Sif's comments (YT ID zsuBQNO7tp).json"
+echo "Archiving SD video 1075, Best VGM 1025 - Guardian of Paradise - The Mountains's comments (YouTube id SXQsmY_Px8...)"
+python downloader.py --youtubeid="SXQsmY_Px8" --output="SD1075 Best VGM 1025 - Guardian of Paradise - The Mountains's comments (YT ID SXQsmY_Px8).json"
+echo "Archiving SD video 1076, Best VGM 1026 - NeoTokyo - Beacon's comments (YouTube id C7r8sJbeOJ...)"
+python downloader.py --youtubeid="C7r8sJbeOJ" --output="SD1076 Best VGM 1026 - NeoTokyo - Beacon's comments (YT ID C7r8sJbeOJ).json"
+echo "Archiving SD video 1077, Best VGM 1027 - Zelda : Skyward Sword - Skyloft's comments (YouTube id aci_luVBju...)"
+python downloader.py --youtubeid="aci_luVBju" --output="SD1077 Best VGM 1027 - Zelda : Skyward Sword - Skyloft's comments (YT ID aci_luVBju).json"
+echo "Archiving SD video 1078, Best VGM 1028 - Machinarium - The Glasshouse With Butterfly's comments (YouTube id QiX-xWrkNZ...)"
+python downloader.py --youtubeid="QiX-xWrkNZ" --output="SD1078 Best VGM 1028 - Machinarium - The Glasshouse With Butterfly's comments (YT ID QiX-xWrkNZ).json"
+echo "Archiving SD video 1079, Best VGM 1029 - Street Fighter 2010 - Planet 1, Area 3's comments (YouTube id cwmHupo9oS...)"
+python downloader.py --youtubeid="cwmHupo9oS" --output="SD1079 Best VGM 1029 - Street Fighter 2010 - Planet 1, Area 3's comments (YT ID cwmHupo9oS).json"
+echo "Archiving SD video 1080, Best VGM 1030 - SaGa Frontier II - Weltall's comments (YouTube id IUAZtA-hHs...)"
+python downloader.py --youtubeid="IUAZtA-hHs" --output="SD1080 Best VGM 1030 - SaGa Frontier II - Weltall's comments (YT ID IUAZtA-hHs).json"
+echo "Archiving SD video 1081, Best VGM 595 - Jazz Jackrabbit 2 - Pull Back the Bass's comments (YouTube id 6jp9d66QRz...)"
+python downloader.py --youtubeid="6jp9d66QRz" --output="SD1081 Best VGM 595 - Jazz Jackrabbit 2 - Pull Back the Bass's comments (YT ID 6jp9d66QRz).json"
+echo "Archiving SD video 1082, Best VGM 244 - Suikoden V - Wind of Phantom's comments (YouTube id yCLW8IXbFY...)"
+python downloader.py --youtubeid="yCLW8IXbFY" --output="SD1082 Best VGM 244 - Suikoden V - Wind of Phantom's comments (YT ID yCLW8IXbFY).json"
+echo "Archiving SD video 1083, An Invitation to a VGM Contest's comments (YouTube id l1kDWYu-FW...)"
+python downloader.py --youtubeid="l1kDWYu-FW" --output="SD1083 An Invitation to a VGM Contest's comments (YT ID l1kDWYu-FW).json"
+echo "Archiving SD video 1084, Best VGM 1031 - Portal 2 - Want You Gone's comments (YouTube id MH00uDOwD2...)"
+python downloader.py --youtubeid="MH00uDOwD2" --output="SD1084 Best VGM 1031 - Portal 2 - Want You Gone's comments (YT ID MH00uDOwD2).json"
+echo "Archiving SD video 1085, Best VGM 1032 - Tekken 5 - Ground Zero Funk's comments (YouTube id rZn6QE_iVz...)"
+python downloader.py --youtubeid="rZn6QE_iVz" --output="SD1085 Best VGM 1032 - Tekken 5 - Ground Zero Funk's comments (YT ID rZn6QE_iVz).json"
+echo "Archiving SD video 1086, Best VGM 1033 - Super Paper Mario - Floro Sapien Caverns's comments (YouTube id QdLD2Wop_3...)"
+python downloader.py --youtubeid="QdLD2Wop_3" --output="SD1086 Best VGM 1033 - Super Paper Mario - Floro Sapien Caverns's comments (YT ID QdLD2Wop_3).json"
+echo "Archiving SD video 1087, Best VGM 1034 - Wild Guns - Desolation Canyon's comments (YouTube id pDW_nN8Ekj...)"
+python downloader.py --youtubeid="pDW_nN8Ekj" --output="SD1087 Best VGM 1034 - Wild Guns - Desolation Canyon's comments (YT ID pDW_nN8Ekj).json"
+echo "Archiving SD video 1088, Best VGM 1035 - Shadow of the Colossus - The Sunlit Earth's comments (YouTube id Jb83GX7k_0...)"
+python downloader.py --youtubeid="Jb83GX7k_0" --output="SD1088 Best VGM 1035 - Shadow of the Colossus - The Sunlit Earth's comments (YT ID Jb83GX7k_0).json"
+echo "Archiving SD video 1089, Best VGM 1036 - Time Trax - Title Theme's comments (YouTube id YD19UMTxu4...)"
+python downloader.py --youtubeid="YD19UMTxu4" --output="SD1089 Best VGM 1036 - Time Trax - Title Theme's comments (YT ID YD19UMTxu4).json"
+echo "Archiving SD video 1090, Best VGM 1037 - Donkey Kong Country Returns - Palm Tree Groove's comments (YouTube id VZIA6ZoLBE...)"
+python downloader.py --youtubeid="VZIA6ZoLBE" --output="SD1090 Best VGM 1037 - Donkey Kong Country Returns - Palm Tree Groove's comments (YT ID VZIA6ZoLBE).json"
+echo "Archiving SD video 1091, Best VGM 1038 - Turok 2 (Gameboy) - Cemetary Stage's comments (YouTube id evVH7gshLs...)"
+python downloader.py --youtubeid="evVH7gshLs" --output="SD1091 Best VGM 1038 - Turok 2 (Gameboy) - Cemetary Stage's comments (YT ID evVH7gshLs).json"
+echo "Archiving SD video 1092, Best VGM 1039 - Castlevania : Portrait of Ruin - A Small Prayer's comments (YouTube id 7d8nmKL5hb...)"
+python downloader.py --youtubeid="7d8nmKL5hb" --output="SD1092 Best VGM 1039 - Castlevania : Portrait of Ruin - A Small Prayer's comments (YT ID 7d8nmKL5hb).json"
+echo "Archiving SD video 1093, Best VGM 1040 - Persona 4 - Your Affection's comments (YouTube id Ct54E7GryF...)"
+python downloader.py --youtubeid="Ct54E7GryF" --output="SD1093 Best VGM 1040 - Persona 4 - Your Affection's comments (YT ID Ct54E7GryF).json"
+echo "Archiving SD video 1094, Best VGM 1041 - Glover - Atlantis Realm, Level 3's comments (YouTube id hL7-cD9LDp...)"
+python downloader.py --youtubeid="hL7-cD9LDp" --output="SD1094 Best VGM 1041 - Glover - Atlantis Realm, Level 3's comments (YT ID hL7-cD9LDp).json"
+echo "Archiving SD video 1095, Best VGM 1042 - Bastion - Setting Sail, Coming Home (End Theme)'s comments (YouTube id IjZaRBbmVU...)"
+python downloader.py --youtubeid="IjZaRBbmVU" --output="SD1095 Best VGM 1042 - Bastion - Setting Sail, Coming Home (End Theme)'s comments (YT ID IjZaRBbmVU).json"
+echo "Archiving SD video 1096, Best VGM 1043 - Mega Man 7 - Freeze Man Stage's comments (YouTube id BxYfQBNFVS...)"
+python downloader.py --youtubeid="BxYfQBNFVS" --output="SD1096 Best VGM 1043 - Mega Man 7 - Freeze Man Stage's comments (YT ID BxYfQBNFVS).json"
+echo "Archiving SD video 1097, Best VGM 1044 - Ape Escape 3 - Wintersville (Part 1)'s comments (YouTube id MjeghICMVD...)"
+python downloader.py --youtubeid="MjeghICMVD" --output="SD1097 Best VGM 1044 - Ape Escape 3 - Wintersville (Part 1)'s comments (YT ID MjeghICMVD).json"
+echo "Archiving SD video 1098, Best VGM 1045 - Napple Tale - Snowball's comments (YouTube id 4DmNrnj6wU...)"
+python downloader.py --youtubeid="4DmNrnj6wU" --output="SD1098 Best VGM 1045 - Napple Tale - Snowball's comments (YT ID 4DmNrnj6wU).json"
+echo "Archiving SD video 1099, Best VGM 1046 - Shenmue - Christmas on Dobuita Street's comments (YouTube id qnvYRm_8Oy...)"
+python downloader.py --youtubeid="qnvYRm_8Oy" --output="SD1099 Best VGM 1046 - Shenmue - Christmas on Dobuita Street's comments (YT ID qnvYRm_8Oy).json"
+echo "Archiving SD video 1100, Best VGM 1048 - Blue Stinger - Merry Christmas's comments (YouTube id MlhPnFjCfw...)"
+python downloader.py --youtubeid="MlhPnFjCfw" --output="SD1100 Best VGM 1048 - Blue Stinger - Merry Christmas's comments (YT ID MlhPnFjCfw).json"
+echo "Archiving SD video 1101, Best VGM 1049 - Wild Arms 5 - The City Where We'll Meet Someday's comments (YouTube id P01-ckCZtC...)"
+python downloader.py --youtubeid="P01-ckCZtC" --output="SD1101 Best VGM 1049 - Wild Arms 5 - The City Where We'll Meet Someday's comments (YT ID P01-ckCZtC).json"
+echo "Archiving SD video 1102, Best VGM 1050 - Kirby's Return to Dreamland - Aurora Area (Windy Waffles)'s comments (YouTube id zB-n8fx-Di...)"
+python downloader.py --youtubeid="zB-n8fx-Di" --output="SD1102 Best VGM 1050 - Kirby's Return to Dreamland - Aurora Area (Windy Waffles)'s comments (YT ID zB-n8fx-Di).json"
+echo "Archiving SD video 1103, Best VGM 1051 - Earthworm Jim - New Junk City's comments (YouTube id KDVUlqp8aF...)"
+python downloader.py --youtubeid="KDVUlqp8aF" --output="SD1103 Best VGM 1051 - Earthworm Jim - New Junk City's comments (YT ID KDVUlqp8aF).json"
+echo "Archiving SD video 1104, Best VGM 1052 - Snowboard Kids 2 - Haunted House's comments (YouTube id qEozZuqRbg...)"
+python downloader.py --youtubeid="qEozZuqRbg" --output="SD1104 Best VGM 1052 - Snowboard Kids 2 - Haunted House's comments (YT ID qEozZuqRbg).json"
+echo "Archiving SD video 1105, Ghost in the Shell - Floating Museum's comments (YouTube id f0Uu7wwPOp...)"
+python downloader.py --youtubeid="f0Uu7wwPOp" --output="SD1105 Ghost in the Shell - Floating Museum's comments (YT ID f0Uu7wwPOp).json"
+echo "Archiving SD video 1106, Best VGM 1053 - Metal Gear Solid - Encounter's comments (YouTube id Jg5M1meS6w...)"
+python downloader.py --youtubeid="Jg5M1meS6w" --output="SD1106 Best VGM 1053 - Metal Gear Solid - Encounter's comments (YT ID Jg5M1meS6w).json"
+echo "Archiving SD video 1107, Best VGM 1054 - Mother 3 - Mind of a Thief (Duster's Theme)'s comments (YouTube id clyy2eKqdC...)"
+python downloader.py --youtubeid="clyy2eKqdC" --output="SD1107 Best VGM 1054 - Mother 3 - Mind of a Thief (Duster's Theme)'s comments (YT ID clyy2eKqdC).json"
+echo "Archiving SD video 1108, Best VGM 1055 - Sonic Adventure 2 - Dive Into The Mellow (Aquatic Mine)'s comments (YouTube id d2dB0PuWot...)"
+python downloader.py --youtubeid="d2dB0PuWot" --output="SD1108 Best VGM 1055 - Sonic Adventure 2 - Dive Into The Mellow (Aquatic Mine)'s comments (YT ID d2dB0PuWot).json"
+echo "Archiving SD video 1109, Best VGM 1056 - Super Mario RPG - Fight Against a Somewhat Stronger Monster's comments (YouTube id mh9iibxyg1...)"
+python downloader.py --youtubeid="mh9iibxyg1" --output="SD1109 Best VGM 1056 - Super Mario RPG - Fight Against a Somewhat Stronger Monster's comments (YT ID mh9iibxyg1).json"
+echo "Archiving SD video 1110, Best VGM 1057 - Spanky's Quest - Underwater's comments (YouTube id JRKOBmaENo...)"
+python downloader.py --youtubeid="JRKOBmaENo" --output="SD1110 Best VGM 1057 - Spanky's Quest - Underwater's comments (YT ID JRKOBmaENo).json"
+echo "Archiving SD video 1111, Best VGM 1058 - Nora to Toki no Koubou - Everyday Lifestyle's comments (YouTube id ung2q_BVXW...)"
+python downloader.py --youtubeid="ung2q_BVXW" --output="SD1111 Best VGM 1058 - Nora to Toki no Koubou - Everyday Lifestyle's comments (YT ID ung2q_BVXW).json"
+echo "Archiving SD video 1112, Best VGM 1059 - Superbrothers : Sword & Sworcery EP - Dark Flute's comments (YouTube id hB3mYnW-v4...)"
+python downloader.py --youtubeid="hB3mYnW-v4" --output="SD1112 Best VGM 1059 - Superbrothers : Sword & Sworcery EP - Dark Flute's comments (YT ID hB3mYnW-v4).json"
+echo "Archiving SD video 1113, Best VGM 1060 - Killer7 - Dissociative Identity's comments (YouTube id WcM38YKdk4...)"
+python downloader.py --youtubeid="WcM38YKdk4" --output="SD1113 Best VGM 1060 - Killer7 - Dissociative Identity's comments (YT ID WcM38YKdk4).json"
+echo "Archiving SD video 1114, Best VGM 1062 - Pop'n Music 8 - Beyond the Bounds (Mitsuto Suzuki 020203 Mix feat. Sana)'s comments (YouTube id zxZROhq4Lz...)"
+python downloader.py --youtubeid="zxZROhq4Lz" --output="SD1114 Best VGM 1062 - Pop'n Music 8 - Beyond the Bounds (Mitsuto Suzuki 020203 Mix feat. Sana)'s comments (YT ID zxZROhq4Lz).json"
+echo "Archiving SD video 1115, Best VGM 1064 - Breath of Death VII - Introduction  / Desert (Calm Streams)'s comments (YouTube id w4b-3x2wqp...)"
+python downloader.py --youtubeid="w4b-3x2wqp" --output="SD1115 Best VGM 1064 - Breath of Death VII - Introduction  / Desert (Calm Streams)'s comments (YT ID w4b-3x2wqp).json"
+echo "Archiving SD video 1116, [SD Remix] Breath of Death VII - Introduction / Desert's comments (YouTube id OdX5m9maRg...)"
+python downloader.py --youtubeid="OdX5m9maRg" --output="SD1116 [SD Remix] Breath of Death VII - Introduction / Desert's comments (YT ID OdX5m9maRg).json"
+echo "Archiving SD video 1117, Best VGM 1065 - Tales of Vesperia - On the Other Side of the Mirage (Yormgen)'s comments (YouTube id gSLIlAVZ6E...)"
+python downloader.py --youtubeid="gSLIlAVZ6E" --output="SD1117 Best VGM 1065 - Tales of Vesperia - On the Other Side of the Mirage (Yormgen)'s comments (YT ID gSLIlAVZ6E).json"
+echo "Archiving SD video 1118, Best VGM 1066 - Spider-Man & X-Men : Arcade's Revenge - Gambit's comments (YouTube id xx9uLg6pYc...)"
+python downloader.py --youtubeid="xx9uLg6pYc" --output="SD1118 Best VGM 1066 - Spider-Man & X-Men : Arcade's Revenge - Gambit's comments (YT ID xx9uLg6pYc).json"
+echo "Archiving SD video 1119, Best VGM 1067 - Motorhead - Red Rock's comments (YouTube id Iu4MCoIyV9...)"
+python downloader.py --youtubeid="Iu4MCoIyV9" --output="SD1119 Best VGM 1067 - Motorhead - Red Rock's comments (YT ID Iu4MCoIyV9).json"
+echo "Archiving SD video 1120, Best VGM 1068 - Mario Kart 7 - Rainbow Road's comments (YouTube id gokt9KTpf1...)"
+python downloader.py --youtubeid="gokt9KTpf1" --output="SD1120 Best VGM 1068 - Mario Kart 7 - Rainbow Road's comments (YT ID gokt9KTpf1).json"
+echo "Archiving SD video 1121, Best VGM 1069 - Ice Hockey - In Game Theme's comments (YouTube id 1QHyvhnEe2...)"
+python downloader.py --youtubeid="1QHyvhnEe2" --output="SD1121 Best VGM 1069 - Ice Hockey - In Game Theme's comments (YT ID 1QHyvhnEe2).json"
+echo "Archiving SD video 1122, Best VGM 1070 - Grand Theft Auto IV - Loading Screen Theme's comments (YouTube id B4JvKl7nvL...)"
+python downloader.py --youtubeid="B4JvKl7nvL" --output="SD1122 Best VGM 1070 - Grand Theft Auto IV - Loading Screen Theme's comments (YT ID B4JvKl7nvL).json"
+echo "Archiving SD video 1123, Best VGM 1071 - Terranigma - Overworld's comments (YouTube id HGMjMDE-gA...)"
+python downloader.py --youtubeid="HGMjMDE-gA" --output="SD1123 Best VGM 1071 - Terranigma - Overworld's comments (YT ID HGMjMDE-gA).json"
+echo "Archiving SD video 1124, Best VGM 1072 - Zelda : Ocarina of Time - Goron City's comments (YouTube id gzl9oJstIg...)"
+python downloader.py --youtubeid="gzl9oJstIg" --output="SD1124 Best VGM 1072 - Zelda : Ocarina of Time - Goron City's comments (YT ID gzl9oJstIg).json"
+echo "Archiving SD video 1125, Best VGM 1073 - A Boy And His Blob - Subterra's comments (YouTube id qgJ0yQNX2c...)"
+python downloader.py --youtubeid="qgJ0yQNX2c" --output="SD1125 Best VGM 1073 - A Boy And His Blob - Subterra's comments (YT ID qgJ0yQNX2c).json"
+echo "Archiving SD video 1126, Best VGM 1074 - Tekken 2 - Nobody Catch Me (Michelle's Theme)'s comments (YouTube id ksq6wWbVsP...)"
+python downloader.py --youtubeid="ksq6wWbVsP" --output="SD1126 Best VGM 1074 - Tekken 2 - Nobody Catch Me (Michelle's Theme)'s comments (YT ID ksq6wWbVsP).json"
+echo "Archiving SD video 1127, Best VGM 1075 - Radiant Historia - Blue Radiance (Battle Theme)'s comments (YouTube id WNORnKsigd...)"
+python downloader.py --youtubeid="WNORnKsigd" --output="SD1127 Best VGM 1075 - Radiant Historia - Blue Radiance (Battle Theme)'s comments (YT ID WNORnKsigd).json"
+echo "Archiving SD video 1128, Best VGM 1076 - OutRun 2 - Life Was A Bore's comments (YouTube id WZ1TQWlSOx...)"
+python downloader.py --youtubeid="WZ1TQWlSOx" --output="SD1128 Best VGM 1076 - OutRun 2 - Life Was A Bore's comments (YT ID WZ1TQWlSOx).json"
+echo "Archiving SD video 1129, Best VGM 1077 - Zack & Wiki - Chillion's comments (YouTube id 72RLQGHxE0...)"
+python downloader.py --youtubeid="72RLQGHxE0" --output="SD1129 Best VGM 1077 - Zack & Wiki - Chillion's comments (YT ID 72RLQGHxE0).json"
+echo "Archiving SD video 1130, Best VGM 1078 - Klonoa - The Windmill Song's comments (YouTube id c_ex2h9t2y...)"
+python downloader.py --youtubeid="c_ex2h9t2y" --output="SD1130 Best VGM 1078 - Klonoa - The Windmill Song's comments (YT ID c_ex2h9t2y).json"
+echo "Archiving SD video 1131, Best VGM 1079 - Streets of Rage - Beatnik on the Ship (Stage 5)'s comments (YouTube id g6vc_zFeHF...)"
+python downloader.py --youtubeid="g6vc_zFeHF" --output="SD1131 Best VGM 1079 - Streets of Rage - Beatnik on the Ship (Stage 5)'s comments (YT ID g6vc_zFeHF).json"
+echo "Archiving SD video 1132, Best VGM 1080 - El Shaddai - Tragic Scream's comments (YouTube id DmaFexLIh4...)"
+python downloader.py --youtubeid="DmaFexLIh4" --output="SD1132 Best VGM 1080 - El Shaddai - Tragic Scream's comments (YT ID DmaFexLIh4).json"
+echo "Archiving SD video 1133, Best VGM 1081 - Pokemon - Pallet Town's comments (YouTube id TUZU34Sss8...)"
+python downloader.py --youtubeid="TUZU34Sss8" --output="SD1133 Best VGM 1081 - Pokemon - Pallet Town's comments (YT ID TUZU34Sss8).json"
+echo "Archiving SD video 1134, Best VGM 1082 - Dragon Quest Monsters - Terry's World's comments (YouTube id T18nAaO_rG...)"
+python downloader.py --youtubeid="T18nAaO_rG" --output="SD1134 Best VGM 1082 - Dragon Quest Monsters - Terry's World's comments (YT ID T18nAaO_rG).json"
+echo "Archiving SD video 1135, Best VGM 1083 - Tactics Ogre : Let Us Cling Together - Warren Report's comments (YouTube id qsDU8LC5PL...)"
+python downloader.py --youtubeid="qsDU8LC5PL" --output="SD1135 Best VGM 1083 - Tactics Ogre : Let Us Cling Together - Warren Report's comments (YT ID qsDU8LC5PL).json"
+echo "Archiving SD video 1136, Best VGM 1085 - Vagrant Story - Graylands Incident Climax's comments (YouTube id 2xP0dFTlxd...)"
+python downloader.py --youtubeid="2xP0dFTlxd" --output="SD1136 Best VGM 1085 - Vagrant Story - Graylands Incident Climax's comments (YT ID 2xP0dFTlxd).json"
+echo "Archiving SD video 1137, Best VGM 1086 - Super Castlevania IV - Ending's comments (YouTube id brYzVFvM98...)"
+python downloader.py --youtubeid="brYzVFvM98" --output="SD1137 Best VGM 1086 - Super Castlevania IV - Ending's comments (YT ID brYzVFvM98).json"
+echo "Archiving SD video 1138, Best VGM 1087 - Tomb Raider Legend - Nepal's comments (YouTube id uUA40z9kT6...)"
+python downloader.py --youtubeid="uUA40z9kT6" --output="SD1138 Best VGM 1087 - Tomb Raider Legend - Nepal's comments (YT ID uUA40z9kT6).json"
+echo "Archiving SD video 1139, Best VGM 1088 - Guilty Gear Isuka - Home Sweet Grave's comments (YouTube id i8DTcUWfmw...)"
+python downloader.py --youtubeid="i8DTcUWfmw" --output="SD1139 Best VGM 1088 - Guilty Gear Isuka - Home Sweet Grave's comments (YT ID i8DTcUWfmw).json"
+echo "Archiving SD video 1140, Best VGM 1089 - Emil Chronicle Online - Lucky!'s comments (YouTube id Mobwl45u2J...)"
+python downloader.py --youtubeid="Mobwl45u2J" --output="SD1140 Best VGM 1089 - Emil Chronicle Online - Lucky!'s comments (YT ID Mobwl45u2J).json"
+echo "Archiving SD video 1141, Some random tracks I've worked on's comments (YouTube id kDWyXcoMvf...)"
+python downloader.py --youtubeid="kDWyXcoMvf" --output="SD1141 Some random tracks I've worked on's comments (YT ID kDWyXcoMvf).json"
+echo "Archiving SD video 1142, Best VGM 1090 - Mario Party - Rainbow Castle's comments (YouTube id SPBIT_SSzm...)"
+python downloader.py --youtubeid="SPBIT_SSzm" --output="SD1142 Best VGM 1090 - Mario Party - Rainbow Castle's comments (YT ID SPBIT_SSzm).json"
+echo "Archiving SD video 1143, Best VGM 1091 - Minecraft - Subwoofer Lullaby's comments (YouTube id FGtk_eaVnx...)"
+python downloader.py --youtubeid="FGtk_eaVnx" --output="SD1143 Best VGM 1091 - Minecraft - Subwoofer Lullaby's comments (YT ID FGtk_eaVnx).json"
+echo "Archiving SD video 1144, Best VGM 1092 - Shadow Hearts - Coffee with Bullet's comments (YouTube id 5hc3R4Tso2...)"
+python downloader.py --youtubeid="5hc3R4Tso2" --output="SD1144 Best VGM 1092 - Shadow Hearts - Coffee with Bullet's comments (YT ID 5hc3R4Tso2).json"
+echo "Archiving SD video 1145, Best VGM 1093 - Jack Bros. - Temple of Nightmare's comments (YouTube id jfEZs-Ada7...)"
+python downloader.py --youtubeid="jfEZs-Ada7" --output="SD1145 Best VGM 1093 - Jack Bros. - Temple of Nightmare's comments (YT ID jfEZs-Ada7).json"
+echo "Archiving SD video 1146, Best VGM 1094 - Mass Effect - C-Sec Academy's comments (YouTube id WV56iJ9KFl...)"
+python downloader.py --youtubeid="WV56iJ9KFl" --output="SD1146 Best VGM 1094 - Mass Effect - C-Sec Academy's comments (YT ID WV56iJ9KFl).json"
+echo "Archiving SD video 1147, Best VGM 1095 - Dragon Ball Z Butouden 2 - Trunks' Theme's comments (YouTube id Q7a0piUG3j...)"
+python downloader.py --youtubeid="Q7a0piUG3j" --output="SD1147 Best VGM 1095 - Dragon Ball Z Butouden 2 - Trunks' Theme's comments (YT ID Q7a0piUG3j).json"
+echo "Archiving SD video 1148, Best VGM 1096 - Forza Motorsport 4 - Paris Rouen's comments (YouTube id NAyXKITCss...)"
+python downloader.py --youtubeid="NAyXKITCss" --output="SD1148 Best VGM 1096 - Forza Motorsport 4 - Paris Rouen's comments (YT ID NAyXKITCss).json"
+echo "Archiving SD video 1149, Best VGM 1097 - Swiv - Title Theme's comments (YouTube id 1OzPeu60Zv...)"
+python downloader.py --youtubeid="1OzPeu60Zv" --output="SD1149 Best VGM 1097 - Swiv - Title Theme's comments (YT ID 1OzPeu60Zv).json"
+echo "Archiving SD video 1150, Best VGM 1098 - Seiken Densetsu 3 - Swivel's comments (YouTube id Yh4e_rdWD-...)"
+python downloader.py --youtubeid="Yh4e_rdWD-" --output="SD1150 Best VGM 1098 - Seiken Densetsu 3 - Swivel's comments (YT ID Yh4e_rdWD-).json"
+echo "Archiving SD video 1151, Best VGM 1099 - Mega Man 9 - Hornet Dance (Hornet Man Stage)'s comments (YouTube id 74cYr5ZLek...)"
+python downloader.py --youtubeid="74cYr5ZLek" --output="SD1151 Best VGM 1099 - Mega Man 9 - Hornet Dance (Hornet Man Stage)'s comments (YT ID 74cYr5ZLek).json"
+echo "Archiving SD video 1152, [SD Chiptune] 8-bit Mid Sleep's comments (YouTube id LLmaiBVzSi...)"
+python downloader.py --youtubeid="LLmaiBVzSi" --output="SD1152 [SD Chiptune] 8-bit Mid Sleep's comments (YT ID LLmaiBVzSi).json"
+echo "Archiving SD video 1153, New playlist : Relaxin' with SD's comments (YouTube id AVBrH-92sO...)"
+python downloader.py --youtubeid="AVBrH-92sO" --output="SD1153 New playlist : Relaxin' with SD's comments (YT ID AVBrH-92sO).json"
+echo "Archiving SD video 1154, Best VGM 1101 - Pokemon Mystery Dungeon : Explorers of Sky - Temporal Tower's comments (YouTube id GtZNgj5OUC...)"
+python downloader.py --youtubeid="GtZNgj5OUC" --output="SD1154 Best VGM 1101 - Pokemon Mystery Dungeon : Explorers of Sky - Temporal Tower's comments (YT ID GtZNgj5OUC).json"
+echo "Archiving SD video 1155, Best VGM 1102 - Waterworld - Attack 2's comments (YouTube id y0PixBaf8_...)"
+python downloader.py --youtubeid="y0PixBaf8_" --output="SD1155 Best VGM 1102 - Waterworld - Attack 2's comments (YT ID y0PixBaf8_).json"
+echo "Archiving SD video 1156, Best VGM 1103 - Zelda : Skyward Sword - Fi's Theme's comments (YouTube id DlbCke52EB...)"
+python downloader.py --youtubeid="DlbCke52EB" --output="SD1156 Best VGM 1103 - Zelda : Skyward Sword - Fi's Theme's comments (YT ID DlbCke52EB).json"
+echo "Archiving SD video 1157, Best VGM 1104 - Street Fighter IV - Overpass Stage (Tokyo)'s comments (YouTube id V4JjpIUYPg...)"
+python downloader.py --youtubeid="V4JjpIUYPg" --output="SD1157 Best VGM 1104 - Street Fighter IV - Overpass Stage (Tokyo)'s comments (YT ID V4JjpIUYPg).json"
+echo "Archiving SD video 1158, Best VGM 1105 - Panzer Dragoon - Staff Roll's comments (YouTube id ysLhWVbE12...)"
+python downloader.py --youtubeid="ysLhWVbE12" --output="SD1158 Best VGM 1105 - Panzer Dragoon - Staff Roll's comments (YT ID ysLhWVbE12).json"
+echo "Archiving SD video 1159, Best VGM 1106 - Bit.Trip Flux - Strange Comfort's comments (YouTube id 6FdjTwtvKC...)"
+python downloader.py --youtubeid="6FdjTwtvKC" --output="SD1159 Best VGM 1106 - Bit.Trip Flux - Strange Comfort's comments (YT ID 6FdjTwtvKC).json"
+echo "Archiving SD video 1160, Best VGM 1107 - Fez - Adventure's comments (YouTube id 1MVAIf-lei...)"
+python downloader.py --youtubeid="1MVAIf-lei" --output="SD1160 Best VGM 1107 - Fez - Adventure's comments (YT ID 1MVAIf-lei).json"
+echo "Archiving SD video 1161, Best VGM 1108 - Xenoblade Chronicles - Colony 9's comments (YouTube id OMsJdryIOQ...)"
+python downloader.py --youtubeid="OMsJdryIOQ" --output="SD1161 Best VGM 1108 - Xenoblade Chronicles - Colony 9's comments (YT ID OMsJdryIOQ).json"
+echo "Archiving SD video 1162, Best VGM 1109 - Ratchet & Clank : Going Commando - Silver City's comments (YouTube id -KXPZ81aUP...)"
+python downloader.py --youtubeid="-KXPZ81aUP" --output="SD1162 Best VGM 1109 - Ratchet & Clank : Going Commando - Silver City's comments (YT ID -KXPZ81aUP).json"
+echo "Archiving SD video 1163, Best VGM 1110 - Pop'n Music 4 - Electronism's comments (YouTube id 3tpO54VR6O...)"
+python downloader.py --youtubeid="3tpO54VR6O" --output="SD1163 Best VGM 1110 - Pop'n Music 4 - Electronism's comments (YT ID 3tpO54VR6O).json"
+echo "Archiving SD video 1164, Best VGM 1111 - Super Mario Bros 3 - Underwater's comments (YouTube id J323aFuwx6...)"
+python downloader.py --youtubeid="J323aFuwx6" --output="SD1164 Best VGM 1111 - Super Mario Bros 3 - Underwater's comments (YT ID J323aFuwx6).json"
+echo "Archiving SD video 1165, Best VGM 1112 - Earthbound - Fourside's comments (YouTube id _3Am7OPTsS...)"
+python downloader.py --youtubeid="_3Am7OPTsS" --output="SD1165 Best VGM 1112 - Earthbound - Fourside's comments (YT ID _3Am7OPTsS).json"
+echo "Archiving SD video 1166, Best VGM 1113 - Bomberman Hero - Redial's comments (YouTube id Ba4J-4bUN0...)"
+python downloader.py --youtubeid="Ba4J-4bUN0" --output="SD1166 Best VGM 1113 - Bomberman Hero - Redial's comments (YT ID Ba4J-4bUN0).json"
+echo "Archiving SD video 1167, Best VGM 1114 - Castlevania: Symphony of the Night - Requiem for the Gods's comments (YouTube id 3nPLwrTvII...)"
+python downloader.py --youtubeid="3nPLwrTvII" --output="SD1167 Best VGM 1114 - Castlevania: Symphony of the Night - Requiem for the Gods's comments (YT ID 3nPLwrTvII).json"
+echo "Archiving SD video 1168, Best VGM 1115 - Mirror's Edge - Kate (Chase)'s comments (YouTube id lOaWT7Y7ZN...)"
+python downloader.py --youtubeid="lOaWT7Y7ZN" --output="SD1168 Best VGM 1115 - Mirror's Edge - Kate (Chase)'s comments (YT ID lOaWT7Y7ZN).json"
+echo "Archiving SD video 1169, Best VGM 1116 - Shatterhand - Area G (Missile Command)'s comments (YouTube id YYGKW8vyYX...)"
+python downloader.py --youtubeid="YYGKW8vyYX" --output="SD1169 Best VGM 1116 - Shatterhand - Area G (Missile Command)'s comments (YT ID YYGKW8vyYX).json"
+echo "Archiving SD video 1170, Best VGM 1117 - NyxQuest : Kindred Spirits - Icarian's comments (YouTube id U4aEm6Uufg...)"
+python downloader.py --youtubeid="U4aEm6Uufg" --output="SD1170 Best VGM 1117 - NyxQuest : Kindred Spirits - Icarian's comments (YT ID U4aEm6Uufg).json"
+echo "Archiving SD video 1171, Best VGM 1118 - Persona 3 FES - Heartful Cry's comments (YouTube id Vgxs785sqj...)"
+python downloader.py --youtubeid="Vgxs785sqj" --output="SD1171 Best VGM 1118 - Persona 3 FES - Heartful Cry's comments (YT ID Vgxs785sqj).json"
+echo "Archiving SD video 1172, Best VGM 1119 - Kirby Super Star - Gourmet Race (Series' 20th Anniversary)'s comments (YouTube id BfR5AmZcZ9...)"
+python downloader.py --youtubeid="BfR5AmZcZ9" --output="SD1172 Best VGM 1119 - Kirby Super Star - Gourmet Race (Series' 20th Anniversary)'s comments (YT ID BfR5AmZcZ9).json"
+echo "Archiving SD video 1173, Best VGM 1120 - Sonic Unleashed - Temple's comments (YouTube id qyrLcNCBnP...)"
+python downloader.py --youtubeid="qyrLcNCBnP" --output="SD1173 Best VGM 1120 - Sonic Unleashed - Temple's comments (YT ID qyrLcNCBnP).json"
+echo "Archiving SD video 1174, Best VGM 1121 - Ghouls 'n' Ghosts - Main Theme's comments (YouTube id KgCLAXQow3...)"
+python downloader.py --youtubeid="KgCLAXQow3" --output="SD1174 Best VGM 1121 - Ghouls 'n' Ghosts - Main Theme's comments (YT ID KgCLAXQow3).json"
+echo "Archiving SD video 1175, Best VGM 1122 - Shatter - Krypton Garden's comments (YouTube id QD30b0MwpQ...)"
+python downloader.py --youtubeid="QD30b0MwpQ" --output="SD1175 Best VGM 1122 - Shatter - Krypton Garden's comments (YT ID QD30b0MwpQ).json"
+echo "Archiving SD video 1176, Best VGM 1123 - Silent Hill : Downpour - Intro Perp Walk's comments (YouTube id VClUpC8BwJ...)"
+python downloader.py --youtubeid="VClUpC8BwJ" --output="SD1176 Best VGM 1123 - Silent Hill : Downpour - Intro Perp Walk's comments (YT ID VClUpC8BwJ).json"
+echo "Archiving SD video 1177, Best VGM 1124 - Resident Evil Outbreak - Main Theme's comments (YouTube id cQhqxEIAZb...)"
+python downloader.py --youtubeid="cQhqxEIAZb" --output="SD1177 Best VGM 1124 - Resident Evil Outbreak - Main Theme's comments (YT ID cQhqxEIAZb).json"
+echo "Archiving SD video 1178, Best VGM 1126 - Dustforce - The Magnetic Tree's comments (YouTube id 1saL4_XcwV...)"
+python downloader.py --youtubeid="1saL4_XcwV" --output="SD1178 Best VGM 1126 - Dustforce - The Magnetic Tree's comments (YT ID 1saL4_XcwV).json"
+echo "Archiving SD video 1179, Best VGM 1127 - Dragon Quest III - Pyramid's comments (YouTube id ZEUEQ4wlvi...)"
+python downloader.py --youtubeid="ZEUEQ4wlvi" --output="SD1179 Best VGM 1127 - Dragon Quest III - Pyramid's comments (YT ID ZEUEQ4wlvi).json"
+echo "Archiving SD video 1180, Best VGM 1128 - Tintin in Tibet - At the Hotel's comments (YouTube id -eHjgg4cnj...)"
+python downloader.py --youtubeid="-eHjgg4cnj" --output="SD1180 Best VGM 1128 - Tintin in Tibet - At the Hotel's comments (YT ID -eHjgg4cnj).json"
+echo "Archiving SD video 1181, Tribes Ascend - Brute in a Tank (Beowulf)'s comments (YouTube id hsjRUADnTU...)"
+python downloader.py --youtubeid="hsjRUADnTU" --output="SD1181 Tribes Ascend - Brute in a Tank (Beowulf)'s comments (YT ID hsjRUADnTU).json"
+echo "Archiving SD video 1182, Best VGM 1129 - Hitman : Blood Money - Vegas's comments (YouTube id Tc6G2CdSVf...)"
+python downloader.py --youtubeid="Tc6G2CdSVf" --output="SD1182 Best VGM 1129 - Hitman : Blood Money - Vegas's comments (YT ID Tc6G2CdSVf).json"
+echo "Archiving SD video 1183, Best VGM 1130 - Zelda : Minish Cap - Minish Village's comments (YouTube id ku0pS3ko5C...)"
+python downloader.py --youtubeid="ku0pS3ko5C" --output="SD1183 Best VGM 1130 - Zelda : Minish Cap - Minish Village's comments (YT ID ku0pS3ko5C).json"
+echo "Archiving SD video 1184, Best VGM 1131 - Diablo III - New Tristram's comments (YouTube id iga0Ed0BWG...)"
+python downloader.py --youtubeid="iga0Ed0BWG" --output="SD1184 Best VGM 1131 - Diablo III - New Tristram's comments (YT ID iga0Ed0BWG).json"
+echo "Archiving SD video 1185, Best VGM 1132 - Skullgirls - Grand Cathedral Stage's comments (YouTube id c8sDG4L-qr...)"
+python downloader.py --youtubeid="c8sDG4L-qr" --output="SD1185 Best VGM 1132 - Skullgirls - Grand Cathedral Stage's comments (YT ID c8sDG4L-qr).json"
+echo "Archiving SD video 1186, Best VGM 1133 - Kid Icarus : Uprising - Aurum Island's comments (YouTube id VVc6pY7njC...)"
+python downloader.py --youtubeid="VVc6pY7njC" --output="SD1186 Best VGM 1133 - Kid Icarus : Uprising - Aurum Island's comments (YT ID VVc6pY7njC).json"
+echo "Archiving SD video 1187, Best VGM 1134 - Ragnarok Online 2 : The Gate of the World - EverLand's comments (YouTube id rAJS58eviI...)"
+python downloader.py --youtubeid="rAJS58eviI" --output="SD1187 Best VGM 1134 - Ragnarok Online 2 : The Gate of the World - EverLand's comments (YT ID rAJS58eviI).json"
+echo "Archiving SD video 1188, Best VGM 1135 - Super Mario Galaxy 2 - Cloud Garden / Fluffy Bluff Galaxy's comments (YouTube id HwBOvdH38l...)"
+python downloader.py --youtubeid="HwBOvdH38l" --output="SD1188 Best VGM 1135 - Super Mario Galaxy 2 - Cloud Garden / Fluffy Bluff Galaxy's comments (YT ID HwBOvdH38l).json"
+echo "Archiving SD video 1189, Best VGM 1136 - Everquest : Planes of Power - Plane of Time's comments (YouTube id kNDB4L0D2w...)"
+python downloader.py --youtubeid="kNDB4L0D2w" --output="SD1189 Best VGM 1136 - Everquest : Planes of Power - Plane of Time's comments (YT ID kNDB4L0D2w).json"
+echo "Archiving SD video 1190, Best VGM 1137 - Yoshi's Island - Big Bowser (Final Boss)'s comments (YouTube id Km-cCxquP-...)"
+python downloader.py --youtubeid="Km-cCxquP-" --output="SD1190 Best VGM 1137 - Yoshi's Island - Big Bowser (Final Boss)'s comments (YT ID Km-cCxquP-).json"
+echo "Archiving SD video 1191, Best VGM 1138 - Star Wars : Shadows of the Empire - Xizor's Theme's comments (YouTube id dZAOgvdXhu...)"
+python downloader.py --youtubeid="dZAOgvdXhu" --output="SD1191 Best VGM 1138 - Star Wars : Shadows of the Empire - Xizor's Theme's comments (YT ID dZAOgvdXhu).json"
+echo "Archiving SD video 1192, Best VGM 1139 - Jurassic Park - Raptor Rap (Jungle Area)'s comments (YouTube id _eDz4_fCer...)"
+python downloader.py --youtubeid="_eDz4_fCer" --output="SD1192 Best VGM 1139 - Jurassic Park - Raptor Rap (Jungle Area)'s comments (YT ID _eDz4_fCer).json"
+echo "Archiving SD video 1193, Best VGM 1140 - Dark Souls - Gwyn, Lord of Cinder's comments (YouTube id Tms-MKKS71...)"
+python downloader.py --youtubeid="Tms-MKKS71" --output="SD1193 Best VGM 1140 - Dark Souls - Gwyn, Lord of Cinder's comments (YT ID Tms-MKKS71).json"
+echo "Archiving SD video 1194, Best VGM 1141 - Snake's Revenge - Jungle Invasion's comments (YouTube id 6nJgdcnFtc...)"
+python downloader.py --youtubeid="6nJgdcnFtc" --output="SD1194 Best VGM 1141 - Snake's Revenge - Jungle Invasion's comments (YT ID 6nJgdcnFtc).json"
+echo "Archiving SD video 1195, Best VGM 1142 - Mega Man ZX - Ultramarine Meditation (Area J ~ Marine City)'s comments (YouTube id rXNrtuz0vl...)"
+python downloader.py --youtubeid="rXNrtuz0vl" --output="SD1195 Best VGM 1142 - Mega Man ZX - Ultramarine Meditation (Area J ~ Marine City)'s comments (YT ID rXNrtuz0vl).json"
+echo "Archiving SD video 1196, Best VGM 1143 - Mighty Switch Force! - Whoa I'm in Space Cuba's comments (YouTube id vl6Cuvw4iy...)"
+python downloader.py --youtubeid="vl6Cuvw4iy" --output="SD1196 Best VGM 1143 - Mighty Switch Force! - Whoa I'm in Space Cuba's comments (YT ID vl6Cuvw4iy).json"
+echo "Archiving SD video 1197, Best VGM 1144 - Rayman - Pink Plant Woods Area 2's comments (YouTube id NTfVsOnX0l...)"
+python downloader.py --youtubeid="NTfVsOnX0l" --output="SD1197 Best VGM 1144 - Rayman - Pink Plant Woods Area 2's comments (YT ID NTfVsOnX0l).json"
+echo "Archiving SD video 1198, Best VGM 1145 - Chrono Trigger - World Revolution's comments (YouTube id Z74e6bFr5E...)"
+python downloader.py --youtubeid="Z74e6bFr5E" --output="SD1198 Best VGM 1145 - Chrono Trigger - World Revolution's comments (YT ID Z74e6bFr5E).json"
+echo "Archiving SD video 1199, Best VGM 1146 - Suikoden - Black Forest's comments (YouTube id w1tmFpEPag...)"
+python downloader.py --youtubeid="w1tmFpEPag" --output="SD1199 Best VGM 1146 - Suikoden - Black Forest's comments (YT ID w1tmFpEPag).json"
+echo "Archiving SD video 1200, Best VGM 1147 - F-Zero GX - The Skull's Theme's comments (YouTube id HvyPtN7_jN...)"
+python downloader.py --youtubeid="HvyPtN7_jN" --output="SD1200 Best VGM 1147 - F-Zero GX - The Skull's Theme's comments (YT ID HvyPtN7_jN).json"
+echo "Archiving SD video 1201, Best VGM 1148 - Shadow of the Colossus - Final Battle (Unused)'s comments (YouTube id jv5_zzFZMt...)"
+python downloader.py --youtubeid="jv5_zzFZMt" --output="SD1201 Best VGM 1148 - Shadow of the Colossus - Final Battle (Unused)'s comments (YT ID jv5_zzFZMt).json"
+echo "Archiving SD video 1202, Best VGM 1149 - Mutant Mudds - G-Land's comments (YouTube id fd6Qnwqipc...)"
+python downloader.py --youtubeid="fd6Qnwqipc" --output="SD1202 Best VGM 1149 - Mutant Mudds - G-Land's comments (YT ID fd6Qnwqipc).json"
+echo "Archiving SD video 1203, Best VGM 1150 - Donkey Kong Country 2 - Flight of the Zinger's comments (YouTube id RSm22cu707...)"
+python downloader.py --youtubeid="RSm22cu707" --output="SD1203 Best VGM 1150 - Donkey Kong Country 2 - Flight of the Zinger's comments (YT ID RSm22cu707).json"
+echo "Archiving SD video 1204, Best VGM 1151 - Frozen Synapse - Triumph's comments (YouTube id irQxobE5PU...)"
+python downloader.py --youtubeid="irQxobE5PU" --output="SD1204 Best VGM 1151 - Frozen Synapse - Triumph's comments (YT ID irQxobE5PU).json"
+echo "Archiving SD video 1205, Best VGM 1152 - Castlevania : Aria of Sorrow - Clock Tower's comments (YouTube id FJJPaBA726...)"
+python downloader.py --youtubeid="FJJPaBA726" --output="SD1205 Best VGM 1152 - Castlevania : Aria of Sorrow - Clock Tower's comments (YT ID FJJPaBA726).json"
+echo "Archiving SD video 1206, Best VGM 1153 - Jelly Defense - Cliffs of Fun's comments (YouTube id c62hLhyF2D...)"
+python downloader.py --youtubeid="c62hLhyF2D" --output="SD1206 Best VGM 1153 - Jelly Defense - Cliffs of Fun's comments (YT ID c62hLhyF2D).json"
+echo "Archiving SD video 1207, Best VGM 1154 - Wild Arms 2 - Valeria Chateau's comments (YouTube id RBxWlVGd9z...)"
+python downloader.py --youtubeid="RBxWlVGd9z" --output="SD1207 Best VGM 1154 - Wild Arms 2 - Valeria Chateau's comments (YT ID RBxWlVGd9z).json"
+echo "Archiving SD video 1208, Best VGM 1155 - Create - Ambient Adventure's comments (YouTube id lyduqdKbGS...)"
+python downloader.py --youtubeid="lyduqdKbGS" --output="SD1208 Best VGM 1155 - Create - Ambient Adventure's comments (YT ID lyduqdKbGS).json"
+echo "Archiving SD video 1209, [SD Zelda] Dungeon 5 - Ancient Observatory's comments (YouTube id GcsE-yBe1H...)"
+python downloader.py --youtubeid="GcsE-yBe1H" --output="SD1209 [SD Zelda] Dungeon 5 - Ancient Observatory's comments (YT ID GcsE-yBe1H).json"
+echo "Archiving SD video 1210, Best VGM 1156 - DuckTales - The Amazon's comments (YouTube id GhFffRvPfi...)"
+python downloader.py --youtubeid="GhFffRvPfi" --output="SD1210 Best VGM 1156 - DuckTales - The Amazon's comments (YT ID GhFffRvPfi).json"
+echo "Archiving SD video 1211, Best VGM 1157 - Super Metroid - Norfair ~ Ancient Ruins's comments (YouTube id CmMswzZkMY...)"
+python downloader.py --youtubeid="CmMswzZkMY" --output="SD1211 Best VGM 1157 - Super Metroid - Norfair ~ Ancient Ruins's comments (YT ID CmMswzZkMY).json"
+echo "Archiving SD video 1212, Best VGM 1158 - World of Warcraft - Stormwind's comments (YouTube id bcHL3tGy7w...)"
+python downloader.py --youtubeid="bcHL3tGy7w" --output="SD1212 Best VGM 1158 - World of Warcraft - Stormwind's comments (YT ID bcHL3tGy7w).json"
+echo "Archiving SD video 1213, Best VGM 1159 - Okami - Reset ~ Thank You's comments (YouTube id grmP-wEjYK...)"
+python downloader.py --youtubeid="grmP-wEjYK" --output="SD1213 Best VGM 1159 - Okami - Reset ~ Thank You's comments (YT ID grmP-wEjYK).json"
+echo "Archiving SD video 1214, Best VGM 1160 - Star Ocean 2: The Second Story - Pyroxene's comments (YouTube id 4Ze5BfLk0J...)"
+python downloader.py --youtubeid="4Ze5BfLk0J" --output="SD1214 Best VGM 1160 - Star Ocean 2: The Second Story - Pyroxene's comments (YT ID 4Ze5BfLk0J).json"
+echo "Archiving SD video 1215, Best VGM 1161 - Super Mario 64 - Koopa's Road's comments (YouTube id kN-jdHNOq8...)"
+python downloader.py --youtubeid="kN-jdHNOq8" --output="SD1215 Best VGM 1161 - Super Mario 64 - Koopa's Road's comments (YT ID kN-jdHNOq8).json"
+echo "Archiving SD video 1216, Best VGM 1162 - Max Payne 2 - Late Goodbye (Ending)'s comments (YouTube id khPWld3iA8...)"
+python downloader.py --youtubeid="khPWld3iA8" --output="SD1216 Best VGM 1162 - Max Payne 2 - Late Goodbye (Ending)'s comments (YT ID khPWld3iA8).json"
+echo "Archiving SD video 1217, Best VGM 1163 - Pokemon Ruby / Sapphire / Emerald - Mt. Pyre's comments (YouTube id w_TOt-XQnP...)"
+python downloader.py --youtubeid="w_TOt-XQnP" --output="SD1217 Best VGM 1163 - Pokemon Ruby / Sapphire / Emerald - Mt. Pyre's comments (YT ID w_TOt-XQnP).json"
+echo "Archiving SD video 1218, Best VGM 1164 - Return All Robots! - Fantastic Robotique's comments (YouTube id 1B0D2_zhYy...)"
+python downloader.py --youtubeid="1B0D2_zhYy" --output="SD1218 Best VGM 1164 - Return All Robots! - Fantastic Robotique's comments (YT ID 1B0D2_zhYy).json"
+echo "Archiving SD video 1219, Best VGM 1165 - Mother (EarthBound Beginnings) - Yucca Desert's comments (YouTube id PZwTdBbDmB...)"
+python downloader.py --youtubeid="PZwTdBbDmB" --output="SD1219 Best VGM 1165 - Mother (EarthBound Beginnings) - Yucca Desert's comments (YT ID PZwTdBbDmB).json"
+echo "Archiving SD video 1220, Earthbound - Dusty Dunes Desert's comments (YouTube id JFS3j9MHdI...)"
+python downloader.py --youtubeid="JFS3j9MHdI" --output="SD1220 Earthbound - Dusty Dunes Desert's comments (YT ID JFS3j9MHdI).json"
+echo "Archiving SD video 1221, Best VGM 1166 - Breath of Fire III - The Desert of Death's comments (YouTube id jANl59bNb6...)"
+python downloader.py --youtubeid="jANl59bNb6" --output="SD1221 Best VGM 1166 - Breath of Fire III - The Desert of Death's comments (YT ID jANl59bNb6).json"
+echo "Archiving SD video 1222, Best VGM 1167 - Starcraft II : Wings of Liberty - Heaven's Devils (Terran Theme)'s comments (YouTube id oIPYptk_eJ...)"
+python downloader.py --youtubeid="oIPYptk_eJ" --output="SD1222 Best VGM 1167 - Starcraft II : Wings of Liberty - Heaven's Devils (Terran Theme)'s comments (YT ID oIPYptk_eJ).json"
+echo "Archiving SD video 1223, Best VGM 1168 - Ys : The Oath in Felghana - Illburns Ruins's comments (YouTube id Un0n0m8b3u...)"
+python downloader.py --youtubeid="Un0n0m8b3u" --output="SD1223 Best VGM 1168 - Ys : The Oath in Felghana - Illburns Ruins's comments (YT ID Un0n0m8b3u).json"
+echo "Archiving SD video 1224, Best VGM 1169 - Journey - Apotheosis's comments (YouTube id 9YRGh-hQq5...)"
+python downloader.py --youtubeid="9YRGh-hQq5" --output="SD1224 Best VGM 1169 - Journey - Apotheosis's comments (YT ID 9YRGh-hQq5).json"
+echo "Archiving SD video 1225, Best VGM 1170 - Xenosaga III - Abel's Ark's comments (YouTube id 8KX9L6YkA7...)"
+python downloader.py --youtubeid="8KX9L6YkA7" --output="SD1225 Best VGM 1170 - Xenosaga III - Abel's Ark's comments (YT ID 8KX9L6YkA7).json"
+echo "Archiving SD video 1226, Best VGM 1171 - Super Mario World - Athletic's comments (YouTube id 44lJD2Xd5r...)"
+python downloader.py --youtubeid="44lJD2Xd5r" --output="SD1226 Best VGM 1171 - Super Mario World - Athletic's comments (YT ID 44lJD2Xd5r).json"
+echo "Archiving SD video 1227, Best VGM 1172 - For the Frog the Bell Tolls - The Prince's Adventure's comments (YouTube id qPgoOxGb6v...)"
+python downloader.py --youtubeid="qPgoOxGb6v" --output="SD1227 Best VGM 1172 - For the Frog the Bell Tolls - The Prince's Adventure's comments (YT ID qPgoOxGb6v).json"
+echo "Archiving SD video 1228, Zelda: Link's Awakening - Richard's Villa's comments (YouTube id xJMv0k1TY3...)"
+python downloader.py --youtubeid="xJMv0k1TY3" --output="SD1228 Zelda: Link's Awakening - Richard's Villa's comments (YT ID xJMv0k1TY3).json"
+echo "Archiving SD video 1229, Best VGM 1173 - The Binding of Isaac - Respite's comments (YouTube id L8TEsGhBOf...)"
+python downloader.py --youtubeid="L8TEsGhBOf" --output="SD1229 Best VGM 1173 - The Binding of Isaac - Respite's comments (YT ID L8TEsGhBOf).json"
+echo "Archiving SD video 1230, Best VGM 1174 - Romance of the Three Kingdoms V - Phoenix Orchid's comments (YouTube id sQ4aADxHss...)"
+python downloader.py --youtubeid="sQ4aADxHss" --output="SD1230 Best VGM 1174 - Romance of the Three Kingdoms V - Phoenix Orchid's comments (YT ID sQ4aADxHss).json"
+echo "Archiving SD video 1231, Welcome to the NHK - Hitori no Tame no Lullaby's comments (YouTube id q-l-jMT9Fk...)"
+python downloader.py --youtubeid="q-l-jMT9Fk" --output="SD1231 Welcome to the NHK - Hitori no Tame no Lullaby's comments (YT ID q-l-jMT9Fk).json"
+echo "Archiving SD video 1232, Best VGM 1175 - Xenoblade Chronicles - Satorl, the Shimmering Marsh ~ Night's comments (YouTube id AE0hhzASHw...)"
+python downloader.py --youtubeid="AE0hhzASHw" --output="SD1232 Best VGM 1175 - Xenoblade Chronicles - Satorl, the Shimmering Marsh ~ Night's comments (YT ID AE0hhzASHw).json"
+echo "Archiving SD video 1233, Best VGM 1176 - Krater - Parabolic Hyperflies's comments (YouTube id BqxjLbpmUi...)"
+python downloader.py --youtubeid="BqxjLbpmUi" --output="SD1233 Best VGM 1176 - Krater - Parabolic Hyperflies's comments (YT ID BqxjLbpmUi).json"
+echo "Archiving SD video 1234, Best VGM 1178 - Paper Mario : The Thousand Year Door - The Floating Town, Glitzville's comments (YouTube id Ru7_ew8X6i...)"
+python downloader.py --youtubeid="Ru7_ew8X6i" --output="SD1234 Best VGM 1178 - Paper Mario : The Thousand Year Door - The Floating Town, Glitzville's comments (YT ID Ru7_ew8X6i).json"
+echo "Archiving SD video 1235, Best VGM 1179 - Rad Racer II - Coast to Coast's comments (YouTube id i2E9c0j0n4...)"
+python downloader.py --youtubeid="i2E9c0j0n4" --output="SD1235 Best VGM 1179 - Rad Racer II - Coast to Coast's comments (YT ID i2E9c0j0n4).json"
+echo "Archiving SD video 1236, Best VGM 1180 - Divinity II : Ego Draconis - Tavern's comments (YouTube id dj8Qe3GUrd...)"
+python downloader.py --youtubeid="dj8Qe3GUrd" --output="SD1236 Best VGM 1180 - Divinity II : Ego Draconis - Tavern's comments (YT ID dj8Qe3GUrd).json"
+echo "Archiving SD video 1237, Best VGM 1182 - Shantae : Risky's Revenge - Through the Trees's comments (YouTube id m_kAJLsSGz...)"
+python downloader.py --youtubeid="m_kAJLsSGz" --output="SD1237 Best VGM 1182 - Shantae : Risky's Revenge - Through the Trees's comments (YT ID m_kAJLsSGz).json"
+echo "Archiving SD video 1238, Best VGM 1183 - Mega Man 6 - Blizzard Man Stage's comments (YouTube id 7HMGj_KUBz...)"
+python downloader.py --youtubeid="7HMGj_KUBz" --output="SD1238 Best VGM 1183 - Mega Man 6 - Blizzard Man Stage's comments (YT ID 7HMGj_KUBz).json"
+echo "Archiving SD video 1239, Best VGM 1184 - Baten Kaitos - The True Mirror (Battle Theme)'s comments (YouTube id iA6xXR3pwI...)"
+python downloader.py --youtubeid="iA6xXR3pwI" --output="SD1239 Best VGM 1184 - Baten Kaitos - The True Mirror (Battle Theme)'s comments (YT ID iA6xXR3pwI).json"
+echo "Archiving SD video 1240, Best VGM 1185 - L.A. Noire - Temptation, Pt. 2's comments (YouTube id GnwlAOp6tf...)"
+python downloader.py --youtubeid="GnwlAOp6tf" --output="SD1240 Best VGM 1185 - L.A. Noire - Temptation, Pt. 2's comments (YT ID GnwlAOp6tf).json"
+echo "Archiving SD video 1241, Best VGM 1186 - VVVVVV - Passion for Exploring's comments (YouTube id 0dMkx7c-uN...)"
+python downloader.py --youtubeid="0dMkx7c-uN" --output="SD1241 Best VGM 1186 - VVVVVV - Passion for Exploring's comments (YT ID 0dMkx7c-uN).json"
+echo "Archiving SD video 1242, Best VGM 1187 - Opoona - Blue Desert Hotel's comments (YouTube id NXr5V6umW6...)"
+python downloader.py --youtubeid="NXr5V6umW6" --output="SD1242 Best VGM 1187 - Opoona - Blue Desert Hotel's comments (YT ID NXr5V6umW6).json"
+echo "Archiving SD video 1243, Best VGM 1188 - Darksiders II - Plains of Death's comments (YouTube id nl57xFzDIM...)"
+python downloader.py --youtubeid="nl57xFzDIM" --output="SD1243 Best VGM 1188 - Darksiders II - Plains of Death's comments (YT ID nl57xFzDIM).json"
+echo "Archiving SD video 1244, Best VGM 1189 - Zelda : A Link to the Past - Kakariko Village's comments (YouTube id hLKBPvLNzn...)"
+python downloader.py --youtubeid="hLKBPvLNzn" --output="SD1244 Best VGM 1189 - Zelda : A Link to the Past - Kakariko Village's comments (YT ID hLKBPvLNzn).json"
+echo "Archiving SD video 1245, Best VGM 1190 - Sonic the Hedgehog - Star Light Zone's comments (YouTube id ciM3PBf1DR...)"
+python downloader.py --youtubeid="ciM3PBf1DR" --output="SD1245 Best VGM 1190 - Sonic the Hedgehog - Star Light Zone's comments (YT ID ciM3PBf1DR).json"
+echo "Archiving SD video 1246, Best VGM 1191 - Devil May Cry 3 - Devils Never Cry (Ending)'s comments (YouTube id OWQ4bzYMbN...)"
+python downloader.py --youtubeid="OWQ4bzYMbN" --output="SD1246 Best VGM 1191 - Devil May Cry 3 - Devils Never Cry (Ending)'s comments (YT ID OWQ4bzYMbN).json"
+echo "Archiving SD video 1247, Best VGM 1192 - Etrian Odyssey IV - Labyrinth I ~ Cerulean Woodlands's comments (YouTube id V39OyFbkev...)"
+python downloader.py --youtubeid="V39OyFbkev" --output="SD1247 Best VGM 1192 - Etrian Odyssey IV - Labyrinth I ~ Cerulean Woodlands's comments (YT ID V39OyFbkev).json"
+echo "Archiving SD video 1248, Best VGM 1193 - Lost Odyssey - The Gun Barrel of Battle's comments (YouTube id 7L3VJpMORx...)"
+python downloader.py --youtubeid="7L3VJpMORx" --output="SD1248 Best VGM 1193 - Lost Odyssey - The Gun Barrel of Battle's comments (YT ID 7L3VJpMORx).json"
+echo "Archiving SD video 1249, Best VGM 1194 - Albert Odyssey : Legend of Eldean - Mysterioso (Overworld Theme)'s comments (YouTube id YlLX3U6Qfy...)"
+python downloader.py --youtubeid="YlLX3U6Qfy" --output="SD1249 Best VGM 1194 - Albert Odyssey : Legend of Eldean - Mysterioso (Overworld Theme)'s comments (YT ID YlLX3U6Qfy).json"
+echo "Archiving SD video 1250, Best VGM 1195 - Castlevania Curse of Darkness - Garibaldi Temple's comments (YouTube id fJkpSSJUxC...)"
+python downloader.py --youtubeid="fJkpSSJUxC" --output="SD1250 Best VGM 1195 - Castlevania Curse of Darkness - Garibaldi Temple's comments (YT ID fJkpSSJUxC).json"
+echo "Archiving SD video 1251, Best VGM 1196 - Breath of Death VII - Ruins (Metal Flowers)'s comments (YouTube id _EYg1z-ZmU...)"
+python downloader.py --youtubeid="_EYg1z-ZmU" --output="SD1251 Best VGM 1196 - Breath of Death VII - Ruins (Metal Flowers)'s comments (YT ID _EYg1z-ZmU).json"
+echo "Archiving SD video 1252, Best VGM 1197 - TMNT IV : Turtles in Time - Bury My Shell at Wounded Knee's comments (YouTube id YFz1vqikCa...)"
+python downloader.py --youtubeid="YFz1vqikCa" --output="SD1252 Best VGM 1197 - TMNT IV : Turtles in Time - Bury My Shell at Wounded Knee's comments (YT ID YFz1vqikCa).json"
+echo "Archiving SD video 1253, Best VGM 1198 - Metroid Prime - Wrecked Frigate Orpheon's comments (YouTube id ZQGc9rG5qK...)"
+python downloader.py --youtubeid="ZQGc9rG5qK" --output="SD1253 Best VGM 1198 - Metroid Prime - Wrecked Frigate Orpheon's comments (YT ID ZQGc9rG5qK).json"
+echo "Archiving SD video 1254, Best VGM 1199 - Okamiden - Thundercloud's comments (YouTube id AmDE3fCW9g...)"
+python downloader.py --youtubeid="AmDE3fCW9g" --output="SD1254 Best VGM 1199 - Okamiden - Thundercloud's comments (YT ID AmDE3fCW9g).json"
+echo "Archiving SD video 1255, The VGM Wall of Fame (1st Edition)'s comments (YouTube id YBkINMQ1BS...)"
+python downloader.py --youtubeid="YBkINMQ1BS" --output="SD1255 The VGM Wall of Fame (1st Edition)'s comments (YT ID YBkINMQ1BS).json"
+echo "Archiving SD video 1256, Best VGM 1200 - Street Fighter II - Ken's Theme's comments (YouTube id ww6KySR4MQ...)"
+python downloader.py --youtubeid="ww6KySR4MQ" --output="SD1256 Best VGM 1200 - Street Fighter II - Ken's Theme's comments (YT ID ww6KySR4MQ).json"
+echo "Archiving SD video 1257, My First Album is Out!'s comments (YouTube id GaCEuGpulJ...)"
+python downloader.py --youtubeid="GaCEuGpulJ" --output="SD1257 My First Album is Out!'s comments (YT ID GaCEuGpulJ).json"
+echo "Archiving SD video 1258, Best VGM 1201 - Tekken Tag Tournament 2 - Your Sunset (Customization Theme)'s comments (YouTube id f2q9axKQFH...)"
+python downloader.py --youtubeid="f2q9axKQFH" --output="SD1258 Best VGM 1201 - Tekken Tag Tournament 2 - Your Sunset (Customization Theme)'s comments (YT ID f2q9axKQFH).json"
+echo "Archiving SD video 1259, Best VGM 1203 - Guild Wars 2 - The Great Wall Has Fallen's comments (YouTube id pxAH2U75Bo...)"
+python downloader.py --youtubeid="pxAH2U75Bo" --output="SD1259 Best VGM 1203 - Guild Wars 2 - The Great Wall Has Fallen's comments (YT ID pxAH2U75Bo).json"
+echo "Archiving SD video 1260, [SD Remix] Zelda : Twilight Princess - Faron Woods's comments (YouTube id 9usWhMuOfJ...)"
+python downloader.py --youtubeid="9usWhMuOfJ" --output="SD1260 [SD Remix] Zelda : Twilight Princess - Faron Woods's comments (YT ID 9usWhMuOfJ).json"
+echo "Archiving SD video 1261, Best VGM 1204 - Kirby's Epic Yarn - Grass Land's comments (YouTube id 8K35MD4ZNR...)"
+python downloader.py --youtubeid="8K35MD4ZNR" --output="SD1261 Best VGM 1204 - Kirby's Epic Yarn - Grass Land's comments (YT ID 8K35MD4ZNR).json"
+echo "Archiving SD video 1262, Best VGM 1205 - NieR - Emil ~ Sacrifice's comments (YouTube id gmfBMy-h6J...)"
+python downloader.py --youtubeid="gmfBMy-h6J" --output="SD1262 Best VGM 1205 - NieR - Emil ~ Sacrifice's comments (YT ID gmfBMy-h6J).json"
+echo "Archiving SD video 1263, Best VGM 1206 - Ghouls 'n' Ghosts - Level 3's comments (YouTube id uj2mhutaEG...)"
+python downloader.py --youtubeid="uj2mhutaEG" --output="SD1263 Best VGM 1206 - Ghouls 'n' Ghosts - Level 3's comments (YT ID uj2mhutaEG).json"
+echo "Archiving SD video 1264, Best VGM 1207 - Super Princess Peach - Fury Volcano 1's comments (YouTube id A6Qolno2AQ...)"
+python downloader.py --youtubeid="A6Qolno2AQ" --output="SD1264 Best VGM 1207 - Super Princess Peach - Fury Volcano 1's comments (YT ID A6Qolno2AQ).json"
+echo "Archiving SD video 1265, Best VGM 1208 - Ragnarok Online - Peaceful Forest's comments (YouTube id XmAMeRNX_D...)"
+python downloader.py --youtubeid="XmAMeRNX_D" --output="SD1265 Best VGM 1208 - Ragnarok Online - Peaceful Forest's comments (YT ID XmAMeRNX_D).json"
+echo "Archiving SD video 1266, Best VGM 1209 - Mega Man X - Spark Mandrill Stage's comments (YouTube id 8qNwJeuk4g...)"
+python downloader.py --youtubeid="8qNwJeuk4g" --output="SD1266 Best VGM 1209 - Mega Man X - Spark Mandrill Stage's comments (YT ID 8qNwJeuk4g).json"
+echo "Archiving SD video 1267, Best VGM 1210 - Bravely Default : Flying Fairy - Into the Enemy Territory's comments (YouTube id PfY_O8NPhk...)"
+python downloader.py --youtubeid="PfY_O8NPhk" --output="SD1267 Best VGM 1210 - Bravely Default : Flying Fairy - Into the Enemy Territory's comments (YT ID PfY_O8NPhk).json"
+echo "Archiving SD video 1268, Best VGM 1211 - Zelda : Skyward Sword - Koloktos Battle (Phase 2)'s comments (YouTube id Xkr40w4TfZ...)"
+python downloader.py --youtubeid="Xkr40w4TfZ" --output="SD1268 Best VGM 1211 - Zelda : Skyward Sword - Koloktos Battle (Phase 2)'s comments (YT ID Xkr40w4TfZ).json"
+echo "Archiving SD video 1269, Best VGM 1212 - Run Saber - Tong City's comments (YouTube id UOdV3Ci46j...)"
+python downloader.py --youtubeid="UOdV3Ci46j" --output="SD1269 Best VGM 1212 - Run Saber - Tong City's comments (YT ID UOdV3Ci46j).json"
+echo "Archiving SD video 1270, Best VGM 1213 - Double Dragon Neon - City Streets 2 (Mango Tango - Neon Jungle)'s comments (YouTube id Vl9Nz-X4M6...)"
+python downloader.py --youtubeid="Vl9Nz-X4M6" --output="SD1270 Best VGM 1213 - Double Dragon Neon - City Streets 2 (Mango Tango - Neon Jungle)'s comments (YT ID Vl9Nz-X4M6).json"
+echo "Archiving SD video 1271, Best VGM 1214 - Disney's Aladdin - Arab Rock's comments (YouTube id I1USJ16xqw...)"
+python downloader.py --youtubeid="I1USJ16xqw" --output="SD1271 Best VGM 1214 - Disney's Aladdin - Arab Rock's comments (YT ID I1USJ16xqw).json"
+echo "Archiving SD video 1272, Best VGM 1215 - Wild Arms 4 - Perilous Change's comments (YouTube id B2j3_kaReP...)"
+python downloader.py --youtubeid="B2j3_kaReP" --output="SD1272 Best VGM 1215 - Wild Arms 4 - Perilous Change's comments (YT ID B2j3_kaReP).json"
+echo "Archiving SD video 1273, Best VGM 1216 - Grandia II - Inn Town Ageel ~ Cursed Land's comments (YouTube id PhW7tlUisE...)"
+python downloader.py --youtubeid="PhW7tlUisE" --output="SD1273 Best VGM 1216 - Grandia II - Inn Town Ageel ~ Cursed Land's comments (YT ID PhW7tlUisE).json"
+echo "Archiving SD video 1274, Best VGM 1217 - Silent Hill 2 - Promise (Reprise)'s comments (YouTube id myZzE9AYI9...)"
+python downloader.py --youtubeid="myZzE9AYI9" --output="SD1274 Best VGM 1217 - Silent Hill 2 - Promise (Reprise)'s comments (YT ID myZzE9AYI9).json"
+echo "Archiving SD video 1275, Best VGM 1218 - Super Mario Galaxy - Teresa Waltz ~ Ghostly Galaxy's comments (YouTube id V2kV7vfl1S...)"
+python downloader.py --youtubeid="V2kV7vfl1S" --output="SD1275 Best VGM 1218 - Super Mario Galaxy - Teresa Waltz ~ Ghostly Galaxy's comments (YT ID V2kV7vfl1S).json"
+echo "Archiving SD video 1276, Best VGM 1219 - Turok 2 (Gameboy) - Scroll Stage's comments (YouTube id CpThkLTJjU...)"
+python downloader.py --youtubeid="CpThkLTJjU" --output="SD1276 Best VGM 1219 - Turok 2 (Gameboy) - Scroll Stage's comments (YT ID CpThkLTJjU).json"
+echo "Archiving SD video 1277, Best VGM 1220 - MapleStory - Lith Harbor's comments (YouTube id 8mcUQ8Iv6Q...)"
+python downloader.py --youtubeid="8mcUQ8Iv6Q" --output="SD1277 Best VGM 1220 - MapleStory - Lith Harbor's comments (YT ID 8mcUQ8Iv6Q).json"
+echo "Archiving SD video 1278, Best VGM 1221 - Super Robot Wars 4 - Dark Messenger's comments (YouTube id tVnjViENsd...)"
+python downloader.py --youtubeid="tVnjViENsd" --output="SD1278 Best VGM 1221 - Super Robot Wars 4 - Dark Messenger's comments (YT ID tVnjViENsd).json"
+echo "Archiving SD video 1279, Best VGM 1222 - Touch My Katamari - Alien's comments (YouTube id 1IMUSeMsxw...)"
+python downloader.py --youtubeid="1IMUSeMsxw" --output="SD1279 Best VGM 1222 - Touch My Katamari - Alien's comments (YT ID 1IMUSeMsxw).json"
+echo "Archiving SD video 1280, Best VGM 1223 - Halo 4 - Haven's comments (YouTube id YmF88zf5qh...)"
+python downloader.py --youtubeid="YmF88zf5qh" --output="SD1280 Best VGM 1223 - Halo 4 - Haven's comments (YT ID YmF88zf5qh).json"
+echo "Archiving SD video 1281, Best VGM 1224 - Dracula X : Rondo of Blood - Cross a Fear (Stage 2b)'s comments (YouTube id rzLD0vbOoc...)"
+python downloader.py --youtubeid="rzLD0vbOoc" --output="SD1281 Best VGM 1224 - Dracula X : Rondo of Blood - Cross a Fear (Stage 2b)'s comments (YT ID rzLD0vbOoc).json"
+echo "Archiving SD video 1282, Best VGM 1225 - Diddy Kong Racing - Pirate Lagoon's comments (YouTube id 3tItkV0Geo...)"
+python downloader.py --youtubeid="3tItkV0Geo" --output="SD1282 Best VGM 1225 - Diddy Kong Racing - Pirate Lagoon's comments (YT ID 3tItkV0Geo).json"
+echo "Archiving SD video 1283, Best VGM 1226 - Phoenix Wright : Justice for All - Eccentric's comments (YouTube id l5WLVNhczj...)"
+python downloader.py --youtubeid="l5WLVNhczj" --output="SD1283 Best VGM 1226 - Phoenix Wright : Justice for All - Eccentric's comments (YT ID l5WLVNhczj).json"
+echo "Archiving SD video 1284, Best VGM 1227 - Superbrothers : Sword & Sworcery EP - Lone Star's comments (YouTube id _Ms2ME7ufi...)"
+python downloader.py --youtubeid="_Ms2ME7ufi" --output="SD1284 Best VGM 1227 - Superbrothers : Sword & Sworcery EP - Lone Star's comments (YT ID _Ms2ME7ufi).json"
+echo "Archiving SD video 1285, Best VGM 1228 - Call of Duty : Black Ops II - Outer Club Solar (Shadows)'s comments (YouTube id OmMWlRu6pb...)"
+python downloader.py --youtubeid="OmMWlRu6pb" --output="SD1285 Best VGM 1228 - Call of Duty : Black Ops II - Outer Club Solar (Shadows)'s comments (YT ID OmMWlRu6pb).json"
+echo "Archiving SD video 1286, Best VGM 1230 - Super Mario 64 - Staff Roll [Shigeru Miyamoto's 60th Birthday]'s comments (YouTube id 3TjzvAGDub...)"
+python downloader.py --youtubeid="3TjzvAGDub" --output="SD1286 Best VGM 1230 - Super Mario 64 - Staff Roll [Shigeru Miyamoto's 60th Birthday]'s comments (YT ID 3TjzvAGDub).json"
+echo "Archiving SD video 1287, Best VGM 1231 - Metroid Prime - Menu Theme's comments (YouTube id za05W9gteg...)"
+python downloader.py --youtubeid="za05W9gteg" --output="SD1287 Best VGM 1231 - Metroid Prime - Menu Theme's comments (YT ID za05W9gteg).json"
+echo "Archiving SD video 1288, Best VGM 1232 - StarTropics - Dungeon Theme's comments (YouTube id uPU4gCjrDq...)"
+python downloader.py --youtubeid="uPU4gCjrDq" --output="SD1288 Best VGM 1232 - StarTropics - Dungeon Theme's comments (YT ID uPU4gCjrDq).json"
+echo "Archiving SD video 1289, Best VGM 1233 - Paladin's Quest II - Gloucester, the Commercial District's comments (YouTube id A3PE47hImM...)"
+python downloader.py --youtubeid="A3PE47hImM" --output="SD1289 Best VGM 1233 - Paladin's Quest II - Gloucester, the Commercial District's comments (YT ID A3PE47hImM).json"
+echo "Archiving SD video 1290, Best VGM 1234 - Dragon Ball Z : Budokai - Challengers's comments (YouTube id avyGawaBrt...)"
+python downloader.py --youtubeid="avyGawaBrt" --output="SD1290 Best VGM 1234 - Dragon Ball Z : Budokai - Challengers's comments (YT ID avyGawaBrt).json"
+echo "Archiving SD video 1291, My Steam ID (you'll never guess it)'s comments (YouTube id kgJGMWlwwA...)"
+python downloader.py --youtubeid="kgJGMWlwwA" --output="SD1291 My Steam ID (you'll never guess it)'s comments (YT ID kgJGMWlwwA).json"
+echo "Archiving SD video 1292, Best VGM 1235 - Pictionary - Title Theme's comments (YouTube id g_Hsyo7lmQ...)"
+python downloader.py --youtubeid="g_Hsyo7lmQ" --output="SD1292 Best VGM 1235 - Pictionary - Title Theme's comments (YT ID g_Hsyo7lmQ).json"
+echo "Archiving SD video 1293, Best VGM 1236 - Dustforce - Elvish Piper Academy's comments (YouTube id uKWkvGnNff...)"
+python downloader.py --youtubeid="uKWkvGnNff" --output="SD1293 Best VGM 1236 - Dustforce - Elvish Piper Academy's comments (YT ID uKWkvGnNff).json"
+echo "Archiving SD video 1294, Best VGM 1238 - Plants vs Zombies - Grasswalk's comments (YouTube id _Wcte_8oFy...)"
+python downloader.py --youtubeid="_Wcte_8oFy" --output="SD1294 Best VGM 1238 - Plants vs Zombies - Grasswalk's comments (YT ID _Wcte_8oFy).json"
+echo "Archiving SD video 1295, Best VGM 1239 - Pop'n Music 8 - Marigold's comments (YouTube id wHgmFPLNdW...)"
+python downloader.py --youtubeid="wHgmFPLNdW" --output="SD1295 Best VGM 1239 - Pop'n Music 8 - Marigold's comments (YT ID wHgmFPLNdW).json"
+echo "Archiving SD video 1296, SupraDarky - Little Piano's comments (YouTube id XcBu-TvBhy...)"
+python downloader.py --youtubeid="XcBu-TvBhy" --output="SD1296 SupraDarky - Little Piano's comments (YT ID XcBu-TvBhy).json"
+echo "Archiving SD video 1297, Best VGM 1240 - Sonic the Hedgehog 2 - Metropolis Zone's comments (YouTube id lJc9ajk9bX...)"
+python downloader.py --youtubeid="lJc9ajk9bX" --output="SD1297 Best VGM 1240 - Sonic the Hedgehog 2 - Metropolis Zone's comments (YT ID lJc9ajk9bX).json"
+echo "Archiving SD video 1298, Best VGM 1241 - Shadow Hearts II : Covenant - Dear, My Dressmaker's comments (YouTube id NlsRts7Sim...)"
+python downloader.py --youtubeid="NlsRts7Sim" --output="SD1298 Best VGM 1241 - Shadow Hearts II : Covenant - Dear, My Dressmaker's comments (YT ID NlsRts7Sim).json"
+echo "Archiving SD video 1299, Best VGM 1242 - To the Moon - Main Theme's comments (YouTube id DjKfEQD892...)"
+python downloader.py --youtubeid="DjKfEQD892" --output="SD1299 Best VGM 1242 - To the Moon - Main Theme's comments (YT ID DjKfEQD892).json"
+echo "Archiving SD video 1300, Best VGM 1243 - Donkey Kong Country 3 GBA - Enchanted River's comments (YouTube id IwIt4zlHSW...)"
+python downloader.py --youtubeid="IwIt4zlHSW" --output="SD1300 Best VGM 1243 - Donkey Kong Country 3 GBA - Enchanted River's comments (YT ID IwIt4zlHSW).json"
+echo "Archiving SD video 1301, Best VGM 1244 - Earthbound - Battle Against a Weird Opponent's comments (YouTube id t6YVE2kp8g...)"
+python downloader.py --youtubeid="t6YVE2kp8g" --output="SD1301 Best VGM 1244 - Earthbound - Battle Against a Weird Opponent's comments (YT ID t6YVE2kp8g).json"
+echo "Archiving SD video 1302, Best VGM 1245 - Goldeneye - Runway's comments (YouTube id NUloEiKpAZ...)"
+python downloader.py --youtubeid="NUloEiKpAZ" --output="SD1302 Best VGM 1245 - Goldeneye - Runway's comments (YT ID NUloEiKpAZ).json"
+echo "Archiving SD video 1303, Best VGM 1246 - The Walking Dead - Alive Inside's comments (YouTube id VpOYrLJKFU...)"
+python downloader.py --youtubeid="VpOYrLJKFU" --output="SD1303 Best VGM 1246 - The Walking Dead - Alive Inside's comments (YT ID VpOYrLJKFU).json"
+echo "Archiving SD video 1304, Best VGM 1247 - Kirby's Return to Dreamland - Egg Engines (Cracker Chamber)'s comments (YouTube id qrmzQOAASX...)"
+python downloader.py --youtubeid="qrmzQOAASX" --output="SD1304 Best VGM 1247 - Kirby's Return to Dreamland - Egg Engines (Cracker Chamber)'s comments (YT ID qrmzQOAASX).json"
+echo "Archiving SD video 1305, [SD Remix] Earthbound - The Coolest Hospital's comments (YouTube id C6wTSAqfeI...)"
+python downloader.py --youtubeid="C6wTSAqfeI" --output="SD1305 [SD Remix] Earthbound - The Coolest Hospital's comments (YT ID C6wTSAqfeI).json"
+echo "Archiving SD video 1306, Best VGM 1248 - Zelda : Wind Waker - Molgera's comments (YouTube id WP9081WAmi...)"
+python downloader.py --youtubeid="WP9081WAmi" --output="SD1306 Best VGM 1248 - Zelda : Wind Waker - Molgera's comments (YT ID WP9081WAmi).json"
+echo "Archiving SD video 1307, Best VGM 1249 - Fez - Flow's comments (YouTube id z513Tty2ha...)"
+python downloader.py --youtubeid="z513Tty2ha" --output="SD1307 Best VGM 1249 - Fez - Flow's comments (YT ID z513Tty2ha).json"
+echo "Archiving SD video 1308, Best VGM 1250 - Shadow of the Colossus - The Farthest Land's comments (YouTube id lhVk4Q47cg...)"
+python downloader.py --youtubeid="lhVk4Q47cg" --output="SD1308 Best VGM 1250 - Shadow of the Colossus - The Farthest Land's comments (YT ID lhVk4Q47cg).json"
+echo "Archiving SD video 1309, Best VGM 1251 - Mega Man - Dr. Wily Stage 1 / 2 (Series' 25th Anniversary)'s comments (YouTube id k3m-_uCo-b...)"
+python downloader.py --youtubeid="k3m-_uCo-b" --output="SD1309 Best VGM 1251 - Mega Man - Dr. Wily Stage 1 / 2 (Series' 25th Anniversary)'s comments (YT ID k3m-_uCo-b).json"
+echo "Archiving SD video 1310, Best VGM 1252 - Hotline Miami - Knock Knock's comments (YouTube id 3XM9eiSys9...)"
+python downloader.py --youtubeid="3XM9eiSys9" --output="SD1310 Best VGM 1252 - Hotline Miami - Knock Knock's comments (YT ID 3XM9eiSys9).json"
+echo "Archiving SD video 1311, Best VGM 1253 - Paper Mario - Crystal Palace Crawl's comments (YouTube id BimaIgvOa-...)"
+python downloader.py --youtubeid="BimaIgvOa-" --output="SD1311 Best VGM 1253 - Paper Mario - Crystal Palace Crawl's comments (YT ID BimaIgvOa-).json"
+echo "Archiving SD video 1312, Best VGM 1254 - Xenosaga II - Subconscious Domain (Winter)'s comments (YouTube id dtITnB_uRz...)"
+python downloader.py --youtubeid="dtITnB_uRz" --output="SD1312 Best VGM 1254 - Xenosaga II - Subconscious Domain (Winter)'s comments (YT ID dtITnB_uRz).json"
+echo "Archiving SD video 1313, Best VGM 1255 - Pokemon Diamond / Pearl / Platinum - Route 216 (Day)'s comments (YouTube id bmsw4ND8HN...)"
+python downloader.py --youtubeid="bmsw4ND8HN" --output="SD1313 Best VGM 1255 - Pokemon Diamond / Pearl / Platinum - Route 216 (Day)'s comments (YT ID bmsw4ND8HN).json"
+echo "Archiving SD video 1314, Best VGM 1256 - Crusader of Centy - Castle Freesia's comments (YouTube id 1DwQk4-Smn...)"
+python downloader.py --youtubeid="1DwQk4-Smn" --output="SD1314 Best VGM 1256 - Crusader of Centy - Castle Freesia's comments (YT ID 1DwQk4-Smn).json"
+echo "Archiving SD video 1315, Best VGM 1257 - Animal Crossing - Christmas Eve's comments (YouTube id JXtWCWeM6u...)"
+python downloader.py --youtubeid="JXtWCWeM6u" --output="SD1315 Best VGM 1257 - Animal Crossing - Christmas Eve's comments (YT ID JXtWCWeM6u).json"
+echo "Archiving SD video 1316, Best VGM 1258 - Christmas NiGHTS - Jack Frost's Chime's comments (YouTube id YYBmrB3bYo...)"
+python downloader.py --youtubeid="YYBmrB3bYo" --output="SD1316 Best VGM 1258 - Christmas NiGHTS - Jack Frost's Chime's comments (YT ID YYBmrB3bYo).json"
+echo "Archiving SD video 1317, Best VGM 1259 - Jet Force Gemini - Water Ruins's comments (YouTube id 0Y0RwyI8j8...)"
+python downloader.py --youtubeid="0Y0RwyI8j8" --output="SD1317 Best VGM 1259 - Jet Force Gemini - Water Ruins's comments (YT ID 0Y0RwyI8j8).json"
+echo "Archiving SD video 1318, Best VGM 1260 - Kid Icarus : Uprising - Dog's Theme's comments (YouTube id PMKc5Ffynz...)"
+python downloader.py --youtubeid="PMKc5Ffynz" --output="SD1318 Best VGM 1260 - Kid Icarus : Uprising - Dog's Theme's comments (YT ID PMKc5Ffynz).json"
+echo "Archiving SD video 1319, Best VGM 1261 - Gravity Rush - Old Town's comments (YouTube id s7mVzuPSvS...)"
+python downloader.py --youtubeid="s7mVzuPSvS" --output="SD1319 Best VGM 1261 - Gravity Rush - Old Town's comments (YT ID s7mVzuPSvS).json"
+echo "Archiving SD video 1320, Official Facebook Page!'s comments (YouTube id OoUvdpa9Cf...)"
+python downloader.py --youtubeid="OoUvdpa9Cf" --output="SD1320 Official Facebook Page!'s comments (YT ID OoUvdpa9Cf).json"
+echo "Archiving SD video 1321, Best VGM 1262 - Castlevania II - Dwelling of Doom's comments (YouTube id dQRiJz_nEP...)"
+python downloader.py --youtubeid="dQRiJz_nEP" --output="SD1321 Best VGM 1262 - Castlevania II - Dwelling of Doom's comments (YT ID dQRiJz_nEP).json"
+echo "Archiving SD video 1322, [GOTY 2012 #10] Best VGM 1263 - Lone Survivor - Main Theme's comments (YouTube id NtRlpjt5It...)"
+python downloader.py --youtubeid="NtRlpjt5It" --output="SD1322 [GOTY 2012 #10] Best VGM 1263 - Lone Survivor - Main Theme's comments (YT ID NtRlpjt5It).json"
+echo "Archiving SD video 1323, [GOTY 2012 #9] Best VGM 1264 - Diablo III - Leah's comments (YouTube id 3bNlWGyxkC...)"
+python downloader.py --youtubeid="3bNlWGyxkC" --output="SD1323 [GOTY 2012 #9] Best VGM 1264 - Diablo III - Leah's comments (YT ID 3bNlWGyxkC).json"
+echo "Archiving SD video 1324, [GOTY 2012 #8] Best VGM 1265 - ZombiU - Escape the Tower's comments (YouTube id Jokz0rBmE7...)"
+python downloader.py --youtubeid="Jokz0rBmE7" --output="SD1324 [GOTY 2012 #8] Best VGM 1265 - ZombiU - Escape the Tower's comments (YT ID Jokz0rBmE7).json"
+echo "Archiving SD video 1325, [GOTY 2012 #7] Best VGM 1266 - Hotline Miami - Miami's comments (YouTube id MqK5MvPwPs...)"
+python downloader.py --youtubeid="MqK5MvPwPs" --output="SD1325 [GOTY 2012 #7] Best VGM 1266 - Hotline Miami - Miami's comments (YT ID MqK5MvPwPs).json"
+echo "Archiving SD video 1326, [GOTY 2012 #6] Best VGM 1267 - Mass Effect 3 - An End, Once and for All's comments (YouTube id ICdhgaXXor...)"
+python downloader.py --youtubeid="ICdhgaXXor" --output="SD1326 [GOTY 2012 #6] Best VGM 1267 - Mass Effect 3 - An End, Once and for All's comments (YT ID ICdhgaXXor).json"
+echo "Archiving SD video 1327, [GOTY 2012 #5] Best VGM 1268 - Legend of Grimrock - Main Theme's comments (YouTube id vsLJDafIEH...)"
+python downloader.py --youtubeid="vsLJDafIEH" --output="SD1327 [GOTY 2012 #5] Best VGM 1268 - Legend of Grimrock - Main Theme's comments (YT ID vsLJDafIEH).json"
+echo "Archiving SD video 1328, [GOTY 2012 #4] Best VGM 1269 - Fez - Home's comments (YouTube id M3FytW43iO...)"
+python downloader.py --youtubeid="M3FytW43iO" --output="SD1328 [GOTY 2012 #4] Best VGM 1269 - Fez - Home's comments (YT ID M3FytW43iO).json"
+echo "Archiving SD video 1329, [GOTY 2012 #3] Best VGM 1270 - Guild Wars 2 - The Seraph's comments (YouTube id CcovgBkMTm...)"
+python downloader.py --youtubeid="CcovgBkMTm" --output="SD1329 [GOTY 2012 #3] Best VGM 1270 - Guild Wars 2 - The Seraph's comments (YT ID CcovgBkMTm).json"
+echo "Archiving SD video 1330, [GOTY 2012 #2] Best VGM 1271 - The Walking Dead - Take Us Back (Credits)'s comments (YouTube id SvCIrLZ8hk...)"
+python downloader.py --youtubeid="SvCIrLZ8hk" --output="SD1330 [GOTY 2012 #2] Best VGM 1271 - The Walking Dead - Take Us Back (Credits)'s comments (YT ID SvCIrLZ8hk).json"
+echo "Archiving SD video 1331, [GOTY 2012 #1] Best VGM 1272 - Tribes Ascend - Temple Ruins's comments (YouTube id 1yBlUvZ-ta...)"
+python downloader.py --youtubeid="1yBlUvZ-ta" --output="SD1331 [GOTY 2012 #1] Best VGM 1272 - Tribes Ascend - Temple Ruins's comments (YT ID 1yBlUvZ-ta).json"
+echo "Archiving SD video 1332, Best VGM 1274 - Little Inferno - Just for Me's comments (YouTube id UBCtM24yyY...)"
+python downloader.py --youtubeid="UBCtM24yyY" --output="SD1332 Best VGM 1274 - Little Inferno - Just for Me's comments (YT ID UBCtM24yyY).json"
+echo "Archiving SD video 1333, Best VGM 1275 - DmC : Devil May Cry - Kat's Theme's comments (YouTube id zFfgwmWuim...)"
+python downloader.py --youtubeid="zFfgwmWuim" --output="SD1333 Best VGM 1275 - DmC : Devil May Cry - Kat's Theme's comments (YT ID zFfgwmWuim).json"
+echo "Archiving SD video 1334, Best VGM 1276 - Donkey Kong Country - Forest Frenzy's comments (YouTube id TrO0wRbqPU...)"
+python downloader.py --youtubeid="TrO0wRbqPU" --output="SD1334 Best VGM 1276 - Donkey Kong Country - Forest Frenzy's comments (YT ID TrO0wRbqPU).json"
+echo "Archiving SD video 1335, Best VGM 1277 - Wrecking Crew - Stage Theme 2's comments (YouTube id ZabqQ7MSsI...)"
+python downloader.py --youtubeid="ZabqQ7MSsI" --output="SD1335 Best VGM 1277 - Wrecking Crew - Stage Theme 2's comments (YT ID ZabqQ7MSsI).json"
+echo "Archiving SD video 1336, Best VGM 1278 - Mega Man Battle Network - Hometown's comments (YouTube id uDzUf4I751...)"
+python downloader.py --youtubeid="uDzUf4I751" --output="SD1336 Best VGM 1278 - Mega Man Battle Network - Hometown's comments (YT ID uDzUf4I751).json"
+echo "Archiving SD video 1337, Best VGM 1279 - Xenoblade Chronicles - Mechonis Field's comments (YouTube id RxcQY1OUzz...)"
+python downloader.py --youtubeid="RxcQY1OUzz" --output="SD1337 Best VGM 1279 - Xenoblade Chronicles - Mechonis Field's comments (YT ID RxcQY1OUzz).json"
+echo "Archiving SD video 1338, Best VGM 1280 - Shin Megami Tensei Nocturne - Kotowari Boss Battle's comments (YouTube id DKbzLuiop8...)"
+python downloader.py --youtubeid="DKbzLuiop8" --output="SD1338 Best VGM 1280 - Shin Megami Tensei Nocturne - Kotowari Boss Battle's comments (YT ID DKbzLuiop8).json"
+echo "Archiving SD video 1339, Best VGM 1282 - Darksiders II - The Makers Guardian's comments (YouTube id DY_Tz7UAeA...)"
+python downloader.py --youtubeid="DY_Tz7UAeA" --output="SD1339 Best VGM 1282 - Darksiders II - The Makers Guardian's comments (YT ID DY_Tz7UAeA).json"
+echo "Archiving SD video 1340, Best VGM 1283 - Ghosts 'n' Goblins - Main Theme's comments (YouTube id 6s6Bc0QAyx...)"
+python downloader.py --youtubeid="6s6Bc0QAyx" --output="SD1340 Best VGM 1283 - Ghosts 'n' Goblins - Main Theme's comments (YT ID 6s6Bc0QAyx).json"
+echo "Archiving SD video 1341, Mega Man 7 - Shade Man Stage (Alternate)'s comments (YouTube id 0d_BqKWe-9...)"
+python downloader.py --youtubeid="0d_BqKWe-9" --output="SD1341 Mega Man 7 - Shade Man Stage (Alternate)'s comments (YT ID 0d_BqKWe-9).json"
+echo "Archiving SD video 1342, Best VGM 1284 - Mega Man 7 - Shade Man Stage's comments (YouTube id -64NlME4lJ...)"
+python downloader.py --youtubeid="-64NlME4lJ" --output="SD1342 Best VGM 1284 - Mega Man 7 - Shade Man Stage's comments (YT ID -64NlME4lJ).json"
+echo "Archiving SD video 1343, Best VGM 1285 - Minecraft - Mice on Venus's comments (YouTube id ifqmN14qJp...)"
+python downloader.py --youtubeid="ifqmN14qJp" --output="SD1343 Best VGM 1285 - Minecraft - Mice on Venus's comments (YT ID ifqmN14qJp).json"
+echo "Archiving SD video 1344, Best VGM 1286 - The Revenge of Shinobi - The Shinobi's comments (YouTube id 1iKxdUnF0V...)"
+python downloader.py --youtubeid="1iKxdUnF0V" --output="SD1344 Best VGM 1286 - The Revenge of Shinobi - The Shinobi's comments (YT ID 1iKxdUnF0V).json"
+echo "Archiving SD video 1345, Just Another Day's comments (YouTube id T6bAkiv7IF...)"
+python downloader.py --youtubeid="T6bAkiv7IF" --output="SD1345 Just Another Day's comments (YT ID T6bAkiv7IF).json"
+echo "Archiving SD video 1346, Best VGM 1288 - Ace Combat 4 : Shattered Skies - Megalith -Agnus Dei-'s comments (YouTube id AJX08k_VZv...)"
+python downloader.py --youtubeid="AJX08k_VZv" --output="SD1346 Best VGM 1288 - Ace Combat 4 : Shattered Skies - Megalith -Agnus Dei-'s comments (YT ID AJX08k_VZv).json"
+echo "Archiving SD video 1347, Best VGM 1289 - Golden Sun : Dark Dawn - Main Theme's comments (YouTube id C31ciPeuuX...)"
+python downloader.py --youtubeid="C31ciPeuuX" --output="SD1347 Best VGM 1289 - Golden Sun : Dark Dawn - Main Theme's comments (YT ID C31ciPeuuX).json"
+echo "Archiving SD video 1348, Best VGM 1290 - Uncharted : Drake's Fortune - Nate's Theme's comments (YouTube id k4N3Go4wZC...)"
+python downloader.py --youtubeid="k4N3Go4wZC" --output="SD1348 Best VGM 1290 - Uncharted : Drake's Fortune - Nate's Theme's comments (YT ID k4N3Go4wZC).json"
+echo "Archiving SD video 1349, Best VGM 1291 - Wild Arms - Alone in the World's comments (YouTube id 88VyZ4Lvd0...)"
+python downloader.py --youtubeid="88VyZ4Lvd0" --output="SD1349 Best VGM 1291 - Wild Arms - Alone in the World's comments (YT ID 88VyZ4Lvd0).json"
+echo "Archiving SD video 1350, Best VGM 1292 - Radiant Historia - The Garden Where the Celestite Lies's comments (YouTube id iK-g9PXhXz...)"
+python downloader.py --youtubeid="iK-g9PXhXz" --output="SD1350 Best VGM 1292 - Radiant Historia - The Garden Where the Celestite Lies's comments (YT ID iK-g9PXhXz).json"
+echo "Archiving SD video 1351, Best VGM 1293 - Treasure Hunter G - Bossa Nova of Love's comments (YouTube id SA7NfjCWbZ...)"
+python downloader.py --youtubeid="SA7NfjCWbZ" --output="SD1351 Best VGM 1293 - Treasure Hunter G - Bossa Nova of Love's comments (YT ID SA7NfjCWbZ).json"
+echo "Archiving SD video 1352, Best VGM 1294 - Wipeout Pulse - Tokyo's comments (YouTube id ehNS3sKQse...)"
+python downloader.py --youtubeid="ehNS3sKQse" --output="SD1352 Best VGM 1294 - Wipeout Pulse - Tokyo's comments (YT ID ehNS3sKQse).json"
+echo "Archiving SD video 1353, Best VGM 1295 - Metal Gear Rising - It Has To Be This Way (Steven Armstrong) ~ Instrumental + Vocal's comments (YouTube id 2CEZdt5n5J...)"
+python downloader.py --youtubeid="2CEZdt5n5J" --output="SD1353 Best VGM 1295 - Metal Gear Rising - It Has To Be This Way (Steven Armstrong) ~ Instrumental + Vocal's comments (YT ID 2CEZdt5n5J).json"
+echo "Archiving SD video 1354, Best VGM 1296 - Zelda : Twilight Princess - Palace of Twilight's comments (YouTube id xrLiaewZZ2...)"
+python downloader.py --youtubeid="xrLiaewZZ2" --output="SD1354 Best VGM 1296 - Zelda : Twilight Princess - Palace of Twilight's comments (YT ID xrLiaewZZ2).json"
+echo "Archiving SD video 1355, Best VGM 1297 - Battletoads (Arcade) - Hole (Stage 4)'s comments (YouTube id Ho2TE9Zfkg...)"
+python downloader.py --youtubeid="Ho2TE9Zfkg" --output="SD1355 Best VGM 1297 - Battletoads (Arcade) - Hole (Stage 4)'s comments (YT ID Ho2TE9Zfkg).json"
+echo "Archiving SD video 1356, Best VGM 1298 - Valkyrie Profile - Epic Poem to Sacred Death's comments (YouTube id D0uYrKpNE2...)"
+python downloader.py --youtubeid="D0uYrKpNE2" --output="SD1356 Best VGM 1298 - Valkyrie Profile - Epic Poem to Sacred Death's comments (YT ID D0uYrKpNE2).json"
+echo "Archiving SD video 1357, Best VGM 1299 - Nora to Toki no Koubou - The Pure Aroma at the Herbalist's comments (YouTube id dWrm-lwiKj...)"
+python downloader.py --youtubeid="dWrm-lwiKj" --output="SD1357 Best VGM 1299 - Nora to Toki no Koubou - The Pure Aroma at the Herbalist's comments (YT ID dWrm-lwiKj).json"
+echo "Archiving SD video 1358, The VGM Wall of Fame (2nd Edition)'s comments (YouTube id DfsSgnsiQ6...)"
+python downloader.py --youtubeid="DfsSgnsiQ6" --output="SD1358 The VGM Wall of Fame (2nd Edition)'s comments (YT ID DfsSgnsiQ6).json"
+echo "Archiving SD video 1359, Best VGM 1301 - Super Mario Galaxy 2 - Fateful Decisive Battle's comments (YouTube id IyAs15CjGX...)"
+python downloader.py --youtubeid="IyAs15CjGX" --output="SD1359 Best VGM 1301 - Super Mario Galaxy 2 - Fateful Decisive Battle's comments (YT ID IyAs15CjGX).json"
+echo "Archiving SD video 1360, Best VGM 1302 - Mutant Mudds - World 4-1's comments (YouTube id hoOeroni32...)"
+python downloader.py --youtubeid="hoOeroni32" --output="SD1360 Best VGM 1302 - Mutant Mudds - World 4-1's comments (YT ID hoOeroni32).json"
+echo "Archiving SD video 1361, Best VGM 1303 - Mother 3 - Murasaki Forest's comments (YouTube id HSWAPWjg5A...)"
+python downloader.py --youtubeid="HSWAPWjg5A" --output="SD1361 Best VGM 1303 - Mother 3 - Murasaki Forest's comments (YT ID HSWAPWjg5A).json"
+echo "Archiving SD video 1362, Best VGM 1304 - The Elder Scrolls V: Skyrim - The Streets of Whiterun's comments (YouTube id _YxsxsaP2T...)"
+python downloader.py --youtubeid="_YxsxsaP2T" --output="SD1362 Best VGM 1304 - The Elder Scrolls V: Skyrim - The Streets of Whiterun's comments (YT ID _YxsxsaP2T).json"
+echo "Archiving SD video 1363, Best VGM 1305 - Resident Evil : Revelations - Hall's comments (YouTube id OD49e9J3qb...)"
+python downloader.py --youtubeid="OD49e9J3qb" --output="SD1363 Best VGM 1305 - Resident Evil : Revelations - Hall's comments (YT ID OD49e9J3qb).json"
+echo "Archiving SD video 1364, Best VGM 1306 - Live a Live - Sancho de los Panchos's comments (YouTube id PqvQvt3ePy...)"
+python downloader.py --youtubeid="PqvQvt3ePy" --output="SD1364 Best VGM 1306 - Live a Live - Sancho de los Panchos's comments (YT ID PqvQvt3ePy).json"
+echo "Archiving SD video 1365, Best VGM 1308 - Krater - World Map's comments (YouTube id W6O1WLDxRr...)"
+python downloader.py --youtubeid="W6O1WLDxRr" --output="SD1365 Best VGM 1308 - Krater - World Map's comments (YT ID W6O1WLDxRr).json"
+echo "Archiving SD video 1366, Best VGM 1309 - Ys : The Oath in Felghana - Sealed Time (Clock Tower)'s comments (YouTube id T1edn6OPNR...)"
+python downloader.py --youtubeid="T1edn6OPNR" --output="SD1366 Best VGM 1309 - Ys : The Oath in Felghana - Sealed Time (Clock Tower)'s comments (YT ID T1edn6OPNR).json"
+echo "Archiving SD video 1367, Best VGM 1310 - Lufia : The Legend Returns - Battle 3's comments (YouTube id I-_yzFMncl...)"
+python downloader.py --youtubeid="I-_yzFMncl" --output="SD1367 Best VGM 1310 - Lufia : The Legend Returns - Battle 3's comments (YT ID I-_yzFMncl).json"
+echo "Archiving SD video 1368, Best VGM 1312 - Dear Esther - Ascension's comments (YouTube id 0_ph5htjyl...)"
+python downloader.py --youtubeid="0_ph5htjyl" --output="SD1368 Best VGM 1312 - Dear Esther - Ascension's comments (YT ID 0_ph5htjyl).json"
+echo "Archiving SD video 1369, Best VGM 1313 - The Last Remnant - Sword Sparks's comments (YouTube id 7MhWtz8Nv9...)"
+python downloader.py --youtubeid="7MhWtz8Nv9" --output="SD1369 Best VGM 1313 - The Last Remnant - Sword Sparks's comments (YT ID 7MhWtz8Nv9).json"
+echo "Archiving SD video 1370, Best VGM 1314 - DuckTales - Title Theme's comments (YouTube id Xm7lW0uvFp...)"
+python downloader.py --youtubeid="Xm7lW0uvFp" --output="SD1370 Best VGM 1314 - DuckTales - Title Theme's comments (YT ID Xm7lW0uvFp).json"
+echo "Archiving SD video 1371, Best VGM 1315 - 999 : Nine Hours, Nine Persons, Nine Doors - Morphogenetic Sorrow's comments (YouTube id t6-MOj2mkg...)"
+python downloader.py --youtubeid="t6-MOj2mkg" --output="SD1371 Best VGM 1315 - 999 : Nine Hours, Nine Persons, Nine Doors - Morphogenetic Sorrow's comments (YT ID t6-MOj2mkg).json"
+echo "Archiving SD video 1372, Oriental Magnetic Yellow (OMY) - Beyond the Muscle [1995]'s comments (YouTube id RmisimxEDc...)"
+python downloader.py --youtubeid="RmisimxEDc" --output="SD1372 Oriental Magnetic Yellow (OMY) - Beyond the Muscle [1995]'s comments (YT ID RmisimxEDc).json"
+echo "Archiving SD video 1373, Best VGM 1316 - FTL : Faster Than Light - Cosmos (Battle)'s comments (YouTube id -Gg6v-GMns...)"
+python downloader.py --youtubeid="-Gg6v-GMns" --output="SD1373 Best VGM 1316 - FTL : Faster Than Light - Cosmos (Battle)'s comments (YT ID -Gg6v-GMns).json"
+echo "Archiving SD video 1374, Best VGM 1317 - Mario Kart : Double Dash !! - Peach Beach & Daisy Cruiser's comments (YouTube id yJrRo8Dqpk...)"
+python downloader.py --youtubeid="yJrRo8Dqpk" --output="SD1374 Best VGM 1317 - Mario Kart : Double Dash !! - Peach Beach & Daisy Cruiser's comments (YT ID yJrRo8Dqpk).json"
+echo "Archiving SD video 1375, Best VGM 1318 - Sonic the Hedgehog (2006) - Solaris Phase 2's comments (YouTube id xieau-Uia1...)"
+python downloader.py --youtubeid="xieau-Uia1" --output="SD1375 Best VGM 1318 - Sonic the Hedgehog (2006) - Solaris Phase 2's comments (YT ID xieau-Uia1).json"
+echo "Archiving SD video 1376, Best VGM 1319 - Ruin Arm - Prologue's comments (YouTube id 1NmzdFvqzS...)"
+python downloader.py --youtubeid="1NmzdFvqzS" --output="SD1376 Best VGM 1319 - Ruin Arm - Prologue's comments (YT ID 1NmzdFvqzS).json"
+echo "Archiving SD video 1377, Best VGM 1320 - MediEvil : Resurrection - End Titles's comments (YouTube id PZBltehhko...)"
+python downloader.py --youtubeid="PZBltehhko" --output="SD1377 Best VGM 1320 - MediEvil : Resurrection - End Titles's comments (YT ID PZBltehhko).json"
+echo "Archiving SD video 1378, Best VGM 1321 - Radiant Historia - Unending Clear Blue Sky's comments (YouTube id HRAnMmwuLx...)"
+python downloader.py --youtubeid="HRAnMmwuLx" --output="SD1378 Best VGM 1321 - Radiant Historia - Unending Clear Blue Sky's comments (YT ID HRAnMmwuLx).json"
+echo "Archiving SD video 1379, Best VGM 1322 - Pop'n Music 7 - Tobenai Tenshi's comments (YouTube id eje3VwPYdB...)"
+python downloader.py --youtubeid="eje3VwPYdB" --output="SD1379 Best VGM 1322 - Pop'n Music 7 - Tobenai Tenshi's comments (YT ID eje3VwPYdB).json"
+echo "Archiving SD video 1380, Best VGM 1323 - Radiata Stories - Devote for Nature's comments (YouTube id 9_wYMNZYaA...)"
+python downloader.py --youtubeid="9_wYMNZYaA" --output="SD1380 Best VGM 1323 - Radiata Stories - Devote for Nature's comments (YT ID 9_wYMNZYaA).json"
+echo "Archiving SD video 1381, Best VGM 1324 - Dustforce - Upside Down Stalagmite's comments (YouTube id 6UWGh1A1fP...)"
+python downloader.py --youtubeid="6UWGh1A1fP" --output="SD1381 Best VGM 1324 - Dustforce - Upside Down Stalagmite's comments (YT ID 6UWGh1A1fP).json"
+echo "Archiving SD video 1382, Best VGM 1325 - Deus Ex : Human Revolution - Icarus (Main Theme)'s comments (YouTube id bWp4F1p2I6...)"
+python downloader.py --youtubeid="bWp4F1p2I6" --output="SD1382 Best VGM 1325 - Deus Ex : Human Revolution - Icarus (Main Theme)'s comments (YT ID bWp4F1p2I6).json"
+echo "Archiving SD video 1383, Best VGM 1326 - Mega Turrican - Stage 5-1 (Machine World)'s comments (YouTube id EVo5O3hKVv...)"
+python downloader.py --youtubeid="EVo5O3hKVv" --output="SD1383 Best VGM 1326 - Mega Turrican - Stage 5-1 (Machine World)'s comments (YT ID EVo5O3hKVv).json"
+echo "Archiving SD video 1384, Best VGM 1327 - Tomb Raider III - Main Theme's comments (YouTube id l1O9XZupPJ...)"
+python downloader.py --youtubeid="l1O9XZupPJ" --output="SD1384 Best VGM 1327 - Tomb Raider III - Main Theme's comments (YT ID l1O9XZupPJ).json"
+echo "Archiving SD video 1385, Best VGM 1328 - Super Mario RPG - The Merry Mary Bell Rings's comments (YouTube id tIiNJgLECK...)"
+python downloader.py --youtubeid="tIiNJgLECK" --output="SD1385 Best VGM 1328 - Super Mario RPG - The Merry Mary Bell Rings's comments (YT ID tIiNJgLECK).json"
+echo "Archiving SD video 1386, Best VGM 1329 - Battle Squadron - High Score's comments (YouTube id SqWu2wRA-R...)"
+python downloader.py --youtubeid="SqWu2wRA-R" --output="SD1386 Best VGM 1329 - Battle Squadron - High Score's comments (YT ID SqWu2wRA-R).json"
+echo "Archiving SD video 1387, Best VGM 1330 - Earthbound - Dalaam's comments (YouTube id mm-nVnt8L0...)"
+python downloader.py --youtubeid="mm-nVnt8L0" --output="SD1387 Best VGM 1330 - Earthbound - Dalaam's comments (YT ID mm-nVnt8L0).json"
+echo "Archiving SD video 1388, The Inspiration for Earthbound's Dalaam Theme's comments (YouTube id jVsN7EgXxh...)"
+python downloader.py --youtubeid="jVsN7EgXxh" --output="SD1388 The Inspiration for Earthbound's Dalaam Theme's comments (YT ID jVsN7EgXxh).json"
+echo "Archiving SD video 1389, Best VGM 1331 - Warcraft II - Orc Theme 2's comments (YouTube id fbc17iYI7P...)"
+python downloader.py --youtubeid="fbc17iYI7P" --output="SD1389 Best VGM 1331 - Warcraft II - Orc Theme 2's comments (YT ID fbc17iYI7P).json"
+echo "Archiving SD video 1390, Best VGM 1332 - Street Fighter III 3rd Strike - Jazzy NYC '99 (Alex & Ken Stage)'s comments (YouTube id TEPaoDnS6A...)"
+python downloader.py --youtubeid="TEPaoDnS6A" --output="SD1390 Best VGM 1332 - Street Fighter III 3rd Strike - Jazzy NYC '99 (Alex & Ken Stage)'s comments (YT ID TEPaoDnS6A).json"
+echo "Archiving SD video 1391, Best VGM 1333 - Grand Theft Auto V - Epsilon Program (Kifflom)'s comments (YouTube id _wbGNLXgYg...)"
+python downloader.py --youtubeid="_wbGNLXgYg" --output="SD1391 Best VGM 1333 - Grand Theft Auto V - Epsilon Program (Kifflom)'s comments (YT ID _wbGNLXgYg).json"
+echo "Archiving SD video 1392, Best VGM 1334 - Guacamelee! - Desierto Caliente's comments (YouTube id -WQGbuqnVl...)"
+python downloader.py --youtubeid="-WQGbuqnVl" --output="SD1392 Best VGM 1334 - Guacamelee! - Desierto Caliente's comments (YT ID -WQGbuqnVl).json"
+echo "Archiving SD video 1393, Best VGM 1335 - Breath of Fire - Romero Cave's comments (YouTube id KULCV3TgyQ...)"
+python downloader.py --youtubeid="KULCV3TgyQ" --output="SD1393 Best VGM 1335 - Breath of Fire - Romero Cave's comments (YT ID KULCV3TgyQ).json"
+echo "Archiving SD video 1394, Best VGM 1336 - Rayman Origins - Land Of Dead World's comments (YouTube id ru4pkshvp7...)"
+python downloader.py --youtubeid="ru4pkshvp7" --output="SD1394 Best VGM 1336 - Rayman Origins - Land Of Dead World's comments (YT ID ru4pkshvp7).json"
+echo "Archiving SD video 1395, Best VGM 1337 - Unreal Tournament - Skyward Fire's comments (YouTube id cxAbbHCpuc...)"
+python downloader.py --youtubeid="cxAbbHCpuc" --output="SD1395 Best VGM 1337 - Unreal Tournament - Skyward Fire's comments (YT ID cxAbbHCpuc).json"
+echo "Archiving SD video 1396, Best VGM 1338 - Far Cry 3 : Blood Dragon - Resurrection's comments (YouTube id Ir_3DdPZeS...)"
+python downloader.py --youtubeid="Ir_3DdPZeS" --output="SD1396 Best VGM 1338 - Far Cry 3 : Blood Dragon - Resurrection's comments (YT ID Ir_3DdPZeS).json"
+echo "Archiving SD video 1397, Best VGM 1340 - Star Trek : Deep Space Nine - Hot Pursuit's comments (YouTube id minJMBk4V9...)"
+python downloader.py --youtubeid="minJMBk4V9" --output="SD1397 Best VGM 1340 - Star Trek : Deep Space Nine - Hot Pursuit's comments (YT ID minJMBk4V9).json"
+echo "Archiving SD video 1398, Best VGM 1341 - Tales of Symphonia - In a Shadowy Woods's comments (YouTube id VzHPc-HJlf...)"
+python downloader.py --youtubeid="VzHPc-HJlf" --output="SD1398 Best VGM 1341 - Tales of Symphonia - In a Shadowy Woods's comments (YT ID VzHPc-HJlf).json"
+echo "Archiving SD video 1399, Best VGM 1342 - Quake II - Stealth Frag's comments (YouTube id Ks9ZCaUNKx...)"
+python downloader.py --youtubeid="Ks9ZCaUNKx" --output="SD1399 Best VGM 1342 - Quake II - Stealth Frag's comments (YT ID Ks9ZCaUNKx).json"
+echo "Archiving SD video 1400, Best VGM 1343 - Lunar : The Silver Star - Meryod's comments (YouTube id HUpDqe4s4d...)"
+python downloader.py --youtubeid="HUpDqe4s4d" --output="SD1400 Best VGM 1343 - Lunar : The Silver Star - Meryod's comments (YT ID HUpDqe4s4d).json"
+echo "Archiving SD video 1401, Best VGM 1344 - Castlevania : Lords of Shadow - Final Confrontation (Short Version)'s comments (YouTube id W0fvt7_n9C...)"
+python downloader.py --youtubeid="W0fvt7_n9C" --output="SD1401 Best VGM 1344 - Castlevania : Lords of Shadow - Final Confrontation (Short Version)'s comments (YT ID W0fvt7_n9C).json"
+echo "Archiving SD video 1402, Best VGM 1345 - Pokemon Ruby / Sapphire / Emerald - Lilycove City's comments (YouTube id hBg-pnQpic...)"
+python downloader.py --youtubeid="hBg-pnQpic" --output="SD1402 Best VGM 1345 - Pokemon Ruby / Sapphire / Emerald - Lilycove City's comments (YT ID hBg-pnQpic).json"
+echo "Archiving SD video 1403, Best VGM 1346 - Sonic CD - Quartz Quadrant ~ Present (JP / EU)'s comments (YouTube id CYswIEEMIW...)"
+python downloader.py --youtubeid="CYswIEEMIW" --output="SD1403 Best VGM 1346 - Sonic CD - Quartz Quadrant ~ Present (JP / EU)'s comments (YT ID CYswIEEMIW).json"
+echo "Archiving SD video 1404, Best VGM 1347 - Assassin's Creed III : The Tyranny of King Washington - Swift And Silent's comments (YouTube id LQxlUTTrKW...)"
+python downloader.py --youtubeid="LQxlUTTrKW" --output="SD1404 Best VGM 1347 - Assassin's Creed III : The Tyranny of King Washington - Swift And Silent's comments (YT ID LQxlUTTrKW).json"
+echo "Archiving SD video 1405, Best VGM 1348 - The Lost Vikings - Factory Beat's comments (YouTube id DxEl2p9GPn...)"
+python downloader.py --youtubeid="DxEl2p9GPn" --output="SD1405 Best VGM 1348 - The Lost Vikings - Factory Beat's comments (YT ID DxEl2p9GPn).json"
+echo "Archiving SD video 1406, Best VGM 1349 - Zelda : Minish Cap - Minish Woods's comments (YouTube id z1oW4USdB6...)"
+python downloader.py --youtubeid="z1oW4USdB6" --output="SD1406 Best VGM 1349 - Zelda : Minish Cap - Minish Woods's comments (YT ID z1oW4USdB6).json"
+echo "Archiving SD video 1407, Best VGM 1350 - Airport Tycoon 3 - Menu Theme's comments (YouTube id 07EXFbZaXi...)"
+python downloader.py --youtubeid="07EXFbZaXi" --output="SD1407 Best VGM 1350 - Airport Tycoon 3 - Menu Theme's comments (YT ID 07EXFbZaXi).json"
+echo "Archiving SD video 1408, Best VGM 1351 - Legend of Legaia - Light of the Town's comments (YouTube id P7K7jzxf6i...)"
+python downloader.py --youtubeid="P7K7jzxf6i" --output="SD1408 Best VGM 1351 - Legend of Legaia - Light of the Town's comments (YT ID P7K7jzxf6i).json"
+echo "Archiving SD video 1409, [SD Zelda] Dungeon 6 - Tower of Illusions's comments (YouTube id nOXmEEb-iC...)"
+python downloader.py --youtubeid="nOXmEEb-iC" --output="SD1409 [SD Zelda] Dungeon 6 - Tower of Illusions's comments (YT ID nOXmEEb-iC).json"
+echo "Archiving SD video 1410, Best VGM 1352 - Soul Edge - A Mediterranean Call (Sophitia's Stage)'s comments (YouTube id eF03eqpRxH...)"
+python downloader.py --youtubeid="eF03eqpRxH" --output="SD1410 Best VGM 1352 - Soul Edge - A Mediterranean Call (Sophitia's Stage)'s comments (YT ID eF03eqpRxH).json"
+echo "Archiving SD video 1411, Best VGM 1353 - Vampire The Masquerade : Bloodlines - Chinatown's comments (YouTube id 1DAD230gip...)"
+python downloader.py --youtubeid="1DAD230gip" --output="SD1411 Best VGM 1353 - Vampire The Masquerade : Bloodlines - Chinatown's comments (YT ID 1DAD230gip).json"
+echo "Archiving SD video 1412, Best VGM 1354 - Arumana no Kiseki - Stage 1's comments (YouTube id JhDblgtqx5...)"
+python downloader.py --youtubeid="JhDblgtqx5" --output="SD1412 Best VGM 1354 - Arumana no Kiseki - Stage 1's comments (YT ID JhDblgtqx5).json"
+echo "Archiving SD video 1413, Best VGM 1356 - Bejeweled 3 - Poker's comments (YouTube id ARQfmb30M1...)"
+python downloader.py --youtubeid="ARQfmb30M1" --output="SD1413 Best VGM 1356 - Bejeweled 3 - Poker's comments (YT ID ARQfmb30M1).json"
+echo "Archiving SD video 1414, Best VGM 1357 - Mega Man 5 - Dark Man Stage (Proto Man Fortress )'s comments (YouTube id g2S2Lxzow3...)"
+python downloader.py --youtubeid="g2S2Lxzow3" --output="SD1414 Best VGM 1357 - Mega Man 5 - Dark Man Stage (Proto Man Fortress )'s comments (YT ID g2S2Lxzow3).json"
+echo "Archiving SD video 1415, Best VGM 1358 - Dragon Quest VII - Days of Sadness's comments (YouTube id 29h1H6neu3...)"
+python downloader.py --youtubeid="29h1H6neu3" --output="SD1415 Best VGM 1358 - Dragon Quest VII - Days of Sadness's comments (YT ID 29h1H6neu3).json"
+echo "Archiving SD video 1416, Best VGM 1359 - Atelier Iris 2 : The Azoth of Destiny - Empty Corridor's comments (YouTube id sHduBNdadT...)"
+python downloader.py --youtubeid="sHduBNdadT" --output="SD1416 Best VGM 1359 - Atelier Iris 2 : The Azoth of Destiny - Empty Corridor's comments (YT ID sHduBNdadT).json"
+echo "Archiving SD video 1417, Best VGM 1360 - Mystical Ninja Starring Goemon - Flowery Oedo, the Lost Village's comments (YouTube id OegoI_0vdu...)"
+python downloader.py --youtubeid="OegoI_0vdu" --output="SD1417 Best VGM 1360 - Mystical Ninja Starring Goemon - Flowery Oedo, the Lost Village's comments (YT ID OegoI_0vdu).json"
+echo "Archiving SD video 1418, Best VGM 1361 - Secret of Evermore - Puppet Show's comments (YouTube id Z8Jf5aFCbE...)"
+python downloader.py --youtubeid="Z8Jf5aFCbE" --output="SD1418 Best VGM 1361 - Secret of Evermore - Puppet Show's comments (YT ID Z8Jf5aFCbE).json"
+echo "Archiving SD video 1419, Best VGM 1362 - Ys Origin - Genesis Beyond the Beginning's comments (YouTube id oJFAAWYju6...)"
+python downloader.py --youtubeid="oJFAAWYju6" --output="SD1419 Best VGM 1362 - Ys Origin - Genesis Beyond the Beginning's comments (YT ID oJFAAWYju6).json"
+echo "Archiving SD video 1420, Best VGM 1363 - The Swapper - Recreation's comments (YouTube id bKj3JXmYDf...)"
+python downloader.py --youtubeid="bKj3JXmYDf" --output="SD1420 Best VGM 1363 - The Swapper - Recreation's comments (YT ID bKj3JXmYDf).json"
+echo "Archiving SD video 1421, Best VGM 1364 - Kingdom Hearts - Destiny Islands's comments (YouTube id berZX7mPxb...)"
+python downloader.py --youtubeid="berZX7mPxb" --output="SD1421 Best VGM 1364 - Kingdom Hearts - Destiny Islands's comments (YT ID berZX7mPxb).json"
+echo "Archiving SD video 1422, Best VGM 1365 - Animal Crossing : Wild World - Taxi Ride's comments (YouTube id xJHVfLI5pL...)"
+python downloader.py --youtubeid="xJHVfLI5pL" --output="SD1422 Best VGM 1365 - Animal Crossing : Wild World - Taxi Ride's comments (YT ID xJHVfLI5pL).json"
+echo "Archiving SD video 1423, Best VGM 1366 - NieR - Yonah ~ Pluck Ver. 2's comments (YouTube id 2r35JpoRCO...)"
+python downloader.py --youtubeid="2r35JpoRCO" --output="SD1423 Best VGM 1366 - NieR - Yonah ~ Pluck Ver. 2's comments (YT ID 2r35JpoRCO).json"
+echo "Archiving SD video 1424, Best VGM 1367 - The Magical Land of Wozz - Vehicle Battle's comments (YouTube id P2smOsHacj...)"
+python downloader.py --youtubeid="P2smOsHacj" --output="SD1424 Best VGM 1367 - The Magical Land of Wozz - Vehicle Battle's comments (YT ID P2smOsHacj).json"
+echo "Archiving SD video 1425, Best VGM 1368 - Silent Hill 3 - Breeze in Monochrome Night's comments (YouTube id 83p9uYd4pe...)"
+python downloader.py --youtubeid="83p9uYd4pe" --output="SD1425 Best VGM 1368 - Silent Hill 3 - Breeze in Monochrome Night's comments (YT ID 83p9uYd4pe).json"
+echo "Archiving SD video 1426, Best VGM 1369 - The Smurfs' Nightmare - Aqua's comments (YouTube id EdkkgkEu_N...)"
+python downloader.py --youtubeid="EdkkgkEu_N" --output="SD1426 Best VGM 1369 - The Smurfs' Nightmare - Aqua's comments (YT ID EdkkgkEu_N).json"
+echo "Archiving SD video 1427, Best VGM 1370 - Tetrisphere - Sappy's comments (YouTube id vY8in7gADD...)"
+python downloader.py --youtubeid="vY8in7gADD" --output="SD1427 Best VGM 1370 - Tetrisphere - Sappy's comments (YT ID vY8in7gADD).json"
+echo "Archiving SD video 1428, Best VGM 1371 - Double Dragon Neon - Lab 2 (Pick Yourself Up and Dance)'s comments (YouTube id 8x1E_1TY8i...)"
+python downloader.py --youtubeid="8x1E_1TY8i" --output="SD1428 Best VGM 1371 - Double Dragon Neon - Lab 2 (Pick Yourself Up and Dance)'s comments (YT ID 8x1E_1TY8i).json"
+echo "Archiving SD video 1429, Best VGM 1372 - Radiant Silvergun - Penta's comments (YouTube id RHiQZ7tXSl...)"
+python downloader.py --youtubeid="RHiQZ7tXSl" --output="SD1429 Best VGM 1372 - Radiant Silvergun - Penta's comments (YT ID RHiQZ7tXSl).json"
+echo "Archiving SD video 1430, Best VGM 1373 - Super Mario World - Underwater's comments (YouTube id ae_lrtPgor...)"
+python downloader.py --youtubeid="ae_lrtPgor" --output="SD1430 Best VGM 1373 - Super Mario World - Underwater's comments (YT ID ae_lrtPgor).json"
+echo "Archiving SD video 1431, Best VGM 1374 - Opoona - Restaurant Regina's comments (YouTube id jI2ltHB50K...)"
+python downloader.py --youtubeid="jI2ltHB50K" --output="SD1431 Best VGM 1374 - Opoona - Restaurant Regina's comments (YT ID jI2ltHB50K).json"
+echo "Archiving SD video 1432, Best VGM 1376 - Magnetis - Solo's comments (YouTube id vtTk81cIJl...)"
+python downloader.py --youtubeid="vtTk81cIJl" --output="SD1432 Best VGM 1376 - Magnetis - Solo's comments (YT ID vtTk81cIJl).json"
+echo "Archiving SD video 1433, Best VGM 1377 - Machinarium - Pipe Wrench Dubstep's comments (YouTube id pyO56W8cys...)"
+python downloader.py --youtubeid="pyO56W8cys" --output="SD1433 Best VGM 1377 - Machinarium - Pipe Wrench Dubstep's comments (YT ID pyO56W8cys).json"
+echo "Archiving SD video 1434, Best VGM 1378 - Little Nemo : The Dream Master - Nightmare World's comments (YouTube id bffwco66Vn...)"
+python downloader.py --youtubeid="bffwco66Vn" --output="SD1434 Best VGM 1378 - Little Nemo : The Dream Master - Nightmare World's comments (YT ID bffwco66Vn).json"
+echo "Archiving SD video 1435, Best VGM 1379 - Chrono Cross - Another Termina's comments (YouTube id _2FYWCCZrN...)"
+python downloader.py --youtubeid="_2FYWCCZrN" --output="SD1435 Best VGM 1379 - Chrono Cross - Another Termina's comments (YT ID _2FYWCCZrN).json"
+echo "Archiving SD video 1436, Best VGM 1380 - Wild Arms 5 - If We Act Like Scholars (Ice Tower)'s comments (YouTube id 3J9-q-cv_I...)"
+python downloader.py --youtubeid="3J9-q-cv_I" --output="SD1436 Best VGM 1380 - Wild Arms 5 - If We Act Like Scholars (Ice Tower)'s comments (YT ID 3J9-q-cv_I).json"
+echo "Archiving SD video 1437, Best VGM 1381 - Polymer - Polymer's comments (YouTube id T24J3gTL4v...)"
+python downloader.py --youtubeid="T24J3gTL4v" --output="SD1437 Best VGM 1381 - Polymer - Polymer's comments (YT ID T24J3gTL4v).json"
+echo "Archiving SD video 1438, Best VGM 1382 - Suikoden II - Heart Softening Theme 1's comments (YouTube id EF7QwcRAwa...)"
+python downloader.py --youtubeid="EF7QwcRAwa" --output="SD1438 Best VGM 1382 - Suikoden II - Heart Softening Theme 1's comments (YT ID EF7QwcRAwa).json"
+echo "Archiving SD video 1439, Best VGM 1383 - Mario Paint - Creative Exercise's comments (YouTube id pmKP4hR2Td...)"
+python downloader.py --youtubeid="pmKP4hR2Td" --output="SD1439 Best VGM 1383 - Mario Paint - Creative Exercise's comments (YT ID pmKP4hR2Td).json"
+echo "Archiving SD video 1440, Best VGM 1384 - Pushmo - Challenge's comments (YouTube id RqqbUR7YxU...)"
+python downloader.py --youtubeid="RqqbUR7YxU" --output="SD1440 Best VGM 1384 - Pushmo - Challenge's comments (YT ID RqqbUR7YxU).json"
+echo "Archiving SD video 1441, Best VGM 1385 - Umineko no Naku Koro ni - goldenslaugtherer's comments (YouTube id mfOHgEeuEH...)"
+python downloader.py --youtubeid="mfOHgEeuEH" --output="SD1441 Best VGM 1385 - Umineko no Naku Koro ni - goldenslaugtherer's comments (YT ID mfOHgEeuEH).json"
+echo "Archiving SD video 1442, Best VGM 1386 - Shadow of the Ninja - Stage 1's comments (YouTube id 2TgWzuTOXN...)"
+python downloader.py --youtubeid="2TgWzuTOXN" --output="SD1442 Best VGM 1386 - Shadow of the Ninja - Stage 1's comments (YT ID 2TgWzuTOXN).json"
+echo "Archiving SD video 1443, Best VGM 1387 - Legend of Dragoon - Royal Castle's comments (YouTube id yTe_L2AYaI...)"
+python downloader.py --youtubeid="yTe_L2AYaI" --output="SD1443 Best VGM 1387 - Legend of Dragoon - Royal Castle's comments (YT ID yTe_L2AYaI).json"
+echo "Archiving SD video 1444, Best VGM 1388 - Zelda : Skyward Sword - Sandship Interior (Present & Past)'s comments (YouTube id 1X5Y6Opw26...)"
+python downloader.py --youtubeid="1X5Y6Opw26" --output="SD1444 Best VGM 1388 - Zelda : Skyward Sword - Sandship Interior (Present & Past)'s comments (YT ID 1X5Y6Opw26).json"
+echo "Archiving SD video 1445, Best VGM 1389 - Earthbound - Saturn Valley's comments (YouTube id 8EaxiB6Yt5...)"
+python downloader.py --youtubeid="8EaxiB6Yt5" --output="SD1445 Best VGM 1389 - Earthbound - Saturn Valley's comments (YT ID 8EaxiB6Yt5).json"
+echo "Archiving SD video 1446, Best VGM 1390 - Xenosaga III - Assault #2's comments (YouTube id kzId-AbowC...)"
+python downloader.py --youtubeid="kzId-AbowC" --output="SD1446 Best VGM 1390 - Xenosaga III - Assault #2's comments (YT ID kzId-AbowC).json"
+echo "Archiving SD video 1447, Best VGM 1391 - Mario & Luigi : Dream Team - Somnom Woods ~ Dream's comments (YouTube id bXfaBUCDX1...)"
+python downloader.py --youtubeid="bXfaBUCDX1" --output="SD1447 Best VGM 1391 - Mario & Luigi : Dream Team - Somnom Woods ~ Dream's comments (YT ID bXfaBUCDX1).json"
+echo "Archiving SD video 1448, Best VGM 1392 - Tales from Space : Mutant Blobs Attack - Big City's comments (YouTube id KoPF_wOrQ6...)"
+python downloader.py --youtubeid="KoPF_wOrQ6" --output="SD1448 Best VGM 1392 - Tales from Space : Mutant Blobs Attack - Big City's comments (YT ID KoPF_wOrQ6).json"
+echo "Archiving SD video 1449, Best VGM 1393 - Super Turrican 2 - Stage 1-4 (Wormland)'s comments (YouTube id nrNPfvs4Am...)"
+python downloader.py --youtubeid="nrNPfvs4Am" --output="SD1449 Best VGM 1393 - Super Turrican 2 - Stage 1-4 (Wormland)'s comments (YT ID nrNPfvs4Am).json"
+echo "Archiving SD video 1450, Best VGM 1394 - Blast Corps - Carrick Point / Ebony Coast's comments (YouTube id 6l8a_pzRcR...)"
+python downloader.py --youtubeid="6l8a_pzRcR" --output="SD1450 Best VGM 1394 - Blast Corps - Carrick Point / Ebony Coast's comments (YT ID 6l8a_pzRcR).json"
+echo "Archiving SD video 1451, Best VGM 1395 - Alundra 2 - Quiet Town's comments (YouTube id 62_S0Sl02T...)"
+python downloader.py --youtubeid="62_S0Sl02T" --output="SD1451 Best VGM 1395 - Alundra 2 - Quiet Town's comments (YT ID 62_S0Sl02T).json"
+echo "Archiving SD video 1452, Best VGM 1396 - Castlevania : Dawn of Sorrow - Cursed Clock Tower's comments (YouTube id T586T6QFjq...)"
+python downloader.py --youtubeid="T586T6QFjq" --output="SD1452 Best VGM 1396 - Castlevania : Dawn of Sorrow - Cursed Clock Tower's comments (YT ID T586T6QFjq).json"
+echo "Archiving SD video 1453, Best VGM 1397 - Mass Effect - The Citadel's comments (YouTube id JF7ucc5IH_...)"
+python downloader.py --youtubeid="JF7ucc5IH_" --output="SD1453 Best VGM 1397 - Mass Effect - The Citadel's comments (YT ID JF7ucc5IH_).json"
+echo "Archiving SD video 1454, Best VGM 1398 - Aliens Incursion - Aliens Incursion's comments (YouTube id G4g1SH2tEV...)"
+python downloader.py --youtubeid="G4g1SH2tEV" --output="SD1454 Best VGM 1398 - Aliens Incursion - Aliens Incursion's comments (YT ID G4g1SH2tEV).json"
+echo "Archiving SD video 1455, Best VGM 1400 - Donkey Kong Country Returns - Main Theme's comments (YouTube id bR4AB3xNT0...)"
+python downloader.py --youtubeid="bR4AB3xNT0" --output="SD1455 Best VGM 1400 - Donkey Kong Country Returns - Main Theme's comments (YT ID bR4AB3xNT0).json"
+echo "Archiving SD video 1456, SupraDarky - Ripples's comments (YouTube id Rxa2GKYb2B...)"
+python downloader.py --youtubeid="Rxa2GKYb2B" --output="SD1456 SupraDarky - Ripples's comments (YT ID Rxa2GKYb2B).json"
+echo "Archiving SD video 1457, Best VGM 1401 - Super Mario 3D Land - Main Theme (Overworld)'s comments (YouTube id 7FwtoHygav...)"
+python downloader.py --youtubeid="7FwtoHygav" --output="SD1457 Best VGM 1401 - Super Mario 3D Land - Main Theme (Overworld)'s comments (YT ID 7FwtoHygav).json"
+echo "Archiving SD video 1458, Best VGM 1402 - Ys II Chronicles - Tender People (Ramia Village)'s comments (YouTube id hMoejZAOOU...)"
+python downloader.py --youtubeid="hMoejZAOOU" --output="SD1458 Best VGM 1402 - Ys II Chronicles - Tender People (Ramia Village)'s comments (YT ID hMoejZAOOU).json"
+echo "Archiving SD video 1459, Best VGM 1403 - Spelunky - Mines B's comments (YouTube id rb9yuLqory...)"
+python downloader.py --youtubeid="rb9yuLqory" --output="SD1459 Best VGM 1403 - Spelunky - Mines B's comments (YT ID rb9yuLqory).json"
+echo "Archiving SD video 1460, Best VGM 1404 - Dragon Ball Z Butouden 3 - Tenkaichi Budoukai's comments (YouTube id 4d2Wwxbsk6...)"
+python downloader.py --youtubeid="4d2Wwxbsk6" --output="SD1460 Best VGM 1404 - Dragon Ball Z Butouden 3 - Tenkaichi Budoukai's comments (YT ID 4d2Wwxbsk6).json"
+echo "Archiving SD video 1461, Best VGM 1405 - Yoshi's Island DS - Midboss Madness!'s comments (YouTube id rACVXsRX6I...)"
+python downloader.py --youtubeid="rACVXsRX6I" --output="SD1461 Best VGM 1405 - Yoshi's Island DS - Midboss Madness!'s comments (YT ID rACVXsRX6I).json"
+echo "Archiving SD video 1462, Best VGM 1406 - Nintendo Land - Welcome to the Plaza's comments (YouTube id U2XioVnZUl...)"
+python downloader.py --youtubeid="U2XioVnZUl" --output="SD1462 Best VGM 1406 - Nintendo Land - Welcome to the Plaza's comments (YT ID U2XioVnZUl).json"
+echo "Archiving SD video 1463, Best VGM 1407 - Return All Robots! - Training Montage's comments (YouTube id deKo_UHZa1...)"
+python downloader.py --youtubeid="deKo_UHZa1" --output="SD1463 Best VGM 1407 - Return All Robots! - Training Montage's comments (YT ID deKo_UHZa1).json"
+echo "Archiving SD video 1464, Best VGM 1408 - Dark Cloud 2 - Forest of the Rainbow Butterflies's comments (YouTube id -4nCbgayZN...)"
+python downloader.py --youtubeid="-4nCbgayZN" --output="SD1464 Best VGM 1408 - Dark Cloud 2 - Forest of the Rainbow Butterflies's comments (YT ID -4nCbgayZN).json"
+echo "Archiving SD video 1465, Best VGM 1409 - Lineage II - Shepard's Flute (Dion Castle Town)'s comments (YouTube id gQUe8l_Y28...)"
+python downloader.py --youtubeid="gQUe8l_Y28" --output="SD1465 Best VGM 1409 - Lineage II - Shepard's Flute (Dion Castle Town)'s comments (YT ID gQUe8l_Y28).json"
+echo "Archiving SD video 1466, Best VGM 1410 - Mother (EarthBound Beginnings) - Mother Earth (Main Theme)'s comments (YouTube id 2mLCr2sV3r...)"
+python downloader.py --youtubeid="2mLCr2sV3r" --output="SD1466 Best VGM 1410 - Mother (EarthBound Beginnings) - Mother Earth (Main Theme)'s comments (YT ID 2mLCr2sV3r).json"
+echo "Archiving SD video 1467, Best VGM 1411 - Alien Breed - Main Theme's comments (YouTube id NxWGa33zC8...)"
+python downloader.py --youtubeid="NxWGa33zC8" --output="SD1467 Best VGM 1411 - Alien Breed - Main Theme's comments (YT ID NxWGa33zC8).json"
+echo "Archiving SD video 1468, Best VGM 1412 - Touch My Katamari - Hello World's comments (YouTube id aKgSFxA0Zh...)"
+python downloader.py --youtubeid="aKgSFxA0Zh" --output="SD1468 Best VGM 1412 - Touch My Katamari - Hello World's comments (YT ID aKgSFxA0Zh).json"
+echo "Archiving SD video 1469, Best VGM 1413 - Gran Turismo 5 - Sunset Haze's comments (YouTube id Fa9-pSBa9C...)"
+python downloader.py --youtubeid="Fa9-pSBa9C" --output="SD1469 Best VGM 1413 - Gran Turismo 5 - Sunset Haze's comments (YT ID Fa9-pSBa9C).json"
+echo "Archiving SD video 1470, Best VGM 1414 - Dragon Quest V - The Ocean's comments (YouTube id _hRi2AwnEy...)"
+python downloader.py --youtubeid="_hRi2AwnEy" --output="SD1470 Best VGM 1414 - Dragon Quest V - The Ocean's comments (YT ID _hRi2AwnEy).json"
+echo "Archiving SD video 1471, Best VGM 1415 - Okamiden - Ryoshima Field South's comments (YouTube id q6btinyHMA...)"
+python downloader.py --youtubeid="q6btinyHMA" --output="SD1471 Best VGM 1415 - Okamiden - Ryoshima Field South's comments (YT ID q6btinyHMA).json"
+echo "Archiving SD video 1472, Best VGM 1416 - Trip World - World 1's comments (YouTube id lZUgl5vm6t...)"
+python downloader.py --youtubeid="lZUgl5vm6t" --output="SD1472 Best VGM 1416 - Trip World - World 1's comments (YT ID lZUgl5vm6t).json"
+echo "Archiving SD video 1473, Best VGM 1417 - Monster Hunter Tri - Tremble of the Sea and Land ~ Lagiacrus's comments (YouTube id hqKfTvkVo1...)"
+python downloader.py --youtubeid="hqKfTvkVo1" --output="SD1473 Best VGM 1417 - Monster Hunter Tri - Tremble of the Sea and Land ~ Lagiacrus's comments (YT ID hqKfTvkVo1).json"
+echo "Archiving SD video 1474, Best VGM 1418  - Street Fighter IV - Zangief's Theme's comments (YouTube id o8cQl5pL6R...)"
+python downloader.py --youtubeid="o8cQl5pL6R" --output="SD1474 Best VGM 1418  - Street Fighter IV - Zangief's Theme's comments (YT ID o8cQl5pL6R).json"
+echo "Archiving SD video 1475, SupraDarky - Future's Everyday Life's comments (YouTube id EByrACqgbM...)"
+python downloader.py --youtubeid="EByrACqgbM" --output="SD1475 SupraDarky - Future's Everyday Life's comments (YT ID EByrACqgbM).json"
+echo "Archiving SD video 1476, Best VGM 1419 - Toy Story 2 - Airport Infiltration's comments (YouTube id nea0ze3wh6...)"
+python downloader.py --youtubeid="nea0ze3wh6" --output="SD1476 Best VGM 1419 - Toy Story 2 - Airport Infiltration's comments (YT ID nea0ze3wh6).json"
+echo "Archiving SD video 1477, Best VGM 1420 - Castlevania III - Rising's comments (YouTube id s4pG2_UOel...)"
+python downloader.py --youtubeid="s4pG2_UOel" --output="SD1477 Best VGM 1420 - Castlevania III - Rising's comments (YT ID s4pG2_UOel).json"
+echo "Archiving SD video 1478, Monster - Make it Home's comments (YouTube id 2FpVqTKDni...)"
+python downloader.py --youtubeid="2FpVqTKDni" --output="SD1478 Monster - Make it Home's comments (YT ID 2FpVqTKDni).json"
+echo "Archiving SD video 1479, 10 Days Break + My Top 30 Video Games of All Time !'s comments (YouTube id 4bk39IESdP...)"
+python downloader.py --youtubeid="4bk39IESdP" --output="SD1479 10 Days Break + My Top 30 Video Games of All Time !'s comments (YT ID 4bk39IESdP).json"
+echo "Archiving SD video 1480, [All Time Favorite Game #30] Best VGM 1421 - Goldeneye - Silo's comments (YouTube id jRqXWj7TL5...)"
+python downloader.py --youtubeid="jRqXWj7TL5" --output="SD1480 [All Time Favorite Game #30] Best VGM 1421 - Goldeneye - Silo's comments (YT ID jRqXWj7TL5).json"
+echo "Archiving SD video 1481, [All Time Favorite Game #29] Best VGM 1422 - Donkey Kong Country - Mine Cart Madness's comments (YouTube id Sht8cKbdf_...)"
+python downloader.py --youtubeid="Sht8cKbdf_" --output="SD1481 [All Time Favorite Game #29] Best VGM 1422 - Donkey Kong Country - Mine Cart Madness's comments (YT ID Sht8cKbdf_).json"
+echo "Archiving SD video 1482, [All Time Favorite Game #28] Best VGM 1423 - Suikoden II - Hidden Village of the Ninja's comments (YouTube id aOxqL6hSt8...)"
+python downloader.py --youtubeid="aOxqL6hSt8" --output="SD1482 [All Time Favorite Game #28] Best VGM 1423 - Suikoden II - Hidden Village of the Ninja's comments (YT ID aOxqL6hSt8).json"
+echo "Archiving SD video 1483, [All Time Favorite Game #27] Best VGM 1424 - Zelda : Wind Waker - Forest Haven's comments (YouTube id IrLs8cW3sI...)"
+python downloader.py --youtubeid="IrLs8cW3sI" --output="SD1483 [All Time Favorite Game #27] Best VGM 1424 - Zelda : Wind Waker - Forest Haven's comments (YT ID IrLs8cW3sI).json"
+echo "Archiving SD video 1484, [All Time Favorite Game #26] Best VGM 1425 - Super Mario RPG - Let's Do the Fluff Fluff!'s comments (YouTube id WaThErXvfD...)"
+python downloader.py --youtubeid="WaThErXvfD" --output="SD1484 [All Time Favorite Game #26] Best VGM 1425 - Super Mario RPG - Let's Do the Fluff Fluff!'s comments (YT ID WaThErXvfD).json"
+echo "Archiving SD video 1485, [All Time Favorite Game #25] Best VGM 1426 - Secret of Evermore - Greek Temple's comments (YouTube id JCqSHvyY_2...)"
+python downloader.py --youtubeid="JCqSHvyY_2" --output="SD1485 [All Time Favorite Game #25] Best VGM 1426 - Secret of Evermore - Greek Temple's comments (YT ID JCqSHvyY_2).json"
+echo "Archiving SD video 1486, [All Time Favorite Game #24] Best VGM 1427 - Super Mario World - Title Theme's comments (YouTube id dTjNEOT-e-...)"
+python downloader.py --youtubeid="dTjNEOT-e-" --output="SD1486 [All Time Favorite Game #24] Best VGM 1427 - Super Mario World - Title Theme's comments (YT ID dTjNEOT-e-).json"
+echo "Archiving SD video 1487, [All Time Favorite Game #23] Best VGM 1428 - Shadow Hearts II : Covenant - Memories of Melodies's comments (YouTube id xorfsUKMGm...)"
+python downloader.py --youtubeid="xorfsUKMGm" --output="SD1487 [All Time Favorite Game #23] Best VGM 1428 - Shadow Hearts II : Covenant - Memories of Melodies's comments (YT ID xorfsUKMGm).json"
+echo "Archiving SD video 1488, [All Time Favorite Game #22] Best VGM 1429 - Counter Strike - Main Theme's comments (YouTube id go7JlCI5n5...)"
+python downloader.py --youtubeid="go7JlCI5n5" --output="SD1488 [All Time Favorite Game #22] Best VGM 1429 - Counter Strike - Main Theme's comments (YT ID go7JlCI5n5).json"
+echo "Archiving SD video 1489, [All Time Favorite Game #21] Best VGM 1430 - Bioshock - Welcome to Rapture's comments (YouTube id sC4xMC4sIS...)"
+python downloader.py --youtubeid="sC4xMC4sIS" --output="SD1489 [All Time Favorite Game #21] Best VGM 1430 - Bioshock - Welcome to Rapture's comments (YT ID sC4xMC4sIS).json"
+echo "Archiving SD video 1490, [All Time Favorite Game #19] Best VGM 1432 - Zelda : A Link to the Past - Dark Mountain Forest's comments (YouTube id vRRrOKsfxP...)"
+python downloader.py --youtubeid="vRRrOKsfxP" --output="SD1490 [All Time Favorite Game #19] Best VGM 1432 - Zelda : A Link to the Past - Dark Mountain Forest's comments (YT ID vRRrOKsfxP).json"
+echo "Archiving SD video 1491, [All Time Favorite Game #18] Best VGM 1433 - Zelda : Twilight Princess - Hidden Village's comments (YouTube id vsYHDEiBSr...)"
+python downloader.py --youtubeid="vsYHDEiBSr" --output="SD1491 [All Time Favorite Game #18] Best VGM 1433 - Zelda : Twilight Princess - Hidden Village's comments (YT ID vsYHDEiBSr).json"
+echo "Archiving SD video 1492, [All Time Favorite Game #17] Best VGM 1434 - Paper Mario : The Thousand Year Door - Final Battle's comments (YouTube id J-zD9QjtRN...)"
+python downloader.py --youtubeid="J-zD9QjtRN" --output="SD1492 [All Time Favorite Game #17] Best VGM 1434 - Paper Mario : The Thousand Year Door - Final Battle's comments (YT ID J-zD9QjtRN).json"
+echo "Archiving SD video 1493, [All Time Favorite Game #16] Best VGM 1435 - Metroid Prime - Chozo Ruins's comments (YouTube id ELqpqweytF...)"
+python downloader.py --youtubeid="ELqpqweytF" --output="SD1493 [All Time Favorite Game #16] Best VGM 1435 - Metroid Prime - Chozo Ruins's comments (YT ID ELqpqweytF).json"
+echo "Archiving SD video 1494, [All Time Favorite Game #14] Best VGM 1437 - Pokemon - Trainer Battle's comments (YouTube id PyubBPi9Oi...)"
+python downloader.py --youtubeid="PyubBPi9Oi" --output="SD1494 [All Time Favorite Game #14] Best VGM 1437 - Pokemon - Trainer Battle's comments (YT ID PyubBPi9Oi).json"
+echo "Archiving SD video 1495, [All Time Favorite Game #13] Best VGM 1438 - World of Warcraft - Ironforge's comments (YouTube id p-GeFCcmGz...)"
+python downloader.py --youtubeid="p-GeFCcmGz" --output="SD1495 [All Time Favorite Game #13] Best VGM 1438 - World of Warcraft - Ironforge's comments (YT ID p-GeFCcmGz).json"
+echo "Archiving SD video 1496, [All Time Favorite Game #11] Best VGM 1440 - Dark Souls - Firelink Shrine's comments (YouTube id Ol9Ine1TkE...)"
+python downloader.py --youtubeid="Ol9Ine1TkE" --output="SD1496 [All Time Favorite Game #11] Best VGM 1440 - Dark Souls - Firelink Shrine's comments (YT ID Ol9Ine1TkE).json"
+echo "Archiving SD video 1497, [All Time Favorite Game #10] Best VGM 1441 - Super Castlevania IV - Chandeliers's comments (YouTube id YADDsshr-N...)"
+python downloader.py --youtubeid="YADDsshr-N" --output="SD1497 [All Time Favorite Game #10] Best VGM 1441 - Super Castlevania IV - Chandeliers's comments (YT ID YADDsshr-N).json"
+echo "Archiving SD video 1498, [All Time Favorite Game #8] Best VGM 1443 - Yoshi's Island - Title Theme's comments (YouTube id OzbSP7ycMP...)"
+python downloader.py --youtubeid="OzbSP7ycMP" --output="SD1498 [All Time Favorite Game #8] Best VGM 1443 - Yoshi's Island - Title Theme's comments (YT ID OzbSP7ycMP).json"
+echo "Archiving SD video 1499, [All Time Favorite Game #7] Best VGM 1444 - Shenmue II - The Morning Fog's Wave's comments (YouTube id drFZ1-6r7W...)"
+python downloader.py --youtubeid="drFZ1-6r7W" --output="SD1499 [All Time Favorite Game #7] Best VGM 1444 - Shenmue II - The Morning Fog's Wave's comments (YT ID drFZ1-6r7W).json"
+echo "Archiving SD video 1500, [All Time Favorite Game #6] Best VGM 1445 - Super Mario 64 - Castle's comments (YouTube id SCdUSkq_im...)"
+python downloader.py --youtubeid="SCdUSkq_im" --output="SD1500 [All Time Favorite Game #6] Best VGM 1445 - Super Mario 64 - Castle's comments (YT ID SCdUSkq_im).json"
+echo "Archiving SD video 1501, [All Time Favorite Game #5] Best VGM 1446 - Zelda : Link's Awakening - Ending Theme's comments (YouTube id hxZTBl7Q5f...)"
+python downloader.py --youtubeid="hxZTBl7Q5f" --output="SD1501 [All Time Favorite Game #5] Best VGM 1446 - Zelda : Link's Awakening - Ending Theme's comments (YT ID hxZTBl7Q5f).json"
+echo "Archiving SD video 1502, [All Time Favorite Game #4] Best VGM 1447 - Super Metroid - Maridia ~ Sandy Desert's comments (YouTube id -lz8ydvkFu...)"
+python downloader.py --youtubeid="-lz8ydvkFu" --output="SD1502 [All Time Favorite Game #4] Best VGM 1447 - Super Metroid - Maridia ~ Sandy Desert's comments (YT ID -lz8ydvkFu).json"
+echo "Archiving SD video 1503, [All Time Favorite Game #3] Best VGM 1448 - Zelda : Ocarina of Time - Inside the Deku Tree's comments (YouTube id Bj5bng0KRP...)"
+python downloader.py --youtubeid="Bj5bng0KRP" --output="SD1503 [All Time Favorite Game #3] Best VGM 1448 - Zelda : Ocarina of Time - Inside the Deku Tree's comments (YT ID Bj5bng0KRP).json"
+echo "Archiving SD video 1504, [All Time Favorite Game #2] Best VGM 1449 - Earthbound - Threed ~ Zombie Central's comments (YouTube id I4gMnPkOQe...)"
+python downloader.py --youtubeid="I4gMnPkOQe" --output="SD1504 [All Time Favorite Game #2] Best VGM 1449 - Earthbound - Threed ~ Zombie Central's comments (YT ID I4gMnPkOQe).json"
+echo "Archiving SD video 1505, Best VGM 1451 - Uncharted Waters - Southern Twilight's comments (YouTube id eRuhYeSR19...)"
+python downloader.py --youtubeid="eRuhYeSR19" --output="SD1505 Best VGM 1451 - Uncharted Waters - Southern Twilight's comments (YT ID eRuhYeSR19).json"
+echo "Archiving SD video 1506, Best VGM 1452 - Wild Arms - Village of the Elw's comments (YouTube id 11CqmhtBfJ...)"
+python downloader.py --youtubeid="11CqmhtBfJ" --output="SD1506 Best VGM 1452 - Wild Arms - Village of the Elw's comments (YT ID 11CqmhtBfJ).json"
+echo "Archiving SD video 1507, Best VGM 1453 - Tintin : Prisoners of the Sun - Stage 4-2 (Jauja, Peru)'s comments (YouTube id CzZab0uEd1...)"
+python downloader.py --youtubeid="CzZab0uEd1" --output="SD1507 Best VGM 1453 - Tintin : Prisoners of the Sun - Stage 4-2 (Jauja, Peru)'s comments (YT ID CzZab0uEd1).json"
+echo "Archiving SD video 1508, Best VGM 1454 - FTL - Civil (Explore)'s comments (YouTube id Dr95nRD7vA...)"
+python downloader.py --youtubeid="Dr95nRD7vA" --output="SD1508 Best VGM 1454 - FTL - Civil (Explore)'s comments (YT ID Dr95nRD7vA).json"
+echo "Archiving SD video 1509, Best VGM 1455 - Beyond : Two Souls - Childhood Memories's comments (YouTube id pnS50Lmz6Y...)"
+python downloader.py --youtubeid="pnS50Lmz6Y" --output="SD1509 Best VGM 1455 - Beyond : Two Souls - Childhood Memories's comments (YT ID pnS50Lmz6Y).json"
+echo "Archiving SD video 1510, Best VGM 1456 - Silent Hill - Not Tomorrow (Lisa's Fate)'s comments (YouTube id QOKl7-it2H...)"
+python downloader.py --youtubeid="QOKl7-it2H" --output="SD1510 Best VGM 1456 - Silent Hill - Not Tomorrow (Lisa's Fate)'s comments (YT ID QOKl7-it2H).json"
+echo "Archiving SD video 1511, Best VGM 1457 - TrackMania 2 : Stadium - Air Time's comments (YouTube id E3Po0o6zoJ...)"
+python downloader.py --youtubeid="E3Po0o6zoJ" --output="SD1511 Best VGM 1457 - TrackMania 2 : Stadium - Air Time's comments (YT ID E3Po0o6zoJ).json"
+echo "Archiving SD video 1512, My New EP : Numéro 0 !'s comments (YouTube id vgfwaXXP9C...)"
+python downloader.py --youtubeid="vgfwaXXP9C" --output="SD1512 My New EP : Numéro 0 !'s comments (YT ID vgfwaXXP9C).json"
+echo "Archiving SD video 1513, Best VGM 1458 - Captain America and the Avengers - Hawkeye's Theme's comments (YouTube id YqPjWx9XiW...)"
+python downloader.py --youtubeid="YqPjWx9XiW" --output="SD1513 Best VGM 1458 - Captain America and the Avengers - Hawkeye's Theme's comments (YT ID YqPjWx9XiW).json"
+echo "Archiving SD video 1514, Best VGM 1459 - Kid Icarus : Uprising - Magnus' Theme's comments (YouTube id VsvQy72iZZ...)"
+python downloader.py --youtubeid="VsvQy72iZZ" --output="SD1514 Best VGM 1459 - Kid Icarus : Uprising - Magnus' Theme's comments (YT ID VsvQy72iZZ).json"
+echo "Archiving SD video 1515, Best VGM 1460 - Tales of Phantasia - Morlia Gallery's comments (YouTube id XWd4539-gd...)"
+python downloader.py --youtubeid="XWd4539-gd" --output="SD1515 Best VGM 1460 - Tales of Phantasia - Morlia Gallery's comments (YT ID XWd4539-gd).json"
+echo "Archiving SD video 1516, Best VGM 1461 - Sang-Froid : Tales of Werewolves - Les Deux Vendredis's comments (YouTube id tBr9OyNHRj...)"
+python downloader.py --youtubeid="tBr9OyNHRj" --output="SD1516 Best VGM 1461 - Sang-Froid : Tales of Werewolves - Les Deux Vendredis's comments (YT ID tBr9OyNHRj).json"
+echo "Archiving SD video 1517, Best VGM 1462 - Dead Rising 3 - Sloth Battle (Trent)'s comments (YouTube id fNBMeTJb9S...)"
+python downloader.py --youtubeid="fNBMeTJb9S" --output="SD1517 Best VGM 1462 - Dead Rising 3 - Sloth Battle (Trent)'s comments (YT ID fNBMeTJb9S).json"
+echo "Archiving SD video 1518, Best VGM 1464 - Super Mario 3D World - Bowser's Castle's comments (YouTube id ks74Hlce8y...)"
+python downloader.py --youtubeid="ks74Hlce8y" --output="SD1518 Best VGM 1464 - Super Mario 3D World - Bowser's Castle's comments (YT ID ks74Hlce8y).json"
+echo "Archiving SD video 1519, Best VGM 1465 - FantaVision (North America) - Snow on the Moon ~ Stage 6's comments (YouTube id R6tANRv2Yx...)"
+python downloader.py --youtubeid="R6tANRv2Yx" --output="SD1519 Best VGM 1465 - FantaVision (North America) - Snow on the Moon ~ Stage 6's comments (YT ID R6tANRv2Yx).json"
+echo "Archiving SD video 1520, Best VGM 1466 - Shin Megami Tensei IV - Ikebukuro Underground District's comments (YouTube id rg_6OKlgjG...)"
+python downloader.py --youtubeid="rg_6OKlgjG" --output="SD1520 Best VGM 1466 - Shin Megami Tensei IV - Ikebukuro Underground District's comments (YT ID rg_6OKlgjG).json"
+echo "Archiving SD video 1521, Best VGM 1467 - Antichamber - The Garden's comments (YouTube id xWQOYiYHZ2...)"
+python downloader.py --youtubeid="xWQOYiYHZ2" --output="SD1521 Best VGM 1467 - Antichamber - The Garden's comments (YT ID xWQOYiYHZ2).json"
+echo "Archiving SD video 1522, Best VGM 1468 - Gremlins 2 : The New Batch - Stage 3's comments (YouTube id zTKEnlYhL0...)"
+python downloader.py --youtubeid="zTKEnlYhL0" --output="SD1522 Best VGM 1468 - Gremlins 2 : The New Batch - Stage 3's comments (YT ID zTKEnlYhL0).json"
+echo "Archiving SD video 1523, Best VGM 1469 - The Last Story - Invitation to Madness's comments (YouTube id WwuhhymZzg...)"
+python downloader.py --youtubeid="WwuhhymZzg" --output="SD1523 Best VGM 1469 - The Last Story - Invitation to Madness's comments (YT ID WwuhhymZzg).json"
+echo "Archiving SD video 1524, Best VGM 1470 - Mario Party 4 - Toad's Midway Madness's comments (YouTube id ammnaFhcaf...)"
+python downloader.py --youtubeid="ammnaFhcaf" --output="SD1524 Best VGM 1470 - Mario Party 4 - Toad's Midway Madness's comments (YT ID ammnaFhcaf).json"
+echo "Archiving SD video 1525, Best VGM 1471 - Streets of Rage 2 - Intro (S.O.R. Super Mix)'s comments (YouTube id UQFiG9We23...)"
+python downloader.py --youtubeid="UQFiG9We23" --output="SD1525 Best VGM 1471 - Streets of Rage 2 - Intro (S.O.R. Super Mix)'s comments (YT ID UQFiG9We23).json"
+echo "Archiving SD video 1526, Best VGM 1472 - Zelda : A Link Between Worlds - Swamp Palace's comments (YouTube id 8ajBHjJyVD...)"
+python downloader.py --youtubeid="8ajBHjJyVD" --output="SD1526 Best VGM 1472 - Zelda : A Link Between Worlds - Swamp Palace's comments (YT ID 8ajBHjJyVD).json"
+echo "Archiving SD video 1527, Best VGM 1473 - Katamari Damacy - Dan Don Fuga's comments (YouTube id 8-Q-UsqJ8i...)"
+python downloader.py --youtubeid="8-Q-UsqJ8i" --output="SD1527 Best VGM 1473 - Katamari Damacy - Dan Don Fuga's comments (YT ID 8-Q-UsqJ8i).json"
+echo "Archiving SD video 1528, Best VGM 1474 - The Elder Scrolls III : Morrowind - Caprice (Explore 7)'s comments (YouTube id MvJUxw8rbP...)"
+python downloader.py --youtubeid="MvJUxw8rbP" --output="SD1528 Best VGM 1474 - The Elder Scrolls III : Morrowind - Caprice (Explore 7)'s comments (YT ID MvJUxw8rbP).json"
+echo "Archiving SD video 1529, Best VGM 1475 - Radical Dreamers - Day of Summer's comments (YouTube id WEoHCLNJPy...)"
+python downloader.py --youtubeid="WEoHCLNJPy" --output="SD1529 Best VGM 1475 - Radical Dreamers - Day of Summer's comments (YT ID WEoHCLNJPy).json"
+echo "Archiving SD video 1530, Best VGM 1476 - Dustforce - 9-bit Expedition's comments (YouTube id ZbPfNA8vxQ...)"
+python downloader.py --youtubeid="ZbPfNA8vxQ" --output="SD1530 Best VGM 1476 - Dustforce - 9-bit Expedition's comments (YT ID ZbPfNA8vxQ).json"
+echo "Archiving SD video 1531, Best VGM 1477 - Xenogears - Awakening (Penultimate Battle)'s comments (YouTube id X80YQj6UHG...)"
+python downloader.py --youtubeid="X80YQj6UHG" --output="SD1531 Best VGM 1477 - Xenogears - Awakening (Penultimate Battle)'s comments (YT ID X80YQj6UHG).json"
+echo "Archiving SD video 1532, Best VGM 1478 - Oceanhorn - Sailing's comments (YouTube id 83xEzdYAmS...)"
+python downloader.py --youtubeid="83xEzdYAmS" --output="SD1532 Best VGM 1478 - Oceanhorn - Sailing's comments (YT ID 83xEzdYAmS).json"
+echo "Archiving SD video 1533, [SD Remix] Tetrisphere - Sappier's comments (YouTube id fB0eXqkmtK...)"
+python downloader.py --youtubeid="fB0eXqkmtK" --output="SD1533 [SD Remix] Tetrisphere - Sappier's comments (YT ID fB0eXqkmtK).json"
+echo "Archiving SD video 1534, Best VGM 1479 - Popful Mail - Ice Berg (Exploration)'s comments (YouTube id ptr9JCSxeu...)"
+python downloader.py --youtubeid="ptr9JCSxeu" --output="SD1534 Best VGM 1479 - Popful Mail - Ice Berg (Exploration)'s comments (YT ID ptr9JCSxeu).json"
+echo "Archiving SD video 1535, Best VGM 1480 - Star Ocean 3 : Till the End of Time - Chrisanthemum in Winter's comments (YouTube id 0IcVJVcjAx...)"
+python downloader.py --youtubeid="0IcVJVcjAx" --output="SD1535 Best VGM 1480 - Star Ocean 3 : Till the End of Time - Chrisanthemum in Winter's comments (YT ID 0IcVJVcjAx).json"
+echo "Archiving SD video 1536, Best VGM 1481 - Pokemon Mystery Dungeon : Explorers of Sky - Vast Ice Mountain Peak's comments (YouTube id 8SJl4mELFM...)"
+python downloader.py --youtubeid="8SJl4mELFM" --output="SD1536 Best VGM 1481 - Pokemon Mystery Dungeon : Explorers of Sky - Vast Ice Mountain Peak's comments (YT ID 8SJl4mELFM).json"
+echo "Archiving SD video 1537, Best VGM 1482 - Skies of Arcadia - Ice Dungeon's comments (YouTube id pfe5a22BHG...)"
+python downloader.py --youtubeid="pfe5a22BHG" --output="SD1537 Best VGM 1482 - Skies of Arcadia - Ice Dungeon's comments (YT ID pfe5a22BHG).json"
+echo "Archiving SD video 1538, Best VGM 1483 - Tekken Tag Tournament 2 - Sadistic Xmas (Arctic Dream)'s comments (YouTube id 49rleD-HNC...)"
+python downloader.py --youtubeid="49rleD-HNC" --output="SD1538 Best VGM 1483 - Tekken Tag Tournament 2 - Sadistic Xmas (Arctic Dream)'s comments (YT ID 49rleD-HNC).json"
+echo "Archiving SD video 1539, Best VGM 1484 - Bomberman 64 - White Ice's comments (YouTube id mJCRoXkJoh...)"
+python downloader.py --youtubeid="mJCRoXkJoh" --output="SD1539 Best VGM 1484 - Bomberman 64 - White Ice's comments (YT ID mJCRoXkJoh).json"
+echo "Archiving SD video 1540, Best VGM 1485 - Paper Mario : Sticker Star - Snow Rise's comments (YouTube id ivfEScAwMr...)"
+python downloader.py --youtubeid="ivfEScAwMr" --output="SD1540 Best VGM 1485 - Paper Mario : Sticker Star - Snow Rise's comments (YT ID ivfEScAwMr).json"
+echo "Archiving SD video 1541, Best VGM 1486 - Emil Chronicle Online - Sound of the Ruin's comments (YouTube id 4JzDb3PZGE...)"
+python downloader.py --youtubeid="4JzDb3PZGE" --output="SD1541 Best VGM 1486 - Emil Chronicle Online - Sound of the Ruin's comments (YT ID 4JzDb3PZGE).json"
+echo "Archiving SD video 1542, Best VGM 1488 - Breath of Fire II - Kingdom's comments (YouTube id sBkqcoD53e...)"
+python downloader.py --youtubeid="sBkqcoD53e" --output="SD1542 Best VGM 1488 - Breath of Fire II - Kingdom's comments (YT ID sBkqcoD53e).json"
+echo "Archiving SD video 1543, Best VGM 1489 - The Binding of Isaac - Repentant's comments (YouTube id P3oYGDwIKb...)"
+python downloader.py --youtubeid="P3oYGDwIKb" --output="SD1543 Best VGM 1489 - The Binding of Isaac - Repentant's comments (YT ID P3oYGDwIKb).json"
+echo "Archiving SD video 1544, Best VGM 1490 - Bravely Default - The Land in Which You Begin's comments (YouTube id xWVBra_NpZ...)"
+python downloader.py --youtubeid="xWVBra_NpZ" --output="SD1544 Best VGM 1490 - Bravely Default - The Land in Which You Begin's comments (YT ID xWVBra_NpZ).json"
+echo "Archiving SD video 1545, Best VGM 1491 - Platoon - Game Over's comments (YouTube id ZfZQWz0VVx...)"
+python downloader.py --youtubeid="ZfZQWz0VVx" --output="SD1545 Best VGM 1491 - Platoon - Game Over's comments (YT ID ZfZQWz0VVx).json"
+echo "Archiving SD video 1546, Best VGM 1492 - Hearthstone - Don't Let Your Guard Down's comments (YouTube id FSfRr0LriB...)"
+python downloader.py --youtubeid="FSfRr0LriB" --output="SD1546 Best VGM 1492 - Hearthstone - Don't Let Your Guard Down's comments (YT ID FSfRr0LriB).json"
+echo "Archiving SD video 1547, Best VGM 1493 - Adventure Time : Hey Ice King! Why'd You Steal Our Garbage?! - Party in the Clouds's comments (YouTube id shx_nhWmZ-...)"
+python downloader.py --youtubeid="shx_nhWmZ-" --output="SD1547 Best VGM 1493 - Adventure Time : Hey Ice King! Why'd You Steal Our Garbage?! - Party in the Clouds's comments (YT ID shx_nhWmZ-).json"
+echo "Archiving SD video 1548, Best VGM 1494 - Senko no Ronde DUO - Art of War's comments (YouTube id qMkvXCaxXO...)"
+python downloader.py --youtubeid="qMkvXCaxXO" --output="SD1548 Best VGM 1494 - Senko no Ronde DUO - Art of War's comments (YT ID qMkvXCaxXO).json"
+echo "Archiving SD video 1549, Best VGM 1495 - Earthbound 64 - Tatsumairi Village's comments (YouTube id P1IBUrLte2...)"
+python downloader.py --youtubeid="P1IBUrLte2" --output="SD1549 Best VGM 1495 - Earthbound 64 - Tatsumairi Village's comments (YT ID P1IBUrLte2).json"
+echo "Archiving SD video 1550, Best VGM 1496 - Bahamut Lagoon - Green Continent Campbell's comments (YouTube id TFxtovEXNm...)"
+python downloader.py --youtubeid="TFxtovEXNm" --output="SD1550 Best VGM 1496 - Bahamut Lagoon - Green Continent Campbell's comments (YT ID TFxtovEXNm).json"
+echo "Archiving SD video 1551, Best VGM 1497 - Terraria - Mushrooms's comments (YouTube id pI4lS0lxV1...)"
+python downloader.py --youtubeid="pI4lS0lxV1" --output="SD1551 Best VGM 1497 - Terraria - Mushrooms's comments (YT ID pI4lS0lxV1).json"
+echo "Archiving SD video 1552, Best VGM 1498 - Baten Kaitos - Bellflower's comments (YouTube id 9th-yImn9a...)"
+python downloader.py --youtubeid="9th-yImn9a" --output="SD1552 Best VGM 1498 - Baten Kaitos - Bellflower's comments (YT ID 9th-yImn9a).json"
+echo "Archiving SD video 1553, Best VGM 1500 - Paper Mario : The Thousand Year Door - The Breeze of Petal Meadows & Story's comments (YouTube id D30VHuqhXm...)"
+python downloader.py --youtubeid="D30VHuqhXm" --output="SD1553 Best VGM 1500 - Paper Mario : The Thousand Year Door - The Breeze of Petal Meadows & Story's comments (YT ID D30VHuqhXm).json"
+echo "Archiving SD video 1554, [GOTY 2013 #10] Best VGM 1501 - Attack of the Friday Monsters! A Tokyo Tale - Opening's comments (YouTube id CP0TcAnHft...)"
+python downloader.py --youtubeid="CP0TcAnHft" --output="SD1554 [GOTY 2013 #10] Best VGM 1501 - Attack of the Friday Monsters! A Tokyo Tale - Opening's comments (YT ID CP0TcAnHft).json"
+echo "Archiving SD video 1555, [GOTY 2013 #9] Best VGM 1502 - Brothers : A Tale of Two Sons - Winged Hope's comments (YouTube id CEPnbBgjWd...)"
+python downloader.py --youtubeid="CEPnbBgjWd" --output="SD1555 [GOTY 2013 #9] Best VGM 1502 - Brothers : A Tale of Two Sons - Winged Hope's comments (YT ID CEPnbBgjWd).json"
+echo "Archiving SD video 1556, [GOTY 2013 #8] Best VGM 1503 - The Wonderful 101 - Jergingha ~ Planet Destruction Form's comments (YouTube id Nhj0Rct8v4...)"
+python downloader.py --youtubeid="Nhj0Rct8v4" --output="SD1556 [GOTY 2013 #8] Best VGM 1503 - The Wonderful 101 - Jergingha ~ Planet Destruction Form's comments (YT ID Nhj0Rct8v4).json"
+echo "Archiving SD video 1557, [GOTY 2013 #7] Best VGM 1504 - Valdis Story - Lurking in the Chasms (Frozen Mausoleum)'s comments (YouTube id uX-Dk8gBgg...)"
+python downloader.py --youtubeid="uX-Dk8gBgg" --output="SD1557 [GOTY 2013 #7] Best VGM 1504 - Valdis Story - Lurking in the Chasms (Frozen Mausoleum)'s comments (YT ID uX-Dk8gBgg).json"
+echo "Archiving SD video 1558, [GOTY 2013 #6] Best VGM 1505 - Super Mario 3D World - World Bowser's comments (YouTube id Vjf--bJDDG...)"
+python downloader.py --youtubeid="Vjf--bJDDG" --output="SD1558 [GOTY 2013 #6] Best VGM 1505 - Super Mario 3D World - World Bowser's comments (YT ID Vjf--bJDDG).json"
+echo "Archiving SD video 1559, [GOTY 2013 #5] Best VGM 1506 - Anodyne - Friend's comments (YouTube id 7sb2q6JedK...)"
+python downloader.py --youtubeid="7sb2q6JedK" --output="SD1559 [GOTY 2013 #5] Best VGM 1506 - Anodyne - Friend's comments (YT ID 7sb2q6JedK).json"
+echo "Archiving SD video 1560, [GOTY 2013 #4] Best VGM 1507 - Bioshock Infinite - Elizabeth's comments (YouTube id -YfpDN84ql...)"
+python downloader.py --youtubeid="-YfpDN84ql" --output="SD1560 [GOTY 2013 #4] Best VGM 1507 - Bioshock Infinite - Elizabeth's comments (YT ID -YfpDN84ql).json"
+echo "Archiving SD video 1561, [GOTY 2013 #3] Best VGM 1508 - Guacamelee! - Temple of Rain~War's comments (YouTube id YZGrI4NI9N...)"
+python downloader.py --youtubeid="YZGrI4NI9N" --output="SD1561 [GOTY 2013 #3] Best VGM 1508 - Guacamelee! - Temple of Rain~War's comments (YT ID YZGrI4NI9N).json"
+echo "Archiving SD video 1562, [GOTY 2013 #2] Best VGM 1509 - Antichamber - Suite II (Short Version)'s comments (YouTube id LdIlCX2iOa...)"
+python downloader.py --youtubeid="LdIlCX2iOa" --output="SD1562 [GOTY 2013 #2] Best VGM 1509 - Antichamber - Suite II (Short Version)'s comments (YT ID LdIlCX2iOa).json"
+echo "Archiving SD video 1563, [GOTY 2013 #1] Best VGM 1510 - Zelda : A Link Between Worlds - Hyrule Dungeons's comments (YouTube id gwesq9ElVM...)"
+python downloader.py --youtubeid="gwesq9ElVM" --output="SD1563 [GOTY 2013 #1] Best VGM 1510 - Zelda : A Link Between Worlds - Hyrule Dungeons's comments (YT ID gwesq9ElVM).json"
+echo "Archiving SD video 1564, Best VGM 1511 - Tearaway - Gibbet Hill ~ Pilgrimage's comments (YouTube id WY2kHNPn-x...)"
+python downloader.py --youtubeid="WY2kHNPn-x" --output="SD1564 Best VGM 1511 - Tearaway - Gibbet Hill ~ Pilgrimage's comments (YT ID WY2kHNPn-x).json"
+echo "Archiving SD video 1565, Best VGM 1512 - Etrian Odyssey Untold - Labyrinth IV ~ The Withered Forest's comments (YouTube id j4Zh9IFn_2...)"
+python downloader.py --youtubeid="j4Zh9IFn_2" --output="SD1565 Best VGM 1512 - Etrian Odyssey Untold - Labyrinth IV ~ The Withered Forest's comments (YT ID j4Zh9IFn_2).json"
+echo "Archiving SD video 1566, Best VGM 1513 - Mr. Nutz : Hoppin' Mad - Water's comments (YouTube id 6uWBacK2Rx...)"
+python downloader.py --youtubeid="6uWBacK2Rx" --output="SD1566 Best VGM 1513 - Mr. Nutz : Hoppin' Mad - Water's comments (YT ID 6uWBacK2Rx).json"
+echo "Archiving SD video 1567, Best VGM 1514 - Pokemon X / Y - The Kalos Power Plant's comments (YouTube id Y1i3z56CiU...)"
+python downloader.py --youtubeid="Y1i3z56CiU" --output="SD1567 Best VGM 1514 - Pokemon X / Y - The Kalos Power Plant's comments (YT ID Y1i3z56CiU).json"
+echo "Archiving SD video 1568, Best VGM 1515 - Moon : Remix RPG Adventure - I'm Waiting For The Night (MoonDisc Version)'s comments (YouTube id Jz2sxbuN3g...)"
+python downloader.py --youtubeid="Jz2sxbuN3g" --output="SD1568 Best VGM 1515 - Moon : Remix RPG Adventure - I'm Waiting For The Night (MoonDisc Version)'s comments (YT ID Jz2sxbuN3g).json"
+echo "Archiving SD video 1569, Best VGM 1516 - Mega Man 10 - Nitro Rider (Nitro Man Stage)'s comments (YouTube id _WjOqJ4Lbk...)"
+python downloader.py --youtubeid="_WjOqJ4Lbk" --output="SD1569 Best VGM 1516 - Mega Man 10 - Nitro Rider (Nitro Man Stage)'s comments (YT ID _WjOqJ4Lbk).json"
+echo "Archiving SD video 1570, Best VGM 1518 - Donkey Kong Country : Tropical Freeze - Amiss Abyss's comments (YouTube id jhHfROLw4f...)"
+python downloader.py --youtubeid="jhHfROLw4f" --output="SD1570 Best VGM 1518 - Donkey Kong Country : Tropical Freeze - Amiss Abyss's comments (YT ID jhHfROLw4f).json"
+echo "Archiving SD video 1571, Best VGM 1519 - Cool World - Welcome to Cool World's comments (YouTube id 66-rV8v6TN...)"
+python downloader.py --youtubeid="66-rV8v6TN" --output="SD1571 Best VGM 1519 - Cool World - Welcome to Cool World's comments (YT ID 66-rV8v6TN).json"
+echo "Archiving SD video 1572, Best VGM 1520 - Ape Escape : Million Monkeys - Grand Tournament's comments (YouTube id nY8JLHPaN4...)"
+python downloader.py --youtubeid="nY8JLHPaN4" --output="SD1572 Best VGM 1520 - Ape Escape : Million Monkeys - Grand Tournament's comments (YT ID nY8JLHPaN4).json"
+echo "Archiving SD video 1573, Best VGM 1521 - Lost Odyssey - Mountain Village of Tosca's comments (YouTube id YA3VczBNCh...)"
+python downloader.py --youtubeid="YA3VczBNCh" --output="SD1573 Best VGM 1521 - Lost Odyssey - Mountain Village of Tosca's comments (YT ID YA3VczBNCh).json"
+echo "Archiving SD video 1574, Best VGM 1522 - Kingdom Hearts - March Caprice for Piano and Orchestra's comments (YouTube id JWMtsksJtY...)"
+python downloader.py --youtubeid="JWMtsksJtY" --output="SD1574 Best VGM 1522 - Kingdom Hearts - March Caprice for Piano and Orchestra's comments (YT ID JWMtsksJtY).json"
+echo "Archiving SD video 1575, Best VGM 1523 - Sonic 3D Blast (Saturn) - Panic Puppet Zone ~ Act 1's comments (YouTube id 2oo0qQ79uW...)"
+python downloader.py --youtubeid="2oo0qQ79uW" --output="SD1575 Best VGM 1523 - Sonic 3D Blast (Saturn) - Panic Puppet Zone ~ Act 1's comments (YT ID 2oo0qQ79uW).json"
+echo "Archiving SD video 1576, Nujabes ft. Shing02 - Luv(sic) Part 3 & Part 5's comments (YouTube id d5N-BY9uhB...)"
+python downloader.py --youtubeid="d5N-BY9uhB" --output="SD1576 Nujabes ft. Shing02 - Luv(sic) Part 3 & Part 5's comments (YT ID d5N-BY9uhB).json"
+echo "Archiving SD video 1577, Best VGM 1524 - R-Type Delta - Stage 7 (Life)'s comments (YouTube id cWt6j5ZJCH...)"
+python downloader.py --youtubeid="cWt6j5ZJCH" --output="SD1577 Best VGM 1524 - R-Type Delta - Stage 7 (Life)'s comments (YT ID cWt6j5ZJCH).json"
+echo "Archiving SD video 1578, Best VGM 1526 - Ecco the Dolphin (Sega CD) - Motion E's comments (YouTube id Hro03nOyUu...)"
+python downloader.py --youtubeid="Hro03nOyUu" --output="SD1578 Best VGM 1526 - Ecco the Dolphin (Sega CD) - Motion E's comments (YT ID Hro03nOyUu).json"
+echo "Archiving SD video 1579, Best VGM 1527 - Wild Arms 5 - A King That Surpasses 100 Demons's comments (YouTube id IXU7Jhi6jZ...)"
+python downloader.py --youtubeid="IXU7Jhi6jZ" --output="SD1579 Best VGM 1527 - Wild Arms 5 - A King That Surpasses 100 Demons's comments (YT ID IXU7Jhi6jZ).json"
+echo "Archiving SD video 1580, Best VGM 1528 - Shatter - Neon Mines's comments (YouTube id dOHur-Yc3n...)"
+python downloader.py --youtubeid="dOHur-Yc3n" --output="SD1580 Best VGM 1528 - Shatter - Neon Mines's comments (YT ID dOHur-Yc3n).json"
+echo "Archiving SD video 1581, Best VGM 1529 - Dark Souls II - Majula's comments (YouTube id GyiSanVotO...)"
+python downloader.py --youtubeid="GyiSanVotO" --output="SD1581 Best VGM 1529 - Dark Souls II - Majula's comments (YT ID GyiSanVotO).json"
+echo "Archiving SD video 1582, Best VGM 1530 - Asterix & Obelix - London Streets's comments (YouTube id lLP6Y-1_P1...)"
+python downloader.py --youtubeid="lLP6Y-1_P1" --output="SD1582 Best VGM 1530 - Asterix & Obelix - London Streets's comments (YT ID lLP6Y-1_P1).json"
+echo "Archiving SD video 1583, Best VGM 1531 - Zelda : Skyward Sword - Bamboo Island's comments (YouTube id sSkcY8zPWI...)"
+python downloader.py --youtubeid="sSkcY8zPWI" --output="SD1583 Best VGM 1531 - Zelda : Skyward Sword - Bamboo Island's comments (YT ID sSkcY8zPWI).json"
+echo "Archiving SD video 1584, Best VGM 1532 - Kirby : Triple Deluxe - Dirty & Beauty (Final Boss ~ Phase 1)'s comments (YouTube id he2oLG1Trt...)"
+python downloader.py --youtubeid="he2oLG1Trt" --output="SD1584 Best VGM 1532 - Kirby : Triple Deluxe - Dirty & Beauty (Final Boss ~ Phase 1)'s comments (YT ID he2oLG1Trt).json"
+echo "Archiving SD video 1585, Best VGM 1533 - Kaiser Knuckle - Wheel of Fortune (Motif of Azteca)'s comments (YouTube id YCwOCGt97Y...)"
+python downloader.py --youtubeid="YCwOCGt97Y" --output="SD1585 Best VGM 1533 - Kaiser Knuckle - Wheel of Fortune (Motif of Azteca)'s comments (YT ID YCwOCGt97Y).json"
+echo "Archiving SD video 1586, Best VGM 1534 - Gunlord - Steel and Thunder (Holy Mountain I ~ Stage 1-1)'s comments (YouTube id FkMm63VAHp...)"
+python downloader.py --youtubeid="FkMm63VAHp" --output="SD1586 Best VGM 1534 - Gunlord - Steel and Thunder (Holy Mountain I ~ Stage 1-1)'s comments (YT ID FkMm63VAHp).json"
+echo "Archiving SD video 1587, Best VGM 1535 - Castlevania : Symphony of the Night - Dracula's Castle's comments (YouTube id 3lehXRPWye...)"
+python downloader.py --youtubeid="3lehXRPWye" --output="SD1587 Best VGM 1535 - Castlevania : Symphony of the Night - Dracula's Castle's comments (YT ID 3lehXRPWye).json"
+echo "Archiving SD video 1588, Best VGM 1536 - Lone Survivor - Sleep Forever's comments (YouTube id XIzflqDtA1...)"
+python downloader.py --youtubeid="XIzflqDtA1" --output="SD1588 Best VGM 1536 - Lone Survivor - Sleep Forever's comments (YT ID XIzflqDtA1).json"
+echo "Archiving SD video 1589, Best VGM 1537 - Ys II Chronicles - Subterranean Canal's comments (YouTube id 0YN7-nirAb...)"
+python downloader.py --youtubeid="0YN7-nirAb" --output="SD1589 Best VGM 1537 - Ys II Chronicles - Subterranean Canal's comments (YT ID 0YN7-nirAb).json"
+echo "Archiving SD video 1590, Best VGM 1538 - Rayman - Crystal Palace Area 2's comments (YouTube id o0t8vHJtaK...)"
+python downloader.py --youtubeid="o0t8vHJtaK" --output="SD1590 Best VGM 1538 - Rayman - Crystal Palace Area 2's comments (YT ID o0t8vHJtaK).json"
+echo "Archiving SD video 1591, Best VGM 1539 - Diablo III : Reaper of Souls - Chains of Fate's comments (YouTube id Uu4KCLd5kd...)"
+python downloader.py --youtubeid="Uu4KCLd5kd" --output="SD1591 Best VGM 1539 - Diablo III : Reaper of Souls - Chains of Fate's comments (YT ID Uu4KCLd5kd).json"
+echo "Archiving SD video 1592, Best VGM 1540 - Lufia II - Castle's comments (YouTube id _joPG7N0lR...)"
+python downloader.py --youtubeid="_joPG7N0lR" --output="SD1592 Best VGM 1540 - Lufia II - Castle's comments (YT ID _joPG7N0lR).json"
+echo "Archiving SD video 1593, Best VGM 1541 - Contact - Outside Akumojo Castle's comments (YouTube id -ehGFSkPfk...)"
+python downloader.py --youtubeid="-ehGFSkPfk" --output="SD1593 Best VGM 1541 - Contact - Outside Akumojo Castle's comments (YT ID -ehGFSkPfk).json"
+echo "Archiving SD video 1594, Best VGM 1542 - Dragon Quest III - Castle (Rondo)'s comments (YouTube id udNOf4W52h...)"
+python downloader.py --youtubeid="udNOf4W52h" --output="SD1594 Best VGM 1542 - Dragon Quest III - Castle (Rondo)'s comments (YT ID udNOf4W52h).json"
+echo "Archiving SD video 1595, Best VGM 1543 - Deus Ex - DuClare Chateau's comments (YouTube id 1kt-H7qUr5...)"
+python downloader.py --youtubeid="1kt-H7qUr5" --output="SD1595 Best VGM 1543 - Deus Ex - DuClare Chateau's comments (YT ID 1kt-H7qUr5).json"
+echo "Archiving SD video 1596, FACEBOOK ACQUIRES SD'S BEST VGM CHANNEL's comments (YouTube id qvfy7BMwCm...)"
+python downloader.py --youtubeid="qvfy7BMwCm" --output="SD1596 FACEBOOK ACQUIRES SD'S BEST VGM CHANNEL's comments (YT ID qvfy7BMwCm).json"
+echo "Archiving SD video 1597, Best VGM 1544 - Hotline Miami - Flatline's comments (YouTube id AW7oKCS8Hj...)"
+python downloader.py --youtubeid="AW7oKCS8Hj" --output="SD1597 Best VGM 1544 - Hotline Miami - Flatline's comments (YT ID AW7oKCS8Hj).json"
+echo "Archiving SD video 1598, Best VGM 1545 - Super Mario Kart - Mario Circuit's comments (YouTube id EohQnQbQQW...)"
+python downloader.py --youtubeid="EohQnQbQQW" --output="SD1598 Best VGM 1545 - Super Mario Kart - Mario Circuit's comments (YT ID EohQnQbQQW).json"
+echo "Archiving SD video 1599, Best VGM 1546 - Magic Johnson's Fast Break - Title Theme's comments (YouTube id 7rNgsqxnIu...)"
+python downloader.py --youtubeid="7rNgsqxnIu" --output="SD1599 Best VGM 1546 - Magic Johnson's Fast Break - Title Theme's comments (YT ID 7rNgsqxnIu).json"
+echo "Archiving SD video 1600, Best VGM 1547 - FTL : Advanced Edition - Hacking Malfunction (Battle)'s comments (YouTube id iZv19yJrZy...)"
+python downloader.py --youtubeid="iZv19yJrZy" --output="SD1600 Best VGM 1547 - FTL : Advanced Edition - Hacking Malfunction (Battle)'s comments (YT ID iZv19yJrZy).json"
+echo "Archiving SD video 1601, Best VGM 1548 - Guilty Gear XX Reload (Korean Version) - Pillars Of The Underworld's comments (YouTube id tj3ks8GfBQ...)"
+python downloader.py --youtubeid="tj3ks8GfBQ" --output="SD1601 Best VGM 1548 - Guilty Gear XX Reload (Korean Version) - Pillars Of The Underworld's comments (YT ID tj3ks8GfBQ).json"
+echo "Archiving SD video 1602, Best VGM 1550 - Ar nosurge - Ashihara's comments (YouTube id eDjJq3DsNT...)"
+python downloader.py --youtubeid="eDjJq3DsNT" --output="SD1602 Best VGM 1550 - Ar nosurge - Ashihara's comments (YT ID eDjJq3DsNT).json"
+echo "Archiving SD video 1603, Best VGM 1552 - Angry Video Game Nerd Adventures - Assholevania's comments (YouTube id KYfK61zxad...)"
+python downloader.py --youtubeid="KYfK61zxad" --output="SD1603 Best VGM 1552 - Angry Video Game Nerd Adventures - Assholevania's comments (YT ID KYfK61zxad).json"
+echo "Archiving SD video 1604, Best VGM 1553 - Child of Eden - Zero's comments (YouTube id 7Dwc0prm7z...)"
+python downloader.py --youtubeid="7Dwc0prm7z" --output="SD1604 Best VGM 1553 - Child of Eden - Zero's comments (YT ID 7Dwc0prm7z).json"
+echo "Archiving SD video 1605, Best VGM 1554 - Guardian's Crusade - Warp Gate Core's comments (YouTube id p9Nt449SP2...)"
+python downloader.py --youtubeid="p9Nt449SP2" --output="SD1605 Best VGM 1554 - Guardian's Crusade - Warp Gate Core's comments (YT ID p9Nt449SP2).json"
+echo "Archiving SD video 1606, Best VGM 1555 - Silent Hill 3 - Dance With Night Wind's comments (YouTube id 8kBBJQ_ySp...)"
+python downloader.py --youtubeid="8kBBJQ_ySp" --output="SD1606 Best VGM 1555 - Silent Hill 3 - Dance With Night Wind's comments (YT ID 8kBBJQ_ySp).json"
+echo "Archiving SD video 1607, Best VGM 1556 - Opoona - Garden of Arts's comments (YouTube id 93Fqrbd-9g...)"
+python downloader.py --youtubeid="93Fqrbd-9g" --output="SD1607 Best VGM 1556 - Opoona - Garden of Arts's comments (YT ID 93Fqrbd-9g).json"
+echo "Archiving SD video 1608, SupraDarky - Synergy's comments (YouTube id V0xM5ma7ft...)"
+python downloader.py --youtubeid="V0xM5ma7ft" --output="SD1608 SupraDarky - Synergy's comments (YT ID V0xM5ma7ft).json"
+echo "Archiving SD video 1609, Best VGM 1557 - Super Mario Galaxy 2 - Starship Mario's comments (YouTube id GM6lrZw9Fd...)"
+python downloader.py --youtubeid="GM6lrZw9Fd" --output="SD1609 Best VGM 1557 - Super Mario Galaxy 2 - Starship Mario's comments (YT ID GM6lrZw9Fd).json"
+echo "Archiving SD video 1610, Best VGM 1558 - Equinox - Tori (Short Version)'s comments (YouTube id jWtiuVTe5k...)"
+python downloader.py --youtubeid="jWtiuVTe5k" --output="SD1610 Best VGM 1558 - Equinox - Tori (Short Version)'s comments (YT ID jWtiuVTe5k).json"
+echo "Archiving SD video 1611, Best VGM 1559 - BattleBlock Theater - Secret Area's comments (YouTube id 5hVRaTn_og...)"
+python downloader.py --youtubeid="5hVRaTn_og" --output="SD1611 Best VGM 1559 - BattleBlock Theater - Secret Area's comments (YT ID 5hVRaTn_og).json"
+echo "Archiving SD video 1612, Best VGM 1560 - Castlevania 64 - Clock Tower (Toothed Wheel)'s comments (YouTube id fJZoDK-N6u...)"
+python downloader.py --youtubeid="fJZoDK-N6u" --output="SD1612 Best VGM 1560 - Castlevania 64 - Clock Tower (Toothed Wheel)'s comments (YT ID fJZoDK-N6u).json"
+echo "Archiving SD video 1613, Best VGM 1562 - Red Dead Redemption - The Shootist's comments (YouTube id 7MQFljss6P...)"
+python downloader.py --youtubeid="7MQFljss6P" --output="SD1613 Best VGM 1562 - Red Dead Redemption - The Shootist's comments (YT ID 7MQFljss6P).json"
+echo "Archiving SD video 1614, Best VGM 1563 - Golden Sun - Isaac's Battle Theme's comments (YouTube id Qv_8KiUsRT...)"
+python downloader.py --youtubeid="Qv_8KiUsRT" --output="SD1614 Best VGM 1563 - Golden Sun - Isaac's Battle Theme's comments (YT ID Qv_8KiUsRT).json"
+echo "Archiving SD video 1615, Best VGM 1564 - Shadow Hearts - Vitamin Metropolis (London)'s comments (YouTube id i1GFclxeDI...)"
+python downloader.py --youtubeid="i1GFclxeDI" --output="SD1615 Best VGM 1564 - Shadow Hearts - Vitamin Metropolis (London)'s comments (YT ID i1GFclxeDI).json"
+echo "Archiving SD video 1616, Best VGM 1565 - Mario Kart 8 - N64 Rainbow Road's comments (YouTube id dhGMZwQr0I...)"
+python downloader.py --youtubeid="dhGMZwQr0I" --output="SD1616 Best VGM 1565 - Mario Kart 8 - N64 Rainbow Road's comments (YT ID dhGMZwQr0I).json"
+echo "Archiving SD video 1617, Best VGM 1566 - Shinobi III - Whirlwind's comments (YouTube id FEpAD0RQ66...)"
+python downloader.py --youtubeid="FEpAD0RQ66" --output="SD1617 Best VGM 1566 - Shinobi III - Whirlwind's comments (YT ID FEpAD0RQ66).json"
+echo "Archiving SD video 1618, Best VGM 1567 - Child of Light - Dark Creatures (Battle Theme)'s comments (YouTube id nL3YMZ-Br0...)"
+python downloader.py --youtubeid="nL3YMZ-Br0" --output="SD1618 Best VGM 1567 - Child of Light - Dark Creatures (Battle Theme)'s comments (YT ID nL3YMZ-Br0).json"
+echo "Archiving SD video 1619, Best VGM 1568 - Mother 3 - Sunflowers and Phantoms's comments (YouTube id TssxHy4hbk...)"
+python downloader.py --youtubeid="TssxHy4hbk" --output="SD1619 Best VGM 1568 - Mother 3 - Sunflowers and Phantoms's comments (YT ID TssxHy4hbk).json"
+echo "Archiving SD video 1620, Best VGM 1569 - Pop'n Music 16 PARTY - V -conclusion-'s comments (YouTube id 6JuO7v84Bi...)"
+python downloader.py --youtubeid="6JuO7v84Bi" --output="SD1620 Best VGM 1569 - Pop'n Music 16 PARTY - V -conclusion-'s comments (YT ID 6JuO7v84Bi).json"
+echo "Archiving SD video 1621, Best VGM 1570 - Yoshi's New Island - Bandit Valley's comments (YouTube id 93jNP6y_Az...)"
+python downloader.py --youtubeid="93jNP6y_Az" --output="SD1621 Best VGM 1570 - Yoshi's New Island - Bandit Valley's comments (YT ID 93jNP6y_Az).json"
+echo "Archiving SD video 1622, Best VGM 1571 - Grandia - Snowy Laine Village's comments (YouTube id LSFho-sCOp...)"
+python downloader.py --youtubeid="LSFho-sCOp" --output="SD1622 Best VGM 1571 - Grandia - Snowy Laine Village's comments (YT ID LSFho-sCOp).json"
+echo "Archiving SD video 1623, Best VGM 1572 - Ragnarok Online - Desert's comments (YouTube id JFadABMZnY...)"
+python downloader.py --youtubeid="JFadABMZnY" --output="SD1623 Best VGM 1572 - Ragnarok Online - Desert's comments (YT ID JFadABMZnY).json"
+echo "Archiving SD video 1624, Best VGM 1573 - Front Mission 1st - Within Living Memory...'s comments (YouTube id IDUGJ22OWL...)"
+python downloader.py --youtubeid="IDUGJ22OWL" --output="SD1624 Best VGM 1573 - Front Mission 1st - Within Living Memory...'s comments (YT ID IDUGJ22OWL).json"
+echo "Archiving SD video 1625, Best VGM 1574 - Mega Man 9 - Flash in the Dark (Dr. Wily Stage 1)'s comments (YouTube id TtACPCoJ-4...)"
+python downloader.py --youtubeid="TtACPCoJ-4" --output="SD1625 Best VGM 1574 - Mega Man 9 - Flash in the Dark (Dr. Wily Stage 1)'s comments (YT ID TtACPCoJ-4).json"
+echo "Archiving SD video 1626, Best VGM 1575 - Transistor - Sandbox's comments (YouTube id --bWm9hhoZ...)"
+python downloader.py --youtubeid="--bWm9hhoZ" --output="SD1626 Best VGM 1575 - Transistor - Sandbox's comments (YT ID --bWm9hhoZ).json"
+echo "Archiving SD video 1627, Best VGM 1576 - Zelda : Minish Cap - Hyrule Town's comments (YouTube id aBmqRgtqOg...)"
+python downloader.py --youtubeid="aBmqRgtqOg" --output="SD1627 Best VGM 1576 - Zelda : Minish Cap - Hyrule Town's comments (YT ID aBmqRgtqOg).json"
+echo "Archiving SD video 1628, Best VGM 1577 - Hitman 2 : Silent Assassin - Exploration's comments (YouTube id KB0Yxdtig9...)"
+python downloader.py --youtubeid="KB0Yxdtig9" --output="SD1628 Best VGM 1577 - Hitman 2 : Silent Assassin - Exploration's comments (YT ID KB0Yxdtig9).json"
+echo "Archiving SD video 1629, Best VGM 1578 - Chrono Cross - Voyage ~ Another World's comments (YouTube id _CB18Elh4R...)"
+python downloader.py --youtubeid="_CB18Elh4R" --output="SD1629 Best VGM 1578 - Chrono Cross - Voyage ~ Another World's comments (YT ID _CB18Elh4R).json"
+echo "Archiving SD video 1630, Best VGM 1579 - Crystal Beans from Dungeon Explorer - Cursed Tree's comments (YouTube id aXJ0om-_1E...)"
+python downloader.py --youtubeid="aXJ0om-_1E" --output="SD1630 Best VGM 1579 - Crystal Beans from Dungeon Explorer - Cursed Tree's comments (YT ID aXJ0om-_1E).json"
+echo "Archiving SD video 1631, Best VGM 1580 - Vampire The Masquerade : Bloodlines - Vesuvius Nightclub's comments (YouTube id bss8vzkIB7...)"
+python downloader.py --youtubeid="bss8vzkIB7" --output="SD1631 Best VGM 1580 - Vampire The Masquerade : Bloodlines - Vesuvius Nightclub's comments (YT ID bss8vzkIB7).json"
+echo "Archiving SD video 1632, Best VGM 1581 - Tomb Raider - Ruins of a Lost Civilization's comments (YouTube id jEmyzsFaiZ...)"
+python downloader.py --youtubeid="jEmyzsFaiZ" --output="SD1632 Best VGM 1581 - Tomb Raider - Ruins of a Lost Civilization's comments (YT ID jEmyzsFaiZ).json"
+echo "Archiving SD video 1633, Best VGM 1582 - Watch Dogs - The Loop's comments (YouTube id bItjdi5wxF...)"
+python downloader.py --youtubeid="bItjdi5wxF" --output="SD1633 Best VGM 1582 - Watch Dogs - The Loop's comments (YT ID bItjdi5wxF).json"
+echo "Archiving SD video 1634, Best VGM 1584 - Xenosaga II - Vector Industries, Second Division's comments (YouTube id yVcn0cFJY_...)"
+python downloader.py --youtubeid="yVcn0cFJY_" --output="SD1634 Best VGM 1584 - Xenosaga II - Vector Industries, Second Division's comments (YT ID yVcn0cFJY_).json"
+echo "Archiving SD video 1635, Best VGM 1585 - Super Smash Bros. Brawl - Route 209's comments (YouTube id u5v8qTkf-y...)"
+python downloader.py --youtubeid="u5v8qTkf-y" --output="SD1635 Best VGM 1585 - Super Smash Bros. Brawl - Route 209's comments (YT ID u5v8qTkf-y).json"
+echo "Archiving SD video 1636, Best VGM 1586 - Super Monkey Ball : Step & Roll - World 1 ~ Monkey Island's comments (YouTube id wkrgYK2U5h...)"
+python downloader.py --youtubeid="wkrgYK2U5h" --output="SD1636 Best VGM 1586 - Super Monkey Ball : Step & Roll - World 1 ~ Monkey Island's comments (YT ID wkrgYK2U5h).json"
+echo "Archiving SD video 1637, Best VGM 1587 - Zelda : Skyward Sword - Lanayru Mining Facility (Past)'s comments (YouTube id 5maIQJ79hG...)"
+python downloader.py --youtubeid="5maIQJ79hG" --output="SD1637 Best VGM 1587 - Zelda : Skyward Sword - Lanayru Mining Facility (Past)'s comments (YT ID 5maIQJ79hG).json"
+echo "Archiving SD video 1638, Best VGM 1588 - Cyborg 009 - Floating Fortress's comments (YouTube id Q3Vci9ri4y...)"
+python downloader.py --youtubeid="Q3Vci9ri4y" --output="SD1638 Best VGM 1588 - Cyborg 009 - Floating Fortress's comments (YT ID Q3Vci9ri4y).json"
+echo "Archiving SD video 1639, Best VGM 1589 - Demon's Souls - The Beginning's comments (YouTube id CrjvBd9q4A...)"
+python downloader.py --youtubeid="CrjvBd9q4A" --output="SD1639 Best VGM 1589 - Demon's Souls - The Beginning's comments (YT ID CrjvBd9q4A).json"
+echo "Archiving SD video 1640, Best VGM 1590 - Skies of Arcadia - Ancient Temple Dungeon's comments (YouTube id X1-oxRS8-m...)"
+python downloader.py --youtubeid="X1-oxRS8-m" --output="SD1640 Best VGM 1590 - Skies of Arcadia - Ancient Temple Dungeon's comments (YT ID X1-oxRS8-m).json"
+echo "Archiving SD video 1641, Best VGM 1591 - Magical Tetris Challenge - Pete's Theme's comments (YouTube id UWOTB6x_WA...)"
+python downloader.py --youtubeid="UWOTB6x_WA" --output="SD1641 Best VGM 1591 - Magical Tetris Challenge - Pete's Theme's comments (YT ID UWOTB6x_WA).json"
+echo "Archiving SD video 1642, Best VGM 1592 - Phantasy Star Online - Day Dawns's comments (YouTube id pq_nXXuZTt...)"
+python downloader.py --youtubeid="pq_nXXuZTt" --output="SD1642 Best VGM 1592 - Phantasy Star Online - Day Dawns's comments (YT ID pq_nXXuZTt).json"
+echo "Archiving SD video 1643, Best VGM 1593 - Top Gear 3000 - Results's comments (YouTube id cxAE48Dul7...)"
+python downloader.py --youtubeid="cxAE48Dul7" --output="SD1643 Best VGM 1593 - Top Gear 3000 - Results's comments (YT ID cxAE48Dul7).json"
+echo "Archiving SD video 1644, Cowboy Bebop - Green Bird's comments (YouTube id liAiFcT-L9...)"
+python downloader.py --youtubeid="liAiFcT-L9" --output="SD1644 Cowboy Bebop - Green Bird's comments (YT ID liAiFcT-L9).json"
+echo "Archiving SD video 1645, Best VGM 1595 - Breath of Death VII - Battle Theme's comments (YouTube id Nu91ToSI4M...)"
+python downloader.py --youtubeid="Nu91ToSI4M" --output="SD1645 Best VGM 1595 - Breath of Death VII - Battle Theme's comments (YT ID Nu91ToSI4M).json"
+echo "Archiving SD video 1646, Best VGM 1596 - Suikoden III - Cheerful Farm Village (Chisha)'s comments (YouTube id -uJOYd76nS...)"
+python downloader.py --youtubeid="-uJOYd76nS" --output="SD1646 Best VGM 1596 - Suikoden III - Cheerful Farm Village (Chisha)'s comments (YT ID -uJOYd76nS).json"
+echo "Archiving SD video 1647, Best VGM 1597 - Sonic Unleashed - Adabat ~ Jungle Joyride (Night)'s comments (YouTube id NT-c2ZeOps...)"
+python downloader.py --youtubeid="NT-c2ZeOps" --output="SD1647 Best VGM 1597 - Sonic Unleashed - Adabat ~ Jungle Joyride (Night)'s comments (YT ID NT-c2ZeOps).json"
+echo "Archiving SD video 1648, Best VGM 1598 - Shovel Knight - A Thousand Leagues Below (Iron Whale ~ Treasure Knight)'s comments (YouTube id dRHpQFbEth...)"
+python downloader.py --youtubeid="dRHpQFbEth" --output="SD1648 Best VGM 1598 - Shovel Knight - A Thousand Leagues Below (Iron Whale ~ Treasure Knight)'s comments (YT ID dRHpQFbEth).json"
+echo "Archiving SD video 1649, Best VGM 1599 - Katamari Damacy - Katamaritaino's comments (YouTube id OB9t0q4kkE...)"
+python downloader.py --youtubeid="OB9t0q4kkE" --output="SD1649 Best VGM 1599 - Katamari Damacy - Katamaritaino's comments (YT ID OB9t0q4kkE).json"
+echo "Archiving SD video 1650, Best VGM 1600 - Shenmue - Departure of Hope's comments (YouTube id CgtvppDEye...)"
+python downloader.py --youtubeid="CgtvppDEye" --output="SD1650 Best VGM 1600 - Shenmue - Departure of Hope's comments (YT ID CgtvppDEye).json"
+echo "Archiving SD video 1651, Best VGM 1602 - Donkey Kong Country : Tropical Freeze - Windmill Hills's comments (YouTube id RBslMKpPu1...)"
+python downloader.py --youtubeid="RBslMKpPu1" --output="SD1651 Best VGM 1602 - Donkey Kong Country : Tropical Freeze - Windmill Hills's comments (YT ID RBslMKpPu1).json"
+echo "Archiving SD video 1652, Best VGM 1603 - Ittle Dew - That Cold Place ~ 2nd Floor's comments (YouTube id JlGnZvt5OB...)"
+python downloader.py --youtubeid="JlGnZvt5OB" --output="SD1652 Best VGM 1603 - Ittle Dew - That Cold Place ~ 2nd Floor's comments (YT ID JlGnZvt5OB).json"
+echo "Archiving SD video 1653, Best VGM 1604 - F-Zero GX - Dr. Stewart's Theme's comments (YouTube id VmOy8IvUcA...)"
+python downloader.py --youtubeid="VmOy8IvUcA" --output="SD1653 Best VGM 1604 - F-Zero GX - Dr. Stewart's Theme's comments (YT ID VmOy8IvUcA).json"
+echo "Archiving SD video 1654, Best VGM 1605 - Divinity : Original Sin - Mysterious Guest's comments (YouTube id tDuCLC_sZZ...)"
+python downloader.py --youtubeid="tDuCLC_sZZ" --output="SD1654 Best VGM 1605 - Divinity : Original Sin - Mysterious Guest's comments (YT ID tDuCLC_sZZ).json"
+echo "Archiving SD video 1655, Best VGM 1606 - Tales of Vesperia - The Tormenting Whisper of Water's comments (YouTube id PXqJEm-vm-...)"
+python downloader.py --youtubeid="PXqJEm-vm-" --output="SD1655 Best VGM 1606 - Tales of Vesperia - The Tormenting Whisper of Water's comments (YT ID PXqJEm-vm-).json"
+echo "Archiving SD video 1656, Best VGM 1607 - Grounseed - Town 3's comments (YouTube id cKBgNT-8rr...)"
+python downloader.py --youtubeid="cKBgNT-8rr" --output="SD1656 Best VGM 1607 - Grounseed - Town 3's comments (YT ID cKBgNT-8rr).json"
+echo "Archiving SD video 1657, Best VGM 1608 - SMT : Digital Devil Saga 2 - Hunting ~ Betrayal's comments (YouTube id cqSEDRNwkt...)"
+python downloader.py --youtubeid="cqSEDRNwkt" --output="SD1657 Best VGM 1608 - SMT : Digital Devil Saga 2 - Hunting ~ Betrayal's comments (YT ID cqSEDRNwkt).json"
+echo "Archiving SD video 1658, Best VGM 1609 - Castlevania : Aria of Sorrow - Sacred Cave (Forbidden Area)'s comments (YouTube id 2ZX41kMN9V...)"
+python downloader.py --youtubeid="2ZX41kMN9V" --output="SD1658 Best VGM 1609 - Castlevania : Aria of Sorrow - Sacred Cave (Forbidden Area)'s comments (YT ID 2ZX41kMN9V).json"
+echo "Archiving SD video 1659, Best VGM 1610 - Super Paper Mario - Flipside's comments (YouTube id iV5Ae4lOWm...)"
+python downloader.py --youtubeid="iV5Ae4lOWm" --output="SD1659 Best VGM 1610 - Super Paper Mario - Flipside's comments (YT ID iV5Ae4lOWm).json"
+echo "Archiving SD video 1660, Best VGM 1611 - Super Paper Mario - Flopside's comments (YouTube id C3xhG7wRnf...)"
+python downloader.py --youtubeid="C3xhG7wRnf" --output="SD1660 Best VGM 1611 - Super Paper Mario - Flopside's comments (YT ID C3xhG7wRnf).json"
+echo "Archiving SD video 1661, Best VGM 1612 - OFF - Pepper Steak (Battle Theme)'s comments (YouTube id xajMfQuVnp...)"
+python downloader.py --youtubeid="xajMfQuVnp" --output="SD1661 Best VGM 1612 - OFF - Pepper Steak (Battle Theme)'s comments (YT ID xajMfQuVnp).json"
+echo "Archiving SD video 1662, Best VGM 1613 - Advance Wars DS - Jess' Theme's comments (YouTube id N-T8KwCCNh...)"
+python downloader.py --youtubeid="N-T8KwCCNh" --output="SD1662 Best VGM 1613 - Advance Wars DS - Jess' Theme's comments (YT ID N-T8KwCCNh).json"
+echo "Archiving SD video 1663, Best VGM 1614 - Mighty Switch Force! 2 - Final Level's comments (YouTube id C7NTTBm7fS...)"
+python downloader.py --youtubeid="C7NTTBm7fS" --output="SD1663 Best VGM 1614 - Mighty Switch Force! 2 - Final Level's comments (YT ID C7NTTBm7fS).json"
+echo "Archiving SD video 1664, Best VGM 1615 - Gran Turismo - Moon Over The Castle's comments (YouTube id 7DYL2blxWS...)"
+python downloader.py --youtubeid="7DYL2blxWS" --output="SD1664 Best VGM 1615 - Gran Turismo - Moon Over The Castle's comments (YT ID 7DYL2blxWS).json"
+echo "Archiving SD video 1665, Best VGM 1616 - Tekken 5 - Moonlit Wilderness's comments (YouTube id 6GhseRvdAg...)"
+python downloader.py --youtubeid="6GhseRvdAg" --output="SD1665 Best VGM 1616 - Tekken 5 - Moonlit Wilderness's comments (YT ID 6GhseRvdAg).json"
+echo "Archiving SD video 1666, Best VGM 1617 - Super Mario Land 2 - The Moon's comments (YouTube id 2CyFFMCC67...)"
+python downloader.py --youtubeid="2CyFFMCC67" --output="SD1666 Best VGM 1617 - Super Mario Land 2 - The Moon's comments (YT ID 2CyFFMCC67).json"
+echo "Archiving SD video 1667, Best VGM 1618 - Nostalgia - Tower of the Moon's comments (YouTube id VmemS-mqlO...)"
+python downloader.py --youtubeid="VmemS-mqlO" --output="SD1667 Best VGM 1618 - Nostalgia - Tower of the Moon's comments (YT ID VmemS-mqlO).json"
+echo "Archiving SD video 1668, Best VGM 1619 - Shadow Hearts II : Covenant - Rising Sun (Japan Town)'s comments (YouTube id cU1Z5UwBlQ...)"
+python downloader.py --youtubeid="cU1Z5UwBlQ" --output="SD1668 Best VGM 1619 - Shadow Hearts II : Covenant - Rising Sun (Japan Town)'s comments (YT ID cU1Z5UwBlQ).json"
+echo "Archiving SD video 1669, Best VGM 1620 - Radiata Stories - Hopping Sun's comments (YouTube id IY7hfsfPh8...)"
+python downloader.py --youtubeid="IY7hfsfPh8" --output="SD1669 Best VGM 1620 - Radiata Stories - Hopping Sun's comments (YT ID IY7hfsfPh8).json"
+echo "Archiving SD video 1670, Best VGM 1621 - Wild Arms 3 - Black as Sin, Red as Blood's comments (YouTube id KAHuWEfue8...)"
+python downloader.py --youtubeid="KAHuWEfue8" --output="SD1670 Best VGM 1621 - Wild Arms 3 - Black as Sin, Red as Blood's comments (YT ID KAHuWEfue8).json"
+echo "Archiving SD video 1671, Best VGM 1622 - Metal Gear Solid 3 - Main Theme's comments (YouTube id nUbwvWQOOv...)"
+python downloader.py --youtubeid="nUbwvWQOOv" --output="SD1671 Best VGM 1622 - Metal Gear Solid 3 - Main Theme's comments (YT ID nUbwvWQOOv).json"
+echo "Archiving SD video 1672, Best VGM 1623 - Silent Hill - Tears of...'s comments (YouTube id MYNeu0cZ3N...)"
+python downloader.py --youtubeid="MYNeu0cZ3N" --output="SD1672 Best VGM 1623 - Silent Hill - Tears of...'s comments (YT ID MYNeu0cZ3N).json"
+echo "Archiving SD video 1673, Best VGM 1624 - Phoenix Wright : Ace Attorney - Auspicious People's comments (YouTube id Dhd4jJw8Vt...)"
+python downloader.py --youtubeid="Dhd4jJw8Vt" --output="SD1673 Best VGM 1624 - Phoenix Wright : Ace Attorney - Auspicious People's comments (YT ID Dhd4jJw8Vt).json"
+echo "Archiving SD video 1674, Best VGM 1625 - Ecco the Dolphin (Sega CD) - Jurassic Beach's comments (YouTube id N46rEikk4b...)"
+python downloader.py --youtubeid="N46rEikk4b" --output="SD1674 Best VGM 1625 - Ecco the Dolphin (Sega CD) - Jurassic Beach's comments (YT ID N46rEikk4b).json"
+echo "Archiving SD video 1675, Best VGM 1626 - Diddy Kong Racing - Hot Top Volcano's comments (YouTube id _XJw072Co_...)"
+python downloader.py --youtubeid="_XJw072Co_" --output="SD1675 Best VGM 1626 - Diddy Kong Racing - Hot Top Volcano's comments (YT ID _XJw072Co_).json"
+echo "Archiving SD video 1676, Best VGM 1627 - Minecraft - Moog City's comments (YouTube id aqLjvjhHgD...)"
+python downloader.py --youtubeid="aqLjvjhHgD" --output="SD1676 Best VGM 1627 - Minecraft - Moog City's comments (YT ID aqLjvjhHgD).json"
+echo "Archiving SD video 1677, Best VGM 1628 - Dust : An Elysian Tail - The Blackmoor Mountains's comments (YouTube id jJVTRXZXEI...)"
+python downloader.py --youtubeid="jJVTRXZXEI" --output="SD1677 Best VGM 1628 - Dust : An Elysian Tail - The Blackmoor Mountains's comments (YT ID jJVTRXZXEI).json"
+echo "Archiving SD video 1678, Best VGM 1629 - Mega Man Battle Network 3 - Internet Area's comments (YouTube id 1hxkqsEz4d...)"
+python downloader.py --youtubeid="1hxkqsEz4d" --output="SD1678 Best VGM 1629 - Mega Man Battle Network 3 - Internet Area's comments (YT ID 1hxkqsEz4d).json"
+echo "Archiving SD video 1679, Best VGM 1630 - Solstice - Title Theme's comments (YouTube id SFCn8IpgiL...)"
+python downloader.py --youtubeid="SFCn8IpgiL" --output="SD1679 Best VGM 1630 - Solstice - Title Theme's comments (YT ID SFCn8IpgiL).json"
+echo "Archiving SD video 1680, Best VGM 1631 - Zelda : Ocarina of Time - Hyrule Market's comments (YouTube id _qbSmANSx6...)"
+python downloader.py --youtubeid="_qbSmANSx6" --output="SD1680 Best VGM 1631 - Zelda : Ocarina of Time - Hyrule Market's comments (YT ID _qbSmANSx6).json"
+echo "Archiving SD video 1681, Best VGM 1632 - Xenoblade Chronicles - Main Theme's comments (YouTube id pZBBZ77gob...)"
+python downloader.py --youtubeid="pZBBZ77gob" --output="SD1681 Best VGM 1632 - Xenoblade Chronicles - Main Theme's comments (YT ID pZBBZ77gob).json"
+echo "Archiving SD video 1682, Best VGM 1633 - Rusty - Red Sunset (Stage 7)'s comments (YouTube id 1r5BYjZdAt...)"
+python downloader.py --youtubeid="1r5BYjZdAt" --output="SD1682 Best VGM 1633 - Rusty - Red Sunset (Stage 7)'s comments (YT ID 1r5BYjZdAt).json"
+echo "Archiving SD video 1683, Best VGM 1634 - Hyrule Warriors - Remnant of Twilight's comments (YouTube id _blDkW4rCw...)"
+python downloader.py --youtubeid="_blDkW4rCw" --output="SD1683 Best VGM 1634 - Hyrule Warriors - Remnant of Twilight's comments (YT ID _blDkW4rCw).json"
+echo "Archiving SD video 1684, Best VGM 1635 - Jade Cocoon - The Blue Cocoon Master ~ Koris's comments (YouTube id bZBoTinEpa...)"
+python downloader.py --youtubeid="bZBoTinEpa" --output="SD1684 Best VGM 1635 - Jade Cocoon - The Blue Cocoon Master ~ Koris's comments (YT ID bZBoTinEpa).json"
+echo "Archiving SD video 1685, Best VGM 1636 - Soul Sacrifice - March of the Dead's comments (YouTube id i49PlEN5k9...)"
+python downloader.py --youtubeid="i49PlEN5k9" --output="SD1685 Best VGM 1636 - Soul Sacrifice - March of the Dead's comments (YT ID i49PlEN5k9).json"
+echo "Archiving SD video 1686, Best VGM 1638 - Anodyne - Crossing's comments (YouTube id rLXgXfncaI...)"
+python downloader.py --youtubeid="rLXgXfncaI" --output="SD1686 Best VGM 1638 - Anodyne - Crossing's comments (YT ID rLXgXfncaI).json"
+echo "Archiving SD video 1687, Best VGM 1639 - Turok : Dinosaur Hunter - Lost Jungle's comments (YouTube id zTOZesa-uG...)"
+python downloader.py --youtubeid="zTOZesa-uG" --output="SD1687 Best VGM 1639 - Turok : Dinosaur Hunter - Lost Jungle's comments (YT ID zTOZesa-uG).json"
+echo "Archiving SD video 1688, Best VGM 1640 - Ratchet & Clank - Veldin ~ Kyzil Plateau's comments (YouTube id gRZFl-vt4w...)"
+python downloader.py --youtubeid="gRZFl-vt4w" --output="SD1688 Best VGM 1640 - Ratchet & Clank - Veldin ~ Kyzil Plateau's comments (YT ID gRZFl-vt4w).json"
+echo "Archiving SD video 1689, Best VGM 1641 - Jak & Daxter - Sentinel Beach's comments (YouTube id KnoUxId8yU...)"
+python downloader.py --youtubeid="KnoUxId8yU" --output="SD1689 Best VGM 1641 - Jak & Daxter - Sentinel Beach's comments (YT ID KnoUxId8yU).json"
+echo "Archiving SD video 1690, Best VGM 1642 - Hotline Miami - Paris's comments (YouTube id Y0oO0bOyIA...)"
+python downloader.py --youtubeid="Y0oO0bOyIA" --output="SD1690 Best VGM 1642 - Hotline Miami - Paris's comments (YT ID Y0oO0bOyIA).json"
+echo "Archiving SD video 1691, Best VGM 1643 - Illusion of Gaia - South Cape's comments (YouTube id Y7McPnKoP8...)"
+python downloader.py --youtubeid="Y7McPnKoP8" --output="SD1691 Best VGM 1643 - Illusion of Gaia - South Cape's comments (YT ID Y7McPnKoP8).json"
+echo "Archiving SD video 1692, Best VGM 1644 - Scott Pilgrim vs the World - Twin Dragons's comments (YouTube id Hbw3ZVY7qG...)"
+python downloader.py --youtubeid="Hbw3ZVY7qG" --output="SD1692 Best VGM 1644 - Scott Pilgrim vs the World - Twin Dragons's comments (YT ID Hbw3ZVY7qG).json"
+echo "Archiving SD video 1693, Best VGM 1645 - Super Smash Bros. Wii U / 3DS - All-Star Rest Area's comments (YouTube id ECP710r6JC...)"
+python downloader.py --youtubeid="ECP710r6JC" --output="SD1693 Best VGM 1645 - Super Smash Bros. Wii U / 3DS - All-Star Rest Area's comments (YT ID ECP710r6JC).json"
+echo "Archiving SD video 1694, Best VGM 1646 - Ollie King - Teknopathetic (e-Pop'n Disco 80's Mix)'s comments (YouTube id OXqxg3FpuD...)"
+python downloader.py --youtubeid="OXqxg3FpuD" --output="SD1694 Best VGM 1646 - Ollie King - Teknopathetic (e-Pop'n Disco 80's Mix)'s comments (YT ID OXqxg3FpuD).json"
+echo "Archiving SD video 1695, Best VGM 1647 - Mega Man 5 - Dr. Wily Stage's comments (YouTube id sqIb-ZhY85...)"
+python downloader.py --youtubeid="sqIb-ZhY85" --output="SD1695 Best VGM 1647 - Mega Man 5 - Dr. Wily Stage's comments (YT ID sqIb-ZhY85).json"
+echo "Archiving SD video 1696, Best VGM 1648 - Sonic Generations - Crisis City ~ Act 2's comments (YouTube id x4mrK-42Z1...)"
+python downloader.py --youtubeid="x4mrK-42Z1" --output="SD1696 Best VGM 1648 - Sonic Generations - Crisis City ~ Act 2's comments (YT ID x4mrK-42Z1).json"
+echo "Archiving SD video 1697, Best VGM 1649 - Secret of the Stars - Aqutallion Overworld's comments (YouTube id Gza34GxrZl...)"
+python downloader.py --youtubeid="Gza34GxrZl" --output="SD1697 Best VGM 1649 - Secret of the Stars - Aqutallion Overworld's comments (YT ID Gza34GxrZl).json"
+echo "Archiving SD video 1698, Best VGM 1650 - Shadow Madness - Forestgrove's comments (YouTube id CwI39pDPlg...)"
+python downloader.py --youtubeid="CwI39pDPlg" --output="SD1698 Best VGM 1650 - Shadow Madness - Forestgrove's comments (YT ID CwI39pDPlg).json"
+echo "Archiving SD video 1699, Best VGM 1651 - Earthbound - The Guardian's Challenge's comments (YouTube id aKqYLGaG_E...)"
+python downloader.py --youtubeid="aKqYLGaG_E" --output="SD1699 Best VGM 1651 - Earthbound - The Guardian's Challenge's comments (YT ID aKqYLGaG_E).json"
+echo "Archiving SD video 1700, Best VGM 1652 - Radiant Historia - Dreams Showed by a Cloud of Dust's comments (YouTube id A9PXQSFWuR...)"
+python downloader.py --youtubeid="A9PXQSFWuR" --output="SD1700 Best VGM 1652 - Radiant Historia - Dreams Showed by a Cloud of Dust's comments (YT ID A9PXQSFWuR).json"
+echo "Archiving SD video 1701, Best VGM 1653 - Persona Q : Shadow of the Labyrinth - Footsteps of Time's comments (YouTube id pqCxONuUK3...)"
+python downloader.py --youtubeid="pqCxONuUK3" --output="SD1701 Best VGM 1653 - Persona Q : Shadow of the Labyrinth - Footsteps of Time's comments (YT ID pqCxONuUK3).json"
+echo "Archiving SD video 1702, Best VGM 1654 - Galactic Pinball - Alien's comments (YouTube id BdlkxaSEgB...)"
+python downloader.py --youtubeid="BdlkxaSEgB" --output="SD1702 Best VGM 1654 - Galactic Pinball - Alien's comments (YT ID BdlkxaSEgB).json"
+echo "Archiving SD video 1703, Best VGM 1655 - Touch My Katamari - Jupiter Dub No.404's comments (YouTube id 3kmwqOIeeg...)"
+python downloader.py --youtubeid="3kmwqOIeeg" --output="SD1703 Best VGM 1655 - Touch My Katamari - Jupiter Dub No.404's comments (YT ID 3kmwqOIeeg).json"
+echo "Archiving SD video 1704, Best VGM 1656 - Fez - Compass's comments (YouTube id H2-rCJmEDI...)"
+python downloader.py --youtubeid="H2-rCJmEDI" --output="SD1704 Best VGM 1656 - Fez - Compass's comments (YT ID H2-rCJmEDI).json"
+echo "Archiving SD video 1705, Best VGM 1657 - Super Mario Sunshine - Bianco Hills's comments (YouTube id BKmv_mecn5...)"
+python downloader.py --youtubeid="BKmv_mecn5" --output="SD1705 Best VGM 1657 - Super Mario Sunshine - Bianco Hills's comments (YT ID BKmv_mecn5).json"
+echo "Archiving SD video 1706, Best VGM 1658 - Unlimited Saga - DG ''sine'''s comments (YouTube id kJRiZaexNn...)"
+python downloader.py --youtubeid="kJRiZaexNn" --output="SD1706 Best VGM 1658 - Unlimited Saga - DG ''sine'''s comments (YT ID kJRiZaexNn).json"
+echo "Archiving SD video 1707, Best VGM 1659 - Metroid II : Return of Samus - SR388's comments (YouTube id wXZ-2p4rC5...)"
+python downloader.py --youtubeid="wXZ-2p4rC5" --output="SD1707 Best VGM 1659 - Metroid II : Return of Samus - SR388's comments (YT ID wXZ-2p4rC5).json"
+echo "Archiving SD video 1708, Best VGM 1660 - Star Ocean 2 : The Second Story - Pure a Stream's comments (YouTube id HCi2-HtFh7...)"
+python downloader.py --youtubeid="HCi2-HtFh7" --output="SD1708 Best VGM 1660 - Star Ocean 2 : The Second Story - Pure a Stream's comments (YT ID HCi2-HtFh7).json"
+echo "Archiving SD video 1709, Best VGM 1661 - Dustforce - Cider Time's comments (YouTube id F4QbiPftlE...)"
+python downloader.py --youtubeid="F4QbiPftlE" --output="SD1709 Best VGM 1661 - Dustforce - Cider Time's comments (YT ID F4QbiPftlE).json"
+echo "Archiving SD video 1710, Best VGM 1662 - Shovel Knight - In the Halls of the Usurper (Pridemoor Keep ~ King Knight)'s comments (YouTube id IEMaS33Wcd...)"
+python downloader.py --youtubeid="IEMaS33Wcd" --output="SD1710 Best VGM 1662 - Shovel Knight - In the Halls of the Usurper (Pridemoor Keep ~ King Knight)'s comments (YT ID IEMaS33Wcd).json"
+echo "Archiving SD video 1711, Best VGM 1663 - Midnight Resistance - Flood of Power (Stage 1)'s comments (YouTube id krmNfjbfJU...)"
+python downloader.py --youtubeid="krmNfjbfJU" --output="SD1711 Best VGM 1663 - Midnight Resistance - Flood of Power (Stage 1)'s comments (YT ID krmNfjbfJU).json"
+echo "Archiving SD video 1712, Nujabes ft. Uyama Hiroto - Spiritual State's comments (YouTube id rkWsVA3pAU...)"
+python downloader.py --youtubeid="rkWsVA3pAU" --output="SD1712 Nujabes ft. Uyama Hiroto - Spiritual State's comments (YT ID rkWsVA3pAU).json"
+echo "Archiving SD video 1713, [Favorite Horror Game #10] Best VGM 1664 - Parasite Eve - Out of Phase's comments (YouTube id 9sYfDXfMO0...)"
+python downloader.py --youtubeid="9sYfDXfMO0" --output="SD1713 [Favorite Horror Game #10] Best VGM 1664 - Parasite Eve - Out of Phase's comments (YT ID 9sYfDXfMO0).json"
+echo "Archiving SD video 1714, [Favorite Horror Game #9] Best VGM 1665 - Outlast - Main Menu's comments (YouTube id BhfevIZsXo...)"
+python downloader.py --youtubeid="BhfevIZsXo" --output="SD1714 [Favorite Horror Game #9] Best VGM 1665 - Outlast - Main Menu's comments (YT ID BhfevIZsXo).json"
+echo "Archiving SD video 1715, [Favorite Horror Game #8] Best VGM 1666 - Fatal Frame - Ending Theme's comments (YouTube id tU3ZA2tFxD...)"
+python downloader.py --youtubeid="tU3ZA2tFxD" --output="SD1715 [Favorite Horror Game #8] Best VGM 1666 - Fatal Frame - Ending Theme's comments (YT ID tU3ZA2tFxD).json"
+echo "Archiving SD video 1716, [Favorite Horror Game #7] Best VGM 1667 - Silent Hill 3 - Hometown's comments (YouTube id 9BF1JT8rNK...)"
+python downloader.py --youtubeid="9BF1JT8rNK" --output="SD1716 [Favorite Horror Game #7] Best VGM 1667 - Silent Hill 3 - Hometown's comments (YT ID 9BF1JT8rNK).json"
+echo "Archiving SD video 1717, [Favorite Horror Game #6] Best VGM 1668 - Doom 3 - Intro's comments (YouTube id e1HWSPwGlp...)"
+python downloader.py --youtubeid="e1HWSPwGlp" --output="SD1717 [Favorite Horror Game #6] Best VGM 1668 - Doom 3 - Intro's comments (YT ID e1HWSPwGlp).json"
+echo "Archiving SD video 1718, [Favorite Horror Game #5] Best VGM 1669 - F.E.A.R. - Intro's comments (YouTube id mwWcWgKjN5...)"
+python downloader.py --youtubeid="mwWcWgKjN5" --output="SD1718 [Favorite Horror Game #5] Best VGM 1669 - F.E.A.R. - Intro's comments (YT ID mwWcWgKjN5).json"
+echo "Archiving SD video 1719, [Favorite Horror Game #4] Best VGM 1670 - Dead Space - Welcome Aboard the USG Ishimura's comments (YouTube id dcEXzNbn20...)"
+python downloader.py --youtubeid="dcEXzNbn20" --output="SD1719 [Favorite Horror Game #4] Best VGM 1670 - Dead Space - Welcome Aboard the USG Ishimura's comments (YT ID dcEXzNbn20).json"
+echo "Archiving SD video 1720, [Favorite Horror Game #3] Best VGM 1671 - Resident Evil REmake - Guardhouse I's comments (YouTube id ghe_tgQvWK...)"
+python downloader.py --youtubeid="ghe_tgQvWK" --output="SD1720 [Favorite Horror Game #3] Best VGM 1671 - Resident Evil REmake - Guardhouse I's comments (YT ID ghe_tgQvWK).json"
+echo "Archiving SD video 1721, [Favorite Horror Game #2] Best VGM 1672 - Silent Hill 2 - True's comments (YouTube id bu-kSDUXUt...)"
+python downloader.py --youtubeid="bu-kSDUXUt" --output="SD1721 [Favorite Horror Game #2] Best VGM 1672 - Silent Hill 2 - True's comments (YT ID bu-kSDUXUt).json"
+echo "Archiving SD video 1722, [Favorite Horror Game #1] Best VGM 1673 - Fatal Frame II : Crimson Butterfly - Dim Lantern's comments (YouTube id _dXaKTGvaE...)"
+python downloader.py --youtubeid="_dXaKTGvaE" --output="SD1722 [Favorite Horror Game #1] Best VGM 1673 - Fatal Frame II : Crimson Butterfly - Dim Lantern's comments (YT ID _dXaKTGvaE).json"
+echo "Archiving SD video 1723, Best VGM 1674 - Contact - Rizo Island's comments (YouTube id EF_lbrpdRQ...)"
+python downloader.py --youtubeid="EF_lbrpdRQ" --output="SD1723 Best VGM 1674 - Contact - Rizo Island's comments (YT ID EF_lbrpdRQ).json"
+echo "Archiving SD video 1724, Best VGM 1675 - Mario & Luigi : Superstar Saga - Hoohoo Village's comments (YouTube id B8MpofvFtq...)"
+python downloader.py --youtubeid="B8MpofvFtq" --output="SD1724 Best VGM 1675 - Mario & Luigi : Superstar Saga - Hoohoo Village's comments (YT ID B8MpofvFtq).json"
+echo "Archiving SD video 1725, Best VGM 1676 - Tekken 2 - The Head Shaker (Yoshimitsu's Theme)'s comments (YouTube id ccMkXEV0Ym...)"
+python downloader.py --youtubeid="ccMkXEV0Ym" --output="SD1725 Best VGM 1676 - Tekken 2 - The Head Shaker (Yoshimitsu's Theme)'s comments (YT ID ccMkXEV0Ym).json"
+echo "Archiving SD video 1726, Best VGM 1677 - Xenoblade Chronicles X - Main Theme's comments (YouTube id LTWbJDROe7...)"
+python downloader.py --youtubeid="LTWbJDROe7" --output="SD1726 Best VGM 1677 - Xenoblade Chronicles X - Main Theme's comments (YT ID LTWbJDROe7).json"
+echo "Archiving SD video 1727, Best VGM 1678 - Dragon Ball Z : The Legacy of Goku II - West City ~ Eat & Collect's comments (YouTube id m4NfokfW3j...)"
+python downloader.py --youtubeid="m4NfokfW3j" --output="SD1727 Best VGM 1678 - Dragon Ball Z : The Legacy of Goku II - West City ~ Eat & Collect's comments (YT ID m4NfokfW3j).json"
+echo "Archiving SD video 1728, Best VGM 1679 - Shin Megami Tensei IV - Lucifer Palace's comments (YouTube id a_qDMzn6BO...)"
+python downloader.py --youtubeid="a_qDMzn6BO" --output="SD1728 Best VGM 1679 - Shin Megami Tensei IV - Lucifer Palace's comments (YT ID a_qDMzn6BO).json"
+echo "Archiving SD video 1729, Best VGM 1681 - Opoona - Matia Mine's comments (YouTube id oPjI-qh3QW...)"
+python downloader.py --youtubeid="oPjI-qh3QW" --output="SD1729 Best VGM 1681 - Opoona - Matia Mine's comments (YT ID oPjI-qh3QW).json"
+echo "Archiving SD video 1730, Best VGM 1682 - Lagoon - Atland's comments (YouTube id H-CwNdgHcD...)"
+python downloader.py --youtubeid="H-CwNdgHcD" --output="SD1730 Best VGM 1682 - Lagoon - Atland's comments (YT ID H-CwNdgHcD).json"
+echo "Archiving SD video 1731, Best VGM 1683 - Mario Sports Mix - Peach's Castle's comments (YouTube id I8ij2RGGBt...)"
+python downloader.py --youtubeid="I8ij2RGGBt" --output="SD1731 Best VGM 1683 - Mario Sports Mix - Peach's Castle's comments (YT ID I8ij2RGGBt).json"
+echo "Archiving SD video 1732, Best VGM 1684 - Castlevania : Bloodlines - Reincarnated Soul (Stage 1)'s comments (YouTube id 2mlPgPBDov...)"
+python downloader.py --youtubeid="2mlPgPBDov" --output="SD1732 Best VGM 1684 - Castlevania : Bloodlines - Reincarnated Soul (Stage 1)'s comments (YT ID 2mlPgPBDov).json"
+echo "Archiving SD video 1733, Best VGM 1685 - Super Smash Bros. Wii U - Onett & Snowman (Earthbound)'s comments (YouTube id tWopcEQUkh...)"
+python downloader.py --youtubeid="tWopcEQUkh" --output="SD1733 Best VGM 1685 - Super Smash Bros. Wii U - Onett & Snowman (Earthbound)'s comments (YT ID tWopcEQUkh).json"
+echo "Archiving SD video 1734, Best VGM 1686 - Gauntlet - Stage 1's comments (YouTube id xkSD3pCyfP...)"
+python downloader.py --youtubeid="xkSD3pCyfP" --output="SD1734 Best VGM 1686 - Gauntlet - Stage 1's comments (YT ID xkSD3pCyfP).json"
+echo "Archiving SD video 1735, Best VGM 1687 - The Binding of Isaac : Rebirth - Periculum (The Cellar)'s comments (YouTube id a0oq7Yw8tk...)"
+python downloader.py --youtubeid="a0oq7Yw8tk" --output="SD1735 Best VGM 1687 - The Binding of Isaac : Rebirth - Periculum (The Cellar)'s comments (YT ID a0oq7Yw8tk).json"
+echo "Archiving SD video 1736, Best VGM 1688 - Jurassic Park - Triceratops Trot (Mountain Area)'s comments (YouTube id qcf1CdKVAT...)"
+python downloader.py --youtubeid="qcf1CdKVAT" --output="SD1736 Best VGM 1688 - Jurassic Park - Triceratops Trot (Mountain Area)'s comments (YT ID qcf1CdKVAT).json"
+echo "Archiving SD video 1737, Best VGM 1689 - Valdis Story - Once a Mine, Now a Shrine's comments (YouTube id C4cD-7dOoh...)"
+python downloader.py --youtubeid="C4cD-7dOoh" --output="SD1737 Best VGM 1689 - Valdis Story - Once a Mine, Now a Shrine's comments (YT ID C4cD-7dOoh).json"
+echo "Archiving SD video 1738, Best VGM 1691 - LED Storm - Intro Theme's comments (YouTube id r-zRrHICsw...)"
+python downloader.py --youtubeid="r-zRrHICsw" --output="SD1738 Best VGM 1691 - LED Storm - Intro Theme's comments (YT ID r-zRrHICsw).json"
+echo "Archiving SD video 1739, Best VGM 1692 - Pokemon Omega Ruby / Alpha Sapphire - Dive's comments (YouTube id fpVag5b7zH...)"
+python downloader.py --youtubeid="fpVag5b7zH" --output="SD1739 Best VGM 1692 - Pokemon Omega Ruby / Alpha Sapphire - Dive's comments (YT ID fpVag5b7zH).json"
+echo "Archiving SD video 1740, Best VGM 1693 - Kirby 64 : The Crystal Shards - Rock Star (Desert)'s comments (YouTube id jNoiUfwuuP...)"
+python downloader.py --youtubeid="jNoiUfwuuP" --output="SD1740 Best VGM 1693 - Kirby 64 : The Crystal Shards - Rock Star (Desert)'s comments (YT ID jNoiUfwuuP).json"
+echo "Archiving SD video 1741, Best VGM 1694 - Wild Arms 4 - The Still Village, Ciel's comments (YouTube id 4HLSGn4_3W...)"
+python downloader.py --youtubeid="4HLSGn4_3W" --output="SD1741 Best VGM 1694 - Wild Arms 4 - The Still Village, Ciel's comments (YT ID 4HLSGn4_3W).json"
+echo "Archiving SD video 1742, Best VGM 1695 - Starbound - Europa's comments (YouTube id qjNHwF3R-k...)"
+python downloader.py --youtubeid="qjNHwF3R-k" --output="SD1742 Best VGM 1695 - Starbound - Europa's comments (YT ID qjNHwF3R-k).json"
+echo "Archiving SD video 1743, Best VGM 1696 - Star Fox 64 - Area 6's comments (YouTube id eLLdU3Td1w...)"
+python downloader.py --youtubeid="eLLdU3Td1w" --output="SD1743 Best VGM 1696 - Star Fox 64 - Area 6's comments (YT ID eLLdU3Td1w).json"
+echo "Archiving SD video 1744, Best VGM 1697 - Mass Effect - Vigil's comments (YouTube id 80YFKvaRou...)"
+python downloader.py --youtubeid="80YFKvaRou" --output="SD1744 Best VGM 1697 - Mass Effect - Vigil's comments (YT ID 80YFKvaRou).json"
+echo "Archiving SD video 1745, Best VGM 1698 - Sleepwalker - Funky Lullaby's comments (YouTube id tiL0mhmOOn...)"
+python downloader.py --youtubeid="tiL0mhmOOn" --output="SD1745 Best VGM 1698 - Sleepwalker - Funky Lullaby's comments (YT ID tiL0mhmOOn).json"
+echo "Archiving SD video 1746, Best VGM 1699 - Eek! The Cat - Final Rescue's comments (YouTube id SawlCRnYYC...)"
+python downloader.py --youtubeid="SawlCRnYYC" --output="SD1746 Best VGM 1699 - Eek! The Cat - Final Rescue's comments (YT ID SawlCRnYYC).json"
+echo "Archiving SD video 1747, Uyama Hiroto - Rainy's comments (YouTube id RbAflhNrV5...)"
+python downloader.py --youtubeid="RbAflhNrV5" --output="SD1747 Uyama Hiroto - Rainy's comments (YT ID RbAflhNrV5).json"
+echo "Archiving SD video 1748, Best VGM 1700 - Mario Kart 8 - Toad Harbor / Toad's Turnpike's comments (YouTube id -J55bt2b3Z...)"
+python downloader.py --youtubeid="-J55bt2b3Z" --output="SD1748 Best VGM 1700 - Mario Kart 8 - Toad Harbor / Toad's Turnpike's comments (YT ID -J55bt2b3Z).json"
+echo "Archiving SD video 1749, Best VGM 1702 - The Legend of Heroes : Trails in the Sky - Tetracyclic Tower's comments (YouTube id 9alsJe-gEt...)"
+python downloader.py --youtubeid="9alsJe-gEt" --output="SD1749 Best VGM 1702 - The Legend of Heroes : Trails in the Sky - Tetracyclic Tower's comments (YT ID 9alsJe-gEt).json"
+echo "Archiving SD video 1750, Best VGM 1703 - Ufouria : The Saga - Hebe in the Cold Area's comments (YouTube id aj9mW0Hvp0...)"
+python downloader.py --youtubeid="aj9mW0Hvp0" --output="SD1750 Best VGM 1703 - Ufouria : The Saga - Hebe in the Cold Area's comments (YT ID aj9mW0Hvp0).json"
+echo "Archiving SD video 1751, Best VGM 1704 - Suikoden - Distant Mountain's comments (YouTube id QqN7bKgYWI...)"
+python downloader.py --youtubeid="QqN7bKgYWI" --output="SD1751 Best VGM 1704 - Suikoden - Distant Mountain's comments (YT ID QqN7bKgYWI).json"
+echo "Archiving SD video 1752, Best VGM 1705 - Maken X - Kei's comments (YouTube id HeirTA9Y9i...)"
+python downloader.py --youtubeid="HeirTA9Y9i" --output="SD1752 Best VGM 1705 - Maken X - Kei's comments (YT ID HeirTA9Y9i).json"
+echo "Archiving SD video 1753, Best VGM 1707 - Zelda : A Link Between Worlds - Ice Ruins's comments (YouTube id ZriKAVSIQa...)"
+python downloader.py --youtubeid="ZriKAVSIQa" --output="SD1753 Best VGM 1707 - Zelda : A Link Between Worlds - Ice Ruins's comments (YT ID ZriKAVSIQa).json"
+echo "Archiving SD video 1754, Best VGM 1708 - Grounseed - Morning's comments (YouTube id _CeQp-NVkS...)"
+python downloader.py --youtubeid="_CeQp-NVkS" --output="SD1754 Best VGM 1708 - Grounseed - Morning's comments (YT ID _CeQp-NVkS).json"
+echo "Archiving SD video 1755, Best VGM 1709 - Mother 3 - Happy Town?'s comments (YouTube id 04TLq1cKeT...)"
+python downloader.py --youtubeid="04TLq1cKeT" --output="SD1755 Best VGM 1709 - Mother 3 - Happy Town?'s comments (YT ID 04TLq1cKeT).json"
+echo "Archiving SD video 1756, Best VGM 1710 - Halo - Under Cover of Night's comments (YouTube id -ROXEo0YD1...)"
+python downloader.py --youtubeid="-ROXEo0YD1" --output="SD1756 Best VGM 1710 - Halo - Under Cover of Night's comments (YT ID -ROXEo0YD1).json"
+echo "Archiving SD video 1757, Best VGM 1712 - Dragon Quest VII - Sphinx's comments (YouTube id PZnF6rVTgQ...)"
+python downloader.py --youtubeid="PZnF6rVTgQ" --output="SD1757 Best VGM 1712 - Dragon Quest VII - Sphinx's comments (YT ID PZnF6rVTgQ).json"
+echo "Archiving SD video 1758, Best VGM 1713 - Katamari Damacy - Katamari on the Rock ~ Main Theme's comments (YouTube id qJMfgv5YFo...)"
+python downloader.py --youtubeid="qJMfgv5YFo" --output="SD1758 Best VGM 1713 - Katamari Damacy - Katamari on the Rock ~ Main Theme's comments (YT ID qJMfgv5YFo).json"
+echo "Archiving SD video 1759, Best VGM 1714 - Ecco the Dolphin : Defender of the Future - The Tick (Unused)'s comments (YouTube id AU_tnstiX9...)"
+python downloader.py --youtubeid="AU_tnstiX9" --output="SD1759 Best VGM 1714 - Ecco the Dolphin : Defender of the Future - The Tick (Unused)'s comments (YT ID AU_tnstiX9).json"
+echo "Archiving SD video 1760, Best VGM 1715 - Castlevania : Dracula X - Opposing Bloodlines (Stage 1)'s comments (YouTube id M3Wux3163k...)"
+python downloader.py --youtubeid="M3Wux3163k" --output="SD1760 Best VGM 1715 - Castlevania : Dracula X - Opposing Bloodlines (Stage 1)'s comments (YT ID M3Wux3163k).json"
+echo "Archiving SD video 1761, Best VGM 1716 - Lethal League - Ordinary Days's comments (YouTube id R9rnsbf914...)"
+python downloader.py --youtubeid="R9rnsbf914" --output="SD1761 Best VGM 1716 - Lethal League - Ordinary Days's comments (YT ID R9rnsbf914).json"
+echo "Archiving SD video 1762, [GOTY 2014 #10] Best VGM 1717 - Child of Light - Down to a Dusty Plain's comments (YouTube id fTj73xQg2T...)"
+python downloader.py --youtubeid="fTj73xQg2T" --output="SD1762 [GOTY 2014 #10] Best VGM 1717 - Child of Light - Down to a Dusty Plain's comments (YT ID fTj73xQg2T).json"
+echo "Archiving SD video 1763, [GOTY 2014 #9] Best VGM 1718 - Super Smash Bros Wii U / 3DS - Chill Ver. 2 (Dr. Mario)'s comments (YouTube id zpleUx1Llg...)"
+python downloader.py --youtubeid="zpleUx1Llg" --output="SD1763 [GOTY 2014 #9] Best VGM 1718 - Super Smash Bros Wii U / 3DS - Chill Ver. 2 (Dr. Mario)'s comments (YT ID zpleUx1Llg).json"
+echo "Archiving SD video 1764, [GOTY 2014 #8] Best VGM 1719 - Diablo III : Reaper of Souls - A Mortal Heart's comments (YouTube id Lx906iVIZS...)"
+python downloader.py --youtubeid="Lx906iVIZS" --output="SD1764 [GOTY 2014 #8] Best VGM 1719 - Diablo III : Reaper of Souls - A Mortal Heart's comments (YT ID Lx906iVIZS).json"
+echo "Archiving SD video 1765, [GOTY 2014 #7] Best VGM 1720 - Donkey Kong Country : Tropical Freeze - Fruity Factory's comments (YouTube id -_51UVCkOh...)"
+python downloader.py --youtubeid="-_51UVCkOh" --output="SD1765 [GOTY 2014 #7] Best VGM 1720 - Donkey Kong Country : Tropical Freeze - Fruity Factory's comments (YT ID -_51UVCkOh).json"
+echo "Archiving SD video 1766, [GOTY 2014 #6] Best VGM 1721 - Hearthstone - Duel's comments (YouTube id UxiG3triMd...)"
+python downloader.py --youtubeid="UxiG3triMd" --output="SD1766 [GOTY 2014 #6] Best VGM 1721 - Hearthstone - Duel's comments (YT ID UxiG3triMd).json"
+echo "Archiving SD video 1767, [GOTY 2014 #5] Best VGM 1722 - The Binding of Isaac : Rebirth - Diptera Sonata's comments (YouTube id ODjYdlmwf1...)"
+python downloader.py --youtubeid="ODjYdlmwf1" --output="SD1767 [GOTY 2014 #5] Best VGM 1722 - The Binding of Isaac : Rebirth - Diptera Sonata's comments (YT ID ODjYdlmwf1).json"
+echo "Archiving SD video 1768, [GOTY 2014 #4] Best VGM 1723 - Legend of Grimrock II - The Master and the Apprentice's comments (YouTube id Bqvy5KIeQh...)"
+python downloader.py --youtubeid="Bqvy5KIeQh" --output="SD1768 [GOTY 2014 #4] Best VGM 1723 - Legend of Grimrock II - The Master and the Apprentice's comments (YT ID Bqvy5KIeQh).json"
+echo "Archiving SD video 1769, [GOTY 2014 #3] Best VGM 1724 - Mario Kart 8 - Shy Guy Falls's comments (YouTube id jlcjrgSVkk...)"
+python downloader.py --youtubeid="jlcjrgSVkk" --output="SD1769 [GOTY 2014 #3] Best VGM 1724 - Mario Kart 8 - Shy Guy Falls's comments (YT ID jlcjrgSVkk).json"
+echo "Archiving SD video 1770, [GOTY 2014 #2] Best VGM 1725 - Shovel Knight - The Donor's Despair (Hall of Champions)'s comments (YouTube id snsS40I9-T...)"
+python downloader.py --youtubeid="snsS40I9-T" --output="SD1770 [GOTY 2014 #2] Best VGM 1725 - Shovel Knight - The Donor's Despair (Hall of Champions)'s comments (YT ID snsS40I9-T).json"
+echo "Archiving SD video 1771, [GOTY 2014 #1] Best VGM 1726 - Qbeh-1 : The Atlas Cube - Monolith's comments (YouTube id uvRU3gsmXx...)"
+python downloader.py --youtubeid="uvRU3gsmXx" --output="SD1771 [GOTY 2014 #1] Best VGM 1726 - Qbeh-1 : The Atlas Cube - Monolith's comments (YT ID uvRU3gsmXx).json"
+echo "Archiving SD video 1772, Best VGM 1727 - Target: Renegade - Level 1, 2 & 3's comments (YouTube id 8eZRNAtq_p...)"
+python downloader.py --youtubeid="8eZRNAtq_p" --output="SD1772 Best VGM 1727 - Target: Renegade - Level 1, 2 & 3's comments (YT ID 8eZRNAtq_p).json"
+echo "Archiving SD video 1773, Best VGM 1729 - Boot Hill Heroes - Whisker Woods's comments (YouTube id idw1zFkySA...)"
+python downloader.py --youtubeid="idw1zFkySA" --output="SD1773 Best VGM 1729 - Boot Hill Heroes - Whisker Woods's comments (YT ID idw1zFkySA).json"
+echo "Archiving SD video 1774, Best VGM 1730 - Super Mario Galaxy - Melty Molten Galaxy's comments (YouTube id CPKoMt4QKm...)"
+python downloader.py --youtubeid="CPKoMt4QKm" --output="SD1774 Best VGM 1730 - Super Mario Galaxy - Melty Molten Galaxy's comments (YT ID CPKoMt4QKm).json"
+echo "Archiving SD video 1775, Best VGM 1731 - Xenosaga - U.M.N. MODE's comments (YouTube id TRdrbKasYz...)"
+python downloader.py --youtubeid="TRdrbKasYz" --output="SD1775 Best VGM 1731 - Xenosaga - U.M.N. MODE's comments (YT ID TRdrbKasYz).json"
+echo "Archiving SD video 1776, Best VGM 1732 - SimCity - Capital Theme's comments (YouTube id OCFWEWW9tA...)"
+python downloader.py --youtubeid="OCFWEWW9tA" --output="SD1776 Best VGM 1732 - SimCity - Capital Theme's comments (YT ID OCFWEWW9tA).json"
+echo "Archiving SD video 1777, Best VGM 1733 - E.V.O. : Search for Eden - The Coast's comments (YouTube id VzJ2MLvIGm...)"
+python downloader.py --youtubeid="VzJ2MLvIGm" --output="SD1777 Best VGM 1733 - E.V.O. : Search for Eden - The Coast's comments (YT ID VzJ2MLvIGm).json"
+echo "Archiving SD video 1778, Best VGM 1734 - Kirby & The Rainbow Curse - The Haunted Ship's comments (YouTube id QN1wbetaaT...)"
+python downloader.py --youtubeid="QN1wbetaaT" --output="SD1778 Best VGM 1734 - Kirby & The Rainbow Curse - The Haunted Ship's comments (YT ID QN1wbetaaT).json"
+echo "Archiving SD video 1779, Best VGM 1735 - Rogue Galaxy - Shadow of the Sun's comments (YouTube id FE59rlKJRP...)"
+python downloader.py --youtubeid="FE59rlKJRP" --output="SD1779 Best VGM 1735 - Rogue Galaxy - Shadow of the Sun's comments (YT ID FE59rlKJRP).json"
+echo "Archiving SD video 1780, Best VGM 1736 - Space Station Silicon Valley - Penguin Playpen's comments (YouTube id wxzrrUWOU8...)"
+python downloader.py --youtubeid="wxzrrUWOU8" --output="SD1780 Best VGM 1736 - Space Station Silicon Valley - Penguin Playpen's comments (YT ID wxzrrUWOU8).json"
+echo "Archiving SD video 1781, Best VGM 1737 - Resident Evil : Revelations - Submerged Queen Dido's comments (YouTube id U_l3eYfpUQ...)"
+python downloader.py --youtubeid="U_l3eYfpUQ" --output="SD1781 Best VGM 1737 - Resident Evil : Revelations - Submerged Queen Dido's comments (YT ID U_l3eYfpUQ).json"
+echo "Archiving SD video 1782, Best VGM 1738 - Seiken Densetsu 3 - Little Sweet Cafe's comments (YouTube id P3vzN5sizX...)"
+python downloader.py --youtubeid="P3vzN5sizX" --output="SD1782 Best VGM 1738 - Seiken Densetsu 3 - Little Sweet Cafe's comments (YT ID P3vzN5sizX).json"
+echo "Archiving SD video 1783, Best VGM 1739 - A Bug's Life - Anthill's comments (YouTube id aYUMd2Gvws...)"
+python downloader.py --youtubeid="aYUMd2Gvws" --output="SD1783 Best VGM 1739 - A Bug's Life - Anthill's comments (YT ID aYUMd2Gvws).json"
+echo "Archiving SD video 1784, Best VGM 1740 - Blaster Master - Fortress (Stage 3)'s comments (YouTube id 0w-9yZBE_n...)"
+python downloader.py --youtubeid="0w-9yZBE_n" --output="SD1784 Best VGM 1740 - Blaster Master - Fortress (Stage 3)'s comments (YT ID 0w-9yZBE_n).json"
+echo "Archiving SD video 1785, Best VGM 1741 - Ys Chronicles - Dreaming's comments (YouTube id c2Y1ANec-5...)"
+python downloader.py --youtubeid="c2Y1ANec-5" --output="SD1785 Best VGM 1741 - Ys Chronicles - Dreaming's comments (YT ID c2Y1ANec-5).json"
+echo "Archiving SD video 1786, Best VGM 1742 - Terranigma - Elle's Theme's comments (YouTube id vN9zJNpH3M...)"
+python downloader.py --youtubeid="vN9zJNpH3M" --output="SD1786 Best VGM 1742 - Terranigma - Elle's Theme's comments (YT ID vN9zJNpH3M).json"
+echo "Archiving SD video 1787, Best VGM 1744 - Hotline Miami 2 - Divide's comments (YouTube id ZyAIAKItmo...)"
+python downloader.py --youtubeid="ZyAIAKItmo" --output="SD1787 Best VGM 1744 - Hotline Miami 2 - Divide's comments (YT ID ZyAIAKItmo).json"
+echo "Archiving SD video 1788, Best VGM 1745 - The Elder Scrolls IV : Oblivion - Through the Valleys's comments (YouTube id QTwpZhWtQu...)"
+python downloader.py --youtubeid="QTwpZhWtQu" --output="SD1788 Best VGM 1745 - The Elder Scrolls IV : Oblivion - Through the Valleys's comments (YT ID QTwpZhWtQu).json"
+echo "Archiving SD video 1789, Best VGM 1746 - Mega Man 10 - Desert Commando (Commando Man Stage)'s comments (YouTube id xze4yNQAmU...)"
+python downloader.py --youtubeid="xze4yNQAmU" --output="SD1789 Best VGM 1746 - Mega Man 10 - Desert Commando (Commando Man Stage)'s comments (YT ID xze4yNQAmU).json"
+echo "Archiving SD video 1790, Best VGM 1747 - Super Mario World - Underground's comments (YouTube id eDOCPzvn87...)"
+python downloader.py --youtubeid="eDOCPzvn87" --output="SD1790 Best VGM 1747 - Super Mario World - Underground's comments (YT ID eDOCPzvn87).json"
+echo "Archiving SD video 1791, Best VGM 1748 - Guardian's Crusade - Battle Theme's comments (YouTube id SuI_RSHfLI...)"
+python downloader.py --youtubeid="SuI_RSHfLI" --output="SD1791 Best VGM 1748 - Guardian's Crusade - Battle Theme's comments (YT ID SuI_RSHfLI).json"
+echo "Archiving SD video 1792, Best VGM 1749 - Outlaws - Two Feathers's comments (YouTube id f3z73Xp9fC...)"
+python downloader.py --youtubeid="f3z73Xp9fC" --output="SD1792 Best VGM 1749 - Outlaws - Two Feathers's comments (YT ID f3z73Xp9fC).json"
+echo "Archiving SD video 1793, Best VGM 1751 - Silent Hill 4 : The Room - Wounded Warsong's comments (YouTube id OUmeK282f-...)"
+python downloader.py --youtubeid="OUmeK282f-" --output="SD1793 Best VGM 1751 - Silent Hill 4 : The Room - Wounded Warsong's comments (YT ID OUmeK282f-).json"
+echo "Archiving SD video 1794, Best VGM 1752 - Super Stickman Golf 2 - Grassy's comments (YouTube id nUScyv5DcI...)"
+python downloader.py --youtubeid="nUScyv5DcI" --output="SD1794 Best VGM 1752 - Super Stickman Golf 2 - Grassy's comments (YT ID nUScyv5DcI).json"
+echo "Archiving SD video 1795, Best VGM 1753 - Wild Arms - Zed's Theme's comments (YouTube id w7dO2edfy0...)"
+python downloader.py --youtubeid="w7dO2edfy0" --output="SD1795 Best VGM 1753 - Wild Arms - Zed's Theme's comments (YT ID w7dO2edfy0).json"
+echo "Archiving SD video 1796, Best VGM 1754 - Grandia II - Cyrum Kingdom's comments (YouTube id lzhkFmiTB_...)"
+python downloader.py --youtubeid="lzhkFmiTB_" --output="SD1796 Best VGM 1754 - Grandia II - Cyrum Kingdom's comments (YT ID lzhkFmiTB_).json"
+echo "Archiving SD video 1797, Best VGM 1755 - Mr. Nutz - Ice Scream's comments (YouTube id 3nLtMX4Y8X...)"
+python downloader.py --youtubeid="3nLtMX4Y8X" --output="SD1797 Best VGM 1755 - Mr. Nutz - Ice Scream's comments (YT ID 3nLtMX4Y8X).json"
+echo "Archiving SD video 1798, Best VGM 1756 - Xenoblade Chronicles - Engage the Enemy's comments (YouTube id _cglnkygG_...)"
+python downloader.py --youtubeid="_cglnkygG_" --output="SD1798 Best VGM 1756 - Xenoblade Chronicles - Engage the Enemy's comments (YT ID _cglnkygG_).json"
+echo "Archiving SD video 1799, Best VGM 1757 - Donkey Kong 64 - Crystal Caves's comments (YouTube id Vin5IrgdWn...)"
+python downloader.py --youtubeid="Vin5IrgdWn" --output="SD1799 Best VGM 1757 - Donkey Kong 64 - Crystal Caves's comments (YT ID Vin5IrgdWn).json"
+echo "Archiving SD video 1800, Best VGM 1758 - MapleStory - Temple of Time's comments (YouTube id kA69u0-U-V...)"
+python downloader.py --youtubeid="kA69u0-U-V" --output="SD1800 Best VGM 1758 - MapleStory - Temple of Time's comments (YT ID kA69u0-U-V).json"
+echo "Archiving SD video 1801, Best VGM 1759 - Ragnarok Online - Tread on the Ground's comments (YouTube id R3gmQcMK_z...)"
+python downloader.py --youtubeid="R3gmQcMK_z" --output="SD1801 Best VGM 1759 - Ragnarok Online - Tread on the Ground's comments (YT ID R3gmQcMK_z).json"
+echo "Archiving SD video 1802, Best VGM 1760 - Super Mario Bros 3 - Ending Theme's comments (YouTube id ng442hwhhA...)"
+python downloader.py --youtubeid="ng442hwhhA" --output="SD1802 Best VGM 1760 - Super Mario Bros 3 - Ending Theme's comments (YT ID ng442hwhhA).json"
+echo "Archiving SD video 1803, Best VGM 1761 - Deus Ex - NYC Streets's comments (YouTube id JOFsATsPiH...)"
+python downloader.py --youtubeid="JOFsATsPiH" --output="SD1803 Best VGM 1761 - Deus Ex - NYC Streets's comments (YT ID JOFsATsPiH).json"
+echo "Archiving SD video 1804, Best VGM 1762 - Mega Man Soccer - Wood Man's comments (YouTube id F2-bROS64a...)"
+python downloader.py --youtubeid="F2-bROS64a" --output="SD1804 Best VGM 1762 - Mega Man Soccer - Wood Man's comments (YT ID F2-bROS64a).json"
+echo "Archiving SD video 1805, Best VGM 1763 - Chuck Rock II : Son of Chuck - Snow Problem, The Fruit Mountain's comments (YouTube id OJjsUitjhm...)"
+python downloader.py --youtubeid="OJjsUitjhm" --output="SD1805 Best VGM 1763 - Chuck Rock II : Son of Chuck - Snow Problem, The Fruit Mountain's comments (YT ID OJjsUitjhm).json"
+echo "Archiving SD video 1806, Best VGM 1764 - Roommania #203 - Song of Courage's comments (YouTube id ASl7qClvqT...)"
+python downloader.py --youtubeid="ASl7qClvqT" --output="SD1806 Best VGM 1764 - Roommania #203 - Song of Courage's comments (YT ID ASl7qClvqT).json"
+echo "Archiving SD video 1807, Best VGM 1765 - Zelda : Skyward Sword - Groose's Theme's comments (YouTube id CHydNVrPpA...)"
+python downloader.py --youtubeid="CHydNVrPpA" --output="SD1807 Best VGM 1765 - Zelda : Skyward Sword - Groose's Theme's comments (YT ID CHydNVrPpA).json"
+echo "Archiving SD video 1808, Best VGM 1766 - Dark Cloud - Gallery of Time's comments (YouTube id acVjEoRvpv...)"
+python downloader.py --youtubeid="acVjEoRvpv" --output="SD1808 Best VGM 1766 - Dark Cloud - Gallery of Time's comments (YT ID acVjEoRvpv).json"
+echo "Archiving SD video 1809, Best VGM 1768 - Pokemon Trading Card Game - Normal Duel's comments (YouTube id 0dEc-UyQf5...)"
+python downloader.py --youtubeid="0dEc-UyQf5" --output="SD1809 Best VGM 1768 - Pokemon Trading Card Game - Normal Duel's comments (YT ID 0dEc-UyQf5).json"
+echo "Archiving SD video 1810, Best VGM 1769 - Phantasy Star Online - Image of Hero's comments (YouTube id hv2BL0v2tb...)"
+python downloader.py --youtubeid="hv2BL0v2tb" --output="SD1810 Best VGM 1769 - Phantasy Star Online - Image of Hero's comments (YT ID hv2BL0v2tb).json"
+echo "Archiving SD video 1811, Best VGM 1770 - Earthbound - Kraken of the Sea's comments (YouTube id Iss6CCi3zN...)"
+python downloader.py --youtubeid="Iss6CCi3zN" --output="SD1811 Best VGM 1770 - Earthbound - Kraken of the Sea's comments (YT ID Iss6CCi3zN).json"
+echo "Archiving SD video 1812, Best VGM 1771 - Castlevania : Symphony of the Night - Wood Carving Partita's comments (YouTube id iJS-PjSQMt...)"
+python downloader.py --youtubeid="iJS-PjSQMt" --output="SD1812 Best VGM 1771 - Castlevania : Symphony of the Night - Wood Carving Partita's comments (YT ID iJS-PjSQMt).json"
+echo "Archiving SD video 1813, Best VGM 1772 - Pikmin 3 - Plasm Wraith (Final Boss)'s comments (YouTube id b-oxtWJ00W...)"
+python downloader.py --youtubeid="b-oxtWJ00W" --output="SD1813 Best VGM 1772 - Pikmin 3 - Plasm Wraith (Final Boss)'s comments (YT ID b-oxtWJ00W).json"
+echo "Archiving SD video 1814, Best VGM 1773 - Drakkhen - Earth Area (Night)'s comments (YouTube id uwB0T1rExM...)"
+python downloader.py --youtubeid="uwB0T1rExM" --output="SD1814 Best VGM 1773 - Drakkhen - Earth Area (Night)'s comments (YT ID uwB0T1rExM).json"
+echo "Archiving SD video 1815, Best VGM 1774 - Soma Bringer - Bonfire in One Hand's comments (YouTube id i-hcCtD_aB...)"
+python downloader.py --youtubeid="i-hcCtD_aB" --output="SD1815 Best VGM 1774 - Soma Bringer - Bonfire in One Hand's comments (YT ID i-hcCtD_aB).json"
+echo "Archiving SD video 1816, Best VGM 1775 - Shadowrun Returns - Return of the Sixth World's comments (YouTube id 8hLQart9bs...)"
+python downloader.py --youtubeid="8hLQart9bs" --output="SD1816 Best VGM 1775 - Shadowrun Returns - Return of the Sixth World's comments (YT ID 8hLQart9bs).json"
+echo "Archiving SD video 1817, Best VGM 1776 - Super Princess Peach - Giddy Sky 2's comments (YouTube id oEEm45iRyl...)"
+python downloader.py --youtubeid="oEEm45iRyl" --output="SD1817 Best VGM 1776 - Super Princess Peach - Giddy Sky 2's comments (YT ID oEEm45iRyl).json"
+echo "Archiving SD video 1818, Best VGM 1777 - Chrono Cross - Zelbess's comments (YouTube id oeBGiKhMy-...)"
+python downloader.py --youtubeid="oeBGiKhMy-" --output="SD1818 Best VGM 1777 - Chrono Cross - Zelbess's comments (YT ID oeBGiKhMy-).json"
+echo "Archiving SD video 1819, Best VGM 1778 - Lufia II - Town's comments (YouTube id gQiYZlxJk3...)"
+python downloader.py --youtubeid="gQiYZlxJk3" --output="SD1819 Best VGM 1778 - Lufia II - Town's comments (YT ID gQiYZlxJk3).json"
+echo "Archiving SD video 1820, Best VGM 1779 - Divinity 2 : Ego Draconis - Broken Valley Wakes's comments (YouTube id jObg1aw9kz...)"
+python downloader.py --youtubeid="jObg1aw9kz" --output="SD1820 Best VGM 1779 - Divinity 2 : Ego Draconis - Broken Valley Wakes's comments (YT ID jObg1aw9kz).json"
+echo "Archiving SD video 1821, Best VGM 1780 - Extreme-G - G-Storm's comments (YouTube id iS98ggIHkR...)"
+python downloader.py --youtubeid="iS98ggIHkR" --output="SD1821 Best VGM 1780 - Extreme-G - G-Storm's comments (YT ID iS98ggIHkR).json"
+echo "Archiving SD video 1822, Best VGM 1781 - Paper Mario : The Thousand Year Door - Rogueport Sewers's comments (YouTube id tXnCJLLZIv...)"
+python downloader.py --youtubeid="tXnCJLLZIv" --output="SD1822 Best VGM 1781 - Paper Mario : The Thousand Year Door - Rogueport Sewers's comments (YT ID tXnCJLLZIv).json"
+echo "Archiving SD video 1823, Best VGM 1782 - Street Fighter II - Ryu's Theme's comments (YouTube id n6f-bb8DZ_...)"
+python downloader.py --youtubeid="n6f-bb8DZ_" --output="SD1823 Best VGM 1782 - Street Fighter II - Ryu's Theme's comments (YT ID n6f-bb8DZ_).json"
+echo "Archiving SD video 1824, Best VGM 1783 - Gauntlet III - Title Theme's comments (YouTube id j6i73HYUNP...)"
+python downloader.py --youtubeid="j6i73HYUNP" --output="SD1824 Best VGM 1783 - Gauntlet III - Title Theme's comments (YT ID j6i73HYUNP).json"
+echo "Archiving SD video 1825, Oriental Magnetic Yellow (OMY) - Good Pierrot [1995]'s comments (YouTube id D4XcZyB8Dq...)"
+python downloader.py --youtubeid="D4XcZyB8Dq" --output="SD1825 Oriental Magnetic Yellow (OMY) - Good Pierrot [1995]'s comments (YT ID D4XcZyB8Dq).json"
+echo "Archiving SD video 1826, Best VGM 1784 - Shenmue - Tomato Convenience Store's comments (YouTube id aZ37adgwDI...)"
+python downloader.py --youtubeid="aZ37adgwDI" --output="SD1826 Best VGM 1784 - Shenmue - Tomato Convenience Store's comments (YT ID aZ37adgwDI).json"
+echo "Archiving SD video 1827, Best VGM 1787 - Mystical Ninja Starring Goemon - Gorgeous Musical Castle ~ Part 2's comments (YouTube id U2MqAWgqYJ...)"
+python downloader.py --youtubeid="U2MqAWgqYJ" --output="SD1827 Best VGM 1787 - Mystical Ninja Starring Goemon - Gorgeous Musical Castle ~ Part 2's comments (YT ID U2MqAWgqYJ).json"
+echo "Archiving SD video 1828, Best VGM 1788 - Life is Strange - Main Menu's comments (YouTube id wKNz1SsO_c...)"
+python downloader.py --youtubeid="wKNz1SsO_c" --output="SD1828 Best VGM 1788 - Life is Strange - Main Menu's comments (YT ID wKNz1SsO_c).json"
+echo "Archiving SD video 1829, Best VGM 1789 -  Alundra - The Shrine of the Lake's comments (YouTube id sIXnwB5Ayv...)"
+python downloader.py --youtubeid="sIXnwB5Ayv" --output="SD1829 Best VGM 1789 -  Alundra - The Shrine of the Lake's comments (YT ID sIXnwB5Ayv).json"
+echo "Archiving SD video 1830, Best VGM 1790 - Super Mario RPG - My Paradise ~ Monstro Town's comments (YouTube id wqb9Cesq3o...)"
+python downloader.py --youtubeid="wqb9Cesq3o" --output="SD1830 Best VGM 1790 - Super Mario RPG - My Paradise ~ Monstro Town's comments (YT ID wqb9Cesq3o).json"
+echo "Archiving SD video 1831, Best VGM 1791 - The Bouncer - Wong Leung's Theme's comments (YouTube id evHQZjhE9C...)"
+python downloader.py --youtubeid="evHQZjhE9C" --output="SD1831 Best VGM 1791 - The Bouncer - Wong Leung's Theme's comments (YT ID evHQZjhE9C).json"
+echo "Archiving SD video 1832, Best VGM 1792 - Metroid Prime 3 - SkyTown's comments (YouTube id ztLD9IqnRq...)"
+python downloader.py --youtubeid="ztLD9IqnRq" --output="SD1832 Best VGM 1792 - Metroid Prime 3 - SkyTown's comments (YT ID ztLD9IqnRq).json"
+echo "Archiving SD video 1833, Best VGM 1793 - Splatoon - Single Player Theme 1's comments (YouTube id kW63YiVf5I...)"
+python downloader.py --youtubeid="kW63YiVf5I" --output="SD1833 Best VGM 1793 - Splatoon - Single Player Theme 1's comments (YT ID kW63YiVf5I).json"
+echo "Archiving SD video 1834, Best VGM 1794 - Super Valis IV - Act 1 ~ Vecanti's comments (YouTube id Jq949CcPxn...)"
+python downloader.py --youtubeid="Jq949CcPxn" --output="SD1834 Best VGM 1794 - Super Valis IV - Act 1 ~ Vecanti's comments (YT ID Jq949CcPxn).json"
+echo "Archiving SD video 1835, Best VGM 1795 - Blue Dragon - Ruins's comments (YouTube id 8K8hCmRDbW...)"
+python downloader.py --youtubeid="8K8hCmRDbW" --output="SD1835 Best VGM 1795 - Blue Dragon - Ruins's comments (YT ID 8K8hCmRDbW).json"
+echo "Archiving SD video 1836, Best VGM 1796 - Secret of Evermore - White Castle Town's comments (YouTube id JGQ_Z0W43D...)"
+python downloader.py --youtubeid="JGQ_Z0W43D" --output="SD1836 Best VGM 1796 - Secret of Evermore - White Castle Town's comments (YT ID JGQ_Z0W43D).json"
+echo "Archiving SD video 1837, Best VGM 1797 - Earthbound - Eight Melodies [R.I.P. Satoru Iwata]'s comments (YouTube id I0FNN-t4pR...)"
+python downloader.py --youtubeid="I0FNN-t4pR" --output="SD1837 Best VGM 1797 - Earthbound - Eight Melodies [R.I.P. Satoru Iwata]'s comments (YT ID I0FNN-t4pR).json"
+echo "Archiving SD video 1838, Mother Vocal Album - St-Paul's Cathedral Choir - Eight Melodies's comments (YouTube id tBGVr1WtIS...)"
+python downloader.py --youtubeid="tBGVr1WtIS" --output="SD1838 Mother Vocal Album - St-Paul's Cathedral Choir - Eight Melodies's comments (YT ID tBGVr1WtIS).json"
+echo "Archiving SD video 1839, Best VGM 1798 - Knuckles Chaotix - Door Into Summer's comments (YouTube id mDw3F-Gt4b...)"
+python downloader.py --youtubeid="mDw3F-Gt4b" --output="SD1839 Best VGM 1798 - Knuckles Chaotix - Door Into Summer's comments (YT ID mDw3F-Gt4b).json"
+echo "Archiving SD video 1840, Best VGM 1799 - Wild Arms 4 - Buried City's comments (YouTube id 0tWIVmHNDY...)"
+python downloader.py --youtubeid="0tWIVmHNDY" --output="SD1840 Best VGM 1799 - Wild Arms 4 - Buried City's comments (YT ID 0tWIVmHNDY).json"
+echo "Archiving SD video 1841, Back Soon!'s comments (YouTube id zd8DQXLCl-...)"
+python downloader.py --youtubeid="zd8DQXLCl-" --output="SD1841 Back Soon!'s comments (YT ID zd8DQXLCl-).json"
+echo "Archiving SD video 1842, Best VGM 1800 - Pokemon - Route 1 / Gym / Wild Battle / Route 101 / Pokemon Center's comments (YouTube id 6b77tr2Vu9...)"
+python downloader.py --youtubeid="6b77tr2Vu9" --output="SD1842 Best VGM 1800 - Pokemon - Route 1 / Gym / Wild Battle / Route 101 / Pokemon Center's comments (YT ID 6b77tr2Vu9).json"
+echo "Archiving SD video 1843, Best VGM 1801 - Lisa : The Painful RPG - Boy Oh Boy's comments (YouTube id M16kCIMiNy...)"
+python downloader.py --youtubeid="M16kCIMiNy" --output="SD1843 Best VGM 1801 - Lisa : The Painful RPG - Boy Oh Boy's comments (YT ID M16kCIMiNy).json"
+echo "Archiving SD video 1844, Best VGM 1802 - Super Mario 64 - Slider's comments (YouTube id 6_JLe4Oxrb...)"
+python downloader.py --youtubeid="6_JLe4Oxrb" --output="SD1844 Best VGM 1802 - Super Mario 64 - Slider's comments (YT ID 6_JLe4Oxrb).json"
+echo "Archiving SD video 1845, Best VGM 1803 - Sheep Raider - Haunted Level (Track 5)'s comments (YouTube id glFK5I0G2G...)"
+python downloader.py --youtubeid="glFK5I0G2G" --output="SD1845 Best VGM 1803 - Sheep Raider - Haunted Level (Track 5)'s comments (YT ID glFK5I0G2G).json"
+echo "Archiving SD video 1846, Best VGM 1804 - Donkey Kong Country 2 - Jib Jig's comments (YouTube id PGowEQXyi3...)"
+python downloader.py --youtubeid="PGowEQXyi3" --output="SD1846 Best VGM 1804 - Donkey Kong Country 2 - Jib Jig's comments (YT ID PGowEQXyi3).json"
+echo "Archiving SD video 1847, Best VGM 1805 - Rise of the Triad (2013) - Adagio's comments (YouTube id SYp2ic7v4F...)"
+python downloader.py --youtubeid="SYp2ic7v4F" --output="SD1847 Best VGM 1805 - Rise of the Triad (2013) - Adagio's comments (YT ID SYp2ic7v4F).json"
+echo "Archiving SD video 1848, Best VGM 1806 - Star Ocean 3 - Bird's Eye View's comments (YouTube id FKtnlUcGVv...)"
+python downloader.py --youtubeid="FKtnlUcGVv" --output="SD1848 Best VGM 1806 - Star Ocean 3 - Bird's Eye View's comments (YT ID FKtnlUcGVv).json"
+echo "Archiving SD video 1849, Best VGM 1807 - Transistor - We All Become's comments (YouTube id NkonFpRLGT...)"
+python downloader.py --youtubeid="NkonFpRLGT" --output="SD1849 Best VGM 1807 - Transistor - We All Become's comments (YT ID NkonFpRLGT).json"
+echo "Archiving SD video 1850, Best VGM 1808 - Waterworld - Mission Theme 2's comments (YouTube id xsC6UGAJmI...)"
+python downloader.py --youtubeid="xsC6UGAJmI" --output="SD1850 Best VGM 1808 - Waterworld - Mission Theme 2's comments (YT ID xsC6UGAJmI).json"
+echo "Archiving SD video 1851, Best VGM 1809 - Shovel Knight - Flowers of Antimony (The Explodatorium ~ Plague Knight)'s comments (YouTube id uTRjJj4UeC...)"
+python downloader.py --youtubeid="uTRjJj4UeC" --output="SD1851 Best VGM 1809 - Shovel Knight - Flowers of Antimony (The Explodatorium ~ Plague Knight)'s comments (YT ID uTRjJj4UeC).json"
+echo "Archiving SD video 1852, Best VGM 1810 - Fantasy Life - Fierce Battle's comments (YouTube id xl30LV6ruv...)"
+python downloader.py --youtubeid="xl30LV6ruv" --output="SD1852 Best VGM 1810 - Fantasy Life - Fierce Battle's comments (YT ID xl30LV6ruv).json"
+echo "Archiving SD video 1853, Best VGM 1811 - Undertale - Death by Glamour's comments (YouTube id i-v-bJhK5y...)"
+python downloader.py --youtubeid="i-v-bJhK5y" --output="SD1853 Best VGM 1811 - Undertale - Death by Glamour's comments (YT ID i-v-bJhK5y).json"
+echo "Archiving SD video 1854, Best VGM 1812 - Sonic Lost World - Sea Bottom Segue's comments (YouTube id hFgqnQLyqq...)"
+python downloader.py --youtubeid="hFgqnQLyqq" --output="SD1854 Best VGM 1812 - Sonic Lost World - Sea Bottom Segue's comments (YT ID hFgqnQLyqq).json"
+echo "Archiving SD video 1855, Best VGM 1813 - SaGa Frontier - Battle Theme 1's comments (YouTube id GAVePrZeGT...)"
+python downloader.py --youtubeid="GAVePrZeGT" --output="SD1855 Best VGM 1813 - SaGa Frontier - Battle Theme 1's comments (YT ID GAVePrZeGT).json"
+echo "Archiving SD video 1856, Best VGM 1815 - Grounseed - Maze of Spirits's comments (YouTube id N6hzEQyU6Q...)"
+python downloader.py --youtubeid="N6hzEQyU6Q" --output="SD1856 Best VGM 1815 - Grounseed - Maze of Spirits's comments (YT ID N6hzEQyU6Q).json"
+echo "Archiving SD video 1857, Best VGM 1816 - Shadow Hearts III - Rum and Tequila (Rio de Janeiro)'s comments (YouTube id 0yKsce_NsW...)"
+python downloader.py --youtubeid="0yKsce_NsW" --output="SD1857 Best VGM 1816 - Shadow Hearts III - Rum and Tequila (Rio de Janeiro)'s comments (YT ID 0yKsce_NsW).json"
+echo "Archiving SD video 1858, Best VGM 1817 - Super Mario Maker - Title Theme's comments (YouTube id OIsI5kUyLc...)"
+python downloader.py --youtubeid="OIsI5kUyLc" --output="SD1858 Best VGM 1817 - Super Mario Maker - Title Theme's comments (YT ID OIsI5kUyLc).json"
+echo "Archiving SD video 1859, Best VGM 1818 - Super Win the Game - Razor's Edge's comments (YouTube id TMhh7ApHES...)"
+python downloader.py --youtubeid="TMhh7ApHES" --output="SD1859 Best VGM 1818 - Super Win the Game - Razor's Edge's comments (YT ID TMhh7ApHES).json"
+echo "Archiving SD video 1860, 50,000 Subscribers - Thank You!'s comments (YouTube id m3_6h28QxD...)"
+python downloader.py --youtubeid="m3_6h28QxD" --output="SD1860 50,000 Subscribers - Thank You!'s comments (YT ID m3_6h28QxD).json"
+echo "Archiving SD video 1861, Best VGM 1819 - Hotline Miami 2 - Technoir (Feat. Noir Deco)'s comments (YouTube id yV7eGX8y2d...)"
+python downloader.py --youtubeid="yV7eGX8y2d" --output="SD1861 Best VGM 1819 - Hotline Miami 2 - Technoir (Feat. Noir Deco)'s comments (YT ID yV7eGX8y2d).json"
+echo "Archiving SD video 1862, Best VGM 1820 - Silent Hill 3 - Never Forgive Me, Never Forget Me's comments (YouTube id q_ClDJNpFV...)"
+python downloader.py --youtubeid="q_ClDJNpFV" --output="SD1862 Best VGM 1820 - Silent Hill 3 - Never Forgive Me, Never Forget Me's comments (YT ID q_ClDJNpFV).json"
+echo "Archiving SD video 1863, Best VGM 1821 - Fallout 3 - What Remains (Explore 7)'s comments (YouTube id Zee9VKBU_V...)"
+python downloader.py --youtubeid="Zee9VKBU_V" --output="SD1863 Best VGM 1821 - Fallout 3 - What Remains (Explore 7)'s comments (YT ID Zee9VKBU_V).json"
+echo "Archiving SD video 1864, Best VGM 1822 - The Binding of Isaac : Afterbirth - Kave Diluvii's comments (YouTube id AC58piv97e...)"
+python downloader.py --youtubeid="AC58piv97e" --output="SD1864 Best VGM 1822 - The Binding of Isaac : Afterbirth - Kave Diluvii's comments (YT ID AC58piv97e).json"
+echo "Archiving SD video 1865, Best VGM 1823 - Robocop 3 (C64) - Title Theme's comments (YouTube id 0OMlZPg8tl...)"
+python downloader.py --youtubeid="0OMlZPg8tl" --output="SD1865 Best VGM 1823 - Robocop 3 (C64) - Title Theme's comments (YT ID 0OMlZPg8tl).json"
+echo "Archiving SD video 1866, Best VGM 1824 - Golden Sun - Crossbone Isle's comments (YouTube id 1MRrLo4awB...)"
+python downloader.py --youtubeid="1MRrLo4awB" --output="SD1866 Best VGM 1824 - Golden Sun - Crossbone Isle's comments (YT ID 1MRrLo4awB).json"
+echo "Archiving SD video 1867, Best VGM 1825 - Yoshi's Woolly World - King Bowser's Castle ~ Final Hall's comments (YouTube id TPW9GRiGTe...)"
+python downloader.py --youtubeid="TPW9GRiGTe" --output="SD1867 Best VGM 1825 - Yoshi's Woolly World - King Bowser's Castle ~ Final Hall's comments (YT ID TPW9GRiGTe).json"
+echo "Archiving SD video 1868, Best VGM 1826 - Dragon Quest VI - In The Town's comments (YouTube id Ovn18xiJIK...)"
+python downloader.py --youtubeid="Ovn18xiJIK" --output="SD1868 Best VGM 1826 - Dragon Quest VI - In The Town's comments (YT ID Ovn18xiJIK).json"
+echo "Archiving SD video 1869, Best VGM 1827 - Machinarium - The Prison's comments (YouTube id gLfz9w6jmJ...)"
+python downloader.py --youtubeid="gLfz9w6jmJ" --output="SD1869 Best VGM 1827 - Machinarium - The Prison's comments (YT ID gLfz9w6jmJ).json"
+echo "Archiving SD video 1870, Best VGM 1828 - Dragon Ball Z : The Legacy of Goku II - East District 439's comments (YouTube id h8wD8Dmxr9...)"
+python downloader.py --youtubeid="h8wD8Dmxr9" --output="SD1870 Best VGM 1828 - Dragon Ball Z : The Legacy of Goku II - East District 439's comments (YT ID h8wD8Dmxr9).json"
+echo "Archiving SD video 1871, Kitaro - Tenku's comments (YouTube id grHhZRvfzE...)"
+python downloader.py --youtubeid="grHhZRvfzE" --output="SD1871 Kitaro - Tenku's comments (YT ID grHhZRvfzE).json"
+echo "Archiving SD video 1872, Best VGM 1829 - Qbeh-1 : The Atlas Cube - Labyrinth's comments (YouTube id ggTedyRHx2...)"
+python downloader.py --youtubeid="ggTedyRHx2" --output="SD1872 Best VGM 1829 - Qbeh-1 : The Atlas Cube - Labyrinth's comments (YT ID ggTedyRHx2).json"
+echo "Archiving SD video 1873, Best VGM 1830 - Ys Origin - Water Prison's comments (YouTube id Xw58jPitU-...)"
+python downloader.py --youtubeid="Xw58jPitU-" --output="SD1873 Best VGM 1830 - Ys Origin - Water Prison's comments (YT ID Xw58jPitU-).json"
+echo "Archiving SD video 1874, Best VGM 1831 - Perfect Dark - Chicago Stealth's comments (YouTube id tqyigq3uWz...)"
+python downloader.py --youtubeid="tqyigq3uWz" --output="SD1874 Best VGM 1831 - Perfect Dark - Chicago Stealth's comments (YT ID tqyigq3uWz).json"
+echo "Archiving SD video 1875, Best VGM 1832 - Zelda II : The Adventure of Link - Great Palace's comments (YouTube id pIC5D1F9EQ...)"
+python downloader.py --youtubeid="pIC5D1F9EQ" --output="SD1875 Best VGM 1832 - Zelda II : The Adventure of Link - Great Palace's comments (YT ID pIC5D1F9EQ).json"
+echo "Archiving SD video 1876, Best VGM 1833 - Plok - Boss's comments (YouTube id 1wskjjST4F...)"
+python downloader.py --youtubeid="1wskjjST4F" --output="SD1876 Best VGM 1833 - Plok - Boss's comments (YT ID 1wskjjST4F).json"
+echo "Archiving SD video 1877, Best VGM 1834 - Soul Calibur - The New Legend (Kilik & Edge's Theme)'s comments (YouTube id wyYpZvfAUs...)"
+python downloader.py --youtubeid="wyYpZvfAUs" --output="SD1877 Best VGM 1834 - Soul Calibur - The New Legend (Kilik & Edge's Theme)'s comments (YT ID wyYpZvfAUs).json"
+echo "Archiving SD video 1878, Best VGM 1835 - Pop'n Music 2 - Love Is Strong To The Sky (lnstrumental Best)'s comments (YouTube id hlQ-DG9Jy3...)"
+python downloader.py --youtubeid="hlQ-DG9Jy3" --output="SD1878 Best VGM 1835 - Pop'n Music 2 - Love Is Strong To The Sky (lnstrumental Best)'s comments (YT ID hlQ-DG9Jy3).json"
+echo "Archiving SD video 1879, Best VGM 1836 - Super Mario 3D World - Piranha Creeper Creek's comments (YouTube id Xo1gsf_pmz...)"
+python downloader.py --youtubeid="Xo1gsf_pmz" --output="SD1879 Best VGM 1836 - Super Mario 3D World - Piranha Creeper Creek's comments (YT ID Xo1gsf_pmz).json"
+echo "Archiving SD video 1880, Best VGM 1837 - Streets of Rage - The Last Soul (Stage 8)'s comments (YouTube id z5ndH9xEVl...)"
+python downloader.py --youtubeid="z5ndH9xEVl" --output="SD1880 Best VGM 1837 - Streets of Rage - The Last Soul (Stage 8)'s comments (YT ID z5ndH9xEVl).json"
+echo "Archiving SD video 1881, Best VGM 1838 - Etrian Mystery Dungeon - Waterfall Woodlands's comments (YouTube id iMeBQBv2AC...)"
+python downloader.py --youtubeid="iMeBQBv2AC" --output="SD1881 Best VGM 1838 - Etrian Mystery Dungeon - Waterfall Woodlands's comments (YT ID iMeBQBv2AC).json"
+echo "Archiving SD video 1882, Best VGM 1839 - Mega Man Battle Network 5 : Double Team - Network Space (Internet Area)'s comments (YouTube id HW5WcFpYDc...)"
+python downloader.py --youtubeid="HW5WcFpYDc" --output="SD1882 Best VGM 1839 - Mega Man Battle Network 5 : Double Team - Network Space (Internet Area)'s comments (YT ID HW5WcFpYDc).json"
+echo "Archiving SD video 1883, Best VGM 1840 - Master Spy - Mission 2 (Mansion)'s comments (YouTube id 1UzoyIwC3L...)"
+python downloader.py --youtubeid="1UzoyIwC3L" --output="SD1883 Best VGM 1840 - Master Spy - Mission 2 (Mansion)'s comments (YT ID 1UzoyIwC3L).json"
+echo "Archiving SD video 1884, Best VGM 1841 - Legend of Dragoon - Ruined Seles's comments (YouTube id vrWC1PosXS...)"
+python downloader.py --youtubeid="vrWC1PosXS" --output="SD1884 Best VGM 1841 - Legend of Dragoon - Ruined Seles's comments (YT ID vrWC1PosXS).json"
+echo "Archiving SD video 1885, Best VGM 1842 - Wolverine - Stage 1's comments (YouTube id yZ5gFAjZsS...)"
+python downloader.py --youtubeid="yZ5gFAjZsS" --output="SD1885 Best VGM 1842 - Wolverine - Stage 1's comments (YT ID yZ5gFAjZsS).json"
+echo "Archiving SD video 1886, Best VGM 1843 - Xenoblade Chronicles X - THEMEX's comments (YouTube id ehxzly2ogW...)"
+python downloader.py --youtubeid="ehxzly2ogW" --output="SD1886 Best VGM 1843 - Xenoblade Chronicles X - THEMEX's comments (YT ID ehxzly2ogW).json"
+echo "Archiving SD video 1887, Best VGM 1844 - Arcana - Shrine for the Worship of Chaos's comments (YouTube id mX78VEVMSV...)"
+python downloader.py --youtubeid="mX78VEVMSV" --output="SD1887 Best VGM 1844 - Arcana - Shrine for the Worship of Chaos's comments (YT ID mX78VEVMSV).json"
+echo "Archiving SD video 1888, Best VGM 1845 - Xenosaga II - U.M.N. Control Center's comments (YouTube id L5t48bbzRD...)"
+python downloader.py --youtubeid="L5t48bbzRD" --output="SD1888 Best VGM 1845 - Xenosaga II - U.M.N. Control Center's comments (YT ID L5t48bbzRD).json"
+echo "Archiving SD video 1889, Best VGM 1846 - Tales of Graces - A Crevasse Where Winter Has Started's comments (YouTube id f0UzNWcwC3...)"
+python downloader.py --youtubeid="f0UzNWcwC3" --output="SD1889 Best VGM 1846 - Tales of Graces - A Crevasse Where Winter Has Started's comments (YT ID f0UzNWcwC3).json"
+echo "Archiving SD video 1890, Best VGM 1847 - Kirby's Return to Dreamland - Chilly Area (Sundae Snowstorm)'s comments (YouTube id eyiABstbKJ...)"
+python downloader.py --youtubeid="eyiABstbKJ" --output="SD1890 Best VGM 1847 - Kirby's Return to Dreamland - Chilly Area (Sundae Snowstorm)'s comments (YT ID eyiABstbKJ).json"
+echo "Archiving SD video 1891, Best VGM 1848 - Metroid Prime - Phendrana Drifts (Demo Disk Version)'s comments (YouTube id Luko2A5gNp...)"
+python downloader.py --youtubeid="Luko2A5gNp" --output="SD1891 Best VGM 1848 - Metroid Prime - Phendrana Drifts (Demo Disk Version)'s comments (YT ID Luko2A5gNp).json"
+echo "Archiving SD video 1892, Best VGM 1849 - ActRaiser - North Wall's comments (YouTube id dim1KXcN34...)"
+python downloader.py --youtubeid="dim1KXcN34" --output="SD1892 Best VGM 1849 - ActRaiser - North Wall's comments (YT ID dim1KXcN34).json"
+echo "Archiving SD video 1893, Best VGM 1850 - Bejeweled 3 - Ice Storm's comments (YouTube id xhVwxYU23R...)"
+python downloader.py --youtubeid="xhVwxYU23R" --output="SD1893 Best VGM 1850 - Bejeweled 3 - Ice Storm's comments (YT ID xhVwxYU23R).json"
+echo "Archiving SD video 1894, Best VGM 1851 - Zelda : Twilight Princess - Snowpeak Ruins's comments (YouTube id 56oPoX8sCc...)"
+python downloader.py --youtubeid="56oPoX8sCc" --output="SD1894 Best VGM 1851 - Zelda : Twilight Princess - Snowpeak Ruins's comments (YT ID 56oPoX8sCc).json"
+echo "Archiving SD video 1895, Best VGM 1853 - Tales of Zestiria - The Melody of Water Will Lead the Way's comments (YouTube id wXXgqWHDp1...)"
+python downloader.py --youtubeid="wXXgqWHDp1" --output="SD1895 Best VGM 1853 - Tales of Zestiria - The Melody of Water Will Lead the Way's comments (YT ID wXXgqWHDp1).json"
+echo "Archiving SD video 1896, Best VGM 1854 - Shin Megami Tensei IV - Battle ~ b2 (Boss Theme 2)'s comments (YouTube id LcFX7lFjfq...)"
+python downloader.py --youtubeid="LcFX7lFjfq" --output="SD1896 Best VGM 1854 - Shin Megami Tensei IV - Battle ~ b2 (Boss Theme 2)'s comments (YT ID LcFX7lFjfq).json"
+echo "Archiving SD video 1897, Best VGM 1855 - Tobal No. 1 - Aqua and Trees's comments (YouTube id r7owYv6_tu...)"
+python downloader.py --youtubeid="r7owYv6_tu" --output="SD1897 Best VGM 1855 - Tobal No. 1 - Aqua and Trees's comments (YT ID r7owYv6_tu).json"
+echo "Archiving SD video 1898, [GOTY 2015 #10] Best VGM 1856 - The Legend of Zelda : Tri Force Heroes - Water Temple's comments (YouTube id nesYhwViPk...)"
+python downloader.py --youtubeid="nesYhwViPk" --output="SD1898 [GOTY 2015 #10] Best VGM 1856 - The Legend of Zelda : Tri Force Heroes - Water Temple's comments (YT ID nesYhwViPk).json"
+echo "Archiving SD video 1899, [GOTY 2015 #9] Best VGM 1857 - Lisa the Joyful - Arrow to the Head (vs Ranked #2 ~ Sindy Gallows)'s comments (YouTube id r6dC9N4WgS...)"
+python downloader.py --youtubeid="r6dC9N4WgS" --output="SD1899 [GOTY 2015 #9] Best VGM 1857 - Lisa the Joyful - Arrow to the Head (vs Ranked #2 ~ Sindy Gallows)'s comments (YT ID r6dC9N4WgS).json"
+echo "Archiving SD video 1900, [GOTY 2015 #8] Best VGM 1858 - Grow Home - Star Plant's comments (YouTube id Rj9bp-bp-T...)"
+python downloader.py --youtubeid="Rj9bp-bp-T" --output="SD1900 [GOTY 2015 #8] Best VGM 1858 - Grow Home - Star Plant's comments (YT ID Rj9bp-bp-T).json"
+echo "Archiving SD video 1901, [GOTY 2015 #7] Best VGM 1859 - Lara Croft GO - Temple Of The Wise (Distant Melody)'s comments (YouTube id naIUUMurT5...)"
+python downloader.py --youtubeid="naIUUMurT5" --output="SD1901 [GOTY 2015 #7] Best VGM 1859 - Lara Croft GO - Temple Of The Wise (Distant Melody)'s comments (YT ID naIUUMurT5).json"
+echo "Archiving SD video 1902, [GOTY 2015 #6] Best VGM 1860 - Axiom Verge - Amnesia's comments (YouTube id qR8x99ylgq...)"
+python downloader.py --youtubeid="qR8x99ylgq" --output="SD1902 [GOTY 2015 #6] Best VGM 1860 - Axiom Verge - Amnesia's comments (YT ID qR8x99ylgq).json"
+echo "Archiving SD video 1903, [GOTY 2015 #5] Best VGM 1861 - Yoshi's Woolly World - Sponge Cave Spelunking's comments (YouTube id lcOky3CKCa...)"
+python downloader.py --youtubeid="lcOky3CKCa" --output="SD1903 [GOTY 2015 #5] Best VGM 1861 - Yoshi's Woolly World - Sponge Cave Spelunking's comments (YT ID lcOky3CKCa).json"
+echo "Archiving SD video 1904, [GOTY 2015 #4] Best VGM 1862 - Fallout 4 - Rebuild, Renew's comments (YouTube id nL5Y2NmHn3...)"
+python downloader.py --youtubeid="nL5Y2NmHn3" --output="SD1904 [GOTY 2015 #4] Best VGM 1862 - Fallout 4 - Rebuild, Renew's comments (YT ID nL5Y2NmHn3).json"
+echo "Archiving SD video 1905, [GOTY 2015 #3] Best VGM 1863 - Super Mario Maker - NSMBU Overworld (Edit Mode)'s comments (YouTube id EpbcztAybh...)"
+python downloader.py --youtubeid="EpbcztAybh" --output="SD1905 [GOTY 2015 #3] Best VGM 1863 - Super Mario Maker - NSMBU Overworld (Edit Mode)'s comments (YT ID EpbcztAybh).json"
+echo "Archiving SD video 1906, [GOTY 2015 #2] Best VGM 1864 - Undertale - Hopes and Dreams's comments (YouTube id 9rldISzBkj...)"
+python downloader.py --youtubeid="9rldISzBkj" --output="SD1906 [GOTY 2015 #2] Best VGM 1864 - Undertale - Hopes and Dreams's comments (YT ID 9rldISzBkj).json"
+echo "Archiving SD video 1907, [GOTY 2015 #1] Best VGM 1865 - Environmental Station Alpha - Sinking Feeling's comments (YouTube id jTZEuazir4...)"
+python downloader.py --youtubeid="jTZEuazir4" --output="SD1907 [GOTY 2015 #1] Best VGM 1865 - Environmental Station Alpha - Sinking Feeling's comments (YT ID jTZEuazir4).json"
+echo "Archiving SD video 1908, Best VGM 1866 - Ys VI : The Ark of Napishtim - The Depth Napishtim's comments (YouTube id dMYW4wBDQL...)"
+python downloader.py --youtubeid="dMYW4wBDQL" --output="SD1908 Best VGM 1866 - Ys VI : The Ark of Napishtim - The Depth Napishtim's comments (YT ID dMYW4wBDQL).json"
+echo "Archiving SD video 1909, Best VGM 1868 - Mario Kart 64 - Kalimari Desert's comments (YouTube id DWXXhLbqYO...)"
+python downloader.py --youtubeid="DWXXhLbqYO" --output="SD1909 Best VGM 1868 - Mario Kart 64 - Kalimari Desert's comments (YT ID DWXXhLbqYO).json"
+echo "Archiving SD video 1910, Best VGM 1869 - Super Spy Hunter - Staff Roll's comments (YouTube id 3283ANpvPP...)"
+python downloader.py --youtubeid="3283ANpvPP" --output="SD1910 Best VGM 1869 - Super Spy Hunter - Staff Roll's comments (YT ID 3283ANpvPP).json"
+echo "Archiving SD video 1911, Best VGM 1870 - Titan Souls - Forest Songs's comments (YouTube id r6F92CUYjb...)"
+python downloader.py --youtubeid="r6F92CUYjb" --output="SD1911 Best VGM 1870 - Titan Souls - Forest Songs's comments (YT ID r6F92CUYjb).json"
+echo "Archiving SD video 1912, Best VGM 1871 - Koudelka - Kiss Twice's comments (YouTube id MxyCk1mToY...)"
+python downloader.py --youtubeid="MxyCk1mToY" --output="SD1912 Best VGM 1871 - Koudelka - Kiss Twice's comments (YT ID MxyCk1mToY).json"
+echo "Archiving SD video 1913, Best VGM 1872 - Super Street Fighter II Turbo - Cammy's Theme's comments (YouTube id PQjOIZTv8I...)"
+python downloader.py --youtubeid="PQjOIZTv8I" --output="SD1913 Best VGM 1872 - Super Street Fighter II Turbo - Cammy's Theme's comments (YT ID PQjOIZTv8I).json"
+echo "Archiving SD video 1914, Hiroki Kikuta - Oval of Cassini [Alphabet Planet]'s comments (YouTube id XqUsjw2wfD...)"
+python downloader.py --youtubeid="XqUsjw2wfD" --output="SD1914 Hiroki Kikuta - Oval of Cassini [Alphabet Planet]'s comments (YT ID XqUsjw2wfD).json"
+echo "Archiving SD video 1915, Best VGM 1873 - Suikoden - Theme of a Moonlit Night's comments (YouTube id XSSNGYomwA...)"
+python downloader.py --youtubeid="XSSNGYomwA" --output="SD1915 Best VGM 1873 - Suikoden - Theme of a Moonlit Night's comments (YT ID XSSNGYomwA).json"
+echo "Archiving SD video 1916, Best VGM 1874 - Mega Man 4 - Dive Man Stage's comments (YouTube id ght6F5_jHQ...)"
+python downloader.py --youtubeid="ght6F5_jHQ" --output="SD1916 Best VGM 1874 - Mega Man 4 - Dive Man Stage's comments (YT ID ght6F5_jHQ).json"
+echo "Archiving SD video 1917, Best VGM 1876 - Mario Party - Luigi's Engine Room's comments (YouTube id 0EhiDgp8Dr...)"
+python downloader.py --youtubeid="0EhiDgp8Dr" --output="SD1917 Best VGM 1876 - Mario Party - Luigi's Engine Room's comments (YT ID 0EhiDgp8Dr).json"
+echo "Archiving SD video 1918, Best VGM 1877 - Xenogears - Leftovers from the Dreams of The Strong (Yggdrasil)'s comments (YouTube id gF4pOYxzpl...)"
+python downloader.py --youtubeid="gF4pOYxzpl" --output="SD1918 Best VGM 1877 - Xenogears - Leftovers from the Dreams of The Strong (Yggdrasil)'s comments (YT ID gF4pOYxzpl).json"
+echo "Archiving SD video 1919, Best VGM 1878 - Digimon Story : Cyber Sleuth - Kuremi Detective Agency's comments (YouTube id KI6ZwWinXN...)"
+python downloader.py --youtubeid="KI6ZwWinXN" --output="SD1919 Best VGM 1878 - Digimon Story : Cyber Sleuth - Kuremi Detective Agency's comments (YT ID KI6ZwWinXN).json"
+echo "Archiving SD video 1920, Best VGM 1879 - Pokemon - Viridian Forest's comments (YouTube id Xy9eA5PJ9c...)"
+python downloader.py --youtubeid="Xy9eA5PJ9c" --output="SD1920 Best VGM 1879 - Pokemon - Viridian Forest's comments (YT ID Xy9eA5PJ9c).json"
+echo "Archiving SD video 1921, Best VGM 1880 - Monster Rancher 4 - Kawrea Volcano's comments (YouTube id mNDaE4dD8d...)"
+python downloader.py --youtubeid="mNDaE4dD8d" --output="SD1921 Best VGM 1880 - Monster Rancher 4 - Kawrea Volcano's comments (YT ID mNDaE4dD8d).json"
+echo "Archiving SD video 1922, Best VGM 1881 - Yo-Kai Watch - vs Yo-Kai (Battle Theme)'s comments (YouTube id OjRNSYsddz...)"
+python downloader.py --youtubeid="OjRNSYsddz" --output="SD1922 Best VGM 1881 - Yo-Kai Watch - vs Yo-Kai (Battle Theme)'s comments (YT ID OjRNSYsddz).json"
+echo "Archiving SD video 1923, Best VGM 1883 - Parasite Eve - Kyrie's comments (YouTube id eEZLBWjQsG...)"
+python downloader.py --youtubeid="eEZLBWjQsG" --output="SD1923 Best VGM 1883 - Parasite Eve - Kyrie's comments (YT ID eEZLBWjQsG).json"
+echo "Archiving SD video 1924, Best VGM 1884 - Tekken 2 - Quiet Interim Report's comments (YouTube id CuQJ-qh9s_...)"
+python downloader.py --youtubeid="CuQJ-qh9s_" --output="SD1924 Best VGM 1884 - Tekken 2 - Quiet Interim Report's comments (YT ID CuQJ-qh9s_).json"
+echo "Archiving SD video 1925, Best VGM 1886 - Wii Shop Channel's comments (YouTube id RBKbYPqJNO...)"
+python downloader.py --youtubeid="RBKbYPqJNO" --output="SD1925 Best VGM 1886 - Wii Shop Channel's comments (YT ID RBKbYPqJNO).json"
+echo "Archiving SD video 1926, Best VGM 1887 - 3D Dot Game Heroes - Passing Through The Forest's comments (YouTube id jhsNQ6r2fH...)"
+python downloader.py --youtubeid="jhsNQ6r2fH" --output="SD1926 Best VGM 1887 - 3D Dot Game Heroes - Passing Through The Forest's comments (YT ID jhsNQ6r2fH).json"
+echo "Archiving SD video 1927, Best VGM 1888 - Katamari Damacy - Wanda Wanda's comments (YouTube id Pmn-r3zx-E...)"
+python downloader.py --youtubeid="Pmn-r3zx-E" --output="SD1927 Best VGM 1888 - Katamari Damacy - Wanda Wanda's comments (YT ID Pmn-r3zx-E).json"
+echo "Archiving SD video 1928, Best VGM 1890 - Giftpia - FREE SLOW's comments (YouTube id imK2k2YK36...)"
+python downloader.py --youtubeid="imK2k2YK36" --output="SD1928 Best VGM 1890 - Giftpia - FREE SLOW's comments (YT ID imK2k2YK36).json"
+echo "Archiving SD video 1929, Best VGM 1891 - Gunstar Heroes - Stage 1's comments (YouTube id 2hfgF1RoqJ...)"
+python downloader.py --youtubeid="2hfgF1RoqJ" --output="SD1929 Best VGM 1891 - Gunstar Heroes - Stage 1's comments (YT ID 2hfgF1RoqJ).json"
+echo "Archiving SD video 1930, Best VGM 1892 - Pokken Tournament - Tellur Town (Autumn)'s comments (YouTube id A-dyJWsn_2...)"
+python downloader.py --youtubeid="A-dyJWsn_2" --output="SD1930 Best VGM 1892 - Pokken Tournament - Tellur Town (Autumn)'s comments (YT ID A-dyJWsn_2).json"
+echo "Archiving SD video 1931, Best VGM 1893 - Super Castlevania IV - Library's comments (YouTube id 096M0eZMk5...)"
+python downloader.py --youtubeid="096M0eZMk5" --output="SD1931 Best VGM 1893 - Super Castlevania IV - Library's comments (YT ID 096M0eZMk5).json"
+echo "Archiving SD video 1932, Best VGM 1894 - Contact - Aegis Desert's comments (YouTube id c7mYaBoSIQ...)"
+python downloader.py --youtubeid="c7mYaBoSIQ" --output="SD1932 Best VGM 1894 - Contact - Aegis Desert's comments (YT ID c7mYaBoSIQ).json"
+echo "Archiving SD video 1933, Best VGM 1895 - Deep Fear - Surfacing's comments (YouTube id JrlGy3ozlD...)"
+python downloader.py --youtubeid="JrlGy3ozlD" --output="SD1933 Best VGM 1895 - Deep Fear - Surfacing's comments (YT ID JrlGy3ozlD).json"
+echo "Archiving SD video 1934, Best VGM 1896 - Super Mario RPG - Hello, Happy Kingdom's comments (YouTube id cvae_OsnWZ...)"
+python downloader.py --youtubeid="cvae_OsnWZ" --output="SD1934 Best VGM 1896 - Super Mario RPG - Hello, Happy Kingdom's comments (YT ID cvae_OsnWZ).json"
+echo "Archiving SD video 1935, Best VGM 1897 - Valdis Story - Pancakes's comments (YouTube id mA2rTmfT1T...)"
+python downloader.py --youtubeid="mA2rTmfT1T" --output="SD1935 Best VGM 1897 - Valdis Story - Pancakes's comments (YT ID mA2rTmfT1T).json"
+echo "Archiving SD video 1936, [April 1st] Best VGM 1898 - Metroid Prime 4 : Isolation - Tube System's comments (YouTube id LzIZwxa-Km...)"
+python downloader.py --youtubeid="LzIZwxa-Km" --output="SD1936 [April 1st] Best VGM 1898 - Metroid Prime 4 : Isolation - Tube System's comments (YT ID LzIZwxa-Km).json"
+echo "Archiving SD video 1937, Best VGSFX 01 - Pokemon - Healing Sound's comments (YouTube id faJLFaXBIE...)"
+python downloader.py --youtubeid="faJLFaXBIE" --output="SD1937 Best VGSFX 01 - Pokemon - Healing Sound's comments (YT ID faJLFaXBIE).json"
+echo "Archiving SD video 1938, Best VGM 1898 - Tales of Symphonia - Rovers's comments (YouTube id Zys-MeBfBt...)"
+python downloader.py --youtubeid="Zys-MeBfBt" --output="SD1938 Best VGM 1898 - Tales of Symphonia - Rovers's comments (YT ID Zys-MeBfBt).json"
+echo "Archiving SD video 1939, Best VGM 1899 - Enthusia Professional Racing - The Infinite End's comments (YouTube id AQMonx8SlX...)"
+python downloader.py --youtubeid="AQMonx8SlX" --output="SD1939 Best VGM 1899 - Enthusia Professional Racing - The Infinite End's comments (YT ID AQMonx8SlX).json"
+echo "Archiving SD video 1940, Best VGM 1900 - Silent Hill 3 - Innocent Moon & Maternal Heart's comments (YouTube id glcGXw3gS6...)"
+python downloader.py --youtubeid="glcGXw3gS6" --output="SD1940 Best VGM 1900 - Silent Hill 3 - Innocent Moon & Maternal Heart's comments (YT ID glcGXw3gS6).json"
+echo "Archiving SD video 1941, Best VGM 1901 - Wild Arms - Morning of the Journey's comments (YouTube id 5lyXiD-OYX...)"
+python downloader.py --youtubeid="5lyXiD-OYX" --output="SD1941 Best VGM 1901 - Wild Arms - Morning of the Journey's comments (YT ID 5lyXiD-OYX).json"
+echo "Archiving SD video 1942, Best VGM 1902 - Super Mario Galaxy 2 - Throwback Galaxy's comments (YouTube id 15PEwOkJ5D...)"
+python downloader.py --youtubeid="15PEwOkJ5D" --output="SD1942 Best VGM 1902 - Super Mario Galaxy 2 - Throwback Galaxy's comments (YT ID 15PEwOkJ5D).json"
+echo "Archiving SD video 1943, Best VGM 1903 - Star Fox 64 - Select's comments (YouTube id MK41-UzpQL...)"
+python downloader.py --youtubeid="MK41-UzpQL" --output="SD1943 Best VGM 1903 - Star Fox 64 - Select's comments (YT ID MK41-UzpQL).json"
+echo "Archiving SD video 1944, Best VGM 1904 - Vortex - Voltair's comments (YouTube id un-CZxdgud...)"
+python downloader.py --youtubeid="un-CZxdgud" --output="SD1944 Best VGM 1904 - Vortex - Voltair's comments (YT ID un-CZxdgud).json"
+echo "Archiving SD video 1945, Best VGM 1905 - Castlevania : Portrait of Ruin - Gaze Up at the Darkness's comments (YouTube id bQ1D8oR128...)"
+python downloader.py --youtubeid="bQ1D8oR128" --output="SD1945 Best VGM 1905 - Castlevania : Portrait of Ruin - Gaze Up at the Darkness's comments (YT ID bQ1D8oR128).json"
+echo "Archiving SD video 1946, Best VGM 1906 - Skies of Arcadia - Battle Theme #2's comments (YouTube id hlCHzEa9MR...)"
+python downloader.py --youtubeid="hlCHzEa9MR" --output="SD1946 Best VGM 1906 - Skies of Arcadia - Battle Theme #2's comments (YT ID hlCHzEa9MR).json"
+echo "Archiving SD video 1947, Best VGM 1907 - Stardew Valley - Summer (Nature's Crescendo)'s comments (YouTube id Yn9EmSHIaL...)"
+python downloader.py --youtubeid="Yn9EmSHIaL" --output="SD1947 Best VGM 1907 - Stardew Valley - Summer (Nature's Crescendo)'s comments (YT ID Yn9EmSHIaL).json"
+echo "Archiving SD video 1948, SupraDarky - Pluto's Snack Bar's comments (YouTube id 4B53qMeqe4...)"
+python downloader.py --youtubeid="4B53qMeqe4" --output="SD1948 SupraDarky - Pluto's Snack Bar's comments (YT ID 4B53qMeqe4).json"
+echo "Archiving SD video 1949, Best VGM 1908 - Radiant Historia - Mechanical Kingdom's comments (YouTube id WwXBfLnChS...)"
+python downloader.py --youtubeid="WwXBfLnChS" --output="SD1949 Best VGM 1908 - Radiant Historia - Mechanical Kingdom's comments (YT ID WwXBfLnChS).json"
+echo "Archiving SD video 1950, Best VGM 1909 - Dragon Ball Z : Super Butoden - Imperfect Cell's Theme's comments (YouTube id 8bEtK6g4g_...)"
+python downloader.py --youtubeid="8bEtK6g4g_" --output="SD1950 Best VGM 1909 - Dragon Ball Z : Super Butoden - Imperfect Cell's Theme's comments (YT ID 8bEtK6g4g_).json"
+echo "Archiving SD video 1951, Best VGM 1910 - Street Fighter V - Theme of F.A.N.G's comments (YouTube id bvbOS8Mp8a...)"
+python downloader.py --youtubeid="bvbOS8Mp8a" --output="SD1951 Best VGM 1910 - Street Fighter V - Theme of F.A.N.G's comments (YT ID bvbOS8Mp8a).json"
+echo "Archiving SD video 1952, Best VGM 1911 - Spyro : A Hero's Tail - Crocoville Swamp's comments (YouTube id nK-IjRF-hs...)"
+python downloader.py --youtubeid="nK-IjRF-hs" --output="SD1952 Best VGM 1911 - Spyro : A Hero's Tail - Crocoville Swamp's comments (YT ID nK-IjRF-hs).json"
+echo "Archiving SD video 1953, Best VGM 1912 - Zelda : Ocarina of Time - Spirit Temple's comments (YouTube id mTnXMcxBwc...)"
+python downloader.py --youtubeid="mTnXMcxBwc" --output="SD1953 Best VGM 1912 - Zelda : Ocarina of Time - Spirit Temple's comments (YT ID mTnXMcxBwc).json"
+echo "Archiving SD video 1954, Best VGM 1913 - Chrono Cross - Death Volcano's comments (YouTube id d5OK1GkI_C...)"
+python downloader.py --youtubeid="d5OK1GkI_C" --output="SD1954 Best VGM 1913 - Chrono Cross - Death Volcano's comments (YT ID d5OK1GkI_C).json"
+echo "Archiving SD video 1955, Best VGM 1914 - Westerado : Double Barreled - Forest Theme's comments (YouTube id aPrcJy-5ho...)"
+python downloader.py --youtubeid="aPrcJy-5ho" --output="SD1955 Best VGM 1914 - Westerado : Double Barreled - Forest Theme's comments (YT ID aPrcJy-5ho).json"
+echo "Archiving SD video 1956, Best VGM 1915 - Xenoblade Chronicles - Fallen Arm ~ Day's comments (YouTube id udO3kaNWEs...)"
+python downloader.py --youtubeid="udO3kaNWEs" --output="SD1956 Best VGM 1915 - Xenoblade Chronicles - Fallen Arm ~ Day's comments (YT ID udO3kaNWEs).json"
+echo "Archiving SD video 1957, Best VGM 1916 - F-Zero - White Land I's comments (YouTube id vmUwR3aa6d...)"
+python downloader.py --youtubeid="vmUwR3aa6d" --output="SD1957 Best VGM 1916 - F-Zero - White Land I's comments (YT ID vmUwR3aa6d).json"
+echo "Archiving SD video 1958, Best VGM 1917 - Unlimited Saga - DG "sadness"'s comments (YouTube id EvRTjXbb8i...)"
+python downloader.py --youtubeid="EvRTjXbb8i" --output="SD1958 Best VGM 1917 - Unlimited Saga - DG "sadness"'s comments (YT ID EvRTjXbb8i).json"
+echo "Archiving SD video 1959, Best VGM 1918 - Krater - Tutorial's comments (YouTube id sHQslJ2Faa...)"
+python downloader.py --youtubeid="sHQslJ2Faa" --output="SD1959 Best VGM 1918 - Krater - Tutorial's comments (YT ID sHQslJ2Faa).json"
+echo "Archiving SD video 1960, Best VGM 1919 - Teenage Mutant Ninja Turtles - Overworld's comments (YouTube id O5a4jwv-jP...)"
+python downloader.py --youtubeid="O5a4jwv-jP" --output="SD1960 Best VGM 1919 - Teenage Mutant Ninja Turtles - Overworld's comments (YT ID O5a4jwv-jP).json"
+echo "Archiving SD video 1961, Best VGM 1920 - Ape Escape 3 - Tomoki City (Part 2)'s comments (YouTube id RyQAZcBim8...)"
+python downloader.py --youtubeid="RyQAZcBim8" --output="SD1961 Best VGM 1920 - Ape Escape 3 - Tomoki City (Part 2)'s comments (YT ID RyQAZcBim8).json"
+echo "Archiving SD video 1962, Best VGM 1921 - Halo 3 ODST - Rain's comments (YouTube id fXxbFMtx0B...)"
+python downloader.py --youtubeid="fXxbFMtx0B" --output="SD1962 Best VGM 1921 - Halo 3 ODST - Rain's comments (YT ID fXxbFMtx0B).json"
+echo "Archiving SD video 1963, Best VGM 1922 - Ragnarok Online - Plateau's comments (YouTube id jYFYsfEyi0...)"
+python downloader.py --youtubeid="jYFYsfEyi0" --output="SD1963 Best VGM 1922 - Ragnarok Online - Plateau's comments (YT ID jYFYsfEyi0).json"
+echo "Archiving SD video 1964, Best VGM 1923 - Zelda : Skyward Sword - The Sky's comments (YouTube id cl6iryREks...)"
+python downloader.py --youtubeid="cl6iryREks" --output="SD1964 Best VGM 1923 - Zelda : Skyward Sword - The Sky's comments (YT ID cl6iryREks).json"
+echo "Archiving SD video 1965, Best VGM 1924 - Devilish - Stage 5 ~ Seaside's comments (YouTube id VktyN1crFL...)"
+python downloader.py --youtubeid="VktyN1crFL" --output="SD1965 Best VGM 1924 - Devilish - Stage 5 ~ Seaside's comments (YT ID VktyN1crFL).json"
+echo "Archiving SD video 1966, Best VGM 1925 - Max Payne 3 - Panama's comments (YouTube id qBh4tvmT6N...)"
+python downloader.py --youtubeid="qBh4tvmT6N" --output="SD1966 Best VGM 1925 - Max Payne 3 - Panama's comments (YT ID qBh4tvmT6N).json"
+echo "Archiving SD video 1967, Best VGM 1926 - Illusion of Gaia - Deep Sadness (Will's Dream)'s comments (YouTube id H_rMLATTMw...)"
+python downloader.py --youtubeid="H_rMLATTMw" --output="SD1967 Best VGM 1926 - Illusion of Gaia - Deep Sadness (Will's Dream)'s comments (YT ID H_rMLATTMw).json"
+echo "Archiving SD video 1968, Best VGM 1927 - Ecco : The Tides of Time (Sega CD) - Fin to Feather's comments (YouTube id fWqvxC_8yD...)"
+python downloader.py --youtubeid="fWqvxC_8yD" --output="SD1968 Best VGM 1927 - Ecco : The Tides of Time (Sega CD) - Fin to Feather's comments (YT ID fWqvxC_8yD).json"
+echo "Archiving SD video 1969, Best VGM 1928 - Super Paper Mario - Castle Bleck's comments (YouTube id 718qcWPzvA...)"
+python downloader.py --youtubeid="718qcWPzvA" --output="SD1969 Best VGM 1928 - Super Paper Mario - Castle Bleck's comments (YT ID 718qcWPzvA).json"
+echo "Archiving SD video 1970, Best VGM 1929 - FTL : Faster Than Light - Last Stand's comments (YouTube id HImC0q17Pk...)"
+python downloader.py --youtubeid="HImC0q17Pk" --output="SD1970 Best VGM 1929 - FTL : Faster Than Light - Last Stand's comments (YT ID HImC0q17Pk).json"
+echo "Archiving SD video 1971, Best VGM 1930 - Z-Out - Highscore's comments (YouTube id ERohLbXvzV...)"
+python downloader.py --youtubeid="ERohLbXvzV" --output="SD1971 Best VGM 1930 - Z-Out - Highscore's comments (YT ID ERohLbXvzV).json"
+echo "Archiving SD video 1972, Best VGM 1931 - Hotline Miami 2 - Around's comments (YouTube id vLRhuxHiYi...)"
+python downloader.py --youtubeid="vLRhuxHiYi" --output="SD1972 Best VGM 1931 - Hotline Miami 2 - Around's comments (YT ID vLRhuxHiYi).json"
+echo "Archiving SD video 1973, Best VGM 1932 - Ori and the Blind Forest - Light of Nibel's comments (YouTube id MowlJduEbg...)"
+python downloader.py --youtubeid="MowlJduEbg" --output="SD1973 Best VGM 1932 - Ori and the Blind Forest - Light of Nibel's comments (YT ID MowlJduEbg).json"
+echo "Archiving SD video 1974, Best VGM 1933 - Mother 3 - Alec's Log House's comments (YouTube id obPhMUJ8G9...)"
+python downloader.py --youtubeid="obPhMUJ8G9" --output="SD1974 Best VGM 1933 - Mother 3 - Alec's Log House's comments (YT ID obPhMUJ8G9).json"
+echo "Archiving SD video 1975, Best VGM 1934 - Undertale - Bonetrousle's comments (YouTube id gTahA9hCxA...)"
+python downloader.py --youtubeid="gTahA9hCxA" --output="SD1975 Best VGM 1934 - Undertale - Bonetrousle's comments (YT ID gTahA9hCxA).json"
+echo "Archiving SD video 1976, Best VGM 1935 - Guild Wars 2 - Call of the Raven's comments (YouTube id f0bj_Aqhbb...)"
+python downloader.py --youtubeid="f0bj_Aqhbb" --output="SD1976 Best VGM 1935 - Guild Wars 2 - Call of the Raven's comments (YT ID f0bj_Aqhbb).json"
+echo "Archiving SD video 1977, Best VGM 1936 - Sonic Lost World - Island Relics's comments (YouTube id ro4ceM17Qz...)"
+python downloader.py --youtubeid="ro4ceM17Qz" --output="SD1977 Best VGM 1936 - Sonic Lost World - Island Relics's comments (YT ID ro4ceM17Qz).json"
+echo "Archiving SD video 1978, Best VGM 1937 - Castlevania - Walking on the Edge's comments (YouTube id Sime7JZrTl...)"
+python downloader.py --youtubeid="Sime7JZrTl" --output="SD1978 Best VGM 1937 - Castlevania - Walking on the Edge's comments (YT ID Sime7JZrTl).json"
+echo "Archiving SD video 1979, Best VGM 1938 - Valkyria Chronicles - Desperate Fight's comments (YouTube id 7vpHPBE59H...)"
+python downloader.py --youtubeid="7vpHPBE59H" --output="SD1979 Best VGM 1938 - Valkyria Chronicles - Desperate Fight's comments (YT ID 7vpHPBE59H).json"
+echo "Archiving SD video 1980, Best VGM 1939 - Deus Ex - Versalife's comments (YouTube id tFsVKUoGJZ...)"
+python downloader.py --youtubeid="tFsVKUoGJZ" --output="SD1980 Best VGM 1939 - Deus Ex - Versalife's comments (YT ID tFsVKUoGJZ).json"
+echo "Archiving SD video 1981, Best VGM 1940 - One Step Beyond - BGM 6's comments (YouTube id dO4awKzd8r...)"
+python downloader.py --youtubeid="dO4awKzd8r" --output="SD1981 Best VGM 1940 - One Step Beyond - BGM 6's comments (YT ID dO4awKzd8r).json"
+echo "Archiving SD video 1982, Best VGM 1941 - Streets of Rage 2 - Dreamer (Stage 3)'s comments (YouTube id HmOUI30Qqi...)"
+python downloader.py --youtubeid="HmOUI30Qqi" --output="SD1982 Best VGM 1941 - Streets of Rage 2 - Dreamer (Stage 3)'s comments (YT ID HmOUI30Qqi).json"
+echo "Archiving SD video 1983, Best VGM 1943 - Top Gear - Gear Box (Track 2)'s comments (YouTube id nOeGX-O_QR...)"
+python downloader.py --youtubeid="nOeGX-O_QR" --output="SD1983 Best VGM 1943 - Top Gear - Gear Box (Track 2)'s comments (YT ID nOeGX-O_QR).json"
+echo "Archiving SD video 1984, Best VGM 1944 - PaRappa the Rapper - Chop Chop Master Onion's comments (YouTube id ktnL6toFPC...)"
+python downloader.py --youtubeid="ktnL6toFPC" --output="SD1984 Best VGM 1944 - PaRappa the Rapper - Chop Chop Master Onion's comments (YT ID ktnL6toFPC).json"
+echo "Archiving SD video 1985, Best VGM 1945 - Shovel Knight - An Underlying Problem (The Lost City ~ Mole Knight)'s comments (YouTube id B0nk276pUv...)"
+python downloader.py --youtubeid="B0nk276pUv" --output="SD1985 Best VGM 1945 - Shovel Knight - An Underlying Problem (The Lost City ~ Mole Knight)'s comments (YT ID B0nk276pUv).json"
+echo "Archiving SD video 1986, Best VGM 1946 - Okamiden - Underground Ruin's comments (YouTube id n4Pun5BDH0...)"
+python downloader.py --youtubeid="n4Pun5BDH0" --output="SD1986 Best VGM 1946 - Okamiden - Underground Ruin's comments (YT ID n4Pun5BDH0).json"
+echo "Archiving SD video 1987, Best VGM 1947 - Furi - Wisdom of Rage's comments (YouTube id lwUtHErD2Y...)"
+python downloader.py --youtubeid="lwUtHErD2Y" --output="SD1987 Best VGM 1947 - Furi - Wisdom of Rage's comments (YT ID lwUtHErD2Y).json"
+echo "Archiving SD video 1988, Best VGM 1948 - Metroid AM2R - Hydro Station's comments (YouTube id aOjeeAVojA...)"
+python downloader.py --youtubeid="aOjeeAVojA" --output="SD1988 Best VGM 1948 - Metroid AM2R - Hydro Station's comments (YT ID aOjeeAVojA).json"
+echo "Archiving SD video 1989, Best VGM 1949 - Environmental Station Alpha - Valiant's comments (YouTube id 9YY-v0pPRc...)"
+python downloader.py --youtubeid="9YY-v0pPRc" --output="SD1989 Best VGM 1949 - Environmental Station Alpha - Valiant's comments (YT ID 9YY-v0pPRc).json"
+echo "Archiving SD video 1990, Best VGM 1950 - Zelda : Minish Cap - Palace of Winds's comments (YouTube id y_4Ei9OljB...)"
+python downloader.py --youtubeid="y_4Ei9OljB" --output="SD1990 Best VGM 1950 - Zelda : Minish Cap - Palace of Winds's comments (YT ID y_4Ei9OljB).json"
+echo "Archiving SD video 1991, Best VGM 1951 - Grounseed - Village's comments (YouTube id DW-tMwk3t0...)"
+python downloader.py --youtubeid="DW-tMwk3t0" --output="SD1991 Best VGM 1951 - Grounseed - Village's comments (YT ID DW-tMwk3t0).json"
+echo "Archiving SD video 1992, Best VGM 1952 - Castle in the Darkness - The Trees Can See's comments (YouTube id 9oVbqhGBKa...)"
+python downloader.py --youtubeid="9oVbqhGBKa" --output="SD1992 Best VGM 1952 - Castle in the Darkness - The Trees Can See's comments (YT ID 9oVbqhGBKa).json"
+echo "Archiving SD video 1993, Best VGM 1954 - Rollercoaster Tycoon 3 - Mermaid's comments (YouTube id M4XYQ8YfVd...)"
+python downloader.py --youtubeid="M4XYQ8YfVd" --output="SD1993 Best VGM 1954 - Rollercoaster Tycoon 3 - Mermaid's comments (YT ID M4XYQ8YfVd).json"
+echo "Archiving SD video 1994, Best VGM 1955 - Paladin's Quest II - Throne of the Immortals's comments (YouTube id PjlkqeMdZz...)"
+python downloader.py --youtubeid="PjlkqeMdZz" --output="SD1994 Best VGM 1955 - Paladin's Quest II - Throne of the Immortals's comments (YT ID PjlkqeMdZz).json"
+echo "Archiving SD video 1995, Best VGM 1956 - South Park : The Stick of Truth - Character Creation's comments (YouTube id sYVOk6kU3T...)"
+python downloader.py --youtubeid="sYVOk6kU3T" --output="SD1995 Best VGM 1956 - South Park : The Stick of Truth - Character Creation's comments (YT ID sYVOk6kU3T).json"
+echo "Archiving SD video 1996, Best VGM 1957 - Dark Cloud 2 - Kazarov Stonehenge's comments (YouTube id 6VD_aVMOL1...)"
+python downloader.py --youtubeid="6VD_aVMOL1" --output="SD1996 Best VGM 1957 - Dark Cloud 2 - Kazarov Stonehenge's comments (YT ID 6VD_aVMOL1).json"
+echo "Archiving SD video 1997, Best VGM 1958 - Mega Man Battle Network 3 - Virus Busting's comments (YouTube id GdOFuA2qpG...)"
+python downloader.py --youtubeid="GdOFuA2qpG" --output="SD1997 Best VGM 1958 - Mega Man Battle Network 3 - Virus Busting's comments (YT ID GdOFuA2qpG).json"
+echo "Archiving SD video 1998, Best VGM 1959 - Glover - Atlantis Realm, Level 2's comments (YouTube id PRCBxcvNAp...)"
+python downloader.py --youtubeid="PRCBxcvNAp" --output="SD1998 Best VGM 1959 - Glover - Atlantis Realm, Level 2's comments (YT ID PRCBxcvNAp).json"
+echo "Archiving SD video 1999, Best VGM 1960 - Digital Devil Saga - Spider's String ~ The Second Movement's comments (YouTube id fWx4q8GqZe...)"
+python downloader.py --youtubeid="fWx4q8GqZe" --output="SD1999 Best VGM 1960 - Digital Devil Saga - Spider's String ~ The Second Movement's comments (YT ID fWx4q8GqZe).json"
+echo "Archiving SD video 2000, Nujabes - Sea of Cloud's comments (YouTube id MpwIBRMegl...)"
+python downloader.py --youtubeid="MpwIBRMegl" --output="SD2000 Nujabes - Sea of Cloud's comments (YT ID MpwIBRMegl).json"
+echo "Archiving SD video 2001, Best VGM 1961 - Kingdom Hearts - Winnie the Pooh's comments (YouTube id zYMU-v7GGW...)"
+python downloader.py --youtubeid="zYMU-v7GGW" --output="SD2001 Best VGM 1961 - Kingdom Hearts - Winnie the Pooh's comments (YT ID zYMU-v7GGW).json"
+echo "Archiving SD video 2002, Best VGM 1962 - Dragon Quest VII 3DS - Memories of a Lost World's comments (YouTube id r5n9re80hc...)"
+python downloader.py --youtubeid="r5n9re80hc" --output="SD2002 Best VGM 1962 - Dragon Quest VII 3DS - Memories of a Lost World's comments (YT ID r5n9re80hc).json"
+echo "Archiving SD video 2003, Best VGM 1963 - Jazz Jackrabbit 3 - Skygazer (Rocket)'s comments (YouTube id aTofARLXiB...)"
+python downloader.py --youtubeid="aTofARLXiB" --output="SD2003 Best VGM 1963 - Jazz Jackrabbit 3 - Skygazer (Rocket)'s comments (YT ID aTofARLXiB).json"
+echo "Archiving SD video 2004, Best VGM 1964 - Kirby & The Rainbow Curse - The Wild Red Yonder's comments (YouTube id cZVRDjJUPI...)"
+python downloader.py --youtubeid="cZVRDjJUPI" --output="SD2004 Best VGM 1964 - Kirby & The Rainbow Curse - The Wild Red Yonder's comments (YT ID cZVRDjJUPI).json"
+echo "Archiving SD video 2005, Best VGM 1965 - Time Trax - Theme #4's comments (YouTube id I0rfWwuyHF...)"
+python downloader.py --youtubeid="I0rfWwuyHF" --output="SD2005 Best VGM 1965 - Time Trax - Theme #4's comments (YT ID I0rfWwuyHF).json"
+echo "Archiving SD video 2006, Best VGM 1966 - Dark Souls II - Sir Alonne's comments (YouTube id HTo_H7376R...)"
+python downloader.py --youtubeid="HTo_H7376R" --output="SD2006 Best VGM 1966 - Dark Souls II - Sir Alonne's comments (YT ID HTo_H7376R).json"
+echo "Archiving SD video 2007, Best VGM 1968 - OFF - Avatar Beat (Final Battle)'s comments (YouTube id 4EBNeFI0QW...)"
+python downloader.py --youtubeid="4EBNeFI0QW" --output="SD2007 Best VGM 1968 - OFF - Avatar Beat (Final Battle)'s comments (YT ID 4EBNeFI0QW).json"
+echo "Archiving SD video 2008, Best VGM 1969 - Ys Chronicles - Final Battle's comments (YouTube id wBAXLY1hq7...)"
+python downloader.py --youtubeid="wBAXLY1hq7" --output="SD2008 Best VGM 1969 - Ys Chronicles - Final Battle's comments (YT ID wBAXLY1hq7).json"
+echo "Archiving SD video 2009, Best VGM 1970 - Mega Man & Bass - Pirate Man Stage's comments (YouTube id JvGhaOX-aO...)"
+python downloader.py --youtubeid="JvGhaOX-aO" --output="SD2009 Best VGM 1970 - Mega Man & Bass - Pirate Man Stage's comments (YT ID JvGhaOX-aO).json"
+echo "Archiving SD video 2010, Best VGM 1971 - The Oregon Trail - Main Theme's comments (YouTube id I2LzT-9KtN...)"
+python downloader.py --youtubeid="I2LzT-9KtN" --output="SD2010 Best VGM 1971 - The Oregon Trail - Main Theme's comments (YT ID I2LzT-9KtN).json"
+echo "Archiving SD video 2011, Best VGM 1972 - No More Heroes 2 - Subuta.1 (Duel Against Ranked #2: Alice Twilight)'s comments (YouTube id CD9A7myidl...)"
+python downloader.py --youtubeid="CD9A7myidl" --output="SD2011 Best VGM 1972 - No More Heroes 2 - Subuta.1 (Duel Against Ranked #2: Alice Twilight)'s comments (YT ID CD9A7myidl).json"
+echo "Archiving SD video 2012, Best VGM 1974 - Castlevania : Curse of Darkness - Baljhet Mountains's comments (YouTube id N2_yNExicy...)"
+python downloader.py --youtubeid="N2_yNExicy" --output="SD2012 Best VGM 1974 - Castlevania : Curse of Darkness - Baljhet Mountains's comments (YT ID N2_yNExicy).json"
+echo "Archiving SD video 2013, Best VGM 1975 - Last Bible III - Sky Wing's comments (YouTube id CPbjTzqyr7...)"
+python downloader.py --youtubeid="CPbjTzqyr7" --output="SD2013 Best VGM 1975 - Last Bible III - Sky Wing's comments (YT ID CPbjTzqyr7).json"
+echo "Archiving SD video 2014, Best VGM 1976 - Tales of Berseria - Theme of Velvet's comments (YouTube id gf3NerhyM_...)"
+python downloader.py --youtubeid="gf3NerhyM_" --output="SD2014 Best VGM 1976 - Tales of Berseria - Theme of Velvet's comments (YT ID gf3NerhyM_).json"
+echo "Archiving SD video 2015, Best VGM 1977 - Star Ocean 2 : The Second Story - Cuddle's comments (YouTube id -finZK4D6N...)"
+python downloader.py --youtubeid="-finZK4D6N" --output="SD2015 Best VGM 1977 - Star Ocean 2 : The Second Story - Cuddle's comments (YT ID -finZK4D6N).json"
+echo "Archiving SD video 2016, Best VGM 1978 - Wii Sports - Main Theme's comments (YouTube id 3Bl0nIoCB5...)"
+python downloader.py --youtubeid="3Bl0nIoCB5" --output="SD2016 Best VGM 1978 - Wii Sports - Main Theme's comments (YT ID 3Bl0nIoCB5).json"
+echo "Archiving SD video 2017, Best VGM 1979 - Wild Arms 3 - Migratory Birds ~ Scoundrels (Overworld)'s comments (YouTube id a5JdLRzK_u...)"
+python downloader.py --youtubeid="a5JdLRzK_u" --output="SD2017 Best VGM 1979 - Wild Arms 3 - Migratory Birds ~ Scoundrels (Overworld)'s comments (YT ID a5JdLRzK_u).json"
+echo "Archiving SD video 2018, Best VGM 1980 - Pokemon Snap - Stone Valley's comments (YouTube id Ys_xfruRWS...)"
+python downloader.py --youtubeid="Ys_xfruRWS" --output="SD2018 Best VGM 1980 - Pokemon Snap - Stone Valley's comments (YT ID Ys_xfruRWS).json"
+echo "Archiving SD video 2019, Best VGM 1982 - Mighty Switch Force - Love You Love You Love's comments (YouTube id VMt6f3DvTa...)"
+python downloader.py --youtubeid="VMt6f3DvTa" --output="SD2019 Best VGM 1982 - Mighty Switch Force - Love You Love You Love's comments (YT ID VMt6f3DvTa).json"
+echo "Archiving SD video 2020, Best VGM 1983 - Shinobi - Transfiguration's comments (YouTube id tvGn7jf7t8...)"
+python downloader.py --youtubeid="tvGn7jf7t8" --output="SD2020 Best VGM 1983 - Shinobi - Transfiguration's comments (YT ID tvGn7jf7t8).json"
+echo "Archiving SD video 2021, Best VGM 1984 - Marble Madness - Beginner Race's comments (YouTube id 0_YB2lagal...)"
+python downloader.py --youtubeid="0_YB2lagal" --output="SD2021 Best VGM 1984 - Marble Madness - Beginner Race's comments (YT ID 0_YB2lagal).json"
+echo "Archiving SD video 2022, Best VGM 1985 - Space Harrier - Main Theme's comments (YouTube id LAHKscXvt3...)"
+python downloader.py --youtubeid="LAHKscXvt3" --output="SD2022 Best VGM 1985 - Space Harrier - Main Theme's comments (YT ID LAHKscXvt3).json"
+echo "Archiving SD video 2023, [SD Zelda] Dungeon 7 - Shrine of Origin's comments (YouTube id JieK50lP9x...)"
+python downloader.py --youtubeid="JieK50lP9x" --output="SD2023 [SD Zelda] Dungeon 7 - Shrine of Origin's comments (YT ID JieK50lP9x).json"
+echo "Archiving SD video 2024, Best VGM 1986 - Dragon Quest - Chateau Ladutorm (Tantegel Castle)'s comments (YouTube id EDmsNVWZIw...)"
+python downloader.py --youtubeid="EDmsNVWZIw" --output="SD2024 Best VGM 1986 - Dragon Quest - Chateau Ladutorm (Tantegel Castle)'s comments (YT ID EDmsNVWZIw).json"
+echo "Archiving SD video 2025, Best VGM 1987 - Mega Man - Elec Man Stage's comments (YouTube id he_ECgg9Yy...)"
+python downloader.py --youtubeid="he_ECgg9Yy" --output="SD2025 Best VGM 1987 - Mega Man - Elec Man Stage's comments (YT ID he_ECgg9Yy).json"
+echo "Archiving SD video 2026, Best VGM 1988 - Altered Beast - Rise from Your Grave's comments (YouTube id d3mJsXFGhD...)"
+python downloader.py --youtubeid="d3mJsXFGhD" --output="SD2026 Best VGM 1988 - Altered Beast - Rise from Your Grave's comments (YT ID d3mJsXFGhD).json"
+echo "Archiving SD video 2027, Best VGM 1989 - Tetris - Title Theme's comments (YouTube id AzlWTsBn8M...)"
+python downloader.py --youtubeid="AzlWTsBn8M" --output="SD2027 Best VGM 1989 - Tetris - Title Theme's comments (YT ID AzlWTsBn8M).json"
+echo "Archiving SD video 2028, Best VGM 1990 - F-Zero - Silence's comments (YouTube id iXDF9eHsmD...)"
+python downloader.py --youtubeid="iXDF9eHsmD" --output="SD2028 Best VGM 1990 - F-Zero - Silence's comments (YT ID iXDF9eHsmD).json"
+echo "Archiving SD video 2029, Best VGM 1991 - Street Fighter II - Chun-Li's Theme's comments (YouTube id 77Z3VDq_9_...)"
+python downloader.py --youtubeid="77Z3VDq_9_" --output="SD2029 Best VGM 1991 - Street Fighter II - Chun-Li's Theme's comments (YT ID 77Z3VDq_9_).json"
+echo "Archiving SD video 2030, Best VGM 1992 - Sonic the Hedgehog 2 - Casino Night Zone's comments (YouTube id Xb8k4cp_mv...)"
+python downloader.py --youtubeid="Xb8k4cp_mv" --output="SD2030 Best VGM 1992 - Sonic the Hedgehog 2 - Casino Night Zone's comments (YT ID Xb8k4cp_mv).json"
+echo "Archiving SD video 2031, Best VGM 1993 - Doom - The Demons From Adrian's Pen (E2M2 ~ Containment Area)'s comments (YouTube id T_HfcZMUR4...)"
+python downloader.py --youtubeid="T_HfcZMUR4" --output="SD2031 Best VGM 1993 - Doom - The Demons From Adrian's Pen (E2M2 ~ Containment Area)'s comments (YT ID T_HfcZMUR4).json"
+echo "Archiving SD video 2032, Best VGM 1994 - Earthbound - Bus's comments (YouTube id a4t1ty8U9q...)"
+python downloader.py --youtubeid="a4t1ty8U9q" --output="SD2032 Best VGM 1994 - Earthbound - Bus's comments (YT ID a4t1ty8U9q).json"
+echo "Archiving SD video 2033, Best VGM 1995 - Terranigma - New Waters ~ Port's comments (YouTube id YQasQAYgbb...)"
+python downloader.py --youtubeid="YQasQAYgbb" --output="SD2033 Best VGM 1995 - Terranigma - New Waters ~ Port's comments (YT ID YQasQAYgbb).json"
+echo "Archiving SD video 2034, Best VGM 1996 - Pokemon - Title Screen's comments (YouTube id s6D8clnSE_...)"
+python downloader.py --youtubeid="s6D8clnSE_" --output="SD2034 Best VGM 1996 - Pokemon - Title Screen's comments (YT ID s6D8clnSE_).json"
+echo "Archiving SD video 2035, Best VGM 1998 - Zelda : Ocarina of Time - House's comments (YouTube id W4259ddJDt...)"
+python downloader.py --youtubeid="W4259ddJDt" --output="SD2035 Best VGM 1998 - Zelda : Ocarina of Time - House's comments (YT ID W4259ddJDt).json"
+echo "Archiving SD video 2036, Best VGM 1999 - Shenmue - FREE 1 (Walking Theme 1)'s comments (YouTube id Tug0cYK0XW...)"
+python downloader.py --youtubeid="Tug0cYK0XW" --output="SD2036 Best VGM 1999 - Shenmue - FREE 1 (Walking Theme 1)'s comments (YT ID Tug0cYK0XW).json"
+echo "Archiving SD video 2037, Best VGM 2000 - Super Mario Bros - Main Theme (Overworld)'s comments (YouTube id zTHAKsaD_8...)"
+python downloader.py --youtubeid="zTHAKsaD_8" --output="SD2037 Best VGM 2000 - Super Mario Bros - Main Theme (Overworld)'s comments (YT ID zTHAKsaD_8).json"
+echo "Archiving SD video 2038, The Best VGM List Continues!'s comments (YouTube id DhAVIqbpzB...)"
+python downloader.py --youtubeid="DhAVIqbpzB" --output="SD2038 The Best VGM List Continues!'s comments (YT ID DhAVIqbpzB).json"
+echo "Archiving SD video 2039, Best VGM 2001 - Silent Hill 2 - Alone in the Town's comments (YouTube id cnjADMWesK...)"
+python downloader.py --youtubeid="cnjADMWesK" --output="SD2039 Best VGM 2001 - Silent Hill 2 - Alone in the Town's comments (YT ID cnjADMWesK).json"
+echo "Archiving SD video 2040, Best VGM 2002 - The Elder Scrolls III : Morrowind - The Road Most Travelled's comments (YouTube id g4Bnot1yBJ...)"
+python downloader.py --youtubeid="g4Bnot1yBJ" --output="SD2040 Best VGM 2002 - The Elder Scrolls III : Morrowind - The Road Most Travelled's comments (YT ID g4Bnot1yBJ).json"
+echo "Archiving SD video 2041, Best VGM 2003 - Tales of Symphonia - Raine's comments (YouTube id RAevlv9Y1a...)"
+python downloader.py --youtubeid="RAevlv9Y1a" --output="SD2041 Best VGM 2003 - Tales of Symphonia - Raine's comments (YT ID RAevlv9Y1a).json"
+echo "Archiving SD video 2042, Best VGM 2004 - World of Warcraft - Song of Elune's comments (YouTube id UoDDUr6poO...)"
+python downloader.py --youtubeid="UoDDUr6poO" --output="SD2042 Best VGM 2004 - World of Warcraft - Song of Elune's comments (YT ID UoDDUr6poO).json"
+echo "Archiving SD video 2043, Best VGM 2005 - We ♥ Katamari - Bluffing Damacy's comments (YouTube id Is_yOYLMlH...)"
+python downloader.py --youtubeid="Is_yOYLMlH" --output="SD2043 Best VGM 2005 - We ♥ Katamari - Bluffing Damacy's comments (YT ID Is_yOYLMlH).json"
+echo "Archiving SD video 2044, Best VGM 2006 - Baten Kaitos Origins - Iconoclasm's comments (YouTube id 69142JeBFX...)"
+python downloader.py --youtubeid="69142JeBFX" --output="SD2044 Best VGM 2006 - Baten Kaitos Origins - Iconoclasm's comments (YT ID 69142JeBFX).json"
+echo "Archiving SD video 2045, Best VGM 2007 - Super Mario Galaxy - Rosalina in the Observatory 3's comments (YouTube id nO3lPvYVxz...)"
+python downloader.py --youtubeid="nO3lPvYVxz" --output="SD2045 Best VGM 2007 - Super Mario Galaxy - Rosalina in the Observatory 3's comments (YT ID nO3lPvYVxz).json"
+echo "Archiving SD video 2046, Best VGM 2008 - Castlevania : Order of Ecclesia - An Empty Tome's comments (YouTube id calW24ddgO...)"
+python downloader.py --youtubeid="calW24ddgO" --output="SD2046 Best VGM 2008 - Castlevania : Order of Ecclesia - An Empty Tome's comments (YT ID calW24ddgO).json"
+echo "Archiving SD video 2047, Best VGM 2009 - Shatter - Argon Refinery's comments (YouTube id ocVRCl9Kcu...)"
+python downloader.py --youtubeid="ocVRCl9Kcu" --output="SD2047 Best VGM 2009 - Shatter - Argon Refinery's comments (YT ID ocVRCl9Kcu).json"
+echo "Archiving SD video 2048, Best VGM 2010 - Xenoblade Chronicles - Snowy Valak Mountain's comments (YouTube id HpecW3jSJv...)"
+python downloader.py --youtubeid="HpecW3jSJv" --output="SD2048 Best VGM 2010 - Xenoblade Chronicles - Snowy Valak Mountain's comments (YT ID HpecW3jSJv).json"
+echo "Archiving SD video 2049, Best VGM 2011 - The Binding of Isaac - Peace Be With You's comments (YouTube id OViAthHme2...)"
+python downloader.py --youtubeid="OViAthHme2" --output="SD2049 Best VGM 2011 - The Binding of Isaac - Peace Be With You's comments (YT ID OViAthHme2).json"
+echo "Archiving SD video 2050, Best VGM 2012 - Hotline Miami - Miami Disco's comments (YouTube id JvMsfqT9KB...)"
+python downloader.py --youtubeid="JvMsfqT9KB" --output="SD2050 Best VGM 2012 - Hotline Miami - Miami Disco's comments (YT ID JvMsfqT9KB).json"
+echo "Archiving SD video 2051, Best VGM 2013 - Guacamelee! - Caverna del Pollo (Living)'s comments (YouTube id qNIAYDOCfG...)"
+python downloader.py --youtubeid="qNIAYDOCfG" --output="SD2051 Best VGM 2013 - Guacamelee! - Caverna del Pollo (Living)'s comments (YT ID qNIAYDOCfG).json"
+echo "Archiving SD video 2052, Best VGM 2014 - Qbeh-1 : The Atlas Cube - Elevation's comments (YouTube id N1EyCv65yO...)"
+python downloader.py --youtubeid="N1EyCv65yO" --output="SD2052 Best VGM 2014 - Qbeh-1 : The Atlas Cube - Elevation's comments (YT ID N1EyCv65yO).json"
+echo "Archiving SD video 2053, Best VGM 2015 - Axiom Verge - The Axiom (Title Screen)'s comments (YouTube id 1UZ1fKOlZC...)"
+python downloader.py --youtubeid="1UZ1fKOlZC" --output="SD2053 Best VGM 2015 - Axiom Verge - The Axiom (Title Screen)'s comments (YT ID 1UZ1fKOlZC).json"
+echo "Archiving SD video 2054, [GOTY 2016 #10] Best VGM 2016 - I am Setsuna - The Winter Breeze's comments (YouTube id o5tflPmrT5...)"
+python downloader.py --youtubeid="o5tflPmrT5" --output="SD2054 [GOTY 2016 #10] Best VGM 2016 - I am Setsuna - The Winter Breeze's comments (YT ID o5tflPmrT5).json"
+echo "Archiving SD video 2055, [GOTY 2016 #9] Best VGM 2017 - Firewatch - Thorofare Hike's comments (YouTube id xZHoULMU6f...)"
+python downloader.py --youtubeid="xZHoULMU6f" --output="SD2055 [GOTY 2016 #9] Best VGM 2017 - Firewatch - Thorofare Hike's comments (YT ID xZHoULMU6f).json"
+echo "Archiving SD video 2056, [GOTY 2016 #8] Best VGM 2018 - Gears of War 4 - Main Theme's comments (YouTube id ZulAUy2_mZ...)"
+python downloader.py --youtubeid="ZulAUy2_mZ" --output="SD2056 [GOTY 2016 #8] Best VGM 2018 - Gears of War 4 - Main Theme's comments (YT ID ZulAUy2_mZ).json"
+echo "Archiving SD video 2057, [GOTY 2016 #7] Best VGM 2019 - Thumper - Triangle's comments (YouTube id K2fx7bngK8...)"
+python downloader.py --youtubeid="K2fx7bngK8" --output="SD2057 [GOTY 2016 #7] Best VGM 2019 - Thumper - Triangle's comments (YT ID K2fx7bngK8).json"
+echo "Archiving SD video 2058, [GOTY 2016 #6] Best VGM 2020 - Inside - Submarine's comments (YouTube id 1KCcXn5xBe...)"
+python downloader.py --youtubeid="1KCcXn5xBe" --output="SD2058 [GOTY 2016 #6] Best VGM 2020 - Inside - Submarine's comments (YT ID 1KCcXn5xBe).json"
+echo "Archiving SD video 2059, [GOTY 2016 #5] Best VGM 2021 - DOOM - BFG Division's comments (YouTube id 44vPlW8_X3...)"
+python downloader.py --youtubeid="44vPlW8_X3" --output="SD2059 [GOTY 2016 #5] Best VGM 2021 - DOOM - BFG Division's comments (YT ID 44vPlW8_X3).json"
+echo "Archiving SD video 2060, [GOTY 2016 #4] Best VGM 2022 - Momodora : Reverie Under the Moonlight - Sacred Ordalia Grove's comments (YouTube id Roj5F9QZEp...)"
+python downloader.py --youtubeid="Roj5F9QZEp" --output="SD2060 [GOTY 2016 #4] Best VGM 2022 - Momodora : Reverie Under the Moonlight - Sacred Ordalia Grove's comments (YT ID Roj5F9QZEp).json"
+echo "Archiving SD video 2061, [GOTY 2016 #3] Best VGM 2023 - Pokemon GO - Map Theme ~ Walking at Night's comments (YouTube id ZJGF0_ycDp...)"
+python downloader.py --youtubeid="ZJGF0_ycDp" --output="SD2061 [GOTY 2016 #3] Best VGM 2023 - Pokemon GO - Map Theme ~ Walking at Night's comments (YT ID ZJGF0_ycDp).json"
+echo "Archiving SD video 2062, [GOTY 2016 #2] Best VGM 2024 - Metroid AM2R - Initial Descent's comments (YouTube id LXuXWMV2hW...)"
+python downloader.py --youtubeid="LXuXWMV2hW" --output="SD2062 [GOTY 2016 #2] Best VGM 2024 - Metroid AM2R - Initial Descent's comments (YT ID LXuXWMV2hW).json"
+echo "Archiving SD video 2063, [GOTY 2016 #1] Best VGM 2025 - Hyper Light Drifter - The Midnight Wood's comments (YouTube id nuUYTK6122...)"
+python downloader.py --youtubeid="nuUYTK6122" --output="SD2063 [GOTY 2016 #1] Best VGM 2025 - Hyper Light Drifter - The Midnight Wood's comments (YT ID nuUYTK6122).json"
+echo "Archiving SD video 2064, Best VGM 2026 - Yoshi's Woolly World - Shy But Deadly's comments (YouTube id XG7HmRvDb5...)"
+python downloader.py --youtubeid="XG7HmRvDb5" --output="SD2064 Best VGM 2026 - Yoshi's Woolly World - Shy But Deadly's comments (YT ID XG7HmRvDb5).json"
+echo "Archiving SD video 2065, Best VGM 2028 - Persona 5 - The Days When My Mother Was There (Pyramid)'s comments (YouTube id KWRoyFQ1Sj...)"
+python downloader.py --youtubeid="KWRoyFQ1Sj" --output="SD2065 Best VGM 2028 - Persona 5 - The Days When My Mother Was There (Pyramid)'s comments (YT ID KWRoyFQ1Sj).json"
+echo "Archiving SD video 2066, Best VGM 2029 - Klonoa - Nevertheless's comments (YouTube id CHd4iWEFAR...)"
+python downloader.py --youtubeid="CHd4iWEFAR" --output="SD2066 Best VGM 2029 - Klonoa - Nevertheless's comments (YT ID CHd4iWEFAR).json"
+echo "Archiving SD video 2067, Best VGM 2030 - Soma Bringer - - Ring -'s comments (YouTube id MxShFnOgCn...)"
+python downloader.py --youtubeid="MxShFnOgCn" --output="SD2067 Best VGM 2030 - Soma Bringer - - Ring -'s comments (YT ID MxShFnOgCn).json"
+echo "Archiving SD video 2068, Best VGM 2031 - Zelda : Breath of the Wild - Hyrule Castle's comments (YouTube id DTzf-vahsd...)"
+python downloader.py --youtubeid="DTzf-vahsd" --output="SD2068 Best VGM 2031 - Zelda : Breath of the Wild - Hyrule Castle's comments (YT ID DTzf-vahsd).json"
+echo "Archiving SD video 2069, Best VGM 2032 - Musashi Samurai Legend - A New Hope's comments (YouTube id JxhYFSN_xQ...)"
+python downloader.py --youtubeid="JxhYFSN_xQ" --output="SD2069 Best VGM 2032 - Musashi Samurai Legend - A New Hope's comments (YT ID JxhYFSN_xQ).json"
+echo "Archiving SD video 2070, Best VGM 2033 - Elemental Master - Setting Out (Staff Roll)'s comments (YouTube id dobKarKesA...)"
+python downloader.py --youtubeid="dobKarKesA" --output="SD2070 Best VGM 2033 - Elemental Master - Setting Out (Staff Roll)'s comments (YT ID dobKarKesA).json"
+echo "Archiving SD video 2071, Best VGM 2034 - Animal Crossing : New Leaf - 7PM's comments (YouTube id qmeaNH7mWA...)"
+python downloader.py --youtubeid="qmeaNH7mWA" --output="SD2071 Best VGM 2034 - Animal Crossing : New Leaf - 7PM's comments (YT ID qmeaNH7mWA).json"
+echo "Archiving SD video 2072, Best VGM 2035 - NeoTokyo - Impetus's comments (YouTube id -oGZIqeeTt...)"
+python downloader.py --youtubeid="-oGZIqeeTt" --output="SD2072 Best VGM 2035 - NeoTokyo - Impetus's comments (YT ID -oGZIqeeTt).json"
+echo "Archiving SD video 2073, Best VGM 2037 - Super Stickman Golf 2 - Pleased's comments (YouTube id uM3dR2VbMc...)"
+python downloader.py --youtubeid="uM3dR2VbMc" --output="SD2073 Best VGM 2037 - Super Stickman Golf 2 - Pleased's comments (YT ID uM3dR2VbMc).json"
+echo "Archiving SD video 2074, Best VGM 2038 - Yooka-Laylee - Tropic Trials's comments (YouTube id uURUC6yEMZ...)"
+python downloader.py --youtubeid="uURUC6yEMZ" --output="SD2074 Best VGM 2038 - Yooka-Laylee - Tropic Trials's comments (YT ID uURUC6yEMZ).json"
+echo "Archiving SD video 2075, Best VGM 2039 - Dustforce - Pillars of Pepper's comments (YouTube id -Q2Srm60GL...)"
+python downloader.py --youtubeid="-Q2Srm60GL" --output="SD2075 Best VGM 2039 - Dustforce - Pillars of Pepper's comments (YT ID -Q2Srm60GL).json"
+echo "Archiving SD video 2076, Best VGM 2040 - Super Mario 3D World - Sprawling Savanna's comments (YouTube id UmTX3cPnxX...)"
+python downloader.py --youtubeid="UmTX3cPnxX" --output="SD2076 Best VGM 2040 - Super Mario 3D World - Sprawling Savanna's comments (YT ID UmTX3cPnxX).json"
+echo "Archiving SD video 2077, Best VGM 2042 - The Legendary Starfy - Hotcha Springs's comments (YouTube id TcKSIuOSs4...)"
+python downloader.py --youtubeid="TcKSIuOSs4" --output="SD2077 Best VGM 2042 - The Legendary Starfy - Hotcha Springs's comments (YT ID TcKSIuOSs4).json"
+echo "Archiving SD video 2078, Best VGM 2043 - Katamari Forever - Cherry Blossom Color Season (fanfare mix)'s comments (YouTube id k0f4cCJqUb...)"
+python downloader.py --youtubeid="k0f4cCJqUb" --output="SD2078 Best VGM 2043 - Katamari Forever - Cherry Blossom Color Season (fanfare mix)'s comments (YT ID k0f4cCJqUb).json"
+echo "Archiving SD video 2079, Best VGM 2044 - Paper Mario : The Thousand Year Door - Doopliss Battle's comments (YouTube id 763w2hsKUp...)"
+python downloader.py --youtubeid="763w2hsKUp" --output="SD2079 Best VGM 2044 - Paper Mario : The Thousand Year Door - Doopliss Battle's comments (YT ID 763w2hsKUp).json"
+echo "Archiving SD video 2080, Best VGM 2045 - Castlevania : Symphony of the Night - Marble Gallery's comments (YouTube id BCjRd3LfRk...)"
+python downloader.py --youtubeid="BCjRd3LfRk" --output="SD2080 Best VGM 2045 - Castlevania : Symphony of the Night - Marble Gallery's comments (YT ID BCjRd3LfRk).json"
+echo "Archiving SD video 2081, Best VGM 2046 - Boot Hill Heroes - Theme of the Past's comments (YouTube id vz59icOE03...)"
+python downloader.py --youtubeid="vz59icOE03" --output="SD2081 Best VGM 2046 - Boot Hill Heroes - Theme of the Past's comments (YT ID vz59icOE03).json"
+echo "Archiving SD video 2082, Best VGM 2047 - Asterix & Obelix - Swiss Frontier's comments (YouTube id nEBoB571s9...)"
+python downloader.py --youtubeid="nEBoB571s9" --output="SD2082 Best VGM 2047 - Asterix & Obelix - Swiss Frontier's comments (YT ID nEBoB571s9).json"
+echo "Archiving SD video 2083, Best VGM 2048 - Nintendo 3DS Guide : Louvre - Main Theme's comments (YouTube id 81dgZtXKMI...)"
+python downloader.py --youtubeid="81dgZtXKMI" --output="SD2083 Best VGM 2048 - Nintendo 3DS Guide : Louvre - Main Theme's comments (YT ID 81dgZtXKMI).json"
+echo "Archiving SD video 2084, Best VGM 2049 - Undertale - Ruins's comments (YouTube id OpvLr9vyOh...)"
+python downloader.py --youtubeid="OpvLr9vyOh" --output="SD2084 Best VGM 2049 - Undertale - Ruins's comments (YT ID OpvLr9vyOh).json"
+echo "Archiving SD video 2085, Best VGM 2050 - Snake Pass - Sog-Gee's Realm (World 2 ~ Water)'s comments (YouTube id ERUnY6EIsn...)"
+python downloader.py --youtubeid="ERUnY6EIsn" --output="SD2085 Best VGM 2050 - Snake Pass - Sog-Gee's Realm (World 2 ~ Water)'s comments (YT ID ERUnY6EIsn).json"
+echo "Archiving SD video 2086, Best VGM 2051 - Sonic and the Black Knight - Deep Woods's comments (YouTube id 7sc7R7jeOX...)"
+python downloader.py --youtubeid="7sc7R7jeOX" --output="SD2086 Best VGM 2051 - Sonic and the Black Knight - Deep Woods's comments (YT ID 7sc7R7jeOX).json"
+echo "Archiving SD video 2087, Best VGM 2053 - Pop'n Music 18 - Byakuya-Gentou's comments (YouTube id ygqp3eNXbI...)"
+python downloader.py --youtubeid="ygqp3eNXbI" --output="SD2087 Best VGM 2053 - Pop'n Music 18 - Byakuya-Gentou's comments (YT ID ygqp3eNXbI).json"
+echo "Archiving SD video 2088, Best VGM 2054 - Dewy's Adventure - Ancient Sensation's comments (YouTube id f_UurCb4AD...)"
+python downloader.py --youtubeid="f_UurCb4AD" --output="SD2088 Best VGM 2054 - Dewy's Adventure - Ancient Sensation's comments (YT ID f_UurCb4AD).json"
+echo "Archiving SD video 2089, Best VGM 2055 - Legend of Dragoon - Peace Between Hills's comments (YouTube id TIzYqi_QFY...)"
+python downloader.py --youtubeid="TIzYqi_QFY" --output="SD2089 Best VGM 2055 - Legend of Dragoon - Peace Between Hills's comments (YT ID TIzYqi_QFY).json"
+echo "Archiving SD video 2090, Best VGM 2056 - Etrian Odyssey IV - Labyrinth V ~ City of Radiant Ruin's comments (YouTube id TaRAKfltBf...)"
+python downloader.py --youtubeid="TaRAKfltBf" --output="SD2090 Best VGM 2056 - Etrian Odyssey IV - Labyrinth V ~ City of Radiant Ruin's comments (YT ID TaRAKfltBf).json"
+echo "Archiving SD video 2091, Best VGM 2057 - Breath of Fire III - Eden's comments (YouTube id YEoAPCEZyA...)"
+python downloader.py --youtubeid="YEoAPCEZyA" --output="SD2091 Best VGM 2057 - Breath of Fire III - Eden's comments (YT ID YEoAPCEZyA).json"
+echo "Archiving SD video 2092, Best VGM 2058 - Faxanadu - Land of Mist's comments (YouTube id ABYH2x7xaB...)"
+python downloader.py --youtubeid="ABYH2x7xaB" --output="SD2092 Best VGM 2058 - Faxanadu - Land of Mist's comments (YT ID ABYH2x7xaB).json"
+echo "Archiving SD video 2093, Best VGM 2059 - Metroid Prime 3 - Gandrayda Battle's comments (YouTube id 31NHdGB1ZS...)"
+python downloader.py --youtubeid="31NHdGB1ZS" --output="SD2093 Best VGM 2059 - Metroid Prime 3 - Gandrayda Battle's comments (YT ID 31NHdGB1ZS).json"
+echo "Archiving SD video 2094, Best VGM 2060 - Mega Man 9 - Magma Burning (Magma Man Stage)'s comments (YouTube id hYHMbcC08x...)"
+python downloader.py --youtubeid="hYHMbcC08x" --output="SD2094 Best VGM 2060 - Mega Man 9 - Magma Burning (Magma Man Stage)'s comments (YT ID hYHMbcC08x).json"
+echo "Archiving SD video 2095, Best VGM 2061 - Lost Odyssey - Saman, Town of Merchants's comments (YouTube id TdxJKAvFEI...)"
+python downloader.py --youtubeid="TdxJKAvFEI" --output="SD2095 Best VGM 2061 - Lost Odyssey - Saman, Town of Merchants's comments (YT ID TdxJKAvFEI).json"
+echo "Archiving SD video 2096, Best VGM 2062 - Phoenix Wright : Trials and Tribulations - Fragrance of Dark Coffee's comments (YouTube id oseD00muRc...)"
+python downloader.py --youtubeid="oseD00muRc" --output="SD2096 Best VGM 2062 - Phoenix Wright : Trials and Tribulations - Fragrance of Dark Coffee's comments (YT ID oseD00muRc).json"
+echo "Archiving SD video 2097, Best VGM 2063 - Tekken 7 - Kazumi's Theme's comments (YouTube id ysoz5EnW6r...)"
+python downloader.py --youtubeid="ysoz5EnW6r" --output="SD2097 Best VGM 2063 - Tekken 7 - Kazumi's Theme's comments (YT ID ysoz5EnW6r).json"
+echo "Archiving SD video 2098, Best VGM 2064 - Demon's Crest - Memorial of the Fallen Ones's comments (YouTube id eCS1Tzbcbr...)"
+python downloader.py --youtubeid="eCS1Tzbcbr" --output="SD2098 Best VGM 2064 - Demon's Crest - Memorial of the Fallen Ones's comments (YT ID eCS1Tzbcbr).json"
+echo "Archiving SD video 2099, Best VGM 2065 - Battletoads & Double Dragon - Abobo (Stage 1)'s comments (YouTube id LScvuN6-ZW...)"
+python downloader.py --youtubeid="LScvuN6-ZW" --output="SD2099 Best VGM 2065 - Battletoads & Double Dragon - Abobo (Stage 1)'s comments (YT ID LScvuN6-ZW).json"
+echo "Archiving SD video 2100, Best VGM 2066 - Soma - Satellite's comments (YouTube id 8hzjxWVQnx...)"
+python downloader.py --youtubeid="8hzjxWVQnx" --output="SD2100 Best VGM 2066 - Soma - Satellite's comments (YT ID 8hzjxWVQnx).json"
+echo "Archiving SD video 2101, Best VGM 2067 - Skies of Arcadia - Dungeon Cave's comments (YouTube id CumPOZtsxk...)"
+python downloader.py --youtubeid="CumPOZtsxk" --output="SD2101 Best VGM 2067 - Skies of Arcadia - Dungeon Cave's comments (YT ID CumPOZtsxk).json"
+echo "Archiving SD video 2102, Best VGM 2068 - Gran Turismo 5 - Slow on the Uptake's comments (YouTube id MbkMki62A4...)"
+python downloader.py --youtubeid="MbkMki62A4" --output="SD2102 Best VGM 2068 - Gran Turismo 5 - Slow on the Uptake's comments (YT ID MbkMki62A4).json"
+echo "Archiving SD video 2103, Best VGM 2070 - The 7th Saga - Overworld's comments (YouTube id KTHBvQKkib...)"
+python downloader.py --youtubeid="KTHBvQKkib" --output="SD2103 Best VGM 2070 - The 7th Saga - Overworld's comments (YT ID KTHBvQKkib).json"
+echo "Archiving SD video 2104, Best VGM 2071 - Metal Gear Solid - Rex's Lair's comments (YouTube id tNvY96zRei...)"
+python downloader.py --youtubeid="tNvY96zRei" --output="SD2104 Best VGM 2071 - Metal Gear Solid - Rex's Lair's comments (YT ID tNvY96zRei).json"
+echo "Archiving SD video 2105, Best VGM 2072 - Phantasy Star Online - Leaving Flow's comments (YouTube id DS825tbc9T...)"
+python downloader.py --youtubeid="DS825tbc9T" --output="SD2105 Best VGM 2072 - Phantasy Star Online - Leaving Flow's comments (YT ID DS825tbc9T).json"
+echo "Archiving SD video 2106, Best VGM 2073 - Pokemon Art Academy - BGM 03's comments (YouTube id iTUBlKA5If...)"
+python downloader.py --youtubeid="iTUBlKA5If" --output="SD2106 Best VGM 2073 - Pokemon Art Academy - BGM 03's comments (YT ID iTUBlKA5If).json"
+echo "Archiving SD video 2107, Best VGM 2074 - Croc 2 - Hang Glider Valley's comments (YouTube id GNqR9kGLAe...)"
+python downloader.py --youtubeid="GNqR9kGLAe" --output="SD2107 Best VGM 2074 - Croc 2 - Hang Glider Valley's comments (YT ID GNqR9kGLAe).json"
+echo "Archiving SD video 2108, Best VGM 2075 - Yakuza 0 - Friday Night's comments (YouTube id CLl8UR5vrM...)"
+python downloader.py --youtubeid="CLl8UR5vrM" --output="SD2108 Best VGM 2075 - Yakuza 0 - Friday Night's comments (YT ID CLl8UR5vrM).json"
+echo "Archiving SD video 2109, Best VGM 2076 - Secret of Evermore - Ebon Keep ~ Castle's comments (YouTube id _C_fXeDZHK...)"
+python downloader.py --youtubeid="_C_fXeDZHK" --output="SD2109 Best VGM 2076 - Secret of Evermore - Ebon Keep ~ Castle's comments (YT ID _C_fXeDZHK).json"
+echo "Archiving SD video 2110, Best VGM 2077 - Vampire The Masquerade : Bloodlines - Downtown's comments (YouTube id Mn3HPClpZ6...)"
+python downloader.py --youtubeid="Mn3HPClpZ6" --output="SD2110 Best VGM 2077 - Vampire The Masquerade : Bloodlines - Downtown's comments (YT ID Mn3HPClpZ6).json"
+echo "Archiving SD video 2111, Best VGM 2078 - 3D Dot Game Heroes - Raejack Village's comments (YouTube id BQRKQ-CQ27...)"
+python downloader.py --youtubeid="BQRKQ-CQ27" --output="SD2111 Best VGM 2078 - 3D Dot Game Heroes - Raejack Village's comments (YT ID BQRKQ-CQ27).json"
+echo "Archiving SD video 2112, Best VGM 2079 - Grounseed - Spirit's comments (YouTube id 7u3tJbtAi_...)"
+python downloader.py --youtubeid="7u3tJbtAi_" --output="SD2112 Best VGM 2079 - Grounseed - Spirit's comments (YT ID 7u3tJbtAi_).json"
+echo "Archiving SD video 2113, Best VGM 2080 - Super Runabout - Candy ~Blues for M~'s comments (YouTube id 9VE72cRcQK...)"
+python downloader.py --youtubeid="9VE72cRcQK" --output="SD2113 Best VGM 2080 - Super Runabout - Candy ~Blues for M~'s comments (YT ID 9VE72cRcQK).json"
+echo "Archiving SD video 2114, Best VGM 2081 - Miitopia - Battle ­~ The Sky Scraper's comments (YouTube id wv6HHTa4jj...)"
+python downloader.py --youtubeid="wv6HHTa4jj" --output="SD2114 Best VGM 2081 - Miitopia - Battle ­~ The Sky Scraper's comments (YT ID wv6HHTa4jj).json"
+echo "Archiving SD video 2115, Best VGM 2082 - Jack Bros. - Mecha Fortress's comments (YouTube id GaOT77kUTD...)"
+python downloader.py --youtubeid="GaOT77kUTD" --output="SD2115 Best VGM 2082 - Jack Bros. - Mecha Fortress's comments (YT ID GaOT77kUTD).json"
+echo "Archiving SD video 2116, Best VGM 2083 - Castlevania : Dracula X - Cemetery (Stage 4)'s comments (YouTube id DzXQKut6Ih...)"
+python downloader.py --youtubeid="DzXQKut6Ih" --output="SD2116 Best VGM 2083 - Castlevania : Dracula X - Cemetery (Stage 4)'s comments (YT ID DzXQKut6Ih).json"
+echo "Archiving SD video 2117, Best VGM 2084 - Wild Arms 4  - Taste of the Sand that Sheds no Tears's comments (YouTube id mHUE5GkAUX...)"
+python downloader.py --youtubeid="mHUE5GkAUX" --output="SD2117 Best VGM 2084 - Wild Arms 4  - Taste of the Sand that Sheds no Tears's comments (YT ID mHUE5GkAUX).json"
+echo "Archiving SD video 2118, Best VGM 2085 - Sonic Mania - Titanic Monarch Zone Act 1's comments (YouTube id 248TO66gf8...)"
+python downloader.py --youtubeid="248TO66gf8" --output="SD2118 Best VGM 2085 - Sonic Mania - Titanic Monarch Zone Act 1's comments (YT ID 248TO66gf8).json"
+echo "Archiving SD video 2119, Best VGM 2087 - Treasure Master - The Moon (Stage 2)'s comments (YouTube id nJN-xeA7ZJ...)"
+python downloader.py --youtubeid="nJN-xeA7ZJ" --output="SD2119 Best VGM 2087 - Treasure Master - The Moon (Stage 2)'s comments (YT ID nJN-xeA7ZJ).json"
+echo "Archiving SD video 2120, Best VGM 2088 - Dragon Ball Z : The Legacy of Goku II - Kami's Lookout's comments (YouTube id Ca4QJ_pDqp...)"
+python downloader.py --youtubeid="Ca4QJ_pDqp" --output="SD2120 Best VGM 2088 - Dragon Ball Z : The Legacy of Goku II - Kami's Lookout's comments (YT ID Ca4QJ_pDqp).json"
+echo "Archiving SD video 2121, Best VGM 2089 - Mario + Rabbids Kingdom Battle - Spooky Skirmish's comments (YouTube id _U3JUtO8a9...)"
+python downloader.py --youtubeid="_U3JUtO8a9" --output="SD2121 Best VGM 2089 - Mario + Rabbids Kingdom Battle - Spooky Skirmish's comments (YT ID _U3JUtO8a9).json"
+echo "Archiving SD video 2122, Best VGM 2090 - Advance Wars - Andy's Theme's comments (YouTube id _jWbBWpfBW...)"
+python downloader.py --youtubeid="_jWbBWpfBW" --output="SD2122 Best VGM 2090 - Advance Wars - Andy's Theme's comments (YT ID _jWbBWpfBW).json"
+echo "Archiving SD video 2123, Best VGM 2091 - Evoland II - Searching for Something (Game of Cards)'s comments (YouTube id q-NUnKMEXn...)"
+python downloader.py --youtubeid="q-NUnKMEXn" --output="SD2123 Best VGM 2091 - Evoland II - Searching for Something (Game of Cards)'s comments (YT ID q-NUnKMEXn).json"
+echo "Archiving SD video 2124, Best VGM 2092 - Radiata Stories - Itinerant Party's comments (YouTube id -u_udSjbXg...)"
+python downloader.py --youtubeid="-u_udSjbXg" --output="SD2124 Best VGM 2092 - Radiata Stories - Itinerant Party's comments (YT ID -u_udSjbXg).json"
+echo "Archiving SD video 2125, The Best VGM List is 10 Years Old!'s comments (YouTube id 76CbK3mdHd...)"
+python downloader.py --youtubeid="76CbK3mdHd" --output="SD2125 The Best VGM List is 10 Years Old!'s comments (YT ID 76CbK3mdHd).json"
+echo "Archiving SD video 2126, [SD Cover] Xenogears - Shevat, The Wind is Calling's comments (YouTube id RnNv4scRat...)"
+python downloader.py --youtubeid="RnNv4scRat" --output="SD2126 [SD Cover] Xenogears - Shevat, The Wind is Calling's comments (YT ID RnNv4scRat).json"
+echo "Archiving SD video 2127, Best VGM 2094 - Summoner - Ikaemos Swamp's comments (YouTube id 5CLpmBIb4M...)"
+python downloader.py --youtubeid="5CLpmBIb4M" --output="SD2127 Best VGM 2094 - Summoner - Ikaemos Swamp's comments (YT ID 5CLpmBIb4M).json"
+echo "Archiving SD video 2128, Best VGM 2095 - Bravely Default - Land of Radiant Flowers's comments (YouTube id TTt_-gE9iP...)"
+python downloader.py --youtubeid="TTt_-gE9iP" --output="SD2128 Best VGM 2095 - Bravely Default - Land of Radiant Flowers's comments (YT ID TTt_-gE9iP).json"
+echo "Archiving SD video 2129, Best VGM 2096 - Suikoden III - Beautiful Grasslands's comments (YouTube id 5ZMI6Gu2aa...)"
+python downloader.py --youtubeid="5ZMI6Gu2aa" --output="SD2129 Best VGM 2096 - Suikoden III - Beautiful Grasslands's comments (YT ID 5ZMI6Gu2aa).json"
+echo "Archiving SD video 2130, Best VGM 2097 - Super Mario RPG - Fight Against Smithy's comments (YouTube id OXHIuTm-w2...)"
+python downloader.py --youtubeid="OXHIuTm-w2" --output="SD2130 Best VGM 2097 - Super Mario RPG - Fight Against Smithy's comments (YT ID OXHIuTm-w2).json"
+echo "Archiving SD video 2131, Best VGM 2098 - Jade Cocoon - Battle Drill's comments (YouTube id eWsYdciDkq...)"
+python downloader.py --youtubeid="eWsYdciDkq" --output="SD2131 Best VGM 2098 - Jade Cocoon - Battle Drill's comments (YT ID eWsYdciDkq).json"
+echo "Archiving SD video 2132, Best VGM 2099 - Shadow Hearts II : Covenant - Deep in Coma (Battle in Japan)'s comments (YouTube id HaRmFcPG7o...)"
+python downloader.py --youtubeid="HaRmFcPG7o" --output="SD2132 Best VGM 2099 - Shadow Hearts II : Covenant - Deep in Coma (Battle in Japan)'s comments (YT ID HaRmFcPG7o).json"
+echo "Archiving SD video 2133, Best VGM 2100 - Dark Souls - Gwynevere, Princess of Sunlight's comments (YouTube id dgD5lgqNzP...)"
+python downloader.py --youtubeid="dgD5lgqNzP" --output="SD2133 Best VGM 2100 - Dark Souls - Gwynevere, Princess of Sunlight's comments (YT ID dgD5lgqNzP).json"
+echo "Archiving SD video 2134, Best VGM 2101 - Super Mario Odyssey - Jump Up, Super Star!'s comments (YouTube id M_B1DJu8Fl...)"
+python downloader.py --youtubeid="M_B1DJu8Fl" --output="SD2134 Best VGM 2101 - Super Mario Odyssey - Jump Up, Super Star!'s comments (YT ID M_B1DJu8Fl).json"
+echo "Archiving SD video 2135, Best VGM 2102 - Castlevania : Aria of Sorrow - Inner Quarters's comments (YouTube id q87OASJOKO...)"
+python downloader.py --youtubeid="q87OASJOKO" --output="SD2135 Best VGM 2102 - Castlevania : Aria of Sorrow - Inner Quarters's comments (YT ID q87OASJOKO).json"
+echo "Archiving SD video 2136, Best VGM 2103 - Titan Souls - The First Guardian's comments (YouTube id RNkUpb36Kh...)"
+python downloader.py --youtubeid="RNkUpb36Kh" --output="SD2136 Best VGM 2103 - Titan Souls - The First Guardian's comments (YT ID RNkUpb36Kh).json"
+echo "Archiving SD video 2137, Best VGM 2104 - Pilotwings 64 - Replay / Results's comments (YouTube id NuSPcCqiCZ...)"
+python downloader.py --youtubeid="NuSPcCqiCZ" --output="SD2137 Best VGM 2104 - Pilotwings 64 - Replay / Results's comments (YT ID NuSPcCqiCZ).json"
+echo "Archiving SD video 2138, Best VGM 2105 - Zelda : Spirit Tracks - Realm Overworld (Full Steam Ahead)'s comments (YouTube id nvv6JrhcQS...)"
+python downloader.py --youtubeid="nvv6JrhcQS" --output="SD2138 Best VGM 2105 - Zelda : Spirit Tracks - Realm Overworld (Full Steam Ahead)'s comments (YT ID nvv6JrhcQS).json"
+echo "Archiving SD video 2139, Best VGM 2106 - Ecco the Dolphin : Defender of the Future - Aquamarine Bay's comments (YouTube id K5AOu1d79W...)"
+python downloader.py --youtubeid="K5AOu1d79W" --output="SD2139 Best VGM 2106 - Ecco the Dolphin : Defender of the Future - Aquamarine Bay's comments (YT ID K5AOu1d79W).json"
+echo "Archiving SD video 2140, Best VGM 2107 - Guardian's Crusade - Cave of Fear's comments (YouTube id zS8QlZkN_k...)"
+python downloader.py --youtubeid="zS8QlZkN_k" --output="SD2140 Best VGM 2107 - Guardian's Crusade - Cave of Fear's comments (YT ID zS8QlZkN_k).json"
+echo "Archiving SD video 2141, Best VGM 2108 - The Elder Scrolls IV : Oblivion - Watchman's Ease's comments (YouTube id P9OdKnQQch...)"
+python downloader.py --youtubeid="P9OdKnQQch" --output="SD2141 Best VGM 2108 - The Elder Scrolls IV : Oblivion - Watchman's Ease's comments (YT ID P9OdKnQQch).json"
+echo "Archiving SD video 2142, Best VGM 2109 - Chuck Rock II : Son of Chuck - Lively Lava, Spooky Cave's comments (YouTube id HtJPpVCuYG...)"
+python downloader.py --youtubeid="HtJPpVCuYG" --output="SD2142 Best VGM 2109 - Chuck Rock II : Son of Chuck - Lively Lava, Spooky Cave's comments (YT ID HtJPpVCuYG).json"
+echo "Archiving SD video 2143, Best VGM 2110 - Waterworld - Map's comments (YouTube id MkKh-oP7DB...)"
+python downloader.py --youtubeid="MkKh-oP7DB" --output="SD2143 Best VGM 2110 - Waterworld - Map's comments (YT ID MkKh-oP7DB).json"
+echo "Archiving SD video 2144, Best VGM 2111 - Sonic Forces - Fading World (Imperial Tower)'s comments (YouTube id h0LDHLeL-m...)"
+python downloader.py --youtubeid="h0LDHLeL-m" --output="SD2144 Best VGM 2111 - Sonic Forces - Fading World (Imperial Tower)'s comments (YT ID h0LDHLeL-m).json"
+echo "Archiving SD video 2145, Best VGM 2113 - Ittle Dew 2 - Stars (Star Woods)'s comments (YouTube id 4CEc0t0t46...)"
+python downloader.py --youtubeid="4CEc0t0t46" --output="SD2145 Best VGM 2113 - Ittle Dew 2 - Stars (Star Woods)'s comments (YT ID 4CEc0t0t46).json"
+echo "Archiving SD video 2146, Best VGM 2114 - Black/Matrix - Deboneir's comments (YouTube id dd2dbckq54...)"
+python downloader.py --youtubeid="dd2dbckq54" --output="SD2146 Best VGM 2114 - Black/Matrix - Deboneir's comments (YT ID dd2dbckq54).json"
+echo "Archiving SD video 2147, Best VGM 2115 - Mario Kart: Double Dash!! - Sherbet Land's comments (YouTube id y9SFrBt1xt...)"
+python downloader.py --youtubeid="y9SFrBt1xt" --output="SD2147 Best VGM 2115 - Mario Kart: Double Dash!! - Sherbet Land's comments (YT ID y9SFrBt1xt).json"
+echo "Archiving SD video 2148, Best VGM 2116 - Undertale - Snowdin Town's comments (YouTube id hNCGAN-eyu...)"
+python downloader.py --youtubeid="hNCGAN-eyu" --output="SD2148 Best VGM 2116 - Undertale - Snowdin Town's comments (YT ID hNCGAN-eyu).json"
+echo "Archiving SD video 2149, Best VGM 2117 - Emil Chronicle Online - Snow Mirage's comments (YouTube id Urqrn3sZbH...)"
+python downloader.py --youtubeid="Urqrn3sZbH" --output="SD2149 Best VGM 2117 - Emil Chronicle Online - Snow Mirage's comments (YT ID Urqrn3sZbH).json"
+echo "Archiving SD video 2150, Best VGM 2118 - Kirby 64 : The Crystal Shards - Shiver Star's comments (YouTube id mRGdr6iahg...)"
+python downloader.py --youtubeid="mRGdr6iahg" --output="SD2150 Best VGM 2118 - Kirby 64 : The Crystal Shards - Shiver Star's comments (YT ID mRGdr6iahg).json"
+echo "Archiving SD video 2151, Best VGM 2119 - Shovel Knight - A Cool Reception (Stranded Ship ~ Polar Knight)'s comments (YouTube id JKVUavdztA...)"
+python downloader.py --youtubeid="JKVUavdztA" --output="SD2151 Best VGM 2119 - Shovel Knight - A Cool Reception (Stranded Ship ~ Polar Knight)'s comments (YT ID JKVUavdztA).json"
+echo "Archiving SD video 2152, Best VGM 2120 - Star Fox Adventures - Snowhorn Wastes's comments (YouTube id O-v3Df_q5Q...)"
+python downloader.py --youtubeid="O-v3Df_q5Q" --output="SD2152 Best VGM 2120 - Star Fox Adventures - Snowhorn Wastes's comments (YT ID O-v3Df_q5Q).json"
+echo "Archiving SD video 2153, Best VGM 2122  - Yoshi's Woolly World - Frozen Solid and Chilled's comments (YouTube id jLrqs_dvAG...)"
+python downloader.py --youtubeid="jLrqs_dvAG" --output="SD2153 Best VGM 2122  - Yoshi's Woolly World - Frozen Solid and Chilled's comments (YT ID jLrqs_dvAG).json"
+echo "Archiving SD video 2154, Best VGM 2123 - The Mummy Demastered - Salt and Sepulcher's comments (YouTube id VxJf8k4YzB...)"
+python downloader.py --youtubeid="VxJf8k4YzB" --output="SD2154 Best VGM 2123 - The Mummy Demastered - Salt and Sepulcher's comments (YT ID VxJf8k4YzB).json"
+echo "Archiving SD video 2155, Best VGM 2124 - Biker Mice from Mars - Vs. Race's comments (YouTube id h0ed9Kei7d...)"
+python downloader.py --youtubeid="h0ed9Kei7d" --output="SD2155 Best VGM 2124 - Biker Mice from Mars - Vs. Race's comments (YT ID h0ed9Kei7d).json"
+echo "Archiving SD video 2156, Best VGM 2125 - Parasite Eve - Arise Within You (Battle Theme)'s comments (YouTube id x6VlzkDSU6...)"
+python downloader.py --youtubeid="x6VlzkDSU6" --output="SD2156 Best VGM 2125 - Parasite Eve - Arise Within You (Battle Theme)'s comments (YT ID x6VlzkDSU6).json"
+echo "Archiving SD video 2157, Best VGM 2126 - Contact - Le Chef Beach's comments (YouTube id 9ZanHcT3wJ...)"
+python downloader.py --youtubeid="9ZanHcT3wJ" --output="SD2157 Best VGM 2126 - Contact - Le Chef Beach's comments (YT ID 9ZanHcT3wJ).json"
+echo "Archiving SD video 2158, Best VGM 2127 - World of Goo - Best of Times's comments (YouTube id pAlhuLOMFb...)"
+python downloader.py --youtubeid="pAlhuLOMFb" --output="SD2158 Best VGM 2127 - World of Goo - Best of Times's comments (YT ID pAlhuLOMFb).json"
+echo "Archiving SD video 2159, Best VGM 2128 - Night in the Woods - Back to the Holler (Town 1)'s comments (YouTube id cWTZEXmWcO...)"
+python downloader.py --youtubeid="cWTZEXmWcO" --output="SD2159 Best VGM 2128 - Night in the Woods - Back to the Holler (Town 1)'s comments (YT ID cWTZEXmWcO).json"
+echo "Archiving SD video 2160, Best VGM 2129 - Wario World - Credits's comments (YouTube id J6Beh5YUWd...)"
+python downloader.py --youtubeid="J6Beh5YUWd" --output="SD2160 Best VGM 2129 - Wario World - Credits's comments (YT ID J6Beh5YUWd).json"
+echo "Archiving SD video 2161, Best VGM 2130 - TMNT IV : Turtles in Time - Big Apple, 3AM's comments (YouTube id eRzo1UGPn9...)"
+python downloader.py --youtubeid="eRzo1UGPn9" --output="SD2161 Best VGM 2130 - TMNT IV : Turtles in Time - Big Apple, 3AM's comments (YT ID eRzo1UGPn9).json"
+echo "Archiving SD video 2162, Best VGM 2131 - FTL : Faster Than Light - Rockmen (Battle)'s comments (YouTube id dUcTukA0q4...)"
+python downloader.py --youtubeid="dUcTukA0q4" --output="SD2162 Best VGM 2131 - FTL : Faster Than Light - Rockmen (Battle)'s comments (YT ID dUcTukA0q4).json"
+echo "Archiving SD video 2163, Best VGM 2132 - Chrono Cross - Dragon's Prayer's comments (YouTube id Fs9FhHHQKw...)"
+python downloader.py --youtubeid="Fs9FhHHQKw" --output="SD2163 Best VGM 2132 - Chrono Cross - Dragon's Prayer's comments (YT ID Fs9FhHHQKw).json"
+echo "Archiving SD video 2164, Best VGM 2133 - Dragon Quest VII 3DS - Heavenly Village's comments (YouTube id waesdKG4rh...)"
+python downloader.py --youtubeid="waesdKG4rh" --output="SD2164 Best VGM 2133 - Dragon Quest VII 3DS - Heavenly Village's comments (YT ID waesdKG4rh).json"
+echo "Archiving SD video 2165, Best VGM 2134 - Roommania #203 - Octopus Daughter's comments (YouTube id Cnn9BW3OpJ...)"
+python downloader.py --youtubeid="Cnn9BW3OpJ" --output="SD2165 Best VGM 2134 - Roommania #203 - Octopus Daughter's comments (YT ID Cnn9BW3OpJ).json"
+echo "Archiving SD video 2166, Best VGM 2135 - Mother 4 - Boom Town Lounge's comments (YouTube id wdWZYggy75...)"
+python downloader.py --youtubeid="wdWZYggy75" --output="SD2166 Best VGM 2135 - Mother 4 - Boom Town Lounge's comments (YT ID wdWZYggy75).json"
+echo "Archiving SD video 2167, [GOTY 2017 #10] Best VGM 2136 - Little Nightmares - Prison Toys's comments (YouTube id 03L56CE7QW...)"
+python downloader.py --youtubeid="03L56CE7QW" --output="SD2167 [GOTY 2017 #10] Best VGM 2136 - Little Nightmares - Prison Toys's comments (YT ID 03L56CE7QW).json"
+echo "Archiving SD video 2168, [GOTY 2017 #9] Best VGM 2137 - Doki Doki Literature Club! - Main Theme's comments (YouTube id XSkuBJx8q-...)"
+python downloader.py --youtubeid="XSkuBJx8q-" --output="SD2168 [GOTY 2017 #9] Best VGM 2137 - Doki Doki Literature Club! - Main Theme's comments (YT ID XSkuBJx8q-).json"
+echo "Archiving SD video 2169, [GOTY 2017 #8] Best VGM 2138 - Steamworld Dig 2 - El Machino's comments (YouTube id yzgSscW7kl...)"
+python downloader.py --youtubeid="yzgSscW7kl" --output="SD2169 [GOTY 2017 #8] Best VGM 2138 - Steamworld Dig 2 - El Machino's comments (YT ID yzgSscW7kl).json"
+echo "Archiving SD video 2170, [GOTY 2017 #7] Best VGM 2139 - What Remains of Edith Finch - Milton's Tower's comments (YouTube id b6QzJaltmU...)"
+python downloader.py --youtubeid="b6QzJaltmU" --output="SD2170 [GOTY 2017 #7] Best VGM 2139 - What Remains of Edith Finch - Milton's Tower's comments (YT ID b6QzJaltmU).json"
+echo "Archiving SD video 2171, [GOTY 2017 #6] Best VGM 2140 - Cosmic Star Heroine - Wicked Metropolis's comments (YouTube id Vt2-826EsT...)"
+python downloader.py --youtubeid="Vt2-826EsT" --output="SD2171 [GOTY 2017 #6] Best VGM 2140 - Cosmic Star Heroine - Wicked Metropolis's comments (YT ID Vt2-826EsT).json"
+echo "Archiving SD video 2172, [GOTY 2017 #5] Best VGM 2141 - Cuphead - Inkwell Isle One's comments (YouTube id SOAsm2UqII...)"
+python downloader.py --youtubeid="SOAsm2UqII" --output="SD2172 [GOTY 2017 #5] Best VGM 2141 - Cuphead - Inkwell Isle One's comments (YT ID SOAsm2UqII).json"
+echo "Archiving SD video 2173, [GOTY 2017 #3] Best VGM 2143 - Mario + Rabbids Kingdom Battle - Mid Boss Mayhem's comments (YouTube id 6xXHeaLmAc...)"
+python downloader.py --youtubeid="6xXHeaLmAc" --output="SD2173 [GOTY 2017 #3] Best VGM 2143 - Mario + Rabbids Kingdom Battle - Mid Boss Mayhem's comments (YT ID 6xXHeaLmAc).json"
+echo "Archiving SD video 2174, [GOTY 2017 #2] Best VGM 2144 - Zelda : Breath of the Wild - Hateno Village (Day)'s comments (YouTube id F0cuCvhbF9...)"
+python downloader.py --youtubeid="F0cuCvhbF9" --output="SD2174 [GOTY 2017 #2] Best VGM 2144 - Zelda : Breath of the Wild - Hateno Village (Day)'s comments (YT ID F0cuCvhbF9).json"
+echo "Archiving SD video 2175, [GOTY 2017 #1] Best VGM 2145 - Hollow Knight - City of Tears's comments (YouTube id A1b4QO48Ao...)"
+python downloader.py --youtubeid="A1b4QO48Ao" --output="SD2175 [GOTY 2017 #1] Best VGM 2145 - Hollow Knight - City of Tears's comments (YT ID A1b4QO48Ao).json"
+echo "Archiving SD video 2176, Best VGM 2146 - Castlevania : Portrait of Ruin - Jail of Jewels's comments (YouTube id s25IVZL0cu...)"
+python downloader.py --youtubeid="s25IVZL0cu" --output="SD2176 Best VGM 2146 - Castlevania : Portrait of Ruin - Jail of Jewels's comments (YT ID s25IVZL0cu).json"
+echo "Archiving SD video 2177, Best VGM 2147 - Persona 5 - Beneath the Mask's comments (YouTube id pb3EJpfIYG...)"
+python downloader.py --youtubeid="pb3EJpfIYG" --output="SD2177 Best VGM 2147 - Persona 5 - Beneath the Mask's comments (YT ID pb3EJpfIYG).json"
+echo "Archiving SD video 2178, Best VGM 2148 - Lagoon - Lagoon Castle's comments (YouTube id 3Hf0L8oddr...)"
+python downloader.py --youtubeid="3Hf0L8oddr" --output="SD2178 Best VGM 2148 - Lagoon - Lagoon Castle's comments (YT ID 3Hf0L8oddr).json"
+echo "Archiving SD video 2179, Best VGM 2149 - Opoona - Tokione's comments (YouTube id sN8gtvYdqY...)"
+python downloader.py --youtubeid="sN8gtvYdqY" --output="SD2179 Best VGM 2149 - Opoona - Tokione's comments (YT ID sN8gtvYdqY).json"
+echo "Archiving SD video 2180, Best VGM 2150 - Metal Gear Solid 4 - Old Snake's comments (YouTube id LD4OAYQx1-...)"
+python downloader.py --youtubeid="LD4OAYQx1-" --output="SD2180 Best VGM 2150 - Metal Gear Solid 4 - Old Snake's comments (YT ID LD4OAYQx1-).json"
+echo "Archiving SD video 2181, Best VGM 2151 - Xenoblade Chronicles 2 - Land of Morytha's comments (YouTube id l1UCISJoDT...)"
+python downloader.py --youtubeid="l1UCISJoDT" --output="SD2181 Best VGM 2151 - Xenoblade Chronicles 2 - Land of Morytha's comments (YT ID l1UCISJoDT).json"
+echo "Archiving SD video 2182, Best VGM 2152 - Super Stickman Golf 3 - Crystal Cliffs's comments (YouTube id AdI6nJ_sPK...)"
+python downloader.py --youtubeid="AdI6nJ_sPK" --output="SD2182 Best VGM 2152 - Super Stickman Golf 3 - Crystal Cliffs's comments (YT ID AdI6nJ_sPK).json"
+echo "Archiving SD video 2183, Best VGM 2154 - Dragon Quest IX - Cross the Fields, Cross the Mountains's comments (YouTube id xP3PDznPrw...)"
+python downloader.py --youtubeid="xP3PDznPrw" --output="SD2183 Best VGM 2154 - Dragon Quest IX - Cross the Fields, Cross the Mountains's comments (YT ID xP3PDznPrw).json"
+echo "Archiving SD video 2184, Best VGM 2156 - Machinarium - The Sea's comments (YouTube id RP5DzEkA0l...)"
+python downloader.py --youtubeid="RP5DzEkA0l" --output="SD2184 Best VGM 2156 - Machinarium - The Sea's comments (YT ID RP5DzEkA0l).json"
+echo "Archiving SD video 2185, Best VGM 2157 - Phantasy Star Online Episode III - Hi, Guys! (Lobby ~ Light)'s comments (YouTube id I4b8wCqmQf...)"
+python downloader.py --youtubeid="I4b8wCqmQf" --output="SD2185 Best VGM 2157 - Phantasy Star Online Episode III - Hi, Guys! (Lobby ~ Light)'s comments (YT ID I4b8wCqmQf).json"
+echo "Archiving SD video 2186, Best VGM 2158 - Earthbound - Hospital's comments (YouTube id NtXv9yFZI_...)"
+python downloader.py --youtubeid="NtXv9yFZI_" --output="SD2186 Best VGM 2158 - Earthbound - Hospital's comments (YT ID NtXv9yFZI_).json"
+echo "Archiving SD video 2187, Best VGM 2159 - The Elder Scrolls III : Morrowind - Peaceful Waters's comments (YouTube id DmpP-RMFNH...)"
+python downloader.py --youtubeid="DmpP-RMFNH" --output="SD2187 Best VGM 2159 - The Elder Scrolls III : Morrowind - Peaceful Waters's comments (YT ID DmpP-RMFNH).json"
+echo "Archiving SD video 2188, Best VGM 2160 - Tekken 7 - Infinite Azure (Moonsiders 1st)'s comments (YouTube id YmaHBaNxWt...)"
+python downloader.py --youtubeid="YmaHBaNxWt" --output="SD2188 Best VGM 2160 - Tekken 7 - Infinite Azure (Moonsiders 1st)'s comments (YT ID YmaHBaNxWt).json"
+echo "Archiving SD video 2189, Best VGM 2161 - Sonic CD - Tidal Tempest (US)'s comments (YouTube id RpQlfTGfEs...)"
+python downloader.py --youtubeid="RpQlfTGfEs" --output="SD2189 Best VGM 2161 - Sonic CD - Tidal Tempest (US)'s comments (YT ID RpQlfTGfEs).json"
+echo "Archiving SD video 2190, Best VGM 2162 - Mutant Mudds - World 3-2's comments (YouTube id qP_40IXc-U...)"
+python downloader.py --youtubeid="qP_40IXc-U" --output="SD2190 Best VGM 2162 - Mutant Mudds - World 3-2's comments (YT ID qP_40IXc-U).json"
+echo "Archiving SD video 2191, Best VGM 2163 - Moon : Remix RPG Adventure - Warp Wet Woods's comments (YouTube id 6TJWqX8i8-...)"
+python downloader.py --youtubeid="6TJWqX8i8-" --output="SD2191 Best VGM 2163 - Moon : Remix RPG Adventure - Warp Wet Woods's comments (YT ID 6TJWqX8i8-).json"
+echo "Archiving SD video 2192, Best VGM 2164 - Panzer Dragoon Saga - Paet's comments (YouTube id qqa_pXXSMD...)"
+python downloader.py --youtubeid="qqa_pXXSMD" --output="SD2192 Best VGM 2164 - Panzer Dragoon Saga - Paet's comments (YT ID qqa_pXXSMD).json"
+echo "Archiving SD video 2193, Best VGM 2166 - Super Paper Mario - Bounding Through Time's comments (YouTube id IYGLnkSrA5...)"
+python downloader.py --youtubeid="IYGLnkSrA5" --output="SD2193 Best VGM 2166 - Super Paper Mario - Bounding Through Time's comments (YT ID IYGLnkSrA5).json"
+echo "Archiving SD video 2194, Best VGM 2167 - Metal Warriors - Vital Mission's comments (YouTube id aRloSB3iXG...)"
+python downloader.py --youtubeid="aRloSB3iXG" --output="SD2194 Best VGM 2167 - Metal Warriors - Vital Mission's comments (YT ID aRloSB3iXG).json"
+echo "Archiving SD video 2195, Best VGM 2168 - Castlevania : Lament of Innocence - Dark Palace of Waterfalls's comments (YouTube id rSBh2ZUKuq...)"
+python downloader.py --youtubeid="rSBh2ZUKuq" --output="SD2195 Best VGM 2168 - Castlevania : Lament of Innocence - Dark Palace of Waterfalls's comments (YT ID rSBh2ZUKuq).json"
+echo "Archiving SD video 2196, Best VGM 2169 - Minecraft : Story Mode - Sky City's comments (YouTube id qBC7aIoDSH...)"
+python downloader.py --youtubeid="qBC7aIoDSH" --output="SD2196 Best VGM 2169 - Minecraft : Story Mode - Sky City's comments (YT ID qBC7aIoDSH).json"
+echo "Archiving SD video 2197, Best VGM 2170 - Zelda : Link's Awakening - First Time on Koholint (Sword Search)'s comments (YouTube id -XTYsUzDWE...)"
+python downloader.py --youtubeid="-XTYsUzDWE" --output="SD2197 Best VGM 2170 - Zelda : Link's Awakening - First Time on Koholint (Sword Search)'s comments (YT ID -XTYsUzDWE).json"
+echo "Archiving SD video 2198, Best VGM 2171 - Kingdom of Paradise - Credits's comments (YouTube id XqPsT01sZV...)"
+python downloader.py --youtubeid="XqPsT01sZV" --output="SD2198 Best VGM 2171 - Kingdom of Paradise - Credits's comments (YT ID XqPsT01sZV).json"
+echo "Archiving SD video 2199, Best VGM 2172 - Wild Arms - Funeral Procession's comments (YouTube id 7DC2Qj2LKn...)"
+python downloader.py --youtubeid="7DC2Qj2LKn" --output="SD2199 Best VGM 2172 - Wild Arms - Funeral Procession's comments (YT ID 7DC2Qj2LKn).json"
+echo "Archiving SD video 2200, Best VGM 2173 - Stunt Race FX - Sunset Valley's comments (YouTube id A-AmRMWqcB...)"
+python downloader.py --youtubeid="A-AmRMWqcB" --output="SD2200 Best VGM 2173 - Stunt Race FX - Sunset Valley's comments (YT ID A-AmRMWqcB).json"
+echo "Archiving SD video 2201, Best VGM 2174 - Dirt Trax FX - Spike's Theme's comments (YouTube id 6ZiYK9U4Tf...)"
+python downloader.py --youtubeid="6ZiYK9U4Tf" --output="SD2201 Best VGM 2174 - Dirt Trax FX - Spike's Theme's comments (YT ID 6ZiYK9U4Tf).json"
+echo "Archiving SD video 2202, Aquatic Ambiance, but Low-Pitched [Donkey Kong Country]'s comments (YouTube id 4fagP8gzQs...)"
+python downloader.py --youtubeid="4fagP8gzQs" --output="SD2202 Aquatic Ambiance, but Low-Pitched [Donkey Kong Country]'s comments (YT ID 4fagP8gzQs).json"
+echo "Archiving SD video 2203, Best VGM 2175 - Dark Cloud - The King's Curse's comments (YouTube id KWH19AGkFT...)"
+python downloader.py --youtubeid="KWH19AGkFT" --output="SD2203 Best VGM 2175 - Dark Cloud - The King's Curse's comments (YT ID KWH19AGkFT).json"
+echo "Archiving SD video 2204, Best VGM 2177 - Pokemon Quest - Nightlight Nook's comments (YouTube id qhYbg4fsPi...)"
+python downloader.py --youtubeid="qhYbg4fsPi" --output="SD2204 Best VGM 2177 - Pokemon Quest - Nightlight Nook's comments (YT ID qhYbg4fsPi).json"
+echo "Archiving SD video 2205, Stickerbush Symphony, but Very Slow [Donkey Kong Country 2]'s comments (YouTube id O0-tThDmHA...)"
+python downloader.py --youtubeid="O0-tThDmHA" --output="SD2205 Stickerbush Symphony, but Very Slow [Donkey Kong Country 2]'s comments (YT ID O0-tThDmHA).json"
+echo "Archiving SD video 2206, Best VGM 2178 - Talesweaver - The Place Forbidden to Visit by Adults's comments (YouTube id eoPtQd6adr...)"
+python downloader.py --youtubeid="eoPtQd6adr" --output="SD2206 Best VGM 2178 - Talesweaver - The Place Forbidden to Visit by Adults's comments (YT ID eoPtQd6adr).json"
+echo "Archiving SD video 2207, Best VGM 2179 - Tales of Vesperia - A Tragic Decision's comments (YouTube id MaiHaXRYtN...)"
+python downloader.py --youtubeid="MaiHaXRYtN" --output="SD2207 Best VGM 2179 - Tales of Vesperia - A Tragic Decision's comments (YT ID MaiHaXRYtN).json"
+echo "Archiving SD video 2208, Best VGM 2180 - Undertale - Enemy Approaching's comments (YouTube id dBsdllfE4E...)"
+python downloader.py --youtubeid="dBsdllfE4E" --output="SD2208 Best VGM 2180 - Undertale - Enemy Approaching's comments (YT ID dBsdllfE4E).json"
+echo "Archiving SD video 2209, Best VGM 2181 - MapleStory - Ellin Forest's comments (YouTube id 5B46aBeR4z...)"
+python downloader.py --youtubeid="5B46aBeR4z" --output="SD2209 Best VGM 2181 - MapleStory - Ellin Forest's comments (YT ID 5B46aBeR4z).json"
+echo "Archiving SD video 2210, Best VGM 2182 - Hollow Knight - Greenpath's comments (YouTube id BZWiBxlBCb...)"
+python downloader.py --youtubeid="BZWiBxlBCb" --output="SD2210 Best VGM 2182 - Hollow Knight - Greenpath's comments (YT ID BZWiBxlBCb).json"
+echo "Archiving SD video 2211, Best VGM 2183 - Donkey Kong 64 - DK Island's comments (YouTube id PFQCO_q6kW...)"
+python downloader.py --youtubeid="PFQCO_q6kW" --output="SD2211 Best VGM 2183 - Donkey Kong 64 - DK Island's comments (YT ID PFQCO_q6kW).json"
+echo "Archiving SD video 2212, Best VGM 2184 - Mii Channel's comments (YouTube id fEfuvS-V9P...)"
+python downloader.py --youtubeid="fEfuvS-V9P" --output="SD2212 Best VGM 2184 - Mii Channel's comments (YT ID fEfuvS-V9P).json"
+echo "Archiving SD video 2213, Dire Dire Docks, but Low-Pitched [Super Mario 64]'s comments (YouTube id voprTL6gLj...)"
+python downloader.py --youtubeid="voprTL6gLj" --output="SD2213 Dire Dire Docks, but Low-Pitched [Super Mario 64]'s comments (YT ID voprTL6gLj).json"
+echo "Archiving SD video 2214, Best VGM 2185 - Jet Set Radio - Sweet Soul Brother's comments (YouTube id yirRajMEud...)"
+python downloader.py --youtubeid="yirRajMEud" --output="SD2214 Best VGM 2185 - Jet Set Radio - Sweet Soul Brother's comments (YT ID yirRajMEud).json"
+echo "Archiving SD video 2215, Best VGM 2186 - Shatterhand (JP) - Area C (Carnival)'s comments (YouTube id dGF7xsF0Dm...)"
+python downloader.py --youtubeid="dGF7xsF0Dm" --output="SD2215 Best VGM 2186 - Shatterhand (JP) - Area C (Carnival)'s comments (YT ID dGF7xsF0Dm).json"
+echo "Archiving SD video 2216, Best VGM 2187 - Miitopia - Darker Lord's Left Hand's comments (YouTube id MCITsL-vfW...)"
+python downloader.py --youtubeid="MCITsL-vfW" --output="SD2216 Best VGM 2187 - Miitopia - Darker Lord's Left Hand's comments (YT ID MCITsL-vfW).json"
+echo "Archiving SD video 2217, Best VGM 2189 - Turok : Dinosaur Hunter - The Ancient City's comments (YouTube id mnPqUs4DZk...)"
+python downloader.py --youtubeid="mnPqUs4DZk" --output="SD2217 Best VGM 2189 - Turok : Dinosaur Hunter - The Ancient City's comments (YT ID mnPqUs4DZk).json"
+echo "Archiving SD video 2218, Crossing Those Hills, but Slow [Final Fantasy IX]'s comments (YouTube id bg99fPzd32...)"
+python downloader.py --youtubeid="bg99fPzd32" --output="SD2218 Crossing Those Hills, but Slow [Final Fantasy IX]'s comments (YT ID bg99fPzd32).json"
+echo "Archiving SD video 2219, Best VGM 2192 - Celeste - First Steps's comments (YouTube id WdZPEL9zoM...)"
+python downloader.py --youtubeid="WdZPEL9zoM" --output="SD2219 Best VGM 2192 - Celeste - First Steps's comments (YT ID WdZPEL9zoM).json"
+echo "Archiving SD video 2220, Best VGM 2193 - Minecraft (Update Aquatic) - Axolotl's comments (YouTube id a9MLBjUvgF...)"
+python downloader.py --youtubeid="a9MLBjUvgF" --output="SD2220 Best VGM 2193 - Minecraft (Update Aquatic) - Axolotl's comments (YT ID a9MLBjUvgF).json"
+echo "Archiving SD video 2221, Best VGM 2194 - Zelda : Skyward Sword - Lanayru Sand Sea (Past)'s comments (YouTube id 5w_SgBImsG...)"
+python downloader.py --youtubeid="5w_SgBImsG" --output="SD2221 Best VGM 2194 - Zelda : Skyward Sword - Lanayru Sand Sea (Past)'s comments (YT ID 5w_SgBImsG).json"
+echo "Archiving SD video 2222, Best VGM 2195 - Castlevania 64 - Opposing Bloodlines (Intro)'s comments (YouTube id UPdZlmyedc...)"
+python downloader.py --youtubeid="UPdZlmyedc" --output="SD2222 Best VGM 2195 - Castlevania 64 - Opposing Bloodlines (Intro)'s comments (YT ID UPdZlmyedc).json"
+echo "Archiving SD video 2223, Best VGM 2196 - Battery Jam - Night Shift's comments (YouTube id nQC4AYA14U...)"
+python downloader.py --youtubeid="nQC4AYA14U" --output="SD2223 Best VGM 2196 - Battery Jam - Night Shift's comments (YT ID nQC4AYA14U).json"
+echo "Archiving SD video 2224, Best VGM 2197 - Ys VIII : Lacrimosa of Dana - Eroded Valley's comments (YouTube id rKGlXub23p...)"
+python downloader.py --youtubeid="rKGlXub23p" --output="SD2224 Best VGM 2197 - Ys VIII : Lacrimosa of Dana - Eroded Valley's comments (YT ID rKGlXub23p).json"
+echo "Archiving SD video 2225, Best VGM 2198 - Super Mario Kart - Donut Plains's comments (YouTube id UOOmKmahDX...)"
+python downloader.py --youtubeid="UOOmKmahDX" --output="SD2225 Best VGM 2198 - Super Mario Kart - Donut Plains's comments (YT ID UOOmKmahDX).json"
+echo "Archiving SD video 2226, Best VGM 2199 - Sprint Vector - Nebula Crab's comments (YouTube id GQND5Y7_pX...)"
+python downloader.py --youtubeid="GQND5Y7_pX" --output="SD2226 Best VGM 2199 - Sprint Vector - Nebula Crab's comments (YT ID GQND5Y7_pX).json"
+echo "Archiving SD video 2227, Beneath the Mask, but Low-Pitched [Persona 5]'s comments (YouTube id 4nA1CfidgK...)"
+python downloader.py --youtubeid="4nA1CfidgK" --output="SD2227 Beneath the Mask, but Low-Pitched [Persona 5]'s comments (YT ID 4nA1CfidgK).json"
+echo "Archiving SD video 2228, Beneath the Mask (Instrumental), but Low-Pitched [Persona 5]'s comments (YouTube id Eq6JWe1EF1...)"
+python downloader.py --youtubeid="Eq6JWe1EF1" --output="SD2228 Beneath the Mask (Instrumental), but Low-Pitched [Persona 5]'s comments (YT ID Eq6JWe1EF1).json"
+echo "Archiving SD video 2229, The Best VGM List is resuming soon's comments (YouTube id MgKTXqmH8u...)"
+python downloader.py --youtubeid="MgKTXqmH8u" --output="SD2229 The Best VGM List is resuming soon's comments (YT ID MgKTXqmH8u).json"
+echo "Archiving SD video 2230, Best VGM 2200 -  World of Warcraft - Tavern / Main Theme's comments (YouTube id PRLWoJBwJF...)"
+python downloader.py --youtubeid="PRLWoJBwJF" --output="SD2230 Best VGM 2200 -  World of Warcraft - Tavern / Main Theme's comments (YT ID PRLWoJBwJF).json"
+echo "Archiving SD video 2231, Best VGM 2201 - Super Mario Odyssey - Steam Gardens's comments (YouTube id --OsLIYsK7...)"
+python downloader.py --youtubeid="--OsLIYsK7" --output="SD2231 Best VGM 2201 - Super Mario Odyssey - Steam Gardens's comments (YT ID --OsLIYsK7).json"
+echo "Archiving SD video 2232, Best VGM 2202 - Suikoden II - Even Farther (World Map 2)'s comments (YouTube id 9H5yfLLuJU...)"
+python downloader.py --youtubeid="9H5yfLLuJU" --output="SD2232 Best VGM 2202 - Suikoden II - Even Farther (World Map 2)'s comments (YT ID 9H5yfLLuJU).json"
+echo "Archiving SD video 2233, Best VGM 2204 - Octogeddon - Octopus vs  Pentagon (D.C. City)'s comments (YouTube id vbJYALn5z6...)"
+python downloader.py --youtubeid="vbJYALn5z6" --output="SD2233 Best VGM 2204 - Octogeddon - Octopus vs  Pentagon (D.C. City)'s comments (YT ID vbJYALn5z6).json"
+echo "Archiving SD video 2234, Best VGM 2205 - Mario & Luigi : Partners in Time - Toad Town's comments (YouTube id TSVG-cKj71...)"
+python downloader.py --youtubeid="TSVG-cKj71" --output="SD2234 Best VGM 2205 - Mario & Luigi : Partners in Time - Toad Town's comments (YT ID TSVG-cKj71).json"
+echo "Archiving SD video 2235, Best VGM 2206 - Golden Sun - The Elemental Stars's comments (YouTube id _Dy0WPMs9X...)"
+python downloader.py --youtubeid="_Dy0WPMs9X" --output="SD2235 Best VGM 2206 - Golden Sun - The Elemental Stars's comments (YT ID _Dy0WPMs9X).json"
+echo "Archiving SD video 2236, Best VGM 2207 - We ♥ Katamari - Blue Orb's comments (YouTube id aAJGC-zfvp...)"
+python downloader.py --youtubeid="aAJGC-zfvp" --output="SD2236 Best VGM 2207 - We ♥ Katamari - Blue Orb's comments (YT ID aAJGC-zfvp).json"
+echo "Archiving SD video 2237, Best VGM 2208 - Castlevania : Symphony of the Night - Dance of Pales's comments (YouTube id Iv0f8BSAb3...)"
+python downloader.py --youtubeid="Iv0f8BSAb3" --output="SD2237 Best VGM 2208 - Castlevania : Symphony of the Night - Dance of Pales's comments (YT ID Iv0f8BSAb3).json"
+echo "Archiving SD video 2238, Best VGM 2209 - Mega Man X3 - Gravity Beetle's comments (YouTube id zmnr68RUSo...)"
+python downloader.py --youtubeid="zmnr68RUSo" --output="SD2238 Best VGM 2209 - Mega Man X3 - Gravity Beetle's comments (YT ID zmnr68RUSo).json"
+echo "Archiving SD video 2239, Best VGM 2210 - Timespinner - Pioneer's Horizon's comments (YouTube id 39qG5aFOqS...)"
+python downloader.py --youtubeid="39qG5aFOqS" --output="SD2239 Best VGM 2210 - Timespinner - Pioneer's Horizon's comments (YT ID 39qG5aFOqS).json"
+echo "Archiving SD video 2240, Best VGM 2211 - Grandia - Twin Towers's comments (YouTube id vG5ajZ16qo...)"
+python downloader.py --youtubeid="vG5ajZ16qo" --output="SD2240 Best VGM 2211 - Grandia - Twin Towers's comments (YT ID vG5ajZ16qo).json"
+echo "Archiving SD video 2241, Best VGM 2212 - Pikmin 2 - Submerged Castle's comments (YouTube id NctBt5Pd34...)"
+python downloader.py --youtubeid="NctBt5Pd34" --output="SD2241 Best VGM 2212 - Pikmin 2 - Submerged Castle's comments (YT ID NctBt5Pd34).json"
+echo "Archiving SD video 2242, Best VGM 2213 - Super Mario World - Ghost House's comments (YouTube id DFXjKboSne...)"
+python downloader.py --youtubeid="DFXjKboSne" --output="SD2242 Best VGM 2213 - Super Mario World - Ghost House's comments (YT ID DFXjKboSne).json"
+echo "Archiving SD video 2243, Best VGM 2214 - Silent Hill 4 - Nightmarish Waltz's comments (YouTube id hrHPmA-ScE...)"
+python downloader.py --youtubeid="hrHPmA-ScE" --output="SD2243 Best VGM 2214 - Silent Hill 4 - Nightmarish Waltz's comments (YT ID hrHPmA-ScE).json"
+echo "Archiving SD video 2244, Best VGM 2215 - Banjo-Kazooie - Mad Monster Mansion's comments (YouTube id OnaXP86esj...)"
+python downloader.py --youtubeid="OnaXP86esj" --output="SD2244 Best VGM 2215 - Banjo-Kazooie - Mad Monster Mansion's comments (YT ID OnaXP86esj).json"
+echo "Archiving SD video 2245, Best VGM 2216 - Parasite Eve II - Mist's comments (YouTube id sPOt6Doc5a...)"
+python downloader.py --youtubeid="sPOt6Doc5a" --output="SD2245 Best VGM 2216 - Parasite Eve II - Mist's comments (YT ID sPOt6Doc5a).json"
+echo "Archiving SD video 2246, Best VGM 2217 - Environmental Station Alpha - Sigil Summoning's comments (YouTube id x5DuKsERoE...)"
+python downloader.py --youtubeid="x5DuKsERoE" --output="SD2246 Best VGM 2217 - Environmental Station Alpha - Sigil Summoning's comments (YT ID x5DuKsERoE).json"
+echo "Archiving SD video 2247, Best VGM 2218 - Pac Man World 3 - Spectral Zenith ~ Puzzle's comments (YouTube id TYJJZ_KXXm...)"
+python downloader.py --youtubeid="TYJJZ_KXXm" --output="SD2247 Best VGM 2218 - Pac Man World 3 - Spectral Zenith ~ Puzzle's comments (YT ID TYJJZ_KXXm).json"
+echo "Archiving SD video 2248, Best VGM 2219 - Paper Mario : The Thousand Year Door - Twilight Town's comments (YouTube id ZP65Ar5CaR...)"
+python downloader.py --youtubeid="ZP65Ar5CaR" --output="SD2248 Best VGM 2219 - Paper Mario : The Thousand Year Door - Twilight Town's comments (YT ID ZP65Ar5CaR).json"
+echo "Archiving SD video 2249, Best VGM 2220 - Deltarune - Scarlet Forest's comments (YouTube id DSdcNL0DZt...)"
+python downloader.py --youtubeid="DSdcNL0DZt" --output="SD2249 Best VGM 2220 - Deltarune - Scarlet Forest's comments (YT ID DSdcNL0DZt).json"
+echo "Archiving SD video 2250, Best VGM 2221 - Dustforce - Baryogenesis's comments (YouTube id 58Z2AyY-zm...)"
+python downloader.py --youtubeid="58Z2AyY-zm" --output="SD2250 Best VGM 2221 - Dustforce - Baryogenesis's comments (YT ID 58Z2AyY-zm).json"
+echo "Archiving SD video 2251, Best VGM 2222 - 999 : Nine Hours, Nine Persons, Nine Doors - Septenary Game's comments (YouTube id PFGusujntf...)"
+python downloader.py --youtubeid="PFGusujntf" --output="SD2251 Best VGM 2222 - 999 : Nine Hours, Nine Persons, Nine Doors - Septenary Game's comments (YT ID PFGusujntf).json"
+echo "Archiving SD video 2252, Best VGM 2223 - Donkey Kong Country 3 - Cavern Caprice's comments (YouTube id Jk1Y8nomEC...)"
+python downloader.py --youtubeid="Jk1Y8nomEC" --output="SD2252 Best VGM 2223 - Donkey Kong Country 3 - Cavern Caprice's comments (YT ID Jk1Y8nomEC).json"
+echo "Archiving SD video 2253, Best VGM 2224 - Cosmic Star Heroine - Echoes (The Hive)'s comments (YouTube id 0E96xz29iz...)"
+python downloader.py --youtubeid="0E96xz29iz" --output="SD2253 Best VGM 2224 - Cosmic Star Heroine - Echoes (The Hive)'s comments (YT ID 0E96xz29iz).json"
+echo "Archiving SD video 2254, Best VGM 2225 - Ecco The Dolphin (Sega CD) - Home Bay (Before the Storm Cometh)'s comments (YouTube id htYezX1QKe...)"
+python downloader.py --youtubeid="htYezX1QKe" --output="SD2254 Best VGM 2225 - Ecco The Dolphin (Sega CD) - Home Bay (Before the Storm Cometh)'s comments (YT ID htYezX1QKe).json"
+echo "Archiving SD video 2255, Best VGM 2226 - Zelda : Twilight Princess - Agitha's Castle's comments (YouTube id 0pCNC3bjHG...)"
+python downloader.py --youtubeid="0pCNC3bjHG" --output="SD2255 Best VGM 2226 - Zelda : Twilight Princess - Agitha's Castle's comments (YT ID 0pCNC3bjHG).json"
+echo "Archiving SD video 2256, Best VGM 2227 - Monopoly Streets - Cardboard Boardgame's comments (YouTube id J0iHBONeTK...)"
+python downloader.py --youtubeid="J0iHBONeTK" --output="SD2256 Best VGM 2227 - Monopoly Streets - Cardboard Boardgame's comments (YT ID J0iHBONeTK).json"
+echo "Archiving SD video 2257, Best VGM 2229 - Hyper Light Drifter - The Water Shelf's comments (YouTube id hWcpq_6vin...)"
+python downloader.py --youtubeid="hWcpq_6vin" --output="SD2257 Best VGM 2229 - Hyper Light Drifter - The Water Shelf's comments (YT ID hWcpq_6vin).json"
+echo "Archiving SD video 2258, Best VGM 2230 - Mega Man 11 - Fuse Man Stage's comments (YouTube id i_tEEwETtd...)"
+python downloader.py --youtubeid="i_tEEwETtd" --output="SD2258 Best VGM 2230 - Mega Man 11 - Fuse Man Stage's comments (YT ID i_tEEwETtd).json"
+echo "Archiving SD video 2259, Best VGM 2231 - Breath of Fire IV - Thousand Wings (Wyndia)'s comments (YouTube id V4lskRBMaN...)"
+python downloader.py --youtubeid="V4lskRBMaN" --output="SD2259 Best VGM 2231 - Breath of Fire IV - Thousand Wings (Wyndia)'s comments (YT ID V4lskRBMaN).json"
+echo "Archiving SD video 2260, Best VGM 2232 - Ultraverse Prime - Theme Song's comments (YouTube id 5ZjtR3qlMo...)"
+python downloader.py --youtubeid="5ZjtR3qlMo" --output="SD2260 Best VGM 2232 - Ultraverse Prime - Theme Song's comments (YT ID 5ZjtR3qlMo).json"
+echo "Archiving SD video 2261, Best VGM 2233 - Kirby : Planet Robobot - Submarine Suburbs's comments (YouTube id TGNaJ3Zg0T...)"
+python downloader.py --youtubeid="TGNaJ3Zg0T" --output="SD2261 Best VGM 2233 - Kirby : Planet Robobot - Submarine Suburbs's comments (YT ID TGNaJ3Zg0T).json"
+echo "Archiving SD video 2262, Best VGM 2234 - Alundra 2 - Pirates of Puerto Medusa's comments (YouTube id Oce7JfNyai...)"
+python downloader.py --youtubeid="Oce7JfNyai" --output="SD2262 Best VGM 2234 - Alundra 2 - Pirates of Puerto Medusa's comments (YT ID Oce7JfNyai).json"
+echo "Archiving SD video 2263, Best VGM 2235 - Streets of Rage - Moon Beach (Stage 3)'s comments (YouTube id QWfdNR0nH0...)"
+python downloader.py --youtubeid="QWfdNR0nH0" --output="SD2263 Best VGM 2235 - Streets of Rage - Moon Beach (Stage 3)'s comments (YT ID QWfdNR0nH0).json"
+echo "Archiving SD video 2264, Best VGM 2236 - Robots (GBA) - Upper City's comments (YouTube id 8w6qTEBVuN...)"
+python downloader.py --youtubeid="8w6qTEBVuN" --output="SD2264 Best VGM 2236 - Robots (GBA) - Upper City's comments (YT ID 8w6qTEBVuN).json"
+echo "Archiving SD video 2265, Best VGM 2237 - Metroid Prime 2 : Echoes - Multiplayer ~ Hunters's comments (YouTube id Ku4Kgdt-ZF...)"
+python downloader.py --youtubeid="Ku4Kgdt-ZF" --output="SD2265 Best VGM 2237 - Metroid Prime 2 : Echoes - Multiplayer ~ Hunters's comments (YT ID Ku4Kgdt-ZF).json"
+echo "Archiving SD video 2266, Best VGM 2239 - Darksiders III - Ulthane's comments (YouTube id AGOPPatoeQ...)"
+python downloader.py --youtubeid="AGOPPatoeQ" --output="SD2266 Best VGM 2239 - Darksiders III - Ulthane's comments (YT ID AGOPPatoeQ).json"
+echo "Archiving SD video 2267, Best VGM 2240 - Tales of Phantasia - Freeze's comments (YouTube id 7A30a3tv7z...)"
+python downloader.py --youtubeid="7A30a3tv7z" --output="SD2267 Best VGM 2240 - Tales of Phantasia - Freeze's comments (YT ID 7A30a3tv7z).json"
+echo "Archiving SD video 2268, Best VGM 2241 - Mother 4 - Snowman's comments (YouTube id dWbRn8Wzlw...)"
+python downloader.py --youtubeid="dWbRn8Wzlw" --output="SD2268 Best VGM 2241 - Mother 4 - Snowman's comments (YT ID dWbRn8Wzlw).json"
+echo "Archiving SD video 2269, Best VGM 2242 - Ape Escape 3 - Arctic Wonderland's comments (YouTube id 3vwInuzdOC...)"
+python downloader.py --youtubeid="3vwInuzdOC" --output="SD2269 Best VGM 2242 - Ape Escape 3 - Arctic Wonderland's comments (YT ID 3vwInuzdOC).json"
+echo "Archiving SD video 2270, Best VGM 2243 - Viewtiful Joe 2 - Ice Edge (The Polar Movie Land Theme)'s comments (YouTube id F6m3Fo14Ek...)"
+python downloader.py --youtubeid="F6m3Fo14Ek" --output="SD2270 Best VGM 2243 - Viewtiful Joe 2 - Ice Edge (The Polar Movie Land Theme)'s comments (YT ID F6m3Fo14Ek).json"
+echo "Archiving SD video 2271, Best VGM 2244 - Zelda : Breath of the Wild - Lurelin Village (Day)'s comments (YouTube id FWVCjQiSf6...)"
+python downloader.py --youtubeid="FWVCjQiSf6" --output="SD2271 Best VGM 2244 - Zelda : Breath of the Wild - Lurelin Village (Day)'s comments (YT ID FWVCjQiSf6).json"
+echo "Archiving SD video 2272, Best VGM 2245 - Dragon Ball Xenoverse 2 - Character Creation Theme's comments (YouTube id pkVUKf366F...)"
+python downloader.py --youtubeid="pkVUKf366F" --output="SD2272 Best VGM 2245 - Dragon Ball Xenoverse 2 - Character Creation Theme's comments (YT ID pkVUKf366F).json"
+echo "Archiving SD video 2273, Best VGM 2246 - Qbeh-1 : The Atlas Cube - Air Estate's comments (YouTube id RF_kwqNR5U...)"
+python downloader.py --youtubeid="RF_kwqNR5U" --output="SD2273 Best VGM 2246 - Qbeh-1 : The Atlas Cube - Air Estate's comments (YT ID RF_kwqNR5U).json"
+echo "Archiving SD video 2274, Best VGM 2247 - Everquest Next : Landmark - Adventure 9's comments (YouTube id RPuqp3nFJE...)"
+python downloader.py --youtubeid="RPuqp3nFJE" --output="SD2274 Best VGM 2247 - Everquest Next : Landmark - Adventure 9's comments (YT ID RPuqp3nFJE).json"
+echo "Archiving SD video 2275, Best VGM 2248 - Yoshi's Story - Main Theme's comments (YouTube id K_qt3fBYD8...)"
+python downloader.py --youtubeid="K_qt3fBYD8" --output="SD2275 Best VGM 2248 - Yoshi's Story - Main Theme's comments (YT ID K_qt3fBYD8).json"
+echo "Archiving SD video 2276, Best VGM 2249 - Willow - Zhena & Muzh's comments (YouTube id 16-9ui62SN...)"
+python downloader.py --youtubeid="16-9ui62SN" --output="SD2276 Best VGM 2249 - Willow - Zhena & Muzh's comments (YT ID 16-9ui62SN).json"
+echo "Archiving SD video 2277, [GOTY 2018 #15] Best VGM 2250 - Bloodstained : Curse of the Moon - Stage 2 ~ Frigid Hell's comments (YouTube id Yv4L8ZsG4A...)"
+python downloader.py --youtubeid="Yv4L8ZsG4A" --output="SD2277 [GOTY 2018 #15] Best VGM 2250 - Bloodstained : Curse of the Moon - Stage 2 ~ Frigid Hell's comments (YT ID Yv4L8ZsG4A).json"
+echo "Archiving SD video 2278, [GOTY 2018 #14] Best VGM 2251 - Overload - Unmanned's comments (YouTube id gp761FIQ8j...)"
+python downloader.py --youtubeid="gp761FIQ8j" --output="SD2278 [GOTY 2018 #14] Best VGM 2251 - Overload - Unmanned's comments (YT ID gp761FIQ8j).json"
+echo "Archiving SD video 2279, [GOTY 2018 #13] Best VGM 2252 - Tetris Effect - Connected ~ Yours Forever (The Deep)'s comments (YouTube id xU_BcboL4m...)"
+python downloader.py --youtubeid="xU_BcboL4m" --output="SD2279 [GOTY 2018 #13] Best VGM 2252 - Tetris Effect - Connected ~ Yours Forever (The Deep)'s comments (YT ID xU_BcboL4m).json"
+echo "Archiving SD video 2280, [GOTY 2018 #12] Best VGM 2253 - Iconoclasts - Moonlight (VS Ivory Beast)'s comments (YouTube id cSKv75EPAk...)"
+python downloader.py --youtubeid="cSKv75EPAk" --output="SD2280 [GOTY 2018 #12] Best VGM 2253 - Iconoclasts - Moonlight (VS Ivory Beast)'s comments (YT ID cSKv75EPAk).json"
+echo "Archiving SD video 2281, [GOTY 2018 #11] Best VGM 2254 - Moss - Thickets and Bloom's comments (YouTube id xDMmlCPnmi...)"
+python downloader.py --youtubeid="xDMmlCPnmi" --output="SD2281 [GOTY 2018 #11] Best VGM 2254 - Moss - Thickets and Bloom's comments (YT ID xDMmlCPnmi).json"
+echo "Archiving SD video 2282, [GOTY 2018 #10] Best VGM 2255 - Guacamelee! 2 - Chicken Illuminati HQ's comments (YouTube id pYSo-_E2lQ...)"
+python downloader.py --youtubeid="pYSo-_E2lQ" --output="SD2282 [GOTY 2018 #10] Best VGM 2255 - Guacamelee! 2 - Chicken Illuminati HQ's comments (YT ID pYSo-_E2lQ).json"
+echo "Archiving SD video 2283, [GOTY 2018 #8] Best VGM 2257 - The Messenger - The Frozen Light & The Frozen Dark (Glacial Peak)'s comments (YouTube id ckLt3F_RVL...)"
+python downloader.py --youtubeid="ckLt3F_RVL" --output="SD2283 [GOTY 2018 #8] Best VGM 2257 - The Messenger - The Frozen Light & The Frozen Dark (Glacial Peak)'s comments (YT ID ckLt3F_RVL).json"
+echo "Archiving SD video 2284, [GOTY 2018 #7] Best VGM 2258 - Timespinner - Surpassing Authority's comments (YouTube id lIfDWmohU8...)"
+python downloader.py --youtubeid="lIfDWmohU8" --output="SD2284 [GOTY 2018 #7] Best VGM 2258 - Timespinner - Surpassing Authority's comments (YT ID lIfDWmohU8).json"
+echo "Archiving SD video 2285, [GOTY 2018 #6] Best VGM 2259 - DUSK - Alienation Akimbo's comments (YouTube id gL89iJ__u_...)"
+python downloader.py --youtubeid="gL89iJ__u_" --output="SD2285 [GOTY 2018 #6] Best VGM 2259 - DUSK - Alienation Akimbo's comments (YT ID gL89iJ__u_).json"
+echo "Archiving SD video 2286, Melancholy - Mother 3 [Feelin' it with SD]'s comments (YouTube id HCyhNDfnqm...)"
+python downloader.py --youtubeid="HCyhNDfnqm" --output="SD2286 Melancholy - Mother 3 [Feelin' it with SD]'s comments (YT ID HCyhNDfnqm).json"
+echo "Archiving SD video 2287, [GOTY 2018 #5] Best VGM 2260 - Celeste - Quiet and Falling's comments (YouTube id gtbC6W_lgk...)"
+python downloader.py --youtubeid="gtbC6W_lgk" --output="SD2287 [GOTY 2018 #5] Best VGM 2260 - Celeste - Quiet and Falling's comments (YT ID gtbC6W_lgk).json"
+echo "Archiving SD video 2288, [GOTY 2018 #4] Best VGM 2261 - Astro Bot - Polyethylene Paradise's comments (YouTube id -NP2RIdEGD...)"
+python downloader.py --youtubeid="-NP2RIdEGD" --output="SD2288 [GOTY 2018 #4] Best VGM 2261 - Astro Bot - Polyethylene Paradise's comments (YT ID -NP2RIdEGD).json"
+echo "Archiving SD video 2289, [GOTY 2018 #2] Best VGM 2263 - God of War - Witch of the Woods's comments (YouTube id IEZ8qje8rK...)"
+python downloader.py --youtubeid="IEZ8qje8rK" --output="SD2289 [GOTY 2018 #2] Best VGM 2263 - God of War - Witch of the Woods's comments (YT ID IEZ8qje8rK).json"
+echo "Archiving SD video 2290, [GOTY 2018 #1] Best VGM 2264 - CrossCode - Autumn's Fall's comments (YouTube id zYDi_nzK5g...)"
+python downloader.py --youtubeid="zYDi_nzK5g" --output="SD2290 [GOTY 2018 #1] Best VGM 2264 - CrossCode - Autumn's Fall's comments (YT ID zYDi_nzK5g).json"
+echo "Archiving SD video 2291, Touch Fuzzy Get Dizzy, but Dizzier [Yoshi's Island]'s comments (YouTube id PO1zmYI2mP...)"
+python downloader.py --youtubeid="PO1zmYI2mP" --output="SD2291 Touch Fuzzy Get Dizzy, but Dizzier [Yoshi's Island]'s comments (YT ID PO1zmYI2mP).json"
+echo "Archiving SD video 2292, Best VGM 2265 - Headlander - Methuselah's comments (YouTube id qXJxrDonp4...)"
+python downloader.py --youtubeid="qXJxrDonp4" --output="SD2292 Best VGM 2265 - Headlander - Methuselah's comments (YT ID qXJxrDonp4).json"
+echo "Archiving SD video 2293, Best VGM 2266 - Secret of Evermore - Dog Maze's comments (YouTube id gnxOKXHNvv...)"
+python downloader.py --youtubeid="gnxOKXHNvv" --output="SD2293 Best VGM 2266 - Secret of Evermore - Dog Maze's comments (YT ID gnxOKXHNvv).json"
+echo "Archiving SD video 2294, Best VGM 2267 - Gran Turismo (PSP) - Yummy Trip's comments (YouTube id Rzl_WPmjk-...)"
+python downloader.py --youtubeid="Rzl_WPmjk-" --output="SD2294 Best VGM 2267 - Gran Turismo (PSP) - Yummy Trip's comments (YT ID Rzl_WPmjk-).json"
+echo "Archiving SD video 2295, Best VGM 2268 - Super Mario RPG - Here's Some Weapons!'s comments (YouTube id AFuAQ15JGO...)"
+python downloader.py --youtubeid="AFuAQ15JGO" --output="SD2295 Best VGM 2268 - Super Mario RPG - Here's Some Weapons!'s comments (YT ID AFuAQ15JGO).json"
+echo "Archiving SD video 2296, Best VGM 2269 - Roommania #203 - spiral da hi!'s comments (YouTube id ySzKAvFljw...)"
+python downloader.py --youtubeid="ySzKAvFljw" --output="SD2296 Best VGM 2269 - Roommania #203 - spiral da hi!'s comments (YT ID ySzKAvFljw).json"
+echo "Archiving SD video 2297, Best VGM 2270 - Grandia II - Carbo Village ~ Pious Adepts's comments (YouTube id _DgqnxoNpd...)"
+python downloader.py --youtubeid="_DgqnxoNpd" --output="SD2297 Best VGM 2270 - Grandia II - Carbo Village ~ Pious Adepts's comments (YT ID _DgqnxoNpd).json"
+echo "Archiving SD video 2298, Earthbound Enemies, but in Real Settings's comments (YouTube id HpfDpIcLAa...)"
+python downloader.py --youtubeid="HpfDpIcLAa" --output="SD2298 Earthbound Enemies, but in Real Settings's comments (YT ID HpfDpIcLAa).json"
+echo "Archiving SD video 2299, Best VGM 2271 - The Last of Us - Main Theme's comments (YouTube id -EpQmIg5nH...)"
+python downloader.py --youtubeid="-EpQmIg5nH" --output="SD2299 Best VGM 2271 - The Last of Us - Main Theme's comments (YT ID -EpQmIg5nH).json"
+echo "Archiving SD video 2300, Best VGM 2272 - Crypt of the Necrodancer - Portabellohead (2-3)'s comments (YouTube id psEhQeOcMZ...)"
+python downloader.py --youtubeid="psEhQeOcMZ" --output="SD2300 Best VGM 2272 - Crypt of the Necrodancer - Portabellohead (2-3)'s comments (YT ID psEhQeOcMZ).json"
+echo "Archiving SD video 2301, Best VGM 2273 - Castlevania III - Aquarius's comments (YouTube id bt0FCsafud...)"
+python downloader.py --youtubeid="bt0FCsafud" --output="SD2301 Best VGM 2273 - Castlevania III - Aquarius's comments (YT ID bt0FCsafud).json"
+echo "Archiving SD video 2302, Best VGM 2274 - Xanadu Next - The Treacherous Woods's comments (YouTube id KH7dAsqT-6...)"
+python downloader.py --youtubeid="KH7dAsqT-6" --output="SD2302 Best VGM 2274 - Xanadu Next - The Treacherous Woods's comments (YT ID KH7dAsqT-6).json"
+echo "Archiving SD video 2303, Best VGM 2275 - Dark Souls III - Abyss Watchers's comments (YouTube id DNxjYY68LY...)"
+python downloader.py --youtubeid="DNxjYY68LY" --output="SD2303 Best VGM 2275 - Dark Souls III - Abyss Watchers's comments (YT ID DNxjYY68LY).json"
+echo "Archiving SD video 2304, Best VGM 2277 - Dragon Quest V - Heaven's comments (YouTube id qvm-KB5V1W...)"
+python downloader.py --youtubeid="qvm-KB5V1W" --output="SD2304 Best VGM 2277 - Dragon Quest V - Heaven's comments (YT ID qvm-KB5V1W).json"
+echo "Archiving SD video 2305, Best VGM 2278 - Zelda : Ocarina of Time - Saria's Song's comments (YouTube id Ld8y5AGw5S...)"
+python downloader.py --youtubeid="Ld8y5AGw5S" --output="SD2305 Best VGM 2278 - Zelda : Ocarina of Time - Saria's Song's comments (YT ID Ld8y5AGw5S).json"
+echo "Archiving SD video 2306, Best VGM 2280 - Professor Layton and the Curious Village - Puzzle's comments (YouTube id 19ViwcEuf-...)"
+python downloader.py --youtubeid="19ViwcEuf-" --output="SD2306 Best VGM 2280 - Professor Layton and the Curious Village - Puzzle's comments (YT ID 19ViwcEuf-).json"
+echo "Archiving SD video 2307, Best VGM 2281 - The Amber Throne - The Pretentious Ones (Karra Village)'s comments (YouTube id 1PKSHoUn5a...)"
+python downloader.py --youtubeid="1PKSHoUn5a" --output="SD2307 Best VGM 2281 - The Amber Throne - The Pretentious Ones (Karra Village)'s comments (YT ID 1PKSHoUn5a).json"
+echo "Archiving SD video 2308, Best VGM 2282 - Undertale - Waterfall's comments (YouTube id kDRjuC2IkK...)"
+python downloader.py --youtubeid="kDRjuC2IkK" --output="SD2308 Best VGM 2282 - Undertale - Waterfall's comments (YT ID kDRjuC2IkK).json"
+echo "Archiving SD video 2309, Best VGM 2283 - Grounseed - Legend's comments (YouTube id CWgj5fUEOD...)"
+python downloader.py --youtubeid="CWgj5fUEOD" --output="SD2309 Best VGM 2283 - Grounseed - Legend's comments (YT ID CWgj5fUEOD).json"
+echo "Archiving SD video 2310, Best VGM 2284 - Pokemon Silver / Gold / Crystal - Azalea Town's comments (YouTube id w4Kwk1rKzX...)"
+python downloader.py --youtubeid="w4Kwk1rKzX" --output="SD2310 Best VGM 2284 - Pokemon Silver / Gold / Crystal - Azalea Town's comments (YT ID w4Kwk1rKzX).json"
+echo "Archiving SD video 2311, Best VGM 2285 - Tekken Tag Tournament 2 - Night Falls (Ending)'s comments (YouTube id vodqocR529...)"
+python downloader.py --youtubeid="vodqocR529" --output="SD2311 Best VGM 2285 - Tekken Tag Tournament 2 - Night Falls (Ending)'s comments (YT ID vodqocR529).json"
+echo "Archiving SD video 2312, Best VGM 2286 - eShop Theme (Upbeat)'s comments (YouTube id TkeUHCO5Hx...)"
+python downloader.py --youtubeid="TkeUHCO5Hx" --output="SD2312 Best VGM 2286 - eShop Theme (Upbeat)'s comments (YT ID TkeUHCO5Hx).json"
+echo "Archiving SD video 2313, Best VGM 2287 - Bomberman 64 : The Second Attack - Planet Select's comments (YouTube id S35mBKUY4X...)"
+python downloader.py --youtubeid="S35mBKUY4X" --output="SD2313 Best VGM 2287 - Bomberman 64 : The Second Attack - Planet Select's comments (YT ID S35mBKUY4X).json"
+echo "Archiving SD video 2314, Best VGM 2288 - Phoenix Wright : Trials and Tribulations - Reminiscing ~ The Bitter Taste of Truth's comments (YouTube id wDPyjioLDr...)"
+python downloader.py --youtubeid="wDPyjioLDr" --output="SD2314 Best VGM 2288 - Phoenix Wright : Trials and Tribulations - Reminiscing ~ The Bitter Taste of Truth's comments (YT ID wDPyjioLDr).json"
+echo "Archiving SD video 2315, Best VGM 2289 - Neon Drive - City (Level 1)'s comments (YouTube id 5TCr34gRoZ...)"
+python downloader.py --youtubeid="5TCr34gRoZ" --output="SD2315 Best VGM 2289 - Neon Drive - City (Level 1)'s comments (YT ID 5TCr34gRoZ).json"
+echo "Archiving SD video 2316, Best VGM 2291 - Metroid : Samus Returns - Caverns 1's comments (YouTube id zyEW61cUT7...)"
+python downloader.py --youtubeid="zyEW61cUT7" --output="SD2316 Best VGM 2291 - Metroid : Samus Returns - Caverns 1's comments (YT ID zyEW61cUT7).json"
+echo "Archiving SD video 2317, Best VGM 2292 - Mario Strikers Charged - Classroom's comments (YouTube id eB3HhEVjwT...)"
+python downloader.py --youtubeid="eB3HhEVjwT" --output="SD2317 Best VGM 2292 - Mario Strikers Charged - Classroom's comments (YT ID eB3HhEVjwT).json"
+echo "Archiving SD video 2318, Best VGM 2293 - Punch Club - Prison's comments (YouTube id Sd6eUmXuGh...)"
+python downloader.py --youtubeid="Sd6eUmXuGh" --output="SD2318 Best VGM 2293 - Punch Club - Prison's comments (YT ID Sd6eUmXuGh).json"
+echo "Archiving SD video 2319, Best VGM 2294 - Ecco the Dolphin : Defender of the Future - Perils of the Coral Reef's comments (YouTube id IWVmP8d81w...)"
+python downloader.py --youtubeid="IWVmP8d81w" --output="SD2319 Best VGM 2294 - Ecco the Dolphin : Defender of the Future - Perils of the Coral Reef's comments (YT ID IWVmP8d81w).json"
+echo "Archiving SD video 2320, Dry Trail, but Slow and High-Pitched [Tales of Symphonia]'s comments (YouTube id 5ZIAtIhGQz...)"
+python downloader.py --youtubeid="5ZIAtIhGQz" --output="SD2320 Dry Trail, but Slow and High-Pitched [Tales of Symphonia]'s comments (YT ID 5ZIAtIhGQz).json"
+echo "Archiving SD video 2321, Best VGM 2295 - Minecraft - Blind Spots's comments (YouTube id M-eXc4dHQh...)"
+python downloader.py --youtubeid="M-eXc4dHQh" --output="SD2321 Best VGM 2295 - Minecraft - Blind Spots's comments (YT ID M-eXc4dHQh).json"
+echo "Archiving SD video 2322, Best VGM 2296 - Transplant - Title Screen's comments (YouTube id 38IHeVeT_e...)"
+python downloader.py --youtubeid="38IHeVeT_e" --output="SD2322 Best VGM 2296 - Transplant - Title Screen's comments (YT ID 38IHeVeT_e).json"
+echo "Archiving SD video 2323, Best VGM 2297 - Astro Boy : Edge of Time - Governing Equation's comments (YouTube id QbFAZSxNYR...)"
+python downloader.py --youtubeid="QbFAZSxNYR" --output="SD2323 Best VGM 2297 - Astro Boy : Edge of Time - Governing Equation's comments (YT ID QbFAZSxNYR).json"
+echo "Archiving SD video 2324, Best VGM 2298 - Zelda : Link's Awakening - Mysterious Woods's comments (YouTube id 5Ijnpy-zNA...)"
+python downloader.py --youtubeid="5Ijnpy-zNA" --output="SD2324 Best VGM 2298 - Zelda : Link's Awakening - Mysterious Woods's comments (YT ID 5Ijnpy-zNA).json"
+echo "Archiving SD video 2325, REVERSED - Zelda : Breath of the Wild 2 - Sequel E3 Reveal Trailer's comments (YouTube id ZtMIVrER4X...)"
+python downloader.py --youtubeid="ZtMIVrER4X" --output="SD2325 REVERSED - Zelda : Breath of the Wild 2 - Sequel E3 Reveal Trailer's comments (YT ID ZtMIVrER4X).json"
+echo "Archiving SD video 2326, Best VGM 2299 - Bloodstained : Ritual of the Night - Forgotten Jade's comments (YouTube id l3Q69mipGQ...)"
+python downloader.py --youtubeid="l3Q69mipGQ" --output="SD2326 Best VGM 2299 - Bloodstained : Ritual of the Night - Forgotten Jade's comments (YT ID l3Q69mipGQ).json"
+echo "Archiving SD video 2327, Life is Beautiful, but Fast and Low-Pitched [Deadly Premonition]'s comments (YouTube id YZm0dapv_m...)"
+python downloader.py --youtubeid="YZm0dapv_m" --output="SD2327 Life is Beautiful, but Fast and Low-Pitched [Deadly Premonition]'s comments (YT ID YZm0dapv_m).json"
+echo "Archiving SD video 2328, Best VGM 2300 - Dragon Quest III - Adventure's comments (YouTube id 347m_waoqJ...)"
+python downloader.py --youtubeid="347m_waoqJ" --output="SD2328 Best VGM 2300 - Dragon Quest III - Adventure's comments (YT ID 347m_waoqJ).json"
+echo "Archiving SD video 2329, Best VGM 2301 - Cadence of Hyrule - Windmill Hut (Intense)'s comments (YouTube id v2REdWkHYJ...)"
+python downloader.py --youtubeid="v2REdWkHYJ" --output="SD2329 Best VGM 2301 - Cadence of Hyrule - Windmill Hut (Intense)'s comments (YT ID v2REdWkHYJ).json"
+echo "Archiving SD video 2330, Best VGM 2302 - Animal Crossing : New Leaf - 4AM's comments (YouTube id Aa_BdVoVgK...)"
+python downloader.py --youtubeid="Aa_BdVoVgK" --output="SD2330 Best VGM 2302 - Animal Crossing : New Leaf - 4AM's comments (YT ID Aa_BdVoVgK).json"
+echo "Archiving SD video 2331, Best VGM 2304 - Wild Arms 2 - Departure's comments (YouTube id JbHBZ7Iz7D...)"
+python downloader.py --youtubeid="JbHBZ7Iz7D" --output="SD2331 Best VGM 2304 - Wild Arms 2 - Departure's comments (YT ID JbHBZ7Iz7D).json"
+echo "Archiving SD video 2332, Best VGM 2305 - Sonic Unleashed - Holoska (Night)'s comments (YouTube id 2flRFZx4Nj...)"
+python downloader.py --youtubeid="2flRFZx4Nj" --output="SD2332 Best VGM 2305 - Sonic Unleashed - Holoska (Night)'s comments (YT ID 2flRFZx4Nj).json"
+echo "Archiving SD video 2333, Best VGM 2306 - Jurassic Park - Gallimimus Gallop (Building Area)'s comments (YouTube id 6usSJ7UCZe...)"
+python downloader.py --youtubeid="6usSJ7UCZe" --output="SD2333 Best VGM 2306 - Jurassic Park - Gallimimus Gallop (Building Area)'s comments (YT ID 6usSJ7UCZe).json"
+echo "Archiving SD video 2334, Best VGM 2307 - Pokemon Diamond / Pearl / Platinum - Oreburgh City (Night)'s comments (YouTube id dNjMJS8vc8...)"
+python downloader.py --youtubeid="dNjMJS8vc8" --output="SD2334 Best VGM 2307 - Pokemon Diamond / Pearl / Platinum - Oreburgh City (Night)'s comments (YT ID dNjMJS8vc8).json"
+echo "Archiving SD video 2335, Best VGM 2308 - Subnautica - Into the Unknown's comments (YouTube id jXFKkI2w7M...)"
+python downloader.py --youtubeid="jXFKkI2w7M" --output="SD2335 Best VGM 2308 - Subnautica - Into the Unknown's comments (YT ID jXFKkI2w7M).json"
+echo "Archiving SD video 2336, Best VGM 2309 - Chrono Cross - Time's Grasslands (Home World)'s comments (YouTube id QCH9Fw1Ulx...)"
+python downloader.py --youtubeid="QCH9Fw1Ulx" --output="SD2336 Best VGM 2309 - Chrono Cross - Time's Grasslands (Home World)'s comments (YT ID QCH9Fw1Ulx).json"
+echo "Archiving SD video 2337, Best VGM 2310 - Magicians & Looters - The Valley's comments (YouTube id LlLtN8fHC0...)"
+python downloader.py --youtubeid="LlLtN8fHC0" --output="SD2337 Best VGM 2310 - Magicians & Looters - The Valley's comments (YT ID LlLtN8fHC0).json"
+echo "Archiving SD video 2338, Best VGM 2312 - Shovel Knight - The Requiem of Shield Knight's comments (YouTube id B65eIBgRSN...)"
+python downloader.py --youtubeid="B65eIBgRSN" --output="SD2338 Best VGM 2312 - Shovel Knight - The Requiem of Shield Knight's comments (YT ID B65eIBgRSN).json"
+echo "Archiving SD video 2339, Best VGM 2313 - Hollow Knight - Kingdom's Edge's comments (YouTube id WHOCXAZWHA...)"
+python downloader.py --youtubeid="WHOCXAZWHA" --output="SD2339 Best VGM 2313 - Hollow Knight - Kingdom's Edge's comments (YT ID WHOCXAZWHA).json"
+echo "Archiving SD video 2340, Best VGM 2314 - Super Mario Odyssey - New Donk City's comments (YouTube id 9uKh4z4fJA...)"
+python downloader.py --youtubeid="9uKh4z4fJA" --output="SD2340 Best VGM 2314 - Super Mario Odyssey - New Donk City's comments (YT ID 9uKh4z4fJA).json"
+echo "Archiving SD video 2341, Besaid, but Slow [Final Fantasy X]'s comments (YouTube id oloYGSXnu1...)"
+python downloader.py --youtubeid="oloYGSXnu1" --output="SD2341 Besaid, but Slow [Final Fantasy X]'s comments (YT ID oloYGSXnu1).json"
+echo "Archiving SD video 2342, Best VGM 2315 - Castlevania : Bloodlines - Sinking Old Sanctuary's comments (YouTube id x7OX94tI3O...)"
+python downloader.py --youtubeid="x7OX94tI3O" --output="SD2342 Best VGM 2315 - Castlevania : Bloodlines - Sinking Old Sanctuary's comments (YT ID x7OX94tI3O).json"
+echo "Archiving SD video 2343, Best VGM 2317 - Anodyne 2 - Center City Cenote's comments (YouTube id hcPvMbGpka...)"
+python downloader.py --youtubeid="hcPvMbGpka" --output="SD2343 Best VGM 2317 - Anodyne 2 - Center City Cenote's comments (YT ID hcPvMbGpka).json"
+echo "Archiving SD video 2344, Best VGM 2318 - Ori and the Blind Forest - Riding the Wind's comments (YouTube id jZB-uhAoWW...)"
+python downloader.py --youtubeid="jZB-uhAoWW" --output="SD2344 Best VGM 2318 - Ori and the Blind Forest - Riding the Wind's comments (YT ID jZB-uhAoWW).json"
+echo "Archiving SD video 2345, Best VGM 2319 - The Sims : Bustin' Out (GBA) - Prison's comments (YouTube id zOOZmOmDR8...)"
+python downloader.py --youtubeid="zOOZmOmDR8" --output="SD2345 Best VGM 2319 - The Sims : Bustin' Out (GBA) - Prison's comments (YT ID zOOZmOmDR8).json"
+echo "Archiving SD video 2346, Best VGM 2320 - Deltarune - Hip Shop's comments (YouTube id 6QTaHdzOzW...)"
+python downloader.py --youtubeid="6QTaHdzOzW" --output="SD2346 Best VGM 2320 - Deltarune - Hip Shop's comments (YT ID 6QTaHdzOzW).json"
+echo "Archiving SD video 2347, Best VGM 2321 - We ♥ Katamari - Houston's comments (YouTube id bmzu2iJZ8f...)"
+python downloader.py --youtubeid="bmzu2iJZ8f" --output="SD2347 Best VGM 2321 - We ♥ Katamari - Houston's comments (YT ID bmzu2iJZ8f).json"
+echo "Archiving SD video 2348, Best VGM 2322 - Super Mario 3D World - Athletic's comments (YouTube id Omn3bNEb_H...)"
+python downloader.py --youtubeid="Omn3bNEb_H" --output="SD2348 Best VGM 2322 - Super Mario 3D World - Athletic's comments (YT ID Omn3bNEb_H).json"
+echo "Archiving SD video 2349, Best VGM 2323 - Xenoblade Chronicles - Makna Forest ~ Day's comments (YouTube id 5HCkfplzyn...)"
+python downloader.py --youtubeid="5HCkfplzyn" --output="SD2349 Best VGM 2323 - Xenoblade Chronicles - Makna Forest ~ Day's comments (YT ID 5HCkfplzyn).json"
+echo "Archiving SD video 2350, Best VGM 2324 - Dragon Ball Z: Harukanaru Densetsu - Frieza's Ship's comments (YouTube id reoO57HYJk...)"
+python downloader.py --youtubeid="reoO57HYJk" --output="SD2350 Best VGM 2324 - Dragon Ball Z: Harukanaru Densetsu - Frieza's Ship's comments (YT ID reoO57HYJk).json"
+echo "Archiving SD video 2351, Best VGM 2325 - Persona 4 - I'll Face Myself (Battle)'s comments (YouTube id vI8h5wvMm-...)"
+python downloader.py --youtubeid="vI8h5wvMm-" --output="SD2351 Best VGM 2325 - Persona 4 - I'll Face Myself (Battle)'s comments (YT ID vI8h5wvMm-).json"
+echo "Archiving SD video 2352, Best VGM 2326 - SpongeBob SquarePants : SuperSponge - Industrial Fields & Oil Rig's comments (YouTube id JUuDaAKVJX...)"
+python downloader.py --youtubeid="JUuDaAKVJX" --output="SD2352 Best VGM 2326 - SpongeBob SquarePants : SuperSponge - Industrial Fields & Oil Rig's comments (YT ID JUuDaAKVJX).json"
+echo "Archiving SD video 2353, Best VGM 2327 - Star Fox 64 - Star Wolf's Theme's comments (YouTube id Bj9QX4ZYtF...)"
+python downloader.py --youtubeid="Bj9QX4ZYtF" --output="SD2353 Best VGM 2327 - Star Fox 64 - Star Wolf's Theme's comments (YT ID Bj9QX4ZYtF).json"
+echo "Archiving SD video 2354, Best VGM 2328 - Dragon Quest VIII - Remembrances...'s comments (YouTube id I9mDBcDrwo...)"
+python downloader.py --youtubeid="I9mDBcDrwo" --output="SD2354 Best VGM 2328 - Dragon Quest VIII - Remembrances...'s comments (YT ID I9mDBcDrwo).json"
+echo "Archiving SD video 2355, Best VGM 2329 - Even the Ocean - Earth Geome, The Great Beast's comments (YouTube id I91telCvY0...)"
+python downloader.py --youtubeid="I91telCvY0" --output="SD2355 Best VGM 2329 - Even the Ocean - Earth Geome, The Great Beast's comments (YT ID I91telCvY0).json"
+echo "Archiving SD video 2356, Best VGM 2330 - CrossCode - Sapphire Ridge's comments (YouTube id FuzU3ZMc3f...)"
+python downloader.py --youtubeid="FuzU3ZMc3f" --output="SD2356 Best VGM 2330 - CrossCode - Sapphire Ridge's comments (YT ID FuzU3ZMc3f).json"
+echo "Archiving SD video 2357, Best VGM 2331 - Mario Kart 64 - Circuit's comments (YouTube id kuCCxnxWTj...)"
+python downloader.py --youtubeid="kuCCxnxWTj" --output="SD2357 Best VGM 2331 - Mario Kart 64 - Circuit's comments (YT ID kuCCxnxWTj).json"
+echo "Archiving SD video 2358, Best VGM 2332 - Zelda : Link's Awakening (2019) - Face Shrine ~ Dungeon 6's comments (YouTube id g41znM_UHy...)"
+python downloader.py --youtubeid="g41znM_UHy" --output="SD2358 Best VGM 2332 - Zelda : Link's Awakening (2019) - Face Shrine ~ Dungeon 6's comments (YT ID g41znM_UHy).json"
+echo "Archiving SD video 2359, Best VGM 2333 - Fez - Love's comments (YouTube id sV48MJyQty...)"
+python downloader.py --youtubeid="sV48MJyQty" --output="SD2359 Best VGM 2333 - Fez - Love's comments (YT ID sV48MJyQty).json"
+echo "Archiving SD video 2360, Best VGM 2335 - Wild Arms 5 - A Vast Plain, Under That Sky (Overworld)'s comments (YouTube id 5el8ssJU8E...)"
+python downloader.py --youtubeid="5el8ssJU8E" --output="SD2360 Best VGM 2335 - Wild Arms 5 - A Vast Plain, Under That Sky (Overworld)'s comments (YT ID 5el8ssJU8E).json"
+echo "Archiving SD video 2361, Best VGM 2336 - Super Mario Bros 2 - Ending's comments (YouTube id izv9bzlFBL...)"
+python downloader.py --youtubeid="izv9bzlFBL" --output="SD2361 Best VGM 2336 - Super Mario Bros 2 - Ending's comments (YT ID izv9bzlFBL).json"
+echo "Archiving SD video 2362, Balamb Garden, but Low-Pitched [Final Fantasy VIII]'s comments (YouTube id WCKS1crD5t...)"
+python downloader.py --youtubeid="WCKS1crD5t" --output="SD2362 Balamb Garden, but Low-Pitched [Final Fantasy VIII]'s comments (YT ID WCKS1crD5t).json"
+echo "Archiving SD video 2363, Best VGM 2337 - Kirby & The Rainbow Curse - The Final Battle (vs Dark Crafter)'s comments (YouTube id jL9F7MGqc6...)"
+python downloader.py --youtubeid="jL9F7MGqc6" --output="SD2363 Best VGM 2337 - Kirby & The Rainbow Curse - The Final Battle (vs Dark Crafter)'s comments (YT ID jL9F7MGqc6).json"
+echo "Archiving SD video 2364, Best VGM 2338 - Koudelka - Dead's comments (YouTube id jDnB5TzV2X...)"
+python downloader.py --youtubeid="jDnB5TzV2X" --output="SD2364 Best VGM 2338 - Koudelka - Dead's comments (YT ID jDnB5TzV2X).json"
+echo "Archiving SD video 2365, Best VGM 2340 - Bloodborne - The First Hunter (Gehrman)'s comments (YouTube id QsbSETPjhX...)"
+python downloader.py --youtubeid="QsbSETPjhX" --output="SD2365 Best VGM 2340 - Bloodborne - The First Hunter (Gehrman)'s comments (YT ID QsbSETPjhX).json"
+echo "Archiving SD video 2366, Best VGM 2341 - Contact - Caldoaxa ~ Outdoors's comments (YouTube id ZGKv6NmIwU...)"
+python downloader.py --youtubeid="ZGKv6NmIwU" --output="SD2366 Best VGM 2341 - Contact - Caldoaxa ~ Outdoors's comments (YT ID ZGKv6NmIwU).json"
+echo "Archiving SD video 2367, Best VGM 2342 - Kingdom Hearts II - Sinister Sundown's comments (YouTube id WO2dA4ysxQ...)"
+python downloader.py --youtubeid="WO2dA4ysxQ" --output="SD2367 Best VGM 2342 - Kingdom Hearts II - Sinister Sundown's comments (YT ID WO2dA4ysxQ).json"
+echo "Archiving SD video 2368, Best VGM 2343 - I.Q. : Intelligent Qube - The 1st Tide's comments (YouTube id 2Co1EL0Bz8...)"
+python downloader.py --youtubeid="2Co1EL0Bz8" --output="SD2368 Best VGM 2343 - I.Q. : Intelligent Qube - The 1st Tide's comments (YT ID 2Co1EL0Bz8).json"
+echo "Archiving SD video 2369, Best VGM 2344 - Sonic Forces - Ghost Town's comments (YouTube id pmDEfUkYVn...)"
+python downloader.py --youtubeid="pmDEfUkYVn" --output="SD2369 Best VGM 2344 - Sonic Forces - Ghost Town's comments (YT ID pmDEfUkYVn).json"
+echo "Archiving SD video 2370, Best VGM 2346 - Banjo-Kazooie - Inside the Church's comments (YouTube id ZxUKc8cCEP...)"
+python downloader.py --youtubeid="ZxUKc8cCEP" --output="SD2370 Best VGM 2346 - Banjo-Kazooie - Inside the Church's comments (YT ID ZxUKc8cCEP).json"
+echo "Archiving SD video 2371, Best VGM 2347 - Silent Hill 3 - Walk on Vanity Ruins's comments (YouTube id bzoTRBKkuX...)"
+python downloader.py --youtubeid="bzoTRBKkuX" --output="SD2371 Best VGM 2347 - Silent Hill 3 - Walk on Vanity Ruins's comments (YT ID bzoTRBKkuX).json"
+echo "Archiving SD video 2372, Best VGM 2348 - Resident Evil 4 - Regenerator's comments (YouTube id xEfXm6tIZq...)"
+python downloader.py --youtubeid="xEfXm6tIZq" --output="SD2372 Best VGM 2348 - Resident Evil 4 - Regenerator's comments (YT ID xEfXm6tIZq).json"
+echo "Archiving SD video 2373, projectpapyrus.mp4's comments (YouTube id 4zAjN22KZf...)"
+python downloader.py --youtubeid="4zAjN22KZf" --output="SD2373 projectpapyrus.mp4's comments (YT ID 4zAjN22KZf).json"
+echo "Archiving SD video 2374, Best VGM 2349 - Lisa : The Painful RPG - Summer Love's comments (YouTube id 1Nv0BzbTYO...)"
+python downloader.py --youtubeid="1Nv0BzbTYO" --output="SD2374 Best VGM 2349 - Lisa : The Painful RPG - Summer Love's comments (YT ID 1Nv0BzbTYO).json"
+echo "Archiving SD video 2375, Best VGM 2350 - Persona 5 Royal - Ideal and The Real (Takuto Maruki's Theme)'s comments (YouTube id cpLkGihTUT...)"
+python downloader.py --youtubeid="cpLkGihTUT" --output="SD2375 Best VGM 2350 - Persona 5 Royal - Ideal and The Real (Takuto Maruki's Theme)'s comments (YT ID cpLkGihTUT).json"
+echo "Archiving SD video 2376, Best VGM 2351 - Disco Elysium - Whirling-in-Rags Hotel (Day)'s comments (YouTube id 2JyoG5nJzg...)"
+python downloader.py --youtubeid="2JyoG5nJzg" --output="SD2376 Best VGM 2351 - Disco Elysium - Whirling-in-Rags Hotel (Day)'s comments (YT ID 2JyoG5nJzg).json"
+echo "Archiving SD video 2377, Zelda's Odyssey - Breath of the Wild [Feelin' it with SD]'s comments (YouTube id VCPpOZicCK...)"
+python downloader.py --youtubeid="VCPpOZicCK" --output="SD2377 Zelda's Odyssey - Breath of the Wild [Feelin' it with SD]'s comments (YT ID VCPpOZicCK).json"
+echo "Archiving SD video 2378, Best VGM 2352 - Pokemon SoulSilver / HeartGold - National Park's comments (YouTube id xjHdaTMJML...)"
+python downloader.py --youtubeid="xjHdaTMJML" --output="SD2378 Best VGM 2352 - Pokemon SoulSilver / HeartGold - National Park's comments (YT ID xjHdaTMJML).json"
+echo "Archiving SD video 2379, Best VGM 2353 - Mother 3 - Resolve (Jukebox ~ Gum Chewer's Recommendation)'s comments (YouTube id AaxWi-qHG_...)"
+python downloader.py --youtubeid="AaxWi-qHG_" --output="SD2379 Best VGM 2353 - Mother 3 - Resolve (Jukebox ~ Gum Chewer's Recommendation)'s comments (YT ID AaxWi-qHG_).json"
+echo "Archiving SD video 2380, Best VGM 2355 - Mega Man 10 - Farewell to Ballade (Special Stage 3)'s comments (YouTube id MRYH3s2HVj...)"
+python downloader.py --youtubeid="MRYH3s2HVj" --output="SD2380 Best VGM 2355 - Mega Man 10 - Farewell to Ballade (Special Stage 3)'s comments (YT ID MRYH3s2HVj).json"
+echo "Archiving SD video 2381, Best VGM 2356 - Zelda : Breath of the Wild - Rito Village (Day)'s comments (YouTube id bxHSJkae4B...)"
+python downloader.py --youtubeid="bxHSJkae4B" --output="SD2381 Best VGM 2356 - Zelda : Breath of the Wild - Rito Village (Day)'s comments (YT ID bxHSJkae4B).json"
+echo "Archiving SD video 2382, Best VGM 2357 - Sprint Vector - Intergalactica's comments (YouTube id c_gooDxzRq...)"
+python downloader.py --youtubeid="c_gooDxzRq" --output="SD2382 Best VGM 2357 - Sprint Vector - Intergalactica's comments (YT ID c_gooDxzRq).json"
+echo "Archiving SD video 2383, Best VGM 2358 - Waterworld - Shop's comments (YouTube id Fw1IFLFO31...)"
+python downloader.py --youtubeid="Fw1IFLFO31" --output="SD2383 Best VGM 2358 - Waterworld - Shop's comments (YT ID Fw1IFLFO31).json"
+echo "Archiving SD video 2384, Best VGM 2359 - Baba is You - Water is Sink (The Lake)'s comments (YouTube id xO4JdZ7G_P...)"
+python downloader.py --youtubeid="xO4JdZ7G_P" --output="SD2384 Best VGM 2359 - Baba is You - Water is Sink (The Lake)'s comments (YT ID xO4JdZ7G_P).json"
+echo "Archiving SD video 2385, Best VGM 2360 - Metroid Prime - VS. Parasite Queen's comments (YouTube id Wxn7rIco3h...)"
+python downloader.py --youtubeid="Wxn7rIco3h" --output="SD2385 Best VGM 2360 - Metroid Prime - VS. Parasite Queen's comments (YT ID Wxn7rIco3h).json"
+echo "Archiving SD video 2386, Best VGM 2361 - Asterix (GameBoy) - Rome's comments (YouTube id e5_xe3FoLM...)"
+python downloader.py --youtubeid="e5_xe3FoLM" --output="SD2386 Best VGM 2361 - Asterix (GameBoy) - Rome's comments (YT ID e5_xe3FoLM).json"
+echo "Archiving SD video 2387, Best VGM 2362 - Breath of Fire II - We're Rangers's comments (YouTube id e3xfQW14qd...)"
+python downloader.py --youtubeid="e3xfQW14qd" --output="SD2387 Best VGM 2362 - Breath of Fire II - We're Rangers's comments (YT ID e3xfQW14qd).json"
+echo "Archiving SD video 2388, Best VGM 2363 - Mario Kart 8 Deluxe - Animal Crossing ~ Winter's comments (YouTube id 0tZ8axZV3Q...)"
+python downloader.py --youtubeid="0tZ8axZV3Q" --output="SD2388 Best VGM 2363 - Mario Kart 8 Deluxe - Animal Crossing ~ Winter's comments (YT ID 0tZ8axZV3Q).json"
+echo "Archiving SD video 2389, Best VGM 2364 - Tales of Symphonia : Dawn of the New World - A Snow Light (Flanoir)'s comments (YouTube id 4cNl9RXoYA...)"
+python downloader.py --youtubeid="4cNl9RXoYA" --output="SD2389 Best VGM 2364 - Tales of Symphonia : Dawn of the New World - A Snow Light (Flanoir)'s comments (YT ID 4cNl9RXoYA).json"
+echo "Archiving SD video 2390, Best VGM 2365 - Undertale - Snowy's comments (YouTube id TSa9S6P_kJ...)"
+python downloader.py --youtubeid="TSa9S6P_kJ" --output="SD2390 Best VGM 2365 - Undertale - Snowy's comments (YT ID TSa9S6P_kJ).json"
+echo "Archiving SD video 2391, Best VGM 2366 - Pokemon Mystery Dungeon : Explorers of Sky - Sky Peak Snowfield's comments (YouTube id Chg7BqkgPj...)"
+python downloader.py --youtubeid="Chg7BqkgPj" --output="SD2391 Best VGM 2366 - Pokemon Mystery Dungeon : Explorers of Sky - Sky Peak Snowfield's comments (YT ID Chg7BqkgPj).json"
+echo "Archiving SD video 2392, Best VGM 2367 - Croc : Legend of the Gobbos - Snow Island 3's comments (YouTube id lnHQ51PJZY...)"
+python downloader.py --youtubeid="lnHQ51PJZY" --output="SD2392 Best VGM 2367 - Croc : Legend of the Gobbos - Snow Island 3's comments (YT ID lnHQ51PJZY).json"
+echo "Archiving SD video 2393, Best VGM 2368 - Super Mario 3D World - Snowball Park's comments (YouTube id pWIrcuXPs1...)"
+python downloader.py --youtubeid="pWIrcuXPs1" --output="SD2393 Best VGM 2368 - Super Mario 3D World - Snowball Park's comments (YT ID pWIrcuXPs1).json"
+echo "Archiving SD video 2394, Best VGM 2370 - Mighty Switch Force! 2 - Rescue Girl (Credits)'s comments (YouTube id SLAIHkWMnQ...)"
+python downloader.py --youtubeid="SLAIHkWMnQ" --output="SD2394 Best VGM 2370 - Mighty Switch Force! 2 - Rescue Girl (Credits)'s comments (YT ID SLAIHkWMnQ).json"
+echo "Archiving SD video 2395, Best VGM 2371 - Castlevania : Dawn of Sorrow - Pitch Black Intrusion (Lost Village)'s comments (YouTube id lBI7g1oOud...)"
+python downloader.py --youtubeid="lBI7g1oOud" --output="SD2395 Best VGM 2371 - Castlevania : Dawn of Sorrow - Pitch Black Intrusion (Lost Village)'s comments (YT ID lBI7g1oOud).json"
+echo "Archiving SD video 2396, Best VGM 2372 - Emil Chronicle Online - Seeker of the Abyss's comments (YouTube id zbx3396r8O...)"
+python downloader.py --youtubeid="zbx3396r8O" --output="SD2396 Best VGM 2372 - Emil Chronicle Online - Seeker of the Abyss's comments (YT ID zbx3396r8O).json"
+echo "Archiving SD video 2397, Best VGM 2373 - Celeste - Resurrections's comments (YouTube id 4B_z9iucRv...)"
+python downloader.py --youtubeid="4B_z9iucRv" --output="SD2397 Best VGM 2373 - Celeste - Resurrections's comments (YT ID 4B_z9iucRv).json"
+echo "Archiving SD video 2398, Best VGM 2374 - Double Dragon II : The Revenge (Arcade) - Lumber Stockhouse (Mission 2)'s comments (YouTube id E3y8wN4xYi...)"
+python downloader.py --youtubeid="E3y8wN4xYi" --output="SD2398 Best VGM 2374 - Double Dragon II : The Revenge (Arcade) - Lumber Stockhouse (Mission 2)'s comments (YT ID E3y8wN4xYi).json"
+echo "Archiving SD video 2399, Best VGM 2375 - Kirby 64 : The Crystal Shards - Quiet Forest's comments (YouTube id GvN2S5VTTg...)"
+python downloader.py --youtubeid="GvN2S5VTTg" --output="SD2399 Best VGM 2375 - Kirby 64 : The Crystal Shards - Quiet Forest's comments (YT ID GvN2S5VTTg).json"
+echo "Archiving SD video 2400, Best VGM 2376 - 7th Dragon - Battlefield ~ Swords Bursting's comments (YouTube id bhq7rShY5A...)"
+python downloader.py --youtubeid="bhq7rShY5A" --output="SD2400 Best VGM 2376 - 7th Dragon - Battlefield ~ Swords Bursting's comments (YT ID bhq7rShY5A).json"
+echo "Archiving SD video 2401, Best VGM 2377 - Lost Odyssey - Great Ruins of the East's comments (YouTube id eHYsn4Hk7-...)"
+python downloader.py --youtubeid="eHYsn4Hk7-" --output="SD2401 Best VGM 2377 - Lost Odyssey - Great Ruins of the East's comments (YT ID eHYsn4Hk7-).json"
+echo "Archiving SD video 2402, Best VGM 2378 - Radiant Historia - Beyond the Wilderness's comments (YouTube id Y0abt5clrH...)"
+python downloader.py --youtubeid="Y0abt5clrH" --output="SD2402 Best VGM 2378 - Radiant Historia - Beyond the Wilderness's comments (YT ID Y0abt5clrH).json"
+echo "Archiving SD video 2403, Best VGM 2379 - MapleStory - Ellinia ~ Missing You's comments (YouTube id uCf6ov2052...)"
+python downloader.py --youtubeid="uCf6ov2052" --output="SD2403 Best VGM 2379 - MapleStory - Ellinia ~ Missing You's comments (YT ID uCf6ov2052).json"
+echo "Archiving SD video 2404, [GOTY 2019 #15] Best VGM 2381 - Tetris 99 - School Theme ~ 99 Players's comments (YouTube id 7rQ3uDfcbc...)"
+python downloader.py --youtubeid="7rQ3uDfcbc" --output="SD2404 [GOTY 2019 #15] Best VGM 2381 - Tetris 99 - School Theme ~ 99 Players's comments (YT ID 7rQ3uDfcbc).json"
+echo "Archiving SD video 2405, [GOTY 2019 #14] Best VGM 2382 - Gato Roboto - Landing Site's comments (YouTube id vyaR1c1gKS...)"
+python downloader.py --youtubeid="vyaR1c1gKS" --output="SD2405 [GOTY 2019 #14] Best VGM 2382 - Gato Roboto - Landing Site's comments (YT ID vyaR1c1gKS).json"
+echo "Archiving SD video 2406, [GOTY 2019 #13] Best VGM 2383 - Remnant : From the Ashes - Yaesha ~ Dungeon Boss's comments (YouTube id OpT5AMRhho...)"
+python downloader.py --youtubeid="OpT5AMRhho" --output="SD2406 [GOTY 2019 #13] Best VGM 2383 - Remnant : From the Ashes - Yaesha ~ Dungeon Boss's comments (YT ID OpT5AMRhho).json"
+echo "Archiving SD video 2407, [GOTY 2019 #12] Best VGM 2384 - The Touryst - Underwater Diving's comments (YouTube id TjqTkEJ0Pa...)"
+python downloader.py --youtubeid="TjqTkEJ0Pa" --output="SD2407 [GOTY 2019 #12] Best VGM 2384 - The Touryst - Underwater Diving's comments (YT ID TjqTkEJ0Pa).json"
+echo "Archiving SD video 2408, [GOTY 2019 #11] Best VGM 2385 - Astral Chain - Yoseph Calvert's comments (YouTube id 331WbeZKBb...)"
+python downloader.py --youtubeid="331WbeZKBb" --output="SD2408 [GOTY 2019 #11] Best VGM 2385 - Astral Chain - Yoseph Calvert's comments (YT ID 331WbeZKBb).json"
+echo "Archiving SD video 2409, [GOTY 2019 #10] Best VGM 2386 - Blasphemous - Arpegios en Ocre (Desecrated Cistern)'s comments (YouTube id u-1anx-mHo...)"
+python downloader.py --youtubeid="u-1anx-mHo" --output="SD2409 [GOTY 2019 #10] Best VGM 2386 - Blasphemous - Arpegios en Ocre (Desecrated Cistern)'s comments (YT ID u-1anx-mHo).json"
+echo "Archiving SD video 2410, [GOTY 2019 #9] Best VGM 2387 - Anodyne 2 - Pastel Horizon's comments (YouTube id CQ6BcM-z0Q...)"
+python downloader.py --youtubeid="CQ6BcM-z0Q" --output="SD2410 [GOTY 2019 #9] Best VGM 2387 - Anodyne 2 - Pastel Horizon's comments (YT ID CQ6BcM-z0Q).json"
+echo "Archiving SD video 2411, [GOTY 2019 #8] Best VGM 2388 - Bloodstained : Ritual of the Night - Gears of Fortune's comments (YouTube id EYnx05qXrg...)"
+python downloader.py --youtubeid="EYnx05qXrg" --output="SD2411 [GOTY 2019 #8] Best VGM 2388 - Bloodstained : Ritual of the Night - Gears of Fortune's comments (YT ID EYnx05qXrg).json"
+echo "Archiving SD video 2412, [GOTY 2019 #7] Best VGM 2389 - Resident Evil 2 Remake - Last Judgment's comments (YouTube id SsKTiH28u9...)"
+python downloader.py --youtubeid="SsKTiH28u9" --output="SD2412 [GOTY 2019 #7] Best VGM 2389 - Resident Evil 2 Remake - Last Judgment's comments (YT ID SsKTiH28u9).json"
+echo "Archiving SD video 2413, [GOTY 2019 #6] Best VGM 2390 - Zelda : Link's Awakening (2019) - Mabe Village's comments (YouTube id 9mtPiqbT6N...)"
+python downloader.py --youtubeid="9mtPiqbT6N" --output="SD2413 [GOTY 2019 #6] Best VGM 2390 - Zelda : Link's Awakening (2019) - Mabe Village's comments (YT ID 9mtPiqbT6N).json"
+echo "Archiving SD video 2414, [GOTY 2019 #5] Best VGM 2391 - Disco Elysium - Phasmid's comments (YouTube id CEUd5iopUH...)"
+python downloader.py --youtubeid="CEUd5iopUH" --output="SD2414 [GOTY 2019 #5] Best VGM 2391 - Disco Elysium - Phasmid's comments (YT ID CEUd5iopUH).json"
+echo "Archiving SD video 2415, [GOTY 2019 #4] Best VGM 2392 - Control - Metamorphosis's comments (YouTube id OIZO6Isj_Y...)"
+python downloader.py --youtubeid="OIZO6Isj_Y" --output="SD2415 [GOTY 2019 #4] Best VGM 2392 - Control - Metamorphosis's comments (YT ID OIZO6Isj_Y).json"
+echo "Archiving SD video 2416, [GOTY 2019 #3] Best VGM 2393 - A Short Hike - Somewhere In The Woods (Short Hike)'s comments (YouTube id AFWXJWvmsE...)"
+python downloader.py --youtubeid="AFWXJWvmsE" --output="SD2416 [GOTY 2019 #3] Best VGM 2393 - A Short Hike - Somewhere In The Woods (Short Hike)'s comments (YT ID AFWXJWvmsE).json"
+echo "Archiving SD video 2417, [GOTY 2019 #2] Best VGM 2394 - Outer Wilds - Main Theme's comments (YouTube id gfpZm54jwd...)"
+python downloader.py --youtubeid="gfpZm54jwd" --output="SD2417 [GOTY 2019 #2] Best VGM 2394 - Outer Wilds - Main Theme's comments (YT ID gfpZm54jwd).json"
+echo "Archiving SD video 2418, [GOTY 2019 #1] Best VGM 2395 - Sekiro : Shadows Die Twice - Divine Dragon's comments (YouTube id qxtp0Pk4NA...)"
+python downloader.py --youtubeid="qxtp0Pk4NA" --output="SD2418 [GOTY 2019 #1] Best VGM 2395 - Sekiro : Shadows Die Twice - Divine Dragon's comments (YT ID qxtp0Pk4NA).json"
+echo "Archiving SD video 2419, Best VGM 2396 - Super Mario Galaxy - Space Junk Road's comments (YouTube id iTIHpfFz9B...)"
+python downloader.py --youtubeid="iTIHpfFz9B" --output="SD2419 Best VGM 2396 - Super Mario Galaxy - Space Junk Road's comments (YT ID iTIHpfFz9B).json"
+echo "Archiving SD video 2420, Best VGM 2397 - Sleepwalker (CD32) - City Centre (Construction Site)'s comments (YouTube id kTfibzkQso...)"
+python downloader.py --youtubeid="kTfibzkQso" --output="SD2420 Best VGM 2397 - Sleepwalker (CD32) - City Centre (Construction Site)'s comments (YT ID kTfibzkQso).json"
+echo "Archiving SD video 2421, Best VGM 2399 - Ragnarok Online 2 : The Gate of the World - Sailing's comments (YouTube id ac9QJBw55P...)"
+python downloader.py --youtubeid="ac9QJBw55P" --output="SD2421 Best VGM 2399 - Ragnarok Online 2 : The Gate of the World - Sailing's comments (YT ID ac9QJBw55P).json"
+echo "Archiving SD video 2422, Nujabes ft. Uyama Hiroto - Gone Are The Days's comments (YouTube id 6O_eJKDqVg...)"
+python downloader.py --youtubeid="6O_eJKDqVg" --output="SD2422 Nujabes ft. Uyama Hiroto - Gone Are The Days's comments (YT ID 6O_eJKDqVg).json"
+echo "Archiving SD video 2423, Best VGM 2400 - Animal Crossing : New Horizons - Shop Closing's comments (YouTube id n1YfSTpRxv...)"
+python downloader.py --youtubeid="n1YfSTpRxv" --output="SD2423 Best VGM 2400 - Animal Crossing : New Horizons - Shop Closing's comments (YT ID n1YfSTpRxv).json"
+echo "Archiving SD video 2424, Best VGM 2401 - Earthbound - Because I Love You's comments (YouTube id Mk6n1Acqv_...)"
+python downloader.py --youtubeid="Mk6n1Acqv_" --output="SD2424 Best VGM 2401 - Earthbound - Because I Love You's comments (YT ID Mk6n1Acqv_).json"
+echo "Archiving SD video 2425, Best VGM 2402 - Metal Masters - Metal Beat (Intro)'s comments (YouTube id u4uXEWgCAP...)"
+python downloader.py --youtubeid="u4uXEWgCAP" --output="SD2425 Best VGM 2402 - Metal Masters - Metal Beat (Intro)'s comments (YT ID u4uXEWgCAP).json"
+echo "Archiving SD video 2426, Best VGM 2403 - Castlevania : Symphony of the Night - Rainbow Cemetery (Catacombs)'s comments (YouTube id Y9__LMEmzq...)"
+python downloader.py --youtubeid="Y9__LMEmzq" --output="SD2426 Best VGM 2403 - Castlevania : Symphony of the Night - Rainbow Cemetery (Catacombs)'s comments (YT ID Y9__LMEmzq).json"
+echo "Archiving SD video 2427, Best VGM 2404 - Shadow of the Colossus - In Awe of the Power ~ Battle With the Colossus's comments (YouTube id UhVWxNU6ya...)"
+python downloader.py --youtubeid="UhVWxNU6ya" --output="SD2427 Best VGM 2404 - Shadow of the Colossus - In Awe of the Power ~ Battle With the Colossus's comments (YT ID UhVWxNU6ya).json"
+echo "Archiving SD video 2428, Best VGM 2405 - Paper Mario - Goomba Village's comments (YouTube id m84xKsWaKq...)"
+python downloader.py --youtubeid="m84xKsWaKq" --output="SD2428 Best VGM 2405 - Paper Mario - Goomba Village's comments (YT ID m84xKsWaKq).json"
+echo "Archiving SD video 2429, Best VGM 2406 - Ape Escape : Pumped & Primed - Rival's Theme (vs Jake)'s comments (YouTube id wqDUvSncxJ...)"
+python downloader.py --youtubeid="wqDUvSncxJ" --output="SD2429 Best VGM 2406 - Ape Escape : Pumped & Primed - Rival's Theme (vs Jake)'s comments (YT ID wqDUvSncxJ).json"
+echo "Archiving SD video 2430, Best VGM 2407 - Monster Boy and the Cursed Kingdom - Misty Woods's comments (YouTube id H51KXTcwVr...)"
+python downloader.py --youtubeid="H51KXTcwVr" --output="SD2430 Best VGM 2407 - Monster Boy and the Cursed Kingdom - Misty Woods's comments (YT ID H51KXTcwVr).json"
+echo "Archiving SD video 2431, Best VGM 2408 - Skies of Arcadia - Blue Rogues' Ship's comments (YouTube id DxUNizYOo2...)"
+python downloader.py --youtubeid="DxUNizYOo2" --output="SD2431 Best VGM 2408 - Skies of Arcadia - Blue Rogues' Ship's comments (YT ID DxUNizYOo2).json"
+echo "Archiving SD video 2432, Best VGM 2410 - Treasure Hunter G - Surrounded by Forest's comments (YouTube id -hnXn7b4dm...)"
+python downloader.py --youtubeid="-hnXn7b4dm" --output="SD2432 Best VGM 2410 - Treasure Hunter G - Surrounded by Forest's comments (YT ID -hnXn7b4dm).json"
+echo "Archiving SD video 2433, Best VGM 2411 - X-Men vs Street Fighter - Wolverine's Theme's comments (YouTube id 14E8S9zaJV...)"
+python downloader.py --youtubeid="14E8S9zaJV" --output="SD2433 Best VGM 2411 - X-Men vs Street Fighter - Wolverine's Theme's comments (YT ID 14E8S9zaJV).json"
+echo "Archiving SD video 2434, Best VGM 2412 - Ori and the Will of the Wisps - Luma Pools's comments (YouTube id 06NK_4HJjh...)"
+python downloader.py --youtubeid="06NK_4HJjh" --output="SD2434 Best VGM 2412 - Ori and the Will of the Wisps - Luma Pools's comments (YT ID 06NK_4HJjh).json"
+echo "Archiving SD video 2435, Best VGM 2413 - Mega Man 5 - Gravity Man Stage's comments (YouTube id 5Wu3r7TBbQ...)"
+python downloader.py --youtubeid="5Wu3r7TBbQ" --output="SD2435 Best VGM 2413 - Mega Man 5 - Gravity Man Stage's comments (YT ID 5Wu3r7TBbQ).json"
+echo "Archiving SD video 2436, Best VGM 2414 - Harvest Moon : Magical Melody - Fall Theme's comments (YouTube id 6bR6YiHzSB...)"
+python downloader.py --youtubeid="6bR6YiHzSB" --output="SD2436 Best VGM 2414 - Harvest Moon : Magical Melody - Fall Theme's comments (YT ID 6bR6YiHzSB).json"
+echo "Archiving SD video 2437, Best VGM 2416 - New Roommania - LOVELABOR's comments (YouTube id d_3d_thXtb...)"
+python downloader.py --youtubeid="d_3d_thXtb" --output="SD2437 Best VGM 2416 - New Roommania - LOVELABOR's comments (YT ID d_3d_thXtb).json"
+echo "Archiving SD video 2438, Best VGM 2417 - F-Zero GX - QQQ's Theme's comments (YouTube id 18sSCgfPp6...)"
+python downloader.py --youtubeid="18sSCgfPp6" --output="SD2438 Best VGM 2417 - F-Zero GX - QQQ's Theme's comments (YT ID 18sSCgfPp6).json"
+echo "Archiving SD video 2439, Best VGM 2418 - Magical Tetris Challenge - Big Bad Wolf's Theme's comments (YouTube id nbAvusy_Po...)"
+python downloader.py --youtubeid="nbAvusy_Po" --output="SD2439 Best VGM 2418 - Magical Tetris Challenge - Big Bad Wolf's Theme's comments (YT ID nbAvusy_Po).json"
+echo "Archiving SD video 2440, Best VGM 2420 - Bomberman World - Area 1 ~ Planet Forest's comments (YouTube id Goh8zMkQu-...)"
+python downloader.py --youtubeid="Goh8zMkQu-" --output="SD2440 Best VGM 2420 - Bomberman World - Area 1 ~ Planet Forest's comments (YT ID Goh8zMkQu-).json"
+echo "Archiving SD video 2441, Best VGM 2421 - Super Mario Odyssey - Bubblaine ~ Seaside Kingdom's comments (YouTube id Gd4m_EG8mg...)"
+python downloader.py --youtubeid="Gd4m_EG8mg" --output="SD2441 Best VGM 2421 - Super Mario Odyssey - Bubblaine ~ Seaside Kingdom's comments (YT ID Gd4m_EG8mg).json"
+echo "Archiving SD video 2442, Best VGM 2422 - Crystal Beans from Dungeon Explorer - A Skullish Maze's comments (YouTube id jOTSv_JTC4...)"
+python downloader.py --youtubeid="jOTSv_JTC4" --output="SD2442 Best VGM 2422 - Crystal Beans from Dungeon Explorer - A Skullish Maze's comments (YT ID jOTSv_JTC4).json"
+echo "Archiving SD video 2443, Best VGM 2423 - Pop'n Music Sunny Park - Attack in the Minor Key's comments (YouTube id Vc7eK_rmtI...)"
+python downloader.py --youtubeid="Vc7eK_rmtI" --output="SD2443 Best VGM 2423 - Pop'n Music Sunny Park - Attack in the Minor Key's comments (YT ID Vc7eK_rmtI).json"
+echo "Archiving SD video 2444, Best VGM 2424 - Suikoden - Main Theme Arrange ~ Ensemble Version's comments (YouTube id UTx_jr_FOu...)"
+python downloader.py --youtubeid="UTx_jr_FOu" --output="SD2444 Best VGM 2424 - Suikoden - Main Theme Arrange ~ Ensemble Version's comments (YT ID UTx_jr_FOu).json"
+echo "Archiving SD video 2445, Best VGM 2425 - Donkey Kong Country - Simian Segue (Map)'s comments (YouTube id 25eIPgSzBQ...)"
+python downloader.py --youtubeid="25eIPgSzBQ" --output="SD2445 Best VGM 2425 - Donkey Kong Country - Simian Segue (Map)'s comments (YT ID 25eIPgSzBQ).json"
+echo "Archiving SD video 2446, Best VGM 2426 - Xenoblade Chronicles : Definitive Edition - Bionis' Shoulder's comments (YouTube id 0DPtJLn2GT...)"
+python downloader.py --youtubeid="0DPtJLn2GT" --output="SD2446 Best VGM 2426 - Xenoblade Chronicles : Definitive Edition - Bionis' Shoulder's comments (YT ID 0DPtJLn2GT).json"
+echo "Archiving SD video 2447, Best VGM 2427 - Sega Rally Championship - My Dear Friend, Rally's comments (YouTube id UhR_jL6yiU...)"
+python downloader.py --youtubeid="UhR_jL6yiU" --output="SD2447 Best VGM 2427 - Sega Rally Championship - My Dear Friend, Rally's comments (YT ID UhR_jL6yiU).json"
+echo "Archiving SD video 2448, Best VGM 2428 - Vernal Edge - Title Screen's comments (YouTube id ZKfdsRJIic...)"
+python downloader.py --youtubeid="ZKfdsRJIic" --output="SD2448 Best VGM 2428 - Vernal Edge - Title Screen's comments (YT ID ZKfdsRJIic).json"
+echo "Archiving SD video 2449, Best VGM 2429 - Castlevania : Curse of Darkness - Eneomaos Machine Tower's comments (YouTube id icZLSrOEWn...)"
+python downloader.py --youtubeid="icZLSrOEWn" --output="SD2449 Best VGM 2429 - Castlevania : Curse of Darkness - Eneomaos Machine Tower's comments (YT ID icZLSrOEWn).json"
+echo "Archiving SD video 2450, Best VGM 2430 - Mighty Morphin Power Rangers : The Fighting Edition - Data Zone's comments (YouTube id DSqKRDWbK9...)"
+python downloader.py --youtubeid="DSqKRDWbK9" --output="SD2450 Best VGM 2430 - Mighty Morphin Power Rangers : The Fighting Edition - Data Zone's comments (YT ID DSqKRDWbK9).json"
+echo "Archiving SD video 2451, Best VGM 2431 - Silent Hill 2 - The Reverse Will ("Rebirth" Ending)'s comments (YouTube id Qn5dpkjG8T...)"
+python downloader.py --youtubeid="Qn5dpkjG8T" --output="SD2451 Best VGM 2431 - Silent Hill 2 - The Reverse Will ("Rebirth" Ending)'s comments (YT ID Qn5dpkjG8T).json"
+echo "Archiving SD video 2452, SupraDarky - Numéro I (Full Album)'s comments (YouTube id Qd9dk8zg3v...)"
+python downloader.py --youtubeid="Qd9dk8zg3v" --output="SD2452 SupraDarky - Numéro I (Full Album)'s comments (YT ID Qd9dk8zg3v).json"
+echo "Archiving SD video 2453, Best VGM 2432 - Mario Kart Wii - DK Summit's comments (YouTube id oFzq-P_y3u...)"
+python downloader.py --youtubeid="oFzq-P_y3u" --output="SD2453 Best VGM 2432 - Mario Kart Wii - DK Summit's comments (YT ID oFzq-P_y3u).json"
+echo "Archiving SD video 2454, Best VGM 2433 - Headlander - The Fondlarium's comments (YouTube id bvxr4WyQ4I...)"
+python downloader.py --youtubeid="bvxr4WyQ4I" --output="SD2454 Best VGM 2433 - Headlander - The Fondlarium's comments (YT ID bvxr4WyQ4I).json"
+echo "Archiving SD video 2455, Best VGM 2434 - Zelda : Majora's Mask - Astral Observatory's comments (YouTube id 2nKRuX8gYE...)"
+python downloader.py --youtubeid="2nKRuX8gYE" --output="SD2455 Best VGM 2434 - Zelda : Majora's Mask - Astral Observatory's comments (YT ID 2nKRuX8gYE).json"
+echo "Archiving SD video 2456, A Stray Child, but Fast [Silent Hill 3]'s comments (YouTube id O4D7mBJ3xx...)"
+python downloader.py --youtubeid="O4D7mBJ3xx" --output="SD2456 A Stray Child, but Fast [Silent Hill 3]'s comments (YT ID O4D7mBJ3xx).json"
+echo "Archiving SD video 2457, Best VGM 2435 - Killer7 - Tecks Mecks's comments (YouTube id crlF4n41Ua...)"
+python downloader.py --youtubeid="crlF4n41Ua" --output="SD2457 Best VGM 2435 - Killer7 - Tecks Mecks's comments (YT ID crlF4n41Ua).json"
+echo "Archiving SD video 2458, Best VGM 2436 - Dragon Quest VI - At The Palace's comments (YouTube id BgcZ0emSxJ...)"
+python downloader.py --youtubeid="BgcZ0emSxJ" --output="SD2458 Best VGM 2436 - Dragon Quest VI - At The Palace's comments (YT ID BgcZ0emSxJ).json"
+echo "Archiving SD video 2459, Best VGM 2437 - YU-NO : A Girl Who Chants Love at the Bound of this World (PC-98) - Fate's comments (YouTube id s1CKzrPRbh...)"
+python downloader.py --youtubeid="s1CKzrPRbh" --output="SD2459 Best VGM 2437 - YU-NO : A Girl Who Chants Love at the Bound of this World (PC-98) - Fate's comments (YT ID s1CKzrPRbh).json"
+echo "Archiving SD video 2460, Best VGM 2438 - Wild Arms - Hope's comments (YouTube id Jlr4OfJJnq...)"
+python downloader.py --youtubeid="Jlr4OfJJnq" --output="SD2460 Best VGM 2438 - Wild Arms - Hope's comments (YT ID Jlr4OfJJnq).json"
+echo "Archiving SD video 2461, Best VGM 2439 - Mother (EarthBound Beginnings) - Pollyanna ~ I Believe in You's comments (YouTube id DRH8Bvc_sh...)"
+python downloader.py --youtubeid="DRH8Bvc_sh" --output="SD2461 Best VGM 2439 - Mother (EarthBound Beginnings) - Pollyanna ~ I Believe in You's comments (YT ID DRH8Bvc_sh).json"
+echo "Archiving SD video 2462, Best VGM 2440 - Cosmic Star Heroine - Over The Edge (Nuluup Waterfall)'s comments (YouTube id HpgkrWRkbZ...)"
+python downloader.py --youtubeid="HpgkrWRkbZ" --output="SD2462 Best VGM 2440 - Cosmic Star Heroine - Over The Edge (Nuluup Waterfall)'s comments (YT ID HpgkrWRkbZ).json"
+echo "Archiving SD video 2463, Best VGM 2441 - Donkey Kong Country : Tropical Freeze - Alpine Incline ~ Peaks's comments (YouTube id nwCgulC8qu...)"
+python downloader.py --youtubeid="nwCgulC8qu" --output="SD2463 Best VGM 2441 - Donkey Kong Country : Tropical Freeze - Alpine Incline ~ Peaks's comments (YT ID nwCgulC8qu).json"
+echo "Archiving SD video 2464, Best VGM 2442 - Jimmy and the Pulsating Mass - Motion Sickness (Battle ~ Homeflower Continent)'s comments (YouTube id kd2d0b-tGz...)"
+python downloader.py --youtubeid="kd2d0b-tGz" --output="SD2464 Best VGM 2442 - Jimmy and the Pulsating Mass - Motion Sickness (Battle ~ Homeflower Continent)'s comments (YT ID kd2d0b-tGz).json"
+echo "Archiving SD video 2465, Best VGM 2443 - Breath of Fire III - My Favorite Trick (Momo's Tower)'s comments (YouTube id jZCid5RpBt...)"
+python downloader.py --youtubeid="jZCid5RpBt" --output="SD2465 Best VGM 2443 - Breath of Fire III - My Favorite Trick (Momo's Tower)'s comments (YT ID jZCid5RpBt).json"
+echo "Archiving SD video 2466, Best VGM 2444 - Captain Rainbow - Daytime 2's comments (YouTube id oT-9gc8mSz...)"
+python downloader.py --youtubeid="oT-9gc8mSz" --output="SD2466 Best VGM 2444 - Captain Rainbow - Daytime 2's comments (YT ID oT-9gc8mSz).json"
+echo "Archiving SD video 2467, Best VGM 2445 - CrossCode - Temple Mine's comments (YouTube id 1Cpfr6fKtl...)"
+python downloader.py --youtubeid="1Cpfr6fKtl" --output="SD2467 Best VGM 2445 - CrossCode - Temple Mine's comments (YT ID 1Cpfr6fKtl).json"
+echo "Archiving SD video 2468, Best VGM 2446 - Pokemon Sword / Shield - Route 's comments (YouTube id lM28rfsHge...)"
+python downloader.py --youtubeid="lM28rfsHge" --output="SD2468 Best VGM 2446 - Pokemon Sword / Shield - Route 's comments (YT ID lM28rfsHge).json"
