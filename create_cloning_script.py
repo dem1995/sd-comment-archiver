@@ -19,11 +19,11 @@ if __name__ == '__main__':
 
     with open('video-ids.txt', ) as video_ids:
         video_ids = video_ids.readlines()
-        video_ids_considered = video_ids[args.start:args.finish]
+        video_ids_considered = video_ids[args.start-1:args.finish]
     
     with open(f"archival_script_{args.start}_through_{ending_note}.sh", 'w') as archival_script:
         archival_script.write("#!/bin/bash\n")
-        for offset_index, vid_string in enumerate(video_ids[args.start:args.finish]):
+        for offset_index, vid_string in enumerate(video_ids_considered):
             yt_id = vid_string[0:11]
             title = vid_string[14:-1]
             #print(f"ID:{yt_id}, Title:{title}")
